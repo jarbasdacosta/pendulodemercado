@@ -7,7 +7,7 @@ tags: [sinais, tutorial]
 
 <!-- v7-creditos -->
 > [!quote] Créditos
-> Os Sinais de Topo e Fundo do **Ondaleta** são baseados no trabalho de **Oliver Velez** (candles), **J. Welles Wilder** (RSI), **Donald Lambert** (CCI), **John Bollinger** (Bandas) e **Alex Spiroglou** (MACD-V), **adaptados e testados no Ibovespa por Jarbas Daniel da Costa**. Os autores citados não participam do produto. Conteúdo educacional, não recomendação.
+> Os Sinais de Topo e Fundo do **Pêndulo de Mercado** são baseados no trabalho de **Oliver Velez** (candles), **J. Welles Wilder** (RSI), **Donald Lambert** (CCI), **John Bollinger** (Bandas) e **Alex Spiroglou** (MACD-V), **adaptados e testados no Ibovespa por Jarbas Daniel da Costa**. Os autores citados não participam do produto. Conteúdo educacional, não recomendação.
 
 > [!abstract] Em uma frase
 > São 14 sinais de candle e de indicador que, no Ibovespa de 2000 a 2026, apareceram perto de topos e fundos importantes **bem mais vezes que o acaso**. Cada sinal só vale no tempo gráfico em que foi validado. A página [Sinais de Topo e Fundo](sinais-topo-fundo/) mostra os de hoje, e o indicador **SinaisTopoFundo** marca os mesmos no MT5.

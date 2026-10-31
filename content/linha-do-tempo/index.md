@@ -1,7 +1,7 @@
 ---
 title: "🔔 Linha do tempo"
 date: 2026-10-30
-description: "Todo sinal, ordem, stop e aviso da Ondaleta, do mais recente para o mais antigo"
+description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais recente para o mais antigo"
 tags: [eventos]
 ---
 
