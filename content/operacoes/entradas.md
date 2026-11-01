@@ -1,6 +1,6 @@
 ---
 title: "🎯 Entradas do método"
-date: 2026-10-30
+date: 2026-10-31
 tags: [operacoes]
 description: "Compra depois de um sinal de fundo: Nadaraya no diário, semáforo no semanal e H4"
 ---

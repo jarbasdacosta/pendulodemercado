@@ -1,6 +1,6 @@
 ---
 title: "🌊 Sinal de Crise — metodologia"
-date: 2026-10-30
+date: 2026-10-31
 tags: [metodologia]
 description: "IMA Wavelet (Caetano) e LPPL (Sornette) no Ibovespa"
 ---
@@ -77,6 +77,19 @@ Estudo com **6.370 pregões** (2000–2026). O ζ foi calculado **como teria sid
 
 ---
 
+<!-- v21-validacao -->
+> [!danger] Revisão de 31/10/2026 — o teste de discriminação foi negativo
+> A seção acima mede **o que aconteceu depois de cada gatilho**. Em 31/10/2026 o ζ foi submetido a uma pergunta diferente e mais dura: **olhando só o valor do ζ, dá para separar o que vai subir do que vai cair?** A medida é a AUC — 1,00 é acerto perfeito, 0,50 é moeda jogada ao ar.
+> - **IMA Intraday (15 min)**, cinco anos de barras de 15 minutos: AUC de **0,487 a 0,523** em todas as variações de janela e de definição de topo que foram testadas. Não separa.
+> - **IMA Diário**, para distinguir topos: AUC de **0,493 a 0,499**. Idem.
+> - Uma única variação passou da linha (ζ Fundo com janela de 500 pregões, AUC 0,560) e caiu no teste seguinte: o decil mais extremo rendeu **+0,18%**, contra **+0,49%** de simplesmente estar comprado sempre. Ela detecta volatilidade, não direção.
+> - O **ζ olha para trás.** A correlação do ζ Topo com o retorno recente é de **+0,59**: depois de uma alta de 5%, o ζ Topo está em torno de 41%; depois de uma queda de 5%, em 3%.
+> - O **LPPL** ficou em zero em todo o período testado. Fica na página como vigia, não como sinal.
+>
+> Em uma frase: as estatísticas de evento da seção 2 continuam de pé como **descrição do que costumou vir depois daqueles gatilhos**, porque foram testadas assim e nas duas metades da história — mas o ζ **não é um previsor**, e as zonas não são sinal de entrada nem de saída.
+
+---
+
 ## 3. Como usar na prática
 
 Pense no ζ como um **semáforo de contexto** para o seu método, não como um botão de compra e venda.
@@ -128,6 +141,8 @@ Pense no ζ como um **semáforo de contexto** para o seu método, não como um b
 - **Não acerta sempre.** Em 3 de cada 10 vezes, a situação "favorável" deu errado.
 - **Não substitui stop.** As quedas que vêm depois de um ζ Topo desinflando podem ser rápidas.
 - **Não enxerga notícia.** Eventos externos (política, juros, exterior) movem o mercado sem aviso espectral.
+- **Não discrimina topos e fundos.** Medido em 31/10/2026, o poder de separação ficou em **0,49–0,52** de AUC, onde 0,50 é acaso — tanto no diário quanto nas barras de 15 minutos.
+- **Não olha para frente.** O ζ mede esticamento que **já aconteceu**: sobe depois da alta e cai depois da queda. Um ζ Topo **baixo no meio de um tombo é o indicador funcionando**, não defeito — o preço deixou de estar esticado para cima.
 
 ---
 
@@ -145,7 +160,7 @@ O **e-mail e o Telegram do diário (19h)** só disparam nos dias em que acontece
 
 Historicamente são uns **8 a 10 alertas por ano**. Cada tipo de evento só se repete depois de 20 pregões, e o "desinflando" do amarelo é suprimido quando vem logo depois do "desinflando" do vermelho (é o mesmo episódio).
 
-Nos outros dias, o site mostra a **Situação** (o semáforo do resumo de bolso). O **fechamento do intraday (18h25)** continua chegando todo dia por e-mail, com o **viés do diário** — a última situação do D1 — para orientar o pregão seguinte. Os eventos **não** são calculados no intraday (15 min), porque lá a estatística ainda não foi validada.
+Nos outros dias, o site mostra a **Situação** (o semáforo do resumo de bolso). O **fechamento do intraday (18h25)** continua chegando todo dia por e-mail, com o **viés do diário** — a última situação do D1 — para orientar o pregão seguinte. Os eventos **não** são calculados no intraday (15 min): a validação de 31/10/2026 mediu AUC de **0,487 a 0,523** nas barras de 15 minutos — não há vantagem estatística que justifique disparar alerta.
 
 ## 6. As zonas do sinal
 
@@ -156,6 +171,9 @@ Nos outros dias, o site mostra a **Situação** (o semáforo do resumo de bolso)
 | 🔴 VERMELHO | ζ Topo ≥ 90% | ζ Topo < 75% | Esticamento extremo (limiar de Caetano) |
 
 As zonas têm **histerese** (entram num nível e saem em outro mais baixo) para não ficar trocando todo dia. **Atenção:** pela estatística acima, **a saída do 🟡/🔴 é mais importante que a entrada** — é quando o esticamento desinfla que o risco aparece.
+
+> [!warning] As zonas descrevem, não preveem
+> Depois da revisão de 31/10/2026, leia a zona como **retrato do esticamento de agora**. Estar no 🔴 não é ordem de venda e estar no 🟢 não é permissão de compra: o teste de discriminação não achou vantagem nenhuma em usar a zona para decidir direção.
 
 ---
 

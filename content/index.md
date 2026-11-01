@@ -1,28 +1,26 @@
 ---
 title: Pêndulo de Mercado
-date: 2026-10-30
+date: 2026-10-31
 tags: [home]
 ---
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 30/10/2026 19:06 BRT · Diário D1*
+*Última atualização: 31/10/2026 22:25 BRT · Intraday 15min*
 
-> [!info] Onde o mercado está no fechamento de 30/10: **🔵 Esticado para baixo**
-> `Pânico ◀───●─────────────────▶ Euforia`
+> [!success] Onde o mercado está agora (30/10 17:15, candles de 15 min): **🟢 Calmo**
+> `Pânico ◀────────────────●────▶ Euforia`
 >
-> O Ibovespa caiu mais rápido que o normal e está abaixo da sua faixa habitual.
+> O Ibovespa está dentro da sua faixa normal, sem excesso para cima nem para baixo.
+> No gráfico diário: 📉 Esticamento desinflando.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
-
-> [!warning] ⚠️ Nível alto agora — Sinal de Crise · Diário (30/10)
-> - 🔵 **ζ Fundo 66%** — preço esticado abaixo da tendência
 
 ## Agora
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal de Crise** | 🟢 VERDE · 🔵 esticado para baixo · ζ Topo 0% | [relatório](diario/2026-10-30) |
+| 🌊 **Sinal de Crise** | 🟢 VERDE · 🟢 calmo · ζ Topo 55% | [relatório](intraday/2026-10-30) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal 🟢 comprado desde 31/08 (-4,8%) · ⚡ zera abaixo de 167.008 (durante o pregão) | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | ⏳ aguardando: Diário · Nadaraya, H4 · Semáforo N2, Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: 2 sinal(is), 1 forte(s) | [abrir](sinais-topo-fundo/) |
@@ -57,23 +55,21 @@ tags: [home]
 >
 > [Ver os sinais](sinais-topo-fundo/)
 
-> [!note] 🧭 Sinal de Crise · Situação no diário: 📉 **Esticamento desinflando**
+> [!note] 🧭 IMA Diário · viés (29/10): 📉 **Esticamento desinflando**
 > 📚 só contexto: o esticamento acabou; sem vantagem estatística confirmada
->
-> Eventos recentes: 📉 28/10 Esticamento desinflando · 📉 16/09 Esticamento desinflando · 🚀 09/09 Força · 🌱 23/07 Fundo se desfazendo
 >
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal de Crise (indicadores e últimos 7 pregões)
-> > [!success] Sinal de Crise · Diário (30/10): 🟢 **VERDE** — Risco 0% · ▼ -4 p.p. vs leitura anterior
-> > `░░░░░░░░░░░░░░░░░░░░`
+> > [!success] IMA Intraday · 15 min (30/10 17:15): 🟢 **VERDE** — Risco 55% · ▲ +5 p.p. vs leitura anterior
+> > `███████████░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — Sinal de Crise · Diário (30/10) | Valor |
+> | Indicador — IMA Intraday · 15 min (30/10 17:15) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
-> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔵 **66%** |
+> | 🔴 ζ Topo — preço esticado acima da tendência | **55%** |
+> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
 > | 📊 Ibovespa | 167.922 pts |
@@ -84,13 +80,7 @@ tags: [home]
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [30/10/2026](diario/2026-10-30) | 🟢 VERDE | **0%** | 0% | 🔵 **66%** | 0% |
-> | [29/10/2026](diario/2026-10-29) | 🟢 VERDE | **4%** | 4% | 23% | 0% |
-> | [28/10/2026](diario/2026-10-28) | 🟢 VERDE | **27%** | 27% | 14% | 0% |
-> | [27/10/2026](diario/2026-10-27) | 🟡 AMARELO | **50%** | 50% | 9% | 0% |
-> | [26/10/2026](diario/2026-10-26) | 🟡 AMARELO | 🟡 **66%** | 🟡 **66%** | 3% | 0% |
-> | [23/10/2026](diario/2026-10-23) | 🟡 AMARELO | 🟡 **79%** | 🟡 **79%** | 0% | 0% |
-> | [22/10/2026](diario/2026-10-22) | 🟡 AMARELO | 🟡 **78%** | 🟡 **78%** | 0% | 0% |
+> | [30/10/2026](intraday/2026-10-30) | 🟢 VERDE | **55%** | 55% | 0% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
 >

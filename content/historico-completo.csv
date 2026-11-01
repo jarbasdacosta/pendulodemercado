@@ -62,8 +62,8 @@ data;modo;zona;risco (%);ima (%);lppl (%)
 2026-10-29 10:00;intraday;VERDE;0,0;0,0;0,0
 2026-10-29;diario;VERDE;4,0;4,0;0,0
 2026-10-28 17:15;intraday;VERDE;0,0;0,0;0,0
-2026-10-28 17:00;intraday;VERDE;1,0;1,0;0,0
-2026-10-28 16:45;intraday;VERDE;0,0;0,0;0,0
+2026-10-28 17:00;intraday;VERDE;38,0;38,0;0,0
+2026-10-28 16:45;intraday;VERDE;43,0;43,0;0,0
 2026-10-28 16:30;intraday;VERDE;34,0;34,0;0,0
 2026-10-28 16:15;intraday;VERDE;40,0;40,0;0,0
 2026-10-28 16:00;intraday;VERDE;43,0;43,0;0,0
@@ -96,7 +96,7 @@ data;modo;zona;risco (%);ima (%);lppl (%)
 2026-10-27 17:00;intraday;AMARELO;75,0;75,0;0,0
 2026-10-27 16:45;intraday;AMARELO;72,0;72,0;0,0
 2026-10-27 16:30;intraday;AMARELO;67,0;67,0;0,0
-2026-10-27 16:15;intraday;AMARELO;64,0;64,0;0,0
+2026-10-27 16:15;intraday;AMARELO;0,0;0,0;0,0
 2026-10-27 16:00;intraday;VERDE;0,0;0,0;0,0
 2026-10-27 15:45;intraday;VERDE;0,0;0,0;0,0
 2026-10-27 15:30;intraday;VERDE;0,0;0,0;0,0

@@ -79,8 +79,8 @@ tags: [historico]
 | 2026-10-29 10:00 | intraday | 🟢 VERDE | 0% | 0% | 0% |
 | 2026-10-29 | diario | 🟢 VERDE | 4% | 4% | 0% |
 | 2026-10-28 17:15 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-10-28 17:00 | intraday | 🟢 VERDE | 1% | 1% | 0% |
-| 2026-10-28 16:45 | intraday | 🟢 VERDE | 0% | 0% | 0% |
+| 2026-10-28 17:00 | intraday | 🟢 VERDE | 38% | 38% | 0% |
+| 2026-10-28 16:45 | intraday | 🟢 VERDE | 43% | 43% | 0% |
 | 2026-10-28 16:30 | intraday | 🟢 VERDE | 34% | 34% | 0% |
 | 2026-10-28 16:15 | intraday | 🟢 VERDE | 40% | 40% | 0% |
 | 2026-10-28 16:00 | intraday | 🟢 VERDE | 43% | 43% | 0% |

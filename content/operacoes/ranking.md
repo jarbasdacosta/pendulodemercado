@@ -1,11 +1,11 @@
 ---
 title: "🏆 Ranking das operações"
-date: 2026-10-30
+date: 2026-10-31
 tags: [operacoes]
 description: "As regras de compra do site ordenadas pelo resultado, com treino, teste e placar ao vivo"
 ---
 
-*Atualizado 30/10/2026 19:06 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
+*Atualizado 31/10/2026 22:25 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
 
 As regras de compra do site, **da que mais rendeu para a que menos rendeu**. O resultado é por operação, no índice à vista, sem custos e sem juros compostos (a soma é só a soma das operações). **Treino** = entradas de 2001 a 2013 e **teste** = 2014 em diante: uma regra só é confiável se ganhou nos dois. O único resultado sem nenhum ajuste ao histórico é o **placar ao vivo**.
 
