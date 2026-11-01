@@ -15,9 +15,9 @@ A **amplitude** mostra quantas ações do Ibovespa estão acompanhando o movimen
 > [!success|forte] 🎯 REGIÃO DE FUNDO — só 17% das ações acima da MM 200
 > No histórico, 60 pregões depois o Ibovespa subiu em ~83% das vezes, retorno mediano de ~+10% (dia qualquer: 60% e +3,4%). Confirmado em 2001–2013 e 2014–2026.
 
-<iframe src="https://jarbasdacosta.github.io/sinal-b3/static/amplitude_grafico.html" title="Amplitude do Ibovespa — interativo" style="width:100%;height:640px;border:0;border-radius:8px" loading="lazy"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html" title="Amplitude do Ibovespa — interativo" style="width:100%;height:640px;border:0;border-radius:8px" loading="lazy"></iframe>
 
-*Gráfico interativo: clique na legenda para ligar/desligar cada linha, arraste ou use a rodinha para zoom, botões 3m · 6m · 1a · 3a · 5a · tudo. [Abrir em tela cheia ↗](https://jarbasdacosta.github.io/sinal-b3/static/amplitude_grafico.html)*
+*Gráfico interativo: clique na legenda para ligar/desligar cada linha, arraste ou use a rodinha para zoom, botões 3m · 6m · 1a · 3a · 5a · tudo. [Abrir em tela cheia ↗](https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html)*
 
 > [!note]- Imagem estática (últimos 3 anos)
 > ![Amplitude do Ibovespa](graficos/amplitude_20261030.png)
