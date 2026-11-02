@@ -1,11 +1,11 @@
 ---
 title: "🧭 Larry Williams"
-date: 2026-10-30
+date: 2026-11-02
 description: "Os três prazos de Larry Williams lidos no Ibovespa: estrutura, Momentum Index, Trading Index e o rompimento de volatilidade — com o resultado honesto dos testes"
 tags: [estudos, amplitude]
 ---
 
-*Atualizado 30/10/2026 19:04 · fechamento de 30/10/2026.*
+*Atualizado 02/11/2026 19:03 · fechamento de 30/10/2026.*
 
 > [!warning] Só informação
 > Leitura diária das ferramentas de **Larry Williams** (livros *The Secret of Selecting Stocks* e *Long-Term Secrets to Short-Term Trading*). **No teste no Ibovespa quase nada funcionou** (tabela abaixo) — nada aqui é regra do site nem manda alerta. O único gatilho que passou no índice, o **rompimento de 40%**, **não se confirmou no WIN**.

@@ -1,11 +1,11 @@
 ---
 title: "🔔 Linha do tempo"
-date: 2026-10-31
+date: 2026-11-02
 description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais recente para o mais antigo"
 tags: [eventos]
 ---
 
-*Atualizada 31/10/2026 22:25 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 02/11/2026 19:05 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças da Crise. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -18,7 +18,11 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 ## Últimos 7 dias
 
-### Hoje · sáb, 31/10/2026 · 1 evento
+### Hoje · seg, 02/11/2026
+
+*Nenhum evento hoje até agora.*
+
+### sáb, 31/10/2026 · 1 evento
 
 | Hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
@@ -62,16 +66,6 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 | **16:30** | Crise · 15 min | 🟡 ζ Topo entrou em nível alto | Risco 64% · ζ Topo 64% · ζ Fundo 1% · LPPL 0% | ✅ |
 | **12:46** | Crise · 15 min | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 84% · LPPL 0% | ✅ |
 | **11:00** | Crise · 15 min | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 92% · LPPL 0% | ✅ |
-
-### seg, 26/10/2026 · 5 eventos
-
-| Hora | Módulo | Evento | Detalhe | 📲 |
-|---|---|---|---|---|
-| **19:14** | Amplitude · Avanço e declínio | ⚠ Divergência confirmada: topo maior no Ibovespa, linha não ⏱️ | O Ibovespa fez topo de 209.067 em 09/10. acima do topo de 14/04 (198.657). mas a linha de avanço e declínio ficou 186 abaixo do pico daquele topo (menos ações acompanharam). Confirmado hoje: o Ibovespa fechou 5% abaixo do topo (176.608). Indício (não passou no teste rigoroso — poucos casos): nas 14 divergências desde 2001, 60 pregões depois o Ibovespa fez −1,1% (2001–2013) e −2,3% (2014–2026), contra +7,4% e +1,4% quando a linha confirmou o topo; caiu 10% ou mais em 60 pregões em 50% e 38% das vezes (× 27% e 17%). As 10 medidas apontaram na mesma direção nos dois períodos. | ✅ |
-| **19:11** | Tendência · Diário | ⚠️ Ordem de venda armada (candle fechou abaixo da MME9) ⚡ | zera se passar abaixo de 169.516 em até 3 pregões | ✅ |
-| 18:00 fechamento | Sinais · Diário | 🟢 Sinal moderado de fundo · ELEF- ⏱️ | Elefante de exaustão de baixa · acertou 43% · 2,0× o acaso | — |
-| **11:15** | Crise · 15 min | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 2% · ζ Topo 2% · ζ Fundo 97% · LPPL 0% | ✅ |
-| **11:01** | Crise · 15 min | 🔵 ζ Fundo entrou em nível alto | Risco 5% · ζ Topo 5% · ζ Fundo 68% · LPPL 0% | ✅ |
 
 ## Histórico por ano
 

@@ -1,6 +1,6 @@
 ---
 title: "📈 Tendência MME9"
-date: 2026-10-31
+date: 2026-11-02
 tags: [operacoes]
 description: "Só compra, diário e semanal: rompimento do candle que fecha acima da MME9"
 ---
@@ -31,7 +31,7 @@ description: "Só compra, diário e semanal: rompimento do candle que fecha acim
 >
 > 🌡️ **Radar de grande queda:** 13% (liga em 30%) · fora da zona de grande queda. *Só contexto: no estudo ele achou a região dos grandes fundos, mas avisa cedo demais para servir de compra.*
 >
-> <small>Atualizado 30/10 19:01. Histórico desde 2000, índice à vista, custo 0,05% por operação, sem impostos (no WIN o comprado paga o carrego dos juros).</small>
+> <small>Atualizado 02/11 19:00. Histórico desde 2000, índice à vista, custo 0,05% por operação, sem impostos (no WIN o comprado paga o carrego dos juros).</small>
 >
 > *Regra: um candle **fecha acima da MME9** → compra se o preço passar da máxima dele em até 3 candles. Um candle **fecha abaixo da MME9** → zera se o preço passar da mínima dele em até 3 candles. Stop de segurança 10% abaixo da entrada. No semanal o sinal só conta com a semana fechada, mas a ordem pode executar em qualquer dia. Funcionou com médias de 5 a 50 (não é ajuste fino), mas o histórico não é teste fora da amostra: o placar ao vivo é o que vale. [Metodologia](metodologia/regras-de-operacao#tendência-mme9). Leitura educacional do método, não recomendação.*
 

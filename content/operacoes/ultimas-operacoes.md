@@ -1,6 +1,6 @@
 ---
 title: "📋 Últimas operações"
-date: 2026-10-31
+date: 2026-11-02
 tags: [operacoes]
 description: "Operações recentes de todas as regras de compra"
 ---
