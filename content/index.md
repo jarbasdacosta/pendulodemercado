@@ -1,29 +1,27 @@
 ---
 title: Pêndulo de Mercado
-date: 2026-11-02
+date: 2026-11-03
 tags: [home]
 ---
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 02/11/2026 19:05 BRT · Diário D1*
+*Última atualização: 03/11/2026 10:16 BRT · Intraday 15min*
 
-> [!info] Onde o mercado está no fechamento de 30/10: **🔵 Esticado para baixo**
-> `Pânico ◀───●─────────────────▶ Euforia`
+> [!success] Onde o mercado está agora (03/11 10:00, candles de 15 min): **🟢 Calmo**
+> `Pânico ◀────────────●────────▶ Euforia`
 >
-> O Ibovespa caiu mais rápido que o normal e está abaixo da sua faixa habitual.
+> O Ibovespa está dentro da sua faixa normal, sem excesso para cima nem para baixo.
+> No gráfico diário: 📉 Esticamento desinflando.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
-
-> [!warning] ⚠️ Nível alto agora — IMA Diário (30/10)
-> - 🔵 **ζ Fundo 66%** — preço esticado abaixo da tendência
 
 ## Agora
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal de Crise** | 🟢 VERDE · 🔵 esticado para baixo · ζ Topo 0% | [relatório](diario/2026-10-30) |
-| 📈 **Tendência MME9** | Diário — fora<br>Semanal 🟢 comprado desde 31/08 (-4,8%) · ⚡ zera abaixo de 167.008 (durante o pregão) | [abrir](operacoes/tendencia) |
+| 🌊 **Sinal de Crise** | 🟢 VERDE · 🟢 calmo · ζ Topo 23% | [relatório](intraday/2026-11-03) |
+| 📈 **Tendência MME9** | Diário — fora<br>Semanal ⚡ saiu hoje às 10:00 a 167.008 (confirma às 19h) | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | ⏳ aguardando: Diário · Nadaraya, H4 · Semáforo N2, Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: 2 sinal(is), 1 forte(s) | [abrir](sinais-topo-fundo/) |
 | 🧪 **Placar ao vivo** | 1 operação(ões), 0 com lucro, soma -0,8% | [abrir](operacoes/) |
@@ -37,11 +35,11 @@ tags: [home]
 
 | Data e hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
+| **03/11/2026 10:00** | Tendência · Semanal | 🔴 Saiu durante o pregão ⚡ | ⚡ O preço tocou 167.008 às 10:00: pela regra a ordem stop de venda executa ali (preço considerado 167.008). | ✅ |
 | 31/10/2026 <small>18:00 fechamento</small> | Sinais · Mensal | 🟠 Topo (proteção) · TT+RSI ⏱️ | Top tail + RSI≥70 · acertou 38% · 2,5× o acaso | — |
 | **30/10/2026 19:06** | Crise · diário | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 66% · LPPL 0% | — |
 | **30/10/2026 19:01** | Tendência · Semanal | ⚠️ Ordem de venda armada (candle fechou abaixo da MME9) ⚡ | zera se passar abaixo de 167.008 em até 3 semanas | ✅ |
 | 30/10/2026 <small>18:00 fechamento</small> | Sinais · Diário | 🔥 Sinal FORTE de fundo · FD+RSI ⏱️ | Fechou fora→dentro da BB inferior + RSI≤30 · acertou 71% · 2,8× o acaso | ✅ |
-| **29/10/2026 19:00** | Entradas · Diário · Nadaraya | 🔴 Venda no fechamento ⏱️ | a 169.186 · -3,1% · saída do método (linha rápida cruzou para baixo) (compra de 25/08 a 174.577) | ✅ |
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
@@ -57,40 +55,33 @@ tags: [home]
 >
 > [Ver os sinais](sinais-topo-fundo/)
 
-> [!note] 🧭 IMA Diário · situação: 📉 **Esticamento desinflando**
+> [!note] 🧭 IMA Diário · viés (30/10): 📉 **Esticamento desinflando**
 > 📚 só contexto: o esticamento acabou; sem vantagem estatística confirmada
->
-> Eventos recentes: 📉 28/10 Esticamento desinflando · 📉 16/09 Esticamento desinflando · 🚀 09/09 Força · 🌱 23/07 Fundo se desfazendo
 >
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal de Crise (indicadores e últimos 7 pregões)
-> > [!success] IMA Diário (30/10): 🟢 **VERDE** — Risco 0% · ▼ -4 p.p. vs leitura anterior
-> > `░░░░░░░░░░░░░░░░░░░░`
+> > [!success] IMA Intraday · 15 min (03/11 10:00): 🟢 **VERDE** — Risco 23% · ▼ -32 p.p. vs leitura anterior
+> > `█████░░░░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Diário (30/10) | Valor |
+> | Indicador — IMA Intraday · 15 min (03/11 10:00) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
-> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔵 **66%** |
+> | 🔴 ζ Topo — preço esticado acima da tendência | **23%** |
+> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 167.922 pts |
+> | 📊 Ibovespa | 165.553 pts |
 >
-> **Multi-ativo:** 4% em tensão (0🔴 3🟡 de 26 ativos)
+> **Multi-ativo:** 0% em tensão (0🔴 0🟡 de 26 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [30/10/2026](diario/2026-10-30) | 🟢 VERDE | **0%** | 0% | 🔵 **66%** | 0% |
-> | [29/10/2026](diario/2026-10-29) | 🟢 VERDE | **4%** | 4% | 23% | 0% |
-> | [28/10/2026](diario/2026-10-28) | 🟢 VERDE | **27%** | 27% | 14% | 0% |
-> | [27/10/2026](diario/2026-10-27) | 🟡 AMARELO | **50%** | 50% | 9% | 0% |
-> | [26/10/2026](diario/2026-10-26) | 🟡 AMARELO | 🟡 **66%** | 🟡 **66%** | 3% | 0% |
-> | [23/10/2026](diario/2026-10-23) | 🟡 AMARELO | 🟡 **79%** | 🟡 **79%** | 0% | 0% |
-> | [22/10/2026](diario/2026-10-22) | 🟡 AMARELO | 🟡 **78%** | 🟡 **78%** | 0% | 0% |
+> | [03/11/2026](intraday/2026-11-03) | 🟢 VERDE | **23%** | 23% | 0% | 0% |
+> | [30/10/2026](intraday/2026-10-30) | 🟢 VERDE | **55%** | 55% | 0% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
 >

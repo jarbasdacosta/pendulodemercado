@@ -1,11 +1,11 @@
 ---
 title: "🔔 Linha do tempo"
-date: 2026-11-02
+date: 2026-11-03
 description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais recente para o mais antigo"
 tags: [eventos]
 ---
 
-*Atualizada 02/11/2026 19:05 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 03/11/2026 10:16 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças da Crise. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -18,9 +18,11 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 ## Últimos 7 dias
 
-### Hoje · seg, 02/11/2026
+### Hoje · ter, 03/11/2026 · 1 evento
 
-*Nenhum evento hoje até agora.*
+| Hora | Módulo | Evento | Detalhe | 📲 |
+|---|---|---|---|---|
+| **10:00** | Tendência · Semanal | 🔴 Saiu durante o pregão ⚡ | ⚡ O preço tocou 167.008 às 10:00: pela regra a ordem stop de venda executa ali (preço considerado 167.008). | ✅ |
 
 ### sáb, 31/10/2026 · 1 evento
 
@@ -56,24 +58,13 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 | **16:15** | Crise · 15 min | 🟢 Zona mudou: AMARELO → VERDE | Risco 43% · ζ Topo 43% · ζ Fundo 0% · LPPL 0% | — |
 | **14:45** | Tendência · Diário | 🚨 Perto da saída ⚡ | IBOV 170.196 às 14:45: a 0,4% de 169.516 | ✅ |
 
-### ter, 27/10/2026 · 6 eventos
-
-| Hora | Módulo | Evento | Detalhe | 📲 |
-|---|---|---|---|---|
-| 18:00 fechamento | Sinais · H4 | 🟢 Sinal moderado de fundo · FD+CCI ⏱️ | Fechou fora→dentro da BB inferior + CCI≤-200 · acertou 38% · 2,1× o acaso | — |
-| 18:00 fechamento | Sinais · H4 | 🟢 Sinal moderado de fundo · FD+RSI ⏱️ | Fechou fora→dentro da BB inferior + RSI≤30 · acertou 50% · 2,5× o acaso | — |
-| **16:30** | Crise · 15 min | 🟡 Zona mudou: VERDE → AMARELO | Risco 64% · ζ Topo 64% · ζ Fundo 1% · LPPL 0% | — |
-| **16:30** | Crise · 15 min | 🟡 ζ Topo entrou em nível alto | Risco 64% · ζ Topo 64% · ζ Fundo 1% · LPPL 0% | ✅ |
-| **12:46** | Crise · 15 min | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 84% · LPPL 0% | ✅ |
-| **11:00** | Crise · 15 min | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 92% · LPPL 0% | ✅ |
-
 ## Histórico por ano
 
 Clique no ano; na página do ano, clique no mês e depois no dia.
 
 | Ano | Eventos | 🟢 Compras | ⚪🔴 Vendas e stops | 📌⚠️ Ordens armadas | Sinais |
 |---|---|---|---|---|---|
-| **[2026](linha-do-tempo/2026)** | 210 | 22 | 40 | 32 | 43 |
+| **[2026](linha-do-tempo/2026)** | 204 | 22 | 41 | 32 | 43 |
 | **[2025](linha-do-tempo/2025)** | 113 | 30 | 25 | 43 | 11 |
 | **[2024](linha-do-tempo/2024)** | 156 | 41 | 45 | 57 | 3 |
 | **[2023](linha-do-tempo/2023)** | 99 | 22 | 22 | 53 | 1 |

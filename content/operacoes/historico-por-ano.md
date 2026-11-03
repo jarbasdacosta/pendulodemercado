@@ -1,6 +1,6 @@
 ---
 title: "📅 Histórico por ano"
-date: 2026-11-02
+date: 2026-11-03
 tags: [operacoes]
 description: "Todas as operações de cada regra, ano a ano, desde 2000"
 ---
@@ -14,7 +14,7 @@ Todas as operações de cada regra de compra, **simuladas no histórico com as m
 
 | Regra | Entrada | Stop | Agora | Candles | Sai quando | |
 |---|---|---|---|---|---|---|
-| [Tendência MME9 · Semanal](operacoes/tendencia) | 31/08/26 a 176.421 | ⚡ 158.779 | **-4,8%** | 8 | ⚡ **zera abaixo de 167.008** — ordem stop, vale durante o pregão (por mais 3 candles) | simulada |
+| [Tendência MME9 · Semanal](operacoes/tendencia) | 31/08/26 a 176.421 | ⚡ 158.779 | **-4,8%** | 8 | ⚡ **saiu hoje às 10:00 a 167.008** (-5,3%; confirma às 19h) | simulada |
 
 > [!warning] ⚡ = vale **durante o pregão** (ordem stop: deixe a ordem na plataforma; o sistema confere a cada 15 min, avisa 🚨 a 0,5% do nível e avisa quando executar) · ⏱️ = só no **fechamento** do candle
 

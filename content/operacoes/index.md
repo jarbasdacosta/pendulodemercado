@@ -1,6 +1,6 @@
 ---
 title: "🎯 Operações"
-date: 2026-11-02
+date: 2026-11-03
 tags: [operacoes]
 description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23/10/2026"
 ---
@@ -16,7 +16,7 @@ Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/20
 
 | Regra | Entrada | Stop | Agora | Candles | Sai quando | |
 |---|---|---|---|---|---|---|
-| [Tendência MME9 · Semanal](operacoes/tendencia) | 31/08/26 a 176.421 | ⚡ 158.779 | **-4,8%** | 8 | ⚡ **zera abaixo de 167.008** — ordem stop, vale durante o pregão (por mais 3 candles) | simulada |
+| [Tendência MME9 · Semanal](operacoes/tendencia) | 31/08/26 a 176.421 | ⚡ 158.779 | **-4,8%** | 8 | ⚡ **saiu hoje às 10:00 a 167.008** (-5,3%; confirma às 19h) | simulada |
 
 > [!warning] ⚡ = vale **durante o pregão** (ordem stop: deixe a ordem na plataforma; o sistema confere a cada 15 min, avisa 🚨 a 0,5% do nível e avisa quando executar) · ⏱️ = só no **fechamento** do candle
 
@@ -31,7 +31,7 @@ Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/20
 | Regra | Situação | Nota | Validação ao vivo |
 |---|---|---|---|
 | [📈 Tendência MME9 · Diário](operacoes/tendencia) | Diário — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
-| [📈 Tendência MME9 · Semanal](operacoes/tendencia) | Semanal 🟢 comprado desde 31/08 (-4,8%) · ⚡ zera abaixo de 167.008 (durante o pregão) | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
+| [📈 Tendência MME9 · Semanal](operacoes/tendencia) | Semanal ⚡ saiu hoje às 10:00 a 167.008 (confirma às 19h) | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [🎯 Diário · Nadaraya](operacoes/entradas) | ⏳ aguardando o gatilho | ✅ passou fora da amostra | 0 de 10 operações ao vivo |
 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | — sem setup | ✅ o ganho vem do setup | 0 de 10 operações ao vivo |
 | [🎯 H4 · Semáforo N2](operacoes/entradas) | ⏳ aguardando o gatilho | 🧪 em teste | 🧪 1 de 10 operações ao vivo · média -0,8% · dentro do esperado |

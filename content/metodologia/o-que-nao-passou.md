@@ -1,6 +1,6 @@
 ---
 title: "🧪 O que testamos e não passou"
-date: 2026-11-02
+date: 2026-11-03
 tags: [metodologia]
 description: "Venda, radar, harami, envelope do Nadaraya e outros"
 ---
