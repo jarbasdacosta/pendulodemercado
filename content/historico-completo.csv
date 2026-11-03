@@ -32,6 +32,7 @@ data;modo;zona;risco (%);ima (%);lppl (%)
 2026-11-03 10:30;intraday;VERDE;13,3;13,3;0,0
 2026-11-03 10:15;intraday;VERDE;20,3;20,3;0,0
 2026-11-03 10:00;intraday;VERDE;23,4;23,4;0,0
+2026-11-03;diario;VERDE;0,0;0,0;0,0
 2026-10-30 17:15;intraday;VERDE;55,0;55,0;0,0
 2026-10-30 17:00;intraday;VERDE;51,0;51,0;0,0
 2026-10-30 16:45;intraday;VERDE;50,0;50,0;0,0

@@ -1,11 +1,11 @@
 ---
 title: "🧭 Larry Williams"
-date: 2026-11-02
+date: 2026-11-03
 description: "Os três prazos de Larry Williams lidos no Ibovespa: estrutura, Momentum Index, Trading Index e o rompimento de volatilidade — com o resultado honesto dos testes"
 tags: [estudos, amplitude]
 ---
 
-*Atualizado 02/11/2026 19:03 · fechamento de 30/10/2026.*
+*Atualizado 03/11/2026 19:04 · fechamento de 03/11/2026.*
 
 > [!warning] Só informação
 > Leitura diária das ferramentas de **Larry Williams** (livros *The Secret of Selecting Stocks* e *Long-Term Secrets to Short-Term Trading*). **No teste no Ibovespa quase nada funcionou** (tabela abaixo) — nada aqui é regra do site nem manda alerta. O único gatilho que passou no índice, o **rompimento de 40%**, **não se confirmou no WIN**.
@@ -16,18 +16,18 @@ tags: [estudos, amplitude]
 |---|---|---|---|
 | **Longo** | Estrutura: topos/fundos de longo prazo | 🟢 **alta** | último topo 14/04/2026 · 199.355 · último fundo 14/08/2026 · 164.835 |
 | **Médio** | Estrutura: topos/fundos intermediários | 🔴 **baixa** | fechamento abaixo de **181.562** (último fundo) = baixa · acima de **209.714** (último topo) = alta |
-| **Médio** | Trading Index (10 dias) | 1,45 | faixa de fundo intermediário (≥ 1,30) |
-| **Médio** | 20 mais negociadas (soma de 3 semanas) | -20 | ≤ −30 compra · ≤ −40 "hipoteque a casa" |
+| **Médio** | Trading Index (10 dias) | 1,39 | faixa de fundo intermediário (≥ 1,30) |
+| **Médio** | 20 mais negociadas (soma de 3 semanas) | -22 | ≤ −30 compra · ≤ −40 "hipoteque a casa" |
 | **Curto** | Estrutura: topos/fundos de curto prazo | 🔴 **baixa** | fechamento abaixo de **203.110** = baixa · acima de **209.245** = alta |
-| **Curto** | Momentum Index | -22,6% | sobrevendido (≤ −12,5) · ontem -17,5 · anteontem -18,6 |
+| **Curto** | Momentum Index | -30,1% | sobrevendido (≤ −12,5) · ontem -22,6 · anteontem -17,5 |
 | **Curto** | %R de Williams (10 dias) | 98 | sobrevendido (≥ 80) |
-| **Curto** | "Espero duas coisas" | nenhuma das duas condições completa | esticado nos últimos 10 pregões + Momentum 2 dias na mesma direção |
+| **Curto** | "Espero duas coisas" | 🔴 **as duas condições de VENDA** (esticado + Momentum virando para baixo) | esticado nos últimos 10 pregões + Momentum 2 dias na mesma direção |
 
 > [!example] Rompimento de 40% para o próximo pregão — só leitura (não é regra)
-> Compra se o Ibovespa subir **871 pontos acima da abertura** (0,4 × o intervalo de hoje, 2.177 pontos) · stop **6.534 pontos** abaixo da entrada (1 × o intervalo médio de 10 dias) · sai na **primeira abertura com lucro** ou no fechamento do 5º pregão.
+> Compra se o Ibovespa subir **1.424 pontos acima da abertura** (0,4 × o intervalo de hoje, 3.559 pontos) · stop **6.578 pontos** abaixo da entrada (1 × o intervalo médio de 10 dias) · sai na **primeira abertura com lucro** ou no fechamento do 5º pregão.
 > **No WIN não se confirmou:** executando no mini, no mesmo minuto do sinal (2021–hoje, 370 operações), deu +99 pontos por contrato por operação com custo real, mas **igual ao acaso** (24%; 1ª metade +22, 2ª +176). Metade da vantagem do índice some no WIN — a abertura do índice fica parada nos primeiros minutos e engorda o resultado no papel.
 
-![Larry Williams no Ibovespa](graficos/larry_20261030.png)
+![Larry Williams no Ibovespa](graficos/larry_20261103.png)
 
 > [!tip] Como ler o gráfico — as bolinhas só existem DEPOIS
 > Cada bolinha está no dia do topo/fundo, mas **nesse dia ninguém sabia** que era um topo: o ponto intermediário só fica conhecido quando o próximo ponto de curto prazo do lado direito se forma (o **✕**, ligado à bolinha por uma linha pontilhada). Um ponto confirmado **não muda nem some** depois — só o mais recente ainda não aparece, porque não foi confirmado. O que dava para operar de verdade são os **▲▼**: a regra compra quando o Ibovespa fecha acima do último topo confirmado e sai quando fecha abaixo do último fundo confirmado (no teste: ~+12%/ano nos dois períodos, mas igual ao acaso).
@@ -38,7 +38,7 @@ tags: [estudos, amplitude]
 
 Testei os três indicadores "modernos" do Larry (%R, Ultimate Oscillator e Williams Vix Fix) no mensal, semanal, diário e H4 contra os topos e fundos principais do Ibovespa. **Só um passou nos dois períodos:** o **%R de Williams de 14 meses saindo da sobrevenda** (volta acima de −80) como sinal de **compra**. Nos topos, nenhum indicador do Larry funcionou, em nenhum tempo gráfico.
 
-> [!note] **%R mensal: -60** (mês fechado 10/2026) — sem sinal; o sinal precisa de um mês fechado abaixo de −80 e depois a volta acima.
+> [!note] **%R mensal: -60** (mês fechado 10/2026) — sem sinal; o sinal precisa de um mês fechado abaixo de −80 e depois a volta acima. Mês em formação (11/2026): -64 se fechasse hoje.
 > Indício, não regra: 13 sinais desde 2001. Último sinal: **07/2022**.
 
 | | Sinais | Ibovespa 3 meses depois | Um mês qualquer | Acaso |

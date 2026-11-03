@@ -1,6 +1,6 @@
 ---
 title: 📍 Sinais
-date: 2026-11-02
+date: 2026-11-03
 tags: [sinais]
 description: Candles de Oliver Velez + RSI, CCI, MACD-V e Bollinger no Ibovespa
 ---
@@ -9,13 +9,10 @@ Candles de Oliver Velez + RSI, CCI, MACD-V e Bollinger — só os sinais que tiv
 
 📘 [Tutorial — como ler e usar](sinais-topo-fundo/tutorial) · 📋 [Todos os sinais (fortes e moderados)](sinais-topo-fundo/todos-os-sinais)
 
-> [!success|forte] 🔥 SINAL FORTE DE FUNDO — Diário · fechamento de 30/10/2026
-> 🟢 **[FD+RSI](tecnico/#diário)** — Fechou fora→dentro da BB inferior + RSI≤30 · 📈 [ver no gráfico Diário](tecnico/#diário)
+> [!success] 🔥 Sinal forte ainda na janela
+> - 🟢 **[Diário · FUNDO · FD+RSI](tecnico/#diário)** de 30/10/2026 — Fechou fora→dentro da BB inferior + RSI≤30 (71%, 2,8× o acaso) · 1º de 3 pregões da janela
 >
-> Acertou **71%** das vezes · **2,8×** o acaso. Historicamente o fundo estava a até **3 pregões** do sinal.
-
-> [!note] Sinal moderado no fechamento de 30/10/2026
-> - Mensal · TOPO · **TT+RSI** — Top tail + RSI≥70 (38%, 2,5× o acaso)
+> *Janela = quantos candles depois do sinal o pivô costumava aparecer no estudo.*
 
 ## 🎯 Sinais raros de grande fundo
 
@@ -82,7 +79,7 @@ Os moderados ficam em [Todos os sinais](sinais-topo-fundo/todos-os-sinais).
 | Diário | **BT+RSI** (73%), **BT+CCI** (57%), **FD+RSI** (71%) | — |
 | H4 | — | — |
 
-*Atualizado em 02/11/2026 19:00 BRT (último pregão fechado: 30/10/2026). Dados: Yahoo (^BVSP); semanal e mensal reamostrados do diário; H4 do 60 min.*
+*Atualizado em 03/11/2026 19:01 BRT (último pregão fechado: 03/11/2026). Dados: Yahoo (^BVSP); semanal e mensal reamostrados do diário; H4 do 60 min.*
 
 > [!quote]- Aviso
 > Estudo estatístico. Não constitui recomendação de investimento.
