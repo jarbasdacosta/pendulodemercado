@@ -1,33 +1,34 @@
 ---
 title: "🌎 Capital estrangeiro"
-date: 2026-11-03
+date: 2026-11-04
 description: "Compras e vendas dos investidores estrangeiros no mercado à vista da B3"
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **29/10/2026** (a B3 publica dois pregões depois) · página atualizada 03/11/2026 19:06. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **30/10/2026** (a B3 publica dois pregões depois) · página atualizada 04/11/2026 05:12. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
-> [!danger] 29/10/2026: **−R$ 101 mi** · 6 pregão(ões) seguido(s) de saída
-> No ano: **+R$ 35,9 bi** negociados na bolsa · **+R$ 4,6 bi** em IPOs/follow-ons · total **+R$ 40,5 bi**
+> [!danger] 30/10/2026: **−R$ 317 mi** · 7 pregão(ões) seguido(s) de saída
+> No ano: **+R$ 35,6 bi** negociados na bolsa · **+R$ 4,6 bi** em IPOs/follow-ons · total **+R$ 40,2 bi**
 
 ## Resumo
 
 | | Dia | Semana | Mês | Ano | 12 meses | Geral¹ |
 |---|---|---|---|---|---|---|
-| **Bolsa** (compras − vendas) | −R$ 101 mi | −R$ 7,7 bi | +R$ 8,5 bi | +R$ 35,9 bi | +R$ 36,1 bi | +R$ 173,9 bi |
+| **Bolsa** (compras − vendas) | −R$ 317 mi | −R$ 8,0 bi | +R$ 8,2 bi | +R$ 35,6 bi | +R$ 35,8 bi | +R$ 173,6 bi |
 | IPOs/follow-ons | +R$ 0 mi | +R$ 0 mi | +R$ 0 mi | +R$ 4,6 bi | +R$ 5,4 bi | +R$ 208,2 bi |
-| **Total** | **−R$ 101 mi** | **−R$ 7,7 bi** | **+R$ 8,5 bi** | **+R$ 40,5 bi** | **+R$ 41,4 bi** | **+R$ 382,1 bi** |
+| **Total** | **−R$ 317 mi** | **−R$ 8,0 bi** | **+R$ 8,2 bi** | **+R$ 40,2 bi** | **+R$ 41,1 bi** | **+R$ 381,7 bi** |
 
 *Semana = desde segunda-feira · 12 meses = o mês até o dia + os 11 anteriores · ¹ Geral = bolsa desde 05/02/2009; ofertas desde 2016 (quando a B3 começou a somar). **Bolsa** é o número que a B3 divulga todo dia (e os sites publicam de manhã); **ofertas** são os IPOs e follow-ons que a B3 soma no total do mês; **total** = os dois (o total mensal oficial da B3). Dia e semana das ofertas só aparecem a partir do download diário (antes disso a B3 só dá o mês).*
 
-![Acumulado do ano, pregão a pregão](graficos/estrangeirosano_20261029.png)
+![Acumulado do ano, pregão a pregão](graficos/estrangeirosano_20261030.png)
 
 ## Dia a dia
 
-![Capital estrangeiro dia a dia](graficos/estrangeirosdia_20261029.png)
+![Capital estrangeiro dia a dia](graficos/estrangeirosdia_20261030.png)
 
 | Dia | Saldo do dia | Semana | Mês | Ano | 12 meses | Geral | IPO/follow-on |
 |---|---|---|---|---|---|---|---|
+| 30/10/2026 | **−R$ 317 mi** | −R$ 8,0 bi | +R$ 8,2 bi | +R$ 35,6 bi | +R$ 35,8 bi | +R$ 173,6 bi | — |
 | 29/10/2026 | **−R$ 101 mi** | −R$ 7,7 bi | +R$ 8,5 bi | +R$ 35,9 bi | +R$ 36,1 bi | +R$ 173,9 bi | — |
 | 28/10/2026 | **−R$ 2,7 bi** | −R$ 7,6 bi | +R$ 8,6 bi | +R$ 36,0 bi | +R$ 36,2 bi | +R$ 174,0 bi | — |
 | 27/10/2026 | **−R$ 2,0 bi** | −R$ 4,9 bi | +R$ 11,3 bi | +R$ 38,7 bi | +R$ 38,9 bi | +R$ 176,7 bi | — |
@@ -42,7 +43,6 @@ tags: [estrangeiros]
 | 14/10/2026 | **+R$ 708 mi** | +R$ 2,8 bi | +R$ 18,5 bi | +R$ 45,9 bi | +R$ 46,1 bi | +R$ 183,9 bi | — |
 | 13/10/2026 | **+R$ 2,1 bi** | +R$ 2,1 bi | +R$ 17,8 bi | +R$ 45,2 bi | +R$ 45,4 bi | +R$ 183,2 bi | — |
 | 09/10/2026 | **+R$ 1,0 bi** | +R$ 13,2 bi | +R$ 15,8 bi | +R$ 43,1 bi | +R$ 43,3 bi | +R$ 181,1 bi | — |
-| 08/10/2026 | **+R$ 1,6 bi** | +R$ 12,2 bi | +R$ 14,7 bi | +R$ 42,1 bi | +R$ 42,3 bi | +R$ 180,1 bi | — |
 
 *Saldo negociado na bolsa (sem ofertas). Fonte do dia: relatório da B3 baixado todo dia; antes do download diário, Dados de Mercado e Clube do Pai Rico (os mesmos números da B3).*
 
@@ -52,21 +52,22 @@ tags: [estrangeiros]
 
 Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **quem está do outro lado** dos estrangeiros (saldo negociado na bolsa, sem ofertas).
 
-![Saldo acumulado por tipo de investidor](graficos/investidores_20261029.png)
+![Saldo acumulado por tipo de investidor](graficos/investidores_20261030.png)
 
-| Tipo | 29/10 | Semana (26/10–29/10) | Mês (1–29/10) | Ano (até 29/10) | 12 meses (desde 11/2025) | Geral (desde 24/10/2025) |
+| Tipo | 30/10 | Semana (26/10–30/10) | Mês (1–30/10) | Ano (até 30/10) | 12 meses (desde 11/2025) | Geral (desde 24/10/2025) |
 |---|---|---|---|---|---|---|
-| Estrangeiro | **−R$ 101 mi** | −R$ 7,7 bi | +R$ 8,5 bi | +R$ 35,9 bi | +R$ 36,1 bi | +R$ 38,6 bi |
-| Institucional | **−R$ 507 mi** | −R$ 3,3 bi | −R$ 12,6 bi | −R$ 48,0 bi | −R$ 53,9 bi | −R$ 54,4 bi |
-| Pessoa física | **+R$ 826 mi** | +R$ 11,1 bi | +R$ 8,5 bi | +R$ 14,3 bi | +R$ 14,6 bi | +R$ 13,7 bi |
-| Inst. financeiras | **−R$ 178 mi** | −R$ 679 mi | −R$ 1,2 bi | −R$ 1,7 bi | −R$ 899 mi | −R$ 1,9 bi |
-| Outros | **−R$ 39 mi** | +R$ 595 mi | −R$ 3,2 bi | −R$ 385 mi | +R$ 4,1 bi | +R$ 4,0 bi |
+| Estrangeiro | **−R$ 317 mi** | −R$ 8,0 bi | +R$ 8,2 bi | +R$ 35,6 bi | +R$ 35,8 bi | +R$ 38,2 bi |
+| Institucional | **−R$ 863 mi** | −R$ 4,1 bi | −R$ 13,4 bi | −R$ 48,9 bi | −R$ 54,8 bi | −R$ 55,3 bi |
+| Pessoa física | **+R$ 934 mi** | +R$ 12,0 bi | +R$ 9,4 bi | +R$ 15,2 bi | +R$ 15,6 bi | +R$ 14,6 bi |
+| Inst. financeiras | **+R$ 148 mi** | −R$ 531 mi | −R$ 1,0 bi | −R$ 1,6 bi | −R$ 752 mi | −R$ 1,7 bi |
+| Outros | **+R$ 98 mi** | +R$ 693 mi | −R$ 3,1 bi | −R$ 286 mi | +R$ 4,2 bi | +R$ 4,1 bi |
 
-*Dados até 29/10/2026 · 21 pregões vindos direto da B3 (Boletim Diário do Mercado). Cada coluna é um acumulado DESTA tabela, nas datas do cabeçalho. Conferência do dia: os 5 tipos somam +R$ 0 mi (zero, como tem de ser).*
+*Dados até 30/10/2026 · 22 pregões vindos direto da B3 (Boletim Diário do Mercado). Cada coluna é um acumulado DESTA tabela, nas datas do cabeçalho. Conferência do dia: os 5 tipos somam −R$ 0 mi (zero, como tem de ser).*
 
 > [!note]- Últimos 15 pregões
 > | Dia | Estrangeiro | Institucional | Pessoa física | Inst. financeiras | Outros |
 > |---|---|---|---|---|---|
+> | 30/10 | −R$ 317 mi | −R$ 863 mi | +R$ 934 mi | +R$ 148 mi | +R$ 98 mi |
 > | 29/10 | −R$ 101 mi | −R$ 507 mi | +R$ 826 mi | −R$ 178 mi | −R$ 39 mi |
 > | 28/10 | −R$ 2,7 bi | +R$ 1,1 bi | +R$ 1,8 bi | −R$ 194 mi | −R$ 2 mi |
 > | 27/10 | −R$ 2,0 bi | −R$ 552 mi | +R$ 2,3 bi | +R$ 132 mi | +R$ 198 mi |
@@ -81,17 +82,16 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 > | 14/10 | +R$ 708 mi | −R$ 802 mi | +R$ 163 mi | −R$ 6 mi | −R$ 63 mi |
 > | 13/10 | +R$ 2,1 bi | −R$ 2,2 bi | +R$ 381 mi | −R$ 137 mi | −R$ 113 mi |
 > | 09/10 | +R$ 1,0 bi | −R$ 710 mi | −R$ 320 mi | +R$ 196 mi | −R$ 196 mi |
-> | 08/10 | +R$ 1,6 bi | −R$ 53 mi | +R$ 29 mi | −R$ 1,4 bi | −R$ 214 mi |
 
 *Fonte: B3 — Boletim Diário do Mercado › Renda Variável › Indicadores e Informativos › Participação dos Investidores (compras e vendas de cada tipo, acumuladas no mês; o saldo do dia sai da diferença entre dois pregões). Baixado sozinho todo dia útil de manhã.*
 
 ## Mês a mês
 
-![Capital estrangeiro na B3 — mensal](graficos/estrangeiros_20261029.png)
+![Capital estrangeiro na B3 — mensal](graficos/estrangeiros_20261030.png)
 
 | Mês | Bolsa | IPO/follow-on | Total | | Ano (bolsa) | Ano (total) | 12 meses (total) |
 |---|---|---|---|---|---|---|---|
-| out/2026 *(até 29)* | **+R$ 8,5 bi** | — | +R$ 8,5 bi | 🟩🟩🟩 | +R$ 35,9 bi | +R$ 40,5 bi | +R$ 41,4 bi |
+| out/2026 *(até 30)* | **+R$ 8,2 bi** | — | +R$ 8,2 bi | 🟩🟩🟩 | +R$ 35,6 bi | +R$ 40,2 bi | +R$ 41,1 bi |
 | set/2026 | **+R$ 9,1 bi** | — | +R$ 9,1 bi | 🟩🟩🟩 | +R$ 27,4 bi | +R$ 32,0 bi | +R$ 31,8 bi |
 | ago/2026 | **−R$ 18,1 bi** | — | −R$ 18,1 bi | 🟥🟥🟥🟥🟥🟥🟥 | +R$ 18,3 bi | +R$ 22,9 bi | +R$ 28,0 bi |
 | jul/2026 | **+R$ 2,6 bi** | +R$ 1,8 bi | +R$ 4,3 bi | 🟩🟩 | +R$ 36,4 bi | +R$ 41,0 bi | +R$ 47,3 bi |
@@ -122,7 +122,7 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 | Ano | Bolsa | IPO/follow-on | Total | Geral (bolsa) |
 |---|---|---|---|---|
-| 2026 *(até 29/10)* | **+R$ 35,9 bi** | +R$ 4,6 bi | +R$ 40,5 bi | +R$ 173,9 bi |
+| 2026 *(até 30/10)* | **+R$ 35,6 bi** | +R$ 4,6 bi | +R$ 40,2 bi | +R$ 173,6 bi |
 | 2025 | **+R$ 25,5 bi** | +R$ 1,4 bi | +R$ 26,9 bi | +R$ 138,0 bi |
 | 2024 | **−R$ 32,1 bi** | +R$ 7,9 bi | −R$ 24,2 bi | +R$ 112,5 bi |
 | 2023 | **+R$ 44,9 bi** | +R$ 11,1 bi | +R$ 56,0 bi | +R$ 144,6 bi |
@@ -170,8 +170,8 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 | Ano até 29/10 com ofertas: total × B3 (A+C−B) | +R$ 40,5 bi | +R$ 40,5 bi | ✅ |
 | Meses fechados de 2026: soma dos dias × mês oficial | 9 de 9 batem | — | ✅ |
 | Ano até 29/10: nosso × publicado pelo Pai Rico | +R$ 35,9 bi | +R$ 35,9 bi | ✅ |
-| Tabela dos 5 tipos (até 29/10): estrangeiro no ano × série principal na MESMA data | +R$ 35,9 bi | +R$ 35,9 bi | ✅ |
-| Tabela dos 5 tipos: os 5 saldos de 29/10 somam zero | +R$ 0 mi | zero | ✅ |
+| Tabela dos 5 tipos (até 30/10): estrangeiro no ano × série principal na MESMA data | +R$ 35,6 bi | +R$ 35,6 bi | ✅ |
+| Tabela dos 5 tipos: os 5 saldos de 30/10 somam zero | −R$ 0 mi | zero | ✅ |
 
 > [!info]- Como funciona (fontes e horários)
 > - **B3, direto:** todo dia útil das 5h40 às 8h40 o servidor baixa o relatório *Dados de mercado* da B3 (1 download por tentativa). A B3 publica a movimentação dos estrangeiros em **D+2** — o pregão de segunda sai na quarta de manhã. A diferença entre o relatório de hoje e o anterior é o saldo do pregão novo (compras, vendas e ofertas separados).
