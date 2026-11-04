@@ -1,26 +1,26 @@
 ---
 title: "📊 Amplitude (Market Breadth)"
-date: 2026-11-03
+date: 2026-11-04
 description: "Porcentagem das ações do Ibovespa acima das médias de 20, 50 e 200 pregões"
 tags: [amplitude]
 ---
 
-*Atualizado 03/11/2026 19:04 · fechamento de 03/11/2026.*
+*Atualizado 04/11/2026 19:03 · fechamento de 04/11/2026.*
 
 A **amplitude** mostra quantas ações do Ibovespa estão acompanhando o movimento do índice: a porcentagem das ações da carteira que estão **acima das suas médias** de 20, 50 e 200 pregões. O **sentimento** é a média das três. **Abaixo de 20**: quase todas as ações caindo — exaustão vendedora, região de fundos. **Acima de 80**: quase todas subindo — força generalizada (no teste, **não** aumentou o risco de queda).
 
-> [!success] Sentimento **12%** ▼ · 🟢 exaustão vendedora (abaixo de 20)
-> Acima da MM 20: **7%** · MM 50: **13%** · MM 200: **16%** <small>(76 de 76 ações com dados)</small>
+> [!success] Sentimento **11%** ▼ · 🟢 exaustão vendedora (abaixo de 20)
+> Acima da MM 20: **7%** · MM 50: **8%** · MM 200: **18%** <small>(76 de 76 ações com dados)</small>
 
-> [!success|forte] 🎯 REGIÃO DE FUNDO — só 16% das ações acima da MM 200
+> [!success|forte] 🎯 REGIÃO DE FUNDO — só 18% das ações acima da MM 200
 > No histórico, 60 pregões depois o Ibovespa subiu em ~83% das vezes, retorno mediano de ~+10% (dia qualquer: 60% e +3,4%). Confirmado em 2001–2013 e 2014–2026.
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html?v=20261103" title="Amplitude do Ibovespa — interativo" style="width:100%;height:640px;border:0;border-radius:8px" loading="lazy"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html?v=20261104" title="Amplitude do Ibovespa — interativo" style="width:100%;height:640px;border:0;border-radius:8px" loading="lazy"></iframe>
 
-*Gráfico interativo: clique na legenda para ligar/desligar cada linha, arraste ou use a rodinha para zoom, botões 3m · 6m · 1a · 3a · 5a · tudo. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html?v=20261103" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Gráfico interativo: clique na legenda para ligar/desligar cada linha, arraste ou use a rodinha para zoom, botões 3m · 6m · 1a · 3a · 5a · tudo. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html?v=20261104" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática (últimos 3 anos)
-> ![Amplitude do Ibovespa](graficos/amplitude_20261103.png)
+> ![Amplitude do Ibovespa](graficos/amplitude_20261104.png)
 
 📈 Veja também a **[linha de avanço e declínio](amplitude/avanco-declinio)** — quantas ações do Ibovespa subiram menos quantas caíram, dia a dia, e se ela acompanha os topos do índice.
 
@@ -28,6 +28,7 @@ A **amplitude** mostra quantas ações do Ibovespa estão acompanhando o movimen
 
 | Data | Sentimento | MM 20 | MM 50 | MM 200 |
 |---|---|---|---|---|
+| 04/11/2026 | **11%** 🟢 | 7% | 8% | 18% |
 | 03/11/2026 | **12%** 🟢 | 7% | 13% | 16% |
 | 30/10/2026 | **12%** 🟢 | 7% | 13% | 17% |
 | 29/10/2026 | **14%** 🟢 | 9% | 14% | 17% |
@@ -37,7 +38,6 @@ A **amplitude** mostra quantas ações do Ibovespa estão acompanhando o movimen
 | 23/10/2026 | **80%** 🔴 | 79% | 86% | 76% |
 | 22/10/2026 | **82%** 🔴 | 86% | 86% | 75% |
 | 21/10/2026 | **84%** 🔴 | 87% | 86% | 79% |
-| 20/10/2026 | **86%** 🔴 | 88% | 87% | 82% |
 
 ## Quando entrou nas zonas
 

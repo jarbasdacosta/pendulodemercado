@@ -1,18 +1,18 @@
 ---
 title: "📈 Avanço e declínio"
-date: 2026-11-03
+date: 2026-11-04
 description: "Linha de avanço e declínio do Ibovespa: ações que subiram menos as que caíram, acumulado"
 tags: [amplitude]
 ---
 
-*Atualizado 03/11/2026 19:04 · fechamento de 03/11/2026.*
+*Atualizado 04/11/2026 19:03 · fechamento de 04/11/2026.*
 
 Em cada pregão, conta quantas ações da carteira do Ibovespa **subiram** e quantas **caíram**. O saldo do dia (subiram − caíram) é somado dia após dia: essa é a **linha de avanço e declínio**. Ela mostra se a alta do índice é de muitas ações ou só de algumas grandes. **Divergência:** o Ibovespa faz um **topo maior** que o topo anterior e a linha, nesse topo, fica **abaixo** do pico que tinha no topo anterior — a alta está ficando estreita.
 
-> [!danger] ⚠ **Divergência confirmada em 26/10/2026** — topo de 209.067 (09/10) acima do topo de 14/04, com a linha 186 abaixo.
-> 03/11/2026: 21 subiram · 55 caíram · saldo **-34**
+> [!danger] ⚠ **Divergência confirmada em 26/10/2026** — topo de 209.067 (09/10) acima do topo de 14/04, com a linha 188 abaixo.
+> 04/11/2026: 66 subiram · 10 caíram · saldo **+56**
 
-![Linha de avanço e declínio](graficos/linha_ad_20261103.png)
+![Linha de avanço e declínio](graficos/linha_ad_20261104.png)
 
 ## Topos maiores e a linha
 
@@ -20,7 +20,7 @@ Um topo só conta quando o Ibovespa cai 5% a partir dele (até lá, está "em fo
 
 | Topo do Ibovespa | Topo superado | Linha × pico anterior | Confirmado em | Queda depois (do topo) |
 |---|---|---|---|---|
-| 09/10/2026 · 209.067 | 14/04/2026 · 198.657 | -186 ⚠ divergência | 26/10/2026 | -21% |
+| 09/10/2026 · 209.067 | 14/04/2026 · 198.657 | -188 ⚠ divergência | 26/10/2026 | -21% |
 | 14/04/2026 · 198.657 | 24/02/2026 · 191.490 | -17 ⚠ divergência | 28/04/2026 | -17% |
 | 24/02/2026 · 191.490 | 04/07/2025 · 141.478 | +1035 ✅ confirmou | 05/03/2026 | -14% |
 | 04/07/2025 · 141.478 | 28/08/2024 · 137.344 | -161 ⚠ divergência | 18/07/2025 | -7% |
@@ -41,16 +41,16 @@ Desde 2001: **42** topos maiores confirmados · **15** com divergência.
 
 | Data | Subiram | Caíram | Saldo | Linha | Ibovespa |
 |---|---|---|---|---|---|
-| 03/11/2026 | 21 | 55 | **-34** | 951 | 165.529 |
-| 30/10/2026 | 17 | 58 | **-41** | 985 | 167.922 |
-| 29/10/2026 | 13 | 63 | **-50** | 1.026 | 169.186 |
-| 28/10/2026 | 7 | 68 | **-61** | 1.076 | 171.006 |
-| 27/10/2026 | 37 | 39 | **-2** | 1.137 | 175.710 |
-| 26/10/2026 | 8 | 68 | **-60** | 1.139 | 176.608 |
-| 23/10/2026 | 54 | 21 | **+33** | 1.199 | 205.083 |
-| 22/10/2026 | 15 | 61 | **-46** | 1.166 | 204.120 |
-| 21/10/2026 | 20 | 55 | **-35** | 1.212 | 206.495 |
-| 20/10/2026 | 72 | 5 | **+67** | 1.247 | 208.296 |
+| 04/11/2026 | 66 | 10 | **+56** | 1.005 | 167.563 |
+| 03/11/2026 | 21 | 55 | **-34** | 949 | 165.529 |
+| 30/10/2026 | 17 | 58 | **-41** | 983 | 167.922 |
+| 29/10/2026 | 13 | 63 | **-50** | 1.024 | 169.186 |
+| 28/10/2026 | 7 | 68 | **-61** | 1.074 | 171.006 |
+| 27/10/2026 | 37 | 39 | **-2** | 1.135 | 175.710 |
+| 26/10/2026 | 8 | 68 | **-60** | 1.137 | 176.608 |
+| 23/10/2026 | 54 | 21 | **+33** | 1.197 | 205.083 |
+| 22/10/2026 | 15 | 61 | **-46** | 1.164 | 204.120 |
+| 21/10/2026 | 20 | 55 | **-35** | 1.210 | 206.495 |
 
 ## 📦 OBV — o volume (só informação)
 
@@ -59,7 +59,7 @@ O **OBV** (*On-Balance Volume*) soma o volume financeiro das ações da carteira
 > [!note] **OBV do índice:** sem topo maior em formação · **OBV agregado** (ação por ação): sem topo maior em formação
 > **No teste a divergência do OBV funcionou AO CONTRÁRIO da teoria** — não use como sinal (detalhes abaixo).
 
-![OBV do Ibovespa](graficos/linha_ad_obv_20261103.png)
+![OBV do Ibovespa](graficos/linha_ad_obv_20261104.png)
 
 | OBV no teste (23/10/2026, topo/fundo confirmado por 5%) | O que aconteceu depois | Leitura |
 |---|---|---|

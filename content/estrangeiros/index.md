@@ -5,7 +5,7 @@ description: "Compras e vendas dos investidores estrangeiros no mercado à vista
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **30/10/2026** (a B3 publica dois pregões depois) · página atualizada 04/11/2026 12:12. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **30/10/2026** (a B3 publica dois pregões depois) · página atualizada 04/11/2026 19:05. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
 > [!danger] 30/10/2026: **−R$ 317 mi** · 7 pregão(ões) seguido(s) de saída
 > No ano: **+R$ 35,6 bi** negociados na bolsa · **+R$ 4,6 bi** em IPOs/follow-ons · total **+R$ 40,2 bi**
