@@ -1,6 +1,6 @@
 ---
 title: "📍 Sinais — metodologia"
-date: 2026-11-03
+date: 2026-11-04
 tags: [metodologia]
 description: "Sinais de topo e fundo, sinais raros e alerta de topo"
 ---
