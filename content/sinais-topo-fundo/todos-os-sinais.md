@@ -1,6 +1,6 @@
 ---
 title: Todos os sinais
-date: 2026-11-04
+date: 2026-11-05
 tags: [sinais]
 description: Histórico dos sinais de topo e fundo por tempo gráfico
 ---
@@ -65,7 +65,7 @@ Histórico de cada tempo gráfico, do mais recente para o mais antigo. Linhas co
 
 ## H4
 
-Últimos 120 candles: 20 sinais, **0 fortes**.
+Últimos 120 candles: 19 sinais, **0 fortes**.
 
 | Candle | Tipo | Sinal | Força | Acerto | vs. acaso |
 |---|---|---|---|---|---|
@@ -88,6 +88,5 @@ Histórico de cada tempo gráfico, do mais recente para o mais antigo. Linhas co
 | 02/09/2026 10h | 🟠 TOPO (proteção) | **[RSI75+MV](sinais-topo-fundo/todos-os-sinais#h4)** — RSI≥75 e MACD-V≥130 | moderado | 80% | 2,5× |
 | 12/08/2026 10h | 🟢 FUNDO | **[FD+CCI](sinais-topo-fundo/todos-os-sinais#h4)** — Fechou fora→dentro da BB inferior + CCI≤-200 | moderado | 38% | 2,1× |
 | 12/08/2026 10h | 🟢 FUNDO | **[FD+RSI](sinais-topo-fundo/todos-os-sinais#h4)** — Fechou fora→dentro da BB inferior + RSI≤30 | moderado | 50% | 2,5× |
-| 10/08/2026 10h | 🟢 FUNDO | **[BT+BB](sinais-topo-fundo/todos-os-sinais#h4)** — Bottom tail tocando a BB inferior | moderado | 53% | 3,1× |
 
-*Atualizado em 04/11/2026 19:00 BRT.*
+*Atualizado em 05/11/2026 19:00 BRT.*

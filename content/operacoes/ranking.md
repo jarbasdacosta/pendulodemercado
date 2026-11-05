@@ -5,7 +5,7 @@ tags: [operacoes]
 description: "As regras de compra do site ordenadas pelo resultado, com treino, teste e placar ao vivo"
 ---
 
-*Atualizado 05/11/2026 18:31 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
+*Atualizado 05/11/2026 19:06 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
 
 As regras de compra do site, **da que mais rendeu para a que menos rendeu**. O resultado é por operação, no índice à vista, sem custos e sem juros compostos (a soma é só a soma das operações). **Treino** = entradas de 2001 a 2013 e **teste** = 2014 em diante: uma regra só é confiável se ganhou nos dois. O único resultado sem nenhum ajuste ao histórico é o **placar ao vivo**.
 
@@ -42,7 +42,7 @@ As regras de compra do site, **da que mais rendeu para a que menos rendeu**. O r
 
 Como as compras de cada regra se saíram conforme o **ζ do pregão anterior** (estudo de 23/10/2026). **Informa, não filtra:** nenhum desses contextos passou no critério rigoroso; aparecem nos avisos de compra para você pesar na decisão.
 
-**Agora:** 🔪 **queda forte ativa** desde 03/11 (compras assim renderam menos no histórico) · 🎯 **amplitude na região de fundo** (18% acima da MM 200) — ζ Topo 0% · ζ Fundo 100% em 04/11
+**Agora:** 🔪 **queda forte ativa** desde 03/11 (compras assim renderam menos no histórico) · 🎯 **amplitude na região de fundo** (17% acima da MM 200) — ζ Topo 0% · ζ Fundo 99% em 05/11
 
 | Regra | Normal | 🔪 queda forte ativa | 🔴 ζ Topo no vermelho | 🚀 Força recente |
 |---|---|---|---|---|
