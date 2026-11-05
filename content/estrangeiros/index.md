@@ -5,7 +5,7 @@ description: "Compras e vendas dos investidores estrangeiros no mercado à vista
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **03/11/2026** (a B3 publica dois pregões depois) · página atualizada 05/11/2026 05:42. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **03/11/2026** (a B3 publica dois pregões depois) · página atualizada 05/11/2026 07:12. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
 > [!danger] 03/11/2026: **−R$ 391 mi** · 8 pregão(ões) seguido(s) de saída
 > No ano: **+R$ 35,2 bi** negociados na bolsa · **+R$ 4,6 bi** em IPOs/follow-ons · total **+R$ 39,8 bi**
@@ -170,7 +170,7 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 | Ano até 03/11 (bolsa): resumo/gráfico × B3 | +R$ 35,2 bi | +R$ 35,2 bi | ✅ |
 | Ano até 03/11 com ofertas: total × B3 (A+C−B) | +R$ 39,8 bi | +R$ 39,8 bi | ✅ |
 | Meses fechados de 2026: soma dos dias × mês oficial | 10 de 10 batem | — | ✅ |
-| Ano até 30/10: nosso × publicado pelo Pai Rico | +R$ 35,6 bi | +R$ 35,6 bi | ✅ |
+| Ano até 03/11: nosso × publicado pelo Pai Rico | +R$ 35,2 bi | +R$ 35,2 bi | ✅ |
 | Tabela dos 5 tipos (até 03/11): estrangeiro no ano × série principal na MESMA data | +R$ 35,2 bi | +R$ 35,2 bi | ✅ |
 | Tabela dos 5 tipos: os 5 saldos de 03/11 somam zero | +R$ 0 mi | zero | ✅ |
 
