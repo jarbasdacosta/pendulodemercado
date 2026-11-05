@@ -28,7 +28,7 @@ _Nenhuma posição aberta agora._
 | [📈 Tendência MME9 · Semanal](operacoes/tendencia) | Semanal — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [🎯 Diário · Nadaraya](operacoes/entradas) | ⏳ aguardando o gatilho | ✅ passou fora da amostra | 0 de 10 operações ao vivo |
 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | — sem setup | ✅ o ganho vem do setup | 0 de 10 operações ao vivo |
-| [🎯 H4 · Semáforo N2](operacoes/entradas) | ⏳ aguardando o gatilho | 🧪 em teste | 🧪 1 de 10 operações ao vivo · média -0,8% · dentro do esperado |
+| [🎯 H4 · Semáforo N2](operacoes/entradas) | — sem setup | 🧪 em teste | 🧪 1 de 10 operações ao vivo · média -0,8% · dentro do esperado |
 | [🎯 Diário · Semáforo N3 após ζ Fundo](operacoes/entradas) | ⏳ aguardando o gatilho | 🧪 em observação | 0 de 10 operações ao vivo |
 
 ## 🧪 Placar ao vivo (desde 23/10/2026)
