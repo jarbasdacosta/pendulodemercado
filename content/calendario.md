@@ -11,6 +11,58 @@ tags: [calendario]
 
 <div style="margin-top: 10px;"><div style="width: fit-content; margin: auto; font-family: inherit; font-size: 13px; color: #666666;"><a href="https://www.myfxbook.com/forex-economic-calendar?utm_source=widget13&amp;utm_medium=link&amp;utm_campaign=copyright" title="Economic Calendar" class="myfxbookLink" target="_blank" rel="noopener"><b style="color:#666666">Economic Calendar</b></a> by Myfxbook.com</div></div>
 
+### Os indicadores em português
+
+O widget só existe em inglês com as bandeiras corretas — na versão em português o fornecedor quebra os ícones de país. Abaixo, o que aparece no calendário e o nome em português.
+
+Os sufixos se repetem em quase todos: **MoM** compara com o mês anterior, **YoY** com o mesmo mês do ano passado, **QoQ** com o trimestre anterior. **Flash** ou **Prel** é a prévia, **Final** é a revisão definitiva — a prévia é que move o mercado.
+
+**Estados Unidos**
+
+| No calendário | Em português |
+|---|---|
+| Non Farm Payrolls | Folha de pagamento não-agrícola — o emprego criado no mês, o dado mais pesado do calendário |
+| Nonfarm Payrolls Private | O mesmo, só o setor privado (exclui governo) |
+| Unemployment Rate | Taxa de desemprego |
+| U-6 Unemployment Rate | Taxa ampliada — inclui subocupados e desalentados |
+| Participation Rate | Taxa de participação na força de trabalho |
+| Average Hourly Earnings | Rendimento médio por hora — é por onde o Fed olha salário virando inflação |
+| Initial Jobless Claims | Pedidos iniciais de seguro-desemprego (semanal, toda quinta) |
+| Inflation Rate / CPI | Inflação ao consumidor |
+| Core Inflation Rate | Núcleo da inflação — sem alimentos e energia |
+| PCE Price Index | Índice de preços PCE — a medida de inflação que o Fed usa na meta |
+| PPI | Índice de preços ao produtor |
+| Retail Sales | Vendas no varejo |
+| Industrial Production | Produção industrial |
+| Durable Goods Orders | Pedidos de bens duráveis |
+| GDP Growth Rate | Variação do PIB |
+| ISM Manufacturing PMI | PMI industrial do ISM — acima de 50 é expansão |
+| ISM Services PMI | PMI de serviços do ISM |
+| Michigan Consumer Sentiment | Índice de confiança do consumidor (Universidade de Michigan) |
+| Consumer Confidence | Confiança do consumidor (Conference Board) |
+| Building Permits / Housing Starts | Alvarás de construção / início de obras |
+| Fed Interest Rate Decision | Decisão de juros do Fed |
+| FOMC Minutes | Ata do FOMC |
+| Fed … Speech | Discurso de um dirigente do Fed |
+| Crude Oil Inventories | Estoques de petróleo (EIA, semanal) |
+
+**Brasil, Europa e Ásia**
+
+| No calendário | Em português |
+|---|---|
+| Interest Rate Decision (BRL) | Decisão de juros do Copom |
+| Balance of Trade | Balança comercial |
+| Business Confidence | Confiança empresarial |
+| Retail Sales (EUR) | Vendas no varejo da Zona do Euro |
+| ECB Interest Rate Decision | Decisão de juros do Banco Central Europeu |
+| Ifo Business Climate | Índice Ifo de clima de negócios (Alemanha) |
+| ZEW Economic Sentiment | Índice ZEW de expectativas (Alemanha) |
+| BoJ Interest Rate Decision | Decisão de juros do Banco do Japão |
+| Tankan Large Manufacturers Index | Pesquisa Tankan — confiança da grande indústria japonesa |
+| Caixin Manufacturing PMI | PMI industrial Caixin (China, empresas menores e privadas) |
+| NBS Manufacturing PMI | PMI industrial oficial (China, estatais e grandes) |
+| Loan Prime Rate | Taxa básica de empréstimo do banco central chinês |
+
 **Horário.** O seletor logo acima da tabela diz em que fuso ela está — confira que marca **GMT −3:00**. Se abrir em GMT puro, clique ali e troque; a escolha fica guardada no seu navegador. Em horário de Brasília, os dados americanos saem às 10h30, em cima da nossa abertura, que é onde o WIN costuma abrir o gap.
 
 **Impacto** é a leitura do Myfxbook sobre o tamanho do estrago que o número costuma causar no câmbio. `HIGH` são os que mexem no mercado inteiro — juros do Fed e do Copom, payroll, inflação ao consumidor. `MED` são os que mexem no humor sem virar a mesa. O que importa quase nunca é o número em si, e sim a distância entre o consenso e o que saiu: um payroll forte contra um consenso já forte passa em branco; o mesmo número contra um consenso fraco derruba índice.
