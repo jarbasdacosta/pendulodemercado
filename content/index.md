@@ -6,9 +6,9 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 06/11/2026 13:45 BRT · Intraday 15min*
+*Última atualização: 06/11/2026 14:01 BRT · Intraday 15min*
 
-> [!success] Onde o mercado está agora (06/11 13:30, candles de 15 min): **🟢 Calmo**
+> [!success] Onde o mercado está agora (06/11 13:45, candles de 15 min): **🟢 Calmo**
 > `Pânico ◀──────────────●──────▶ Euforia`
 >
 > O Ibovespa está dentro da sua faixa normal, sem excesso para cima nem para baixo.
@@ -54,20 +54,20 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal de Crise (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (06/11 13:30): 🟢 **VERDE** — Risco 39% · ▲ +3 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (06/11 13:45): 🟢 **VERDE** — Risco 39% · ＝ +0 p.p. vs leitura anterior
 > > `████████░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (06/11 13:30) | Valor |
+> | Indicador — IMA Intraday · 15 min (06/11 13:45) | Valor |
 > |---|---|
 > | 🔴 ζ Topo — preço esticado acima da tendência | **39%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 168.761 pts |
+> | 📊 Ibovespa | 168.857 pts |
 >
-> **Multi-ativo:** 15% em tensão (3🔴 1🟡 de 26 ativos)
+> **Multi-ativo:** 19% em tensão (3🔴 2🟡 de 26 ativos)
 >
 > **Últimos 7 pregões**
 >
