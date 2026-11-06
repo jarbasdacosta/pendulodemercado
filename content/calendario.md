@@ -50,33 +50,45 @@ Todas as sessões no **horário de Brasília**, na grade em vigor. A faixa azul 
 <text x="148" y="48" font-size="12.5" fill="currentColor" text-anchor="end">Chicago · CME (futuros)</text>
 <rect x="158.0" y="34" width="647.6" height="19" rx="3" fill="#8b5cf6" fill-opacity="0.82"/>
 <rect x="839.7" y="34" width="136.3" height="19" rx="3" fill="#8b5cf6" fill-opacity="0.82"/>
+<text x="481.8" y="47.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">20h → 19h, pausa 19h–20h</text>
 <text x="148" y="74" font-size="12.5" fill="currentColor" text-anchor="end">Tóquio · JPX</text>
 <rect x="175.0" y="60" width="102.3" height="19" rx="3" fill="#ef4444" fill-opacity="0.82"/>
 <rect x="873.8" y="60" width="85.2" height="19" rx="3" fill="#ef4444" fill-opacity="0.82"/>
+<text x="226.2" y="73.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">21h–3h30</text>
 <text x="148" y="100" font-size="12.5" fill="currentColor" text-anchor="end">Hong Kong · HKEX</text>
 <rect x="158.0" y="86" width="34.1" height="19" rx="3" fill="#f97316" fill-opacity="0.82"/>
 <rect x="226.2" y="86" width="102.2" height="19" rx="3" fill="#f97316" fill-opacity="0.82"/>
 <rect x="924.9" y="86" width="51.1" height="19" rx="3" fill="#f97316" fill-opacity="0.82"/>
+<text x="277.3" y="99.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">22h30–5h</text>
 <text x="148" y="126" font-size="12.5" fill="currentColor" text-anchor="end">Xangai · SSE</text>
 <rect x="158.0" y="112" width="17.0" height="19" rx="3" fill="#f59e0b" fill-opacity="0.82"/>
 <rect x="226.2" y="112" width="68.2" height="19" rx="3" fill="#f59e0b" fill-opacity="0.82"/>
 <rect x="924.9" y="112" width="51.1" height="19" rx="3" fill="#f59e0b" fill-opacity="0.82"/>
+<text x="260.2" y="125.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">22h30–4h</text>
 <text x="148" y="152" font-size="12.5" fill="currentColor" text-anchor="end">Londres · LSE</text>
 <rect x="328.4" y="138" width="289.7" height="19" rx="3" fill="#10b981" fill-opacity="0.82"/>
+<text x="473.3" y="151.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">5h–13h30</text>
 <text x="148" y="178" font-size="12.5" fill="currentColor" text-anchor="end">Frankfurt · Xetra</text>
 <rect x="328.4" y="164" width="289.7" height="19" rx="3" fill="#14b8a6" fill-opacity="0.82"/>
+<text x="473.3" y="177.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">5h–13h30</text>
 <text x="148" y="204" font-size="12.5" fill="currentColor" text-anchor="end">Paris · Euronext</text>
 <rect x="328.4" y="190" width="289.7" height="19" rx="3" fill="#06b6d4" fill-opacity="0.82"/>
+<text x="473.3" y="203.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">5h–13h30</text>
 <text x="148" y="230" font-size="12.5" fill="currentColor" text-anchor="end">Zona do Euro · Stoxx 50</text>
 <rect x="328.4" y="216" width="289.7" height="19" rx="3" fill="#0ea5e9" fill-opacity="0.82"/>
+<text x="473.3" y="229.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">5h–13h30</text>
 <text x="148" y="256" font-size="12.5" fill="currentColor" text-anchor="end">B3 · futuros WIN/IND</text>
 <rect x="464.8" y="242" width="321.0" height="19" rx="3" fill="#2563eb" fill-opacity="0.82"/>
+<text x="625.2" y="255.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">9h–18h25</text>
 <text x="148" y="282" font-size="12.5" fill="currentColor" text-anchor="end">B3 · ações</text>
 <rect x="498.8" y="268" width="269.8" height="19" rx="3" fill="#1d4ed8" fill-opacity="0.82"/>
+<text x="633.7" y="281.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">10h–17h55</text>
 <text x="148" y="308" font-size="12.5" fill="currentColor" text-anchor="end">Nova York · NYSE</text>
 <rect x="550.0" y="294" width="221.5" height="19" rx="3" fill="#db2777" fill-opacity="0.82"/>
+<text x="660.7" y="307.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">11h30–18h</text>
 <text x="148" y="334" font-size="12.5" fill="currentColor" text-anchor="end">Nova York · Nasdaq</text>
 <rect x="550.0" y="320" width="221.5" height="19" rx="3" fill="#9333ea" fill-opacity="0.82"/>
+<text x="660.7" y="333.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">11h30–18h</text>
 </svg>
 
 O dia começa na véspera: quando o Chicago reabre às 20h, o mercado global já está rodando e só para de verdade no fim de semana. Tóquio entra às 21h, a China e Hong Kong às 22h30, a Europa às 5h da manhã — quando você acorda, o Ibovespa futuro já tem um humor formado lá fora. Às 11h30 Nova York abre e manda no resto do dia.
