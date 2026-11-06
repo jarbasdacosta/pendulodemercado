@@ -5,19 +5,19 @@ description: "Compras e vendas dos investidores estrangeiros no mercado à vista
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **04/11/2026** (a B3 publica dois pregões depois) · página atualizada 06/11/2026 16:03. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **04/11/2026** (a B3 publica dois pregões depois) · página atualizada 06/11/2026 17:09. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
-> [!danger] 04/11/2026: **−R\$ 1,7 bi**
-> 9 pregões seguidos de saída, de 22/10/2026 a 04/11/2026, somando **−R\$ 14,0 bi** — média de **−R\$ 1,6 bi** por pregão.
-> No ano: **+R\$ 33,5 bi** negociados na bolsa · **+R\$ 4,6 bi** em IPOs/follow-ons · total **+R\$ 38,1 bi**
+> [!danger] 04/11/2026: **−R\$ 1,7 bi**
+> 9 pregões seguidos de saída, de 22/10/2026 a 04/11/2026, somando **−R\$ 14,0 bi** — média de **−R\$ 1,6 bi** por pregão.
+> No ano: **+R\$ 33,5 bi** negociados na bolsa · **+R\$ 4,6 bi** em IPOs/follow-ons · total **+R\$ 38,1 bi**
 
 ## Resumo
 
 | | Dia | Semana | Mês | Ano | 12 meses | Geral¹ |
 |---|---|---|---|---|---|---|
-| **Bolsa** (compras − vendas) | −R\$ 1,7 bi | −R\$ 2,1 bi | −R\$ 2,1 bi | +R\$ 33,5 bi | +R\$ 31,6 bi | +R\$ 171,5 bi |
-| IPOs/follow-ons | +R\$ 0 mi | +R\$ 0 mi | +R\$ 0 mi | +R\$ 4,6 bi | +R\$ 4,9 bi | +R\$ 208,2 bi |
-| **Total** | **−R\$ 1,7 bi** | **−R\$ 2,1 bi** | **−R\$ 2,1 bi** | **+R\$ 38,1 bi** | **+R\$ 36,5 bi** | **+R\$ 379,7 bi** |
+| **Bolsa** (compras − vendas) | −R\$ 1,7 bi | −R\$ 2,1 bi | −R\$ 2,1 bi | +R\$ 33,5 bi | +R\$ 31,6 bi | +R\$ 171,5 bi |
+| IPOs/follow-ons | +R\$ 0 mi | +R\$ 0 mi | +R\$ 0 mi | +R\$ 4,6 bi | +R\$ 4,9 bi | +R\$ 208,2 bi |
+| **Total** | **−R\$ 1,7 bi** | **−R\$ 2,1 bi** | **−R\$ 2,1 bi** | **+R\$ 38,1 bi** | **+R\$ 36,5 bi** | **+R\$ 379,7 bi** |
 
 *Semana = desde segunda-feira · 12 meses = o mês até o dia + os 11 anteriores · ¹ Geral = bolsa desde 05/02/2009; ofertas desde 2016 (quando a B3 começou a somar). **Bolsa** é o número que a B3 divulga todo dia (e os sites publicam de manhã); **ofertas** são os IPOs e follow-ons que a B3 soma no total do mês; **total** = os dois (o total mensal oficial da B3). Dia e semana das ofertas só aparecem a partir do download diário (antes disso a B3 só dá o mês).*
 
@@ -29,21 +29,21 @@ tags: [estrangeiros]
 
 | Dia | Saldo do dia | Semana | Mês | Ano | 12 meses | Geral | IPO/follow-on |
 |---|---|---|---|---|---|---|---|
-| 04/11/2026 | **−R\$ 1,7 bi** | −R\$ 2,1 bi | −R\$ 2,1 bi | +R\$ 33,5 bi | +R\$ 31,6 bi | +R\$ 171,5 bi | — |
-| 03/11/2026 | **−R\$ 391 mi** | −R\$ 391 mi | −R\$ 391 mi | +R\$ 35,2 bi | +R\$ 33,3 bi | +R\$ 173,2 bi | — |
-| 30/10/2026 | **−R\$ 317 mi** | −R\$ 8,0 bi | +R\$ 8,2 bi | +R\$ 35,6 bi | +R\$ 35,8 bi | +R\$ 173,6 bi | — |
-| 29/10/2026 | **−R\$ 101 mi** | −R\$ 7,7 bi | +R\$ 8,5 bi | +R\$ 35,9 bi | +R\$ 36,1 bi | +R\$ 173,9 bi | — |
-| 28/10/2026 | **−R\$ 2,7 bi** | −R\$ 7,6 bi | +R\$ 8,6 bi | +R\$ 36,0 bi | +R\$ 36,2 bi | +R\$ 174,0 bi | — |
-| 27/10/2026 | **−R\$ 2,0 bi** | −R\$ 4,9 bi | +R\$ 11,3 bi | +R\$ 38,7 bi | +R\$ 38,9 bi | +R\$ 176,7 bi | — |
-| 26/10/2026 | **−R\$ 2,8 bi** | −R\$ 2,8 bi | +R\$ 13,3 bi | +R\$ 40,7 bi | +R\$ 40,9 bi | +R\$ 178,7 bi | — |
-| 23/10/2026 | **−R\$ 2,9 bi** | −R\$ 4,8 bi | +R\$ 16,2 bi | +R\$ 43,6 bi | +R\$ 43,8 bi | +R\$ 181,6 bi | — |
-| 22/10/2026 | **−R\$ 1,0 bi** | −R\$ 1,9 bi | +R\$ 19,1 bi | +R\$ 46,5 bi | +R\$ 46,7 bi | +R\$ 184,5 bi | — |
-| 21/10/2026 | **+R\$ 157 mi** | −R\$ 834 mi | +R\$ 20,2 bi | +R\$ 47,6 bi | +R\$ 47,7 bi | +R\$ 185,5 bi | — |
-| 20/10/2026 | **+R\$ 18 mi** | −R\$ 991 mi | +R\$ 20,0 bi | +R\$ 47,4 bi | +R\$ 47,6 bi | +R\$ 185,4 bi | — |
-| 19/10/2026 | **−R\$ 1,0 bi** | −R\$ 1,0 bi | +R\$ 20,0 bi | +R\$ 47,4 bi | +R\$ 47,6 bi | +R\$ 185,4 bi | — |
-| 16/10/2026 | **+R\$ 2,2 bi** | +R\$ 5,2 bi | +R\$ 21,0 bi | +R\$ 48,4 bi | +R\$ 48,6 bi | +R\$ 186,4 bi | — |
-| 15/10/2026 | **+R\$ 213 mi** | +R\$ 3,0 bi | +R\$ 18,7 bi | +R\$ 46,1 bi | +R\$ 46,3 bi | +R\$ 184,1 bi | — |
-| 14/10/2026 | **+R\$ 708 mi** | +R\$ 2,8 bi | +R\$ 18,5 bi | +R\$ 45,9 bi | +R\$ 46,1 bi | +R\$ 183,9 bi | — |
+| 04/11/2026 | **−R\$ 1,7 bi** | −R\$ 2,1 bi | −R\$ 2,1 bi | +R\$ 33,5 bi | +R\$ 31,6 bi | +R\$ 171,5 bi | — |
+| 03/11/2026 | **−R\$ 391 mi** | −R\$ 391 mi | −R\$ 391 mi | +R\$ 35,2 bi | +R\$ 33,3 bi | +R\$ 173,2 bi | — |
+| 30/10/2026 | **−R\$ 317 mi** | −R\$ 8,0 bi | +R\$ 8,2 bi | +R\$ 35,6 bi | +R\$ 35,8 bi | +R\$ 173,6 bi | — |
+| 29/10/2026 | **−R\$ 101 mi** | −R\$ 7,7 bi | +R\$ 8,5 bi | +R\$ 35,9 bi | +R\$ 36,1 bi | +R\$ 173,9 bi | — |
+| 28/10/2026 | **−R\$ 2,7 bi** | −R\$ 7,6 bi | +R\$ 8,6 bi | +R\$ 36,0 bi | +R\$ 36,2 bi | +R\$ 174,0 bi | — |
+| 27/10/2026 | **−R\$ 2,0 bi** | −R\$ 4,9 bi | +R\$ 11,3 bi | +R\$ 38,7 bi | +R\$ 38,9 bi | +R\$ 176,7 bi | — |
+| 26/10/2026 | **−R\$ 2,8 bi** | −R\$ 2,8 bi | +R\$ 13,3 bi | +R\$ 40,7 bi | +R\$ 40,9 bi | +R\$ 178,7 bi | — |
+| 23/10/2026 | **−R\$ 2,9 bi** | −R\$ 4,8 bi | +R\$ 16,2 bi | +R\$ 43,6 bi | +R\$ 43,8 bi | +R\$ 181,6 bi | — |
+| 22/10/2026 | **−R\$ 1,0 bi** | −R\$ 1,9 bi | +R\$ 19,1 bi | +R\$ 46,5 bi | +R\$ 46,7 bi | +R\$ 184,5 bi | — |
+| 21/10/2026 | **+R\$ 157 mi** | −R\$ 834 mi | +R\$ 20,2 bi | +R\$ 47,6 bi | +R\$ 47,7 bi | +R\$ 185,5 bi | — |
+| 20/10/2026 | **+R\$ 18 mi** | −R\$ 991 mi | +R\$ 20,0 bi | +R\$ 47,4 bi | +R\$ 47,6 bi | +R\$ 185,4 bi | — |
+| 19/10/2026 | **−R\$ 1,0 bi** | −R\$ 1,0 bi | +R\$ 20,0 bi | +R\$ 47,4 bi | +R\$ 47,6 bi | +R\$ 185,4 bi | — |
+| 16/10/2026 | **+R\$ 2,2 bi** | +R\$ 5,2 bi | +R\$ 21,0 bi | +R\$ 48,4 bi | +R\$ 48,6 bi | +R\$ 186,4 bi | — |
+| 15/10/2026 | **+R\$ 213 mi** | +R\$ 3,0 bi | +R\$ 18,7 bi | +R\$ 46,1 bi | +R\$ 46,3 bi | +R\$ 184,1 bi | — |
+| 14/10/2026 | **+R\$ 708 mi** | +R\$ 2,8 bi | +R\$ 18,5 bi | +R\$ 45,9 bi | +R\$ 46,1 bi | +R\$ 183,9 bi | — |
 
 *Saldo negociado na bolsa (sem ofertas). Fonte do dia: relatório da B3 baixado todo dia; antes do download diário, Dados de Mercado e Clube do Pai Rico (os mesmos números da B3).*
 
@@ -92,30 +92,30 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 | Mês | Bolsa | IPO/follow-on | Total | | Ano (bolsa) | Ano (total) | 12 meses (total) |
 |---|---|---|---|---|---|---|---|
-| nov/2026 *(até 04)* | **−R\$ 2,1 bi** | — | −R\$ 2,1 bi | 🟥 | +R\$ 33,5 bi | +R\$ 38,1 bi | +R\$ 36,5 bi |
-| out/2026 | **+R\$ 8,2 bi** | — | +R\$ 8,2 bi | 🟩🟩🟩 | +R\$ 35,6 bi | +R\$ 40,2 bi | +R\$ 41,1 bi |
-| set/2026 | **+R\$ 9,1 bi** | — | +R\$ 9,1 bi | 🟩🟩🟩 | +R\$ 27,4 bi | +R\$ 32,0 bi | +R\$ 31,8 bi |
-| ago/2026 | **−R\$ 18,1 bi** | — | −R\$ 18,1 bi | 🟥🟥🟥🟥🟥🟥🟥 | +R\$ 18,3 bi | +R\$ 22,9 bi | +R\$ 28,0 bi |
-| jul/2026 | **+R\$ 2,6 bi** | +R\$ 1,8 bi | +R\$ 4,3 bi | 🟩🟩 | +R\$ 36,4 bi | +R\$ 41,0 bi | +R\$ 47,3 bi |
-| jun/2026 | **−R\$ 7,8 bi** | +R\$ 738 mi | −R\$ 7,0 bi | 🟥🟥🟥 | +R\$ 33,8 bi | +R\$ 36,7 bi | +R\$ 36,7 bi |
-| mai/2026 | **−R\$ 14,9 bi** | +R\$ 1,6 bi | −R\$ 13,3 bi | 🟥🟥🟥🟥🟥 | +R\$ 41,6 bi | +R\$ 43,8 bi | +R\$ 49,1 bi |
-| abr/2026 | **+R\$ 3,2 bi** | +R\$ 43 mi | +R\$ 3,2 bi | 🟩 | +R\$ 56,5 bi | +R\$ 57,1 bi | +R\$ 73,1 bi |
-| mar/2026 | **+R\$ 11,7 bi** | +R\$ 309 mi | +R\$ 12,0 bi | 🟩🟩🟩🟩🟩 | +R\$ 53,4 bi | +R\$ 53,8 bi | +R\$ 69,7 bi |
-| fev/2026 | **+R\$ 15,4 bi** | — | +R\$ 15,4 bi | 🟩🟩🟩🟩🟩🟩 | +R\$ 41,7 bi | +R\$ 41,9 bi | +R\$ 61,2 bi |
-| jan/2026 | **+R\$ 26,3 bi** | +R\$ 158 mi | +R\$ 26,5 bi | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | +R\$ 26,3 bi | +R\$ 26,5 bi | +R\$ 46,5 bi |
-| dez/2025 | **−R\$ 1,9 bi** | +R\$ 253 mi | −R\$ 1,6 bi | 🟥 | +R\$ 25,5 bi | +R\$ 26,9 bi | +R\$ 26,9 bi |
-| nov/2025 | **+R\$ 2,1 bi** | +R\$ 489 mi | +R\$ 2,6 bi | 🟩 | +R\$ 27,3 bi | +R\$ 28,5 bi | +R\$ 29,4 bi |
-| out/2025 | **−R\$ 1,2 bi** | +R\$ 94 mi | −R\$ 1,1 bi | 🟥 | +R\$ 25,3 bi | +R\$ 25,9 bi | +R\$ 23,8 bi |
-| set/2025 | **+R\$ 5,3 bi** | — | +R\$ 5,3 bi | 🟩🟩 | +R\$ 26,5 bi | +R\$ 27,1 bi | +R\$ 22,4 bi |
-| ago/2025 | **+R\$ 1,2 bi** | — | +R\$ 1,2 bi | 🟩 | +R\$ 21,2 bi | +R\$ 21,8 bi | +R\$ 15,4 bi |
-| jul/2025 | **−R\$ 6,4 bi** | +R\$ 104 mi | −R\$ 6,3 bi | 🟥🟥 | +R\$ 20,1 bi | +R\$ 20,6 bi | +R\$ 24,3 bi |
-| jun/2025 | **+R\$ 5,4 bi** | +R\$ 31 mi | +R\$ 5,4 bi | 🟩🟩 | +R\$ 26,4 bi | +R\$ 26,9 bi | +R\$ 34,1 bi |
-| mai/2025 | **+R\$ 10,6 bi** | +R\$ 80 mi | +R\$ 10,7 bi | 🟩🟩🟩🟩 | +R\$ 21,1 bi | +R\$ 21,5 bi | +R\$ 24,5 bi |
-| abr/2025 | **−R\$ 134 mi** | — | −R\$ 134 mi | 🟥 | +R\$ 10,5 bi | +R\$ 10,9 bi | +R\$ 12,2 bi |
-| mar/2025 | **+R\$ 3,1 bi** | +R\$ 344 mi | +R\$ 3,5 bi | 🟩 | +R\$ 10,6 bi | +R\$ 11,0 bi | +R\$ 950 mi |
-| fev/2025 | **+R\$ 699 mi** | — | +R\$ 699 mi | 🟩 | +R\$ 7,5 bi | +R\$ 7,5 bi | −R\$ 8,1 bi |
-| jan/2025 | **+R\$ 6,8 bi** | — | +R\$ 6,8 bi | 🟩🟩🟩 | +R\$ 6,8 bi | +R\$ 6,8 bi | −R\$ 18,2 bi |
-| dez/2024 ² | **+R\$ 879 mi** | — | +R\$ 879 mi | 🟩 | −R\$ 32,9 bi | −R\$ 32,9 bi | −R\$ 32,9 bi |
+| nov/2026 *(até 04)* | **−R\$ 2,1 bi** | — | −R\$ 2,1 bi | 🟥 | +R\$ 33,5 bi | +R\$ 38,1 bi | +R\$ 36,5 bi |
+| out/2026 | **+R\$ 8,2 bi** | — | +R\$ 8,2 bi | 🟩🟩🟩 | +R\$ 35,6 bi | +R\$ 40,2 bi | +R\$ 41,1 bi |
+| set/2026 | **+R\$ 9,1 bi** | — | +R\$ 9,1 bi | 🟩🟩🟩 | +R\$ 27,4 bi | +R\$ 32,0 bi | +R\$ 31,8 bi |
+| ago/2026 | **−R\$ 18,1 bi** | — | −R\$ 18,1 bi | 🟥🟥🟥🟥🟥🟥🟥 | +R\$ 18,3 bi | +R\$ 22,9 bi | +R\$ 28,0 bi |
+| jul/2026 | **+R\$ 2,6 bi** | +R\$ 1,8 bi | +R\$ 4,3 bi | 🟩🟩 | +R\$ 36,4 bi | +R\$ 41,0 bi | +R\$ 47,3 bi |
+| jun/2026 | **−R\$ 7,8 bi** | +R\$ 738 mi | −R\$ 7,0 bi | 🟥🟥🟥 | +R\$ 33,8 bi | +R\$ 36,7 bi | +R\$ 36,7 bi |
+| mai/2026 | **−R\$ 14,9 bi** | +R\$ 1,6 bi | −R\$ 13,3 bi | 🟥🟥🟥🟥🟥 | +R\$ 41,6 bi | +R\$ 43,8 bi | +R\$ 49,1 bi |
+| abr/2026 | **+R\$ 3,2 bi** | +R\$ 43 mi | +R\$ 3,2 bi | 🟩 | +R\$ 56,5 bi | +R\$ 57,1 bi | +R\$ 73,1 bi |
+| mar/2026 | **+R\$ 11,7 bi** | +R\$ 309 mi | +R\$ 12,0 bi | 🟩🟩🟩🟩🟩 | +R\$ 53,4 bi | +R\$ 53,8 bi | +R\$ 69,7 bi |
+| fev/2026 | **+R\$ 15,4 bi** | — | +R\$ 15,4 bi | 🟩🟩🟩🟩🟩🟩 | +R\$ 41,7 bi | +R\$ 41,9 bi | +R\$ 61,2 bi |
+| jan/2026 | **+R\$ 26,3 bi** | +R\$ 158 mi | +R\$ 26,5 bi | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | +R\$ 26,3 bi | +R\$ 26,5 bi | +R\$ 46,5 bi |
+| dez/2025 | **−R\$ 1,9 bi** | +R\$ 253 mi | −R\$ 1,6 bi | 🟥 | +R\$ 25,5 bi | +R\$ 26,9 bi | +R\$ 26,9 bi |
+| nov/2025 | **+R\$ 2,1 bi** | +R\$ 489 mi | +R\$ 2,6 bi | 🟩 | +R\$ 27,3 bi | +R\$ 28,5 bi | +R\$ 29,4 bi |
+| out/2025 | **−R\$ 1,2 bi** | +R\$ 94 mi | −R\$ 1,1 bi | 🟥 | +R\$ 25,3 bi | +R\$ 25,9 bi | +R\$ 23,8 bi |
+| set/2025 | **+R\$ 5,3 bi** | — | +R\$ 5,3 bi | 🟩🟩 | +R\$ 26,5 bi | +R\$ 27,1 bi | +R\$ 22,4 bi |
+| ago/2025 | **+R\$ 1,2 bi** | — | +R\$ 1,2 bi | 🟩 | +R\$ 21,2 bi | +R\$ 21,8 bi | +R\$ 15,4 bi |
+| jul/2025 | **−R\$ 6,4 bi** | +R\$ 104 mi | −R\$ 6,3 bi | 🟥🟥 | +R\$ 20,1 bi | +R\$ 20,6 bi | +R\$ 24,3 bi |
+| jun/2025 | **+R\$ 5,4 bi** | +R\$ 31 mi | +R\$ 5,4 bi | 🟩🟩 | +R\$ 26,4 bi | +R\$ 26,9 bi | +R\$ 34,1 bi |
+| mai/2025 | **+R\$ 10,6 bi** | +R\$ 80 mi | +R\$ 10,7 bi | 🟩🟩🟩🟩 | +R\$ 21,1 bi | +R\$ 21,5 bi | +R\$ 24,5 bi |
+| abr/2025 | **−R\$ 134 mi** | — | −R\$ 134 mi | 🟥 | +R\$ 10,5 bi | +R\$ 10,9 bi | +R\$ 12,2 bi |
+| mar/2025 | **+R\$ 3,1 bi** | +R\$ 344 mi | +R\$ 3,5 bi | 🟩 | +R\$ 10,6 bi | +R\$ 11,0 bi | +R\$ 950 mi |
+| fev/2025 | **+R\$ 699 mi** | — | +R\$ 699 mi | 🟩 | +R\$ 7,5 bi | +R\$ 7,5 bi | −R\$ 8,1 bi |
+| jan/2025 | **+R\$ 6,8 bi** | — | +R\$ 6,8 bi | 🟩🟩🟩 | +R\$ 6,8 bi | +R\$ 6,8 bi | −R\$ 18,2 bi |
+| dez/2024 ² | **+R\$ 879 mi** | — | +R\$ 879 mi | 🟩 | −R\$ 32,9 bi | −R\$ 32,9 bi | −R\$ 32,9 bi |
 
 *² mês pelas postagens diárias do Clube do Pai Rico (sem ofertas).*
 
@@ -123,24 +123,24 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 | Ano | Bolsa | IPO/follow-on | Total | Geral (bolsa) |
 |---|---|---|---|---|
-| 2026 *(até 04/11)* | **+R\$ 33,5 bi** | +R\$ 4,6 bi | +R\$ 38,1 bi | +R\$ 171,5 bi |
-| 2025 | **+R\$ 25,5 bi** | +R\$ 1,4 bi | +R\$ 26,9 bi | +R\$ 138,0 bi |
-| 2024 | **−R\$ 32,1 bi** | +R\$ 7,9 bi | −R\$ 24,2 bi | +R\$ 112,5 bi |
-| 2023 | **+R\$ 44,9 bi** | +R\$ 11,1 bi | +R\$ 56,0 bi | +R\$ 144,6 bi |
-| 2022 | **+R\$ 100,8 bi** | +R\$ 19,0 bi | +R\$ 119,8 bi | +R\$ 99,8 bi |
-| 2021 | **−R\$ 7,2 bi** | +R\$ 48,7 bi | +R\$ 41,5 bi | −R\$ 1,1 bi |
-| 2020 | **−R\$ 39,7 bi** | +R\$ 40,4 bi | +R\$ 701 mi | +R\$ 6,1 bi |
-| 2019 | **−R\$ 44,5 bi** | +R\$ 38,0 bi | −R\$ 6,5 bi | +R\$ 45,8 bi |
-| 2018 | **−R\$ 11,5 bi** | +R\$ 6,7 bi | −R\$ 4,8 bi | +R\$ 90,3 bi |
-| 2017 | **+R\$ 14,4 bi** | +R\$ 25,2 bi | +R\$ 39,6 bi | +R\$ 101,8 bi |
-| 2016 | **+R\$ 14,3 bi** | +R\$ 5,2 bi | +R\$ 19,5 bi | +R\$ 87,4 bi |
-| 2015 ³ | **+R\$ 16,3 bi** | — | — | +R\$ 73,1 bi |
-| 2014 ³ | **+R\$ 19,3 bi** | — | — | +R\$ 56,8 bi |
-| 2013 ³ | **+R\$ 12,0 bi** | — | — | +R\$ 37,5 bi |
-| 2012 ³ | **+R\$ 217 mi** | — | — | +R\$ 25,5 bi |
-| 2011 ³ | **−R\$ 2,3 bi** | — | — | +R\$ 25,3 bi |
-| 2010 ³ | **+R\$ 9,1 bi** | — | — | +R\$ 27,6 bi |
-| 2009 ³ | **+R\$ 18,5 bi** | — | — | +R\$ 18,5 bi |
+| 2026 *(até 04/11)* | **+R\$ 33,5 bi** | +R\$ 4,6 bi | +R\$ 38,1 bi | +R\$ 171,5 bi |
+| 2025 | **+R\$ 25,5 bi** | +R\$ 1,4 bi | +R\$ 26,9 bi | +R\$ 138,0 bi |
+| 2024 | **−R\$ 32,1 bi** | +R\$ 7,9 bi | −R\$ 24,2 bi | +R\$ 112,5 bi |
+| 2023 | **+R\$ 44,9 bi** | +R\$ 11,1 bi | +R\$ 56,0 bi | +R\$ 144,6 bi |
+| 2022 | **+R\$ 100,8 bi** | +R\$ 19,0 bi | +R\$ 119,8 bi | +R\$ 99,8 bi |
+| 2021 | **−R\$ 7,2 bi** | +R\$ 48,7 bi | +R\$ 41,5 bi | −R\$ 1,1 bi |
+| 2020 | **−R\$ 39,7 bi** | +R\$ 40,4 bi | +R\$ 701 mi | +R\$ 6,1 bi |
+| 2019 | **−R\$ 44,5 bi** | +R\$ 38,0 bi | −R\$ 6,5 bi | +R\$ 45,8 bi |
+| 2018 | **−R\$ 11,5 bi** | +R\$ 6,7 bi | −R\$ 4,8 bi | +R\$ 90,3 bi |
+| 2017 | **+R\$ 14,4 bi** | +R\$ 25,2 bi | +R\$ 39,6 bi | +R\$ 101,8 bi |
+| 2016 | **+R\$ 14,3 bi** | +R\$ 5,2 bi | +R\$ 19,5 bi | +R\$ 87,4 bi |
+| 2015 ³ | **+R\$ 16,3 bi** | — | — | +R\$ 73,1 bi |
+| 2014 ³ | **+R\$ 19,3 bi** | — | — | +R\$ 56,8 bi |
+| 2013 ³ | **+R\$ 12,0 bi** | — | — | +R\$ 37,5 bi |
+| 2012 ³ | **+R\$ 217 mi** | — | — | +R\$ 25,5 bi |
+| 2011 ³ | **−R\$ 2,3 bi** | — | — | +R\$ 25,3 bi |
+| 2010 ³ | **+R\$ 9,1 bi** | — | — | +R\$ 27,6 bi |
+| 2009 ³ | **+R\$ 18,5 bi** | — | — | +R\$ 18,5 bi |
 
 *³ ano pelas postagens diárias do Pai Rico (antes de 2016 a B3 não separava as ofertas).*
 
@@ -167,13 +167,13 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 | O que | Por aqui | Pela outra fonte | |
 |---|---|---|---|
-| Mês até 04/11: soma dos dias × relatório da B3 | −R\$ 2,1 bi | −R\$ 2,1 bi | ✅ |
-| Ano até 04/11 (bolsa): resumo/gráfico × B3 | +R\$ 33,5 bi | +R\$ 33,5 bi | ✅ |
-| Ano até 04/11 com ofertas: total × B3 (A+C−B) | +R\$ 38,1 bi | +R\$ 38,1 bi | ✅ |
+| Mês até 04/11: soma dos dias × relatório da B3 | −R\$ 2,1 bi | −R\$ 2,1 bi | ✅ |
+| Ano até 04/11 (bolsa): resumo/gráfico × B3 | +R\$ 33,5 bi | +R\$ 33,5 bi | ✅ |
+| Ano até 04/11 com ofertas: total × B3 (A+C−B) | +R\$ 38,1 bi | +R\$ 38,1 bi | ✅ |
 | Meses fechados de 2026: soma dos dias × mês oficial | 10 de 10 batem | — | ✅ |
-| Ano até 04/11: nosso × publicado pelo Pai Rico | +R\$ 33,5 bi | +R\$ 33,5 bi | ✅ |
-| Tabela dos 5 tipos (até 04/11): estrangeiro no ano × série principal na MESMA data | +R\$ 33,5 bi | +R\$ 33,5 bi | ✅ |
-| Tabela dos 5 tipos: os 5 saldos de 04/11 somam zero | −R\$ 0 mi | zero | ✅ |
+| Ano até 04/11: nosso × publicado pelo Pai Rico | +R\$ 33,5 bi | +R\$ 33,5 bi | ✅ |
+| Tabela dos 5 tipos (até 04/11): estrangeiro no ano × série principal na MESMA data | +R\$ 33,5 bi | +R\$ 33,5 bi | ✅ |
+| Tabela dos 5 tipos: os 5 saldos de 04/11 somam zero | −R\$ 0 mi | zero | ✅ |
 
 > [!info]- Como funciona (fontes e horários)
 > - **B3, direto:** todo dia útil das 5h40 às 8h40 o servidor baixa o relatório *Dados de mercado* da B3 (1 download por tentativa). A B3 publica a movimentação dos estrangeiros em **D+2** — o pregão de segunda sai na quarta de manhã. A diferença entre o relatório de hoje e o anterior é o saldo do pregão novo (compras, vendas e ofertas separados).
