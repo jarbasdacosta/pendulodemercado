@@ -17,7 +17,7 @@ Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/20
 _Nenhuma posição aberta agora._
 
 > [!info] 🌊 Contexto do IMA para compras
-> 🔪 **queda forte ativa** desde 03/11 (compras assim renderam menos no histórico) · 🎯 **amplitude na região de fundo** (17% acima da MM 200) — ζ Topo 0% · ζ Fundo 99% em 05/11
+> 🔪 **queda forte ativa** desde 03/11 (compras assim renderam menos no histórico) · 🎯 **amplitude na região de fundo** (14% acima da MM 200) — ζ Topo 0% · ζ Fundo 100% em 06/11
 > Informa, não filtra: veja como as compras se saíram em cada contexto no [🏆 Ranking](operacoes/ranking#contexto-do-ima).
 
 ## Agora
