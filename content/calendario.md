@@ -13,10 +13,10 @@ tags: [calendario]
 
 ## Como ler
 
-**Impacto** é a leitura do próprio Myfxbook sobre o tamanho do estrago que o número costuma causar no câmbio. Alto são os que mexem no mercado inteiro — juros do Fed e do Copom, payroll, inflação ao consumidor. Médio são os que mexem no humor sem virar a mesa.
+**Horário: a tabela vem em GMT.** É o que aparece no seletor acima do calendário, e Brasília é GMT−3 — basta tirar três horas. Os dados americanos de 13:30 GMT saem 10:30 daqui, em cima da nossa abertura, que é onde o WIN costuma abrir o gap. Dá para trocar o fuso no próprio seletor; a escolha fica guardada no navegador.
+
+**Impacto** é a leitura do Myfxbook sobre o tamanho do estrago que o número costuma causar no câmbio. `HIGH` são os que mexem no mercado inteiro — juros do Fed e do Copom, payroll, inflação ao consumidor. `MED` são os que mexem no humor sem virar a mesa.
 
 **Anterior, consenso e real.** O que importa quase nunca é o número em si, e sim a distância entre o consenso e o que saiu. Um payroll forte com consenso já forte costuma passar em branco; o mesmo número contra um consenso fraco derruba índice.
-
-**Horário.** A tabela vem no fuso do seu navegador. Os eventos americanos de 8h30 de Nova York caem às 10h30 aqui no horário de verão deles e 11h30 fora dele — exatamente na abertura do nosso pregão, que é onde o WIN costuma abrir o gap.
 
 Os dados são do Myfxbook, não do sistema do Pêndulo: esta página é só uma agenda, sem sinal nem recomendação.
