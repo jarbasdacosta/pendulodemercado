@@ -7,7 +7,7 @@ tags: [calendario]
 
 *Eventos de impacto **alto** e **médio** das economias que puxam o pregão brasileiro: **Brasil, Estados Unidos, China, Hong Kong, Zona do Euro e Japão**. A tabela atualiza sozinha quando o dado sai — não precisa recarregar a página.*
 
-<iframe src="https://widget.mfbcdn.net/widget/calendar.html?lang=pt&amp;impacts=0,2,3&amp;symbols=BRL,CNY,EUR,HKD,JPY,USD" style="border: 0; width: 100%; height: 820px;" loading="lazy" title="Calendário econômico"></iframe>
+<iframe src="https://widget.mfbcdn.net/widget/calendar.html?lang=en&amp;impacts=0,2,3&amp;symbols=BRL,CNY,EUR,HKD,JPY,USD" style="border: 0; width: 100%; height: 820px;" loading="lazy" title="Calendário econômico"></iframe>
 
 <div style="margin-top: 10px;"><div style="width: fit-content; margin: auto; font-family: inherit; font-size: 13px; color: #666666;"><a href="https://www.myfxbook.com/forex-economic-calendar?utm_source=widget13&amp;utm_medium=link&amp;utm_campaign=copyright" title="Economic Calendar" class="myfxbookLink" target="_blank" rel="noopener"><b style="color:#666666">Economic Calendar</b></a> by Myfxbook.com</div></div>
 
