@@ -13,7 +13,7 @@ tags: [calendario]
 
 **Horário.** O seletor logo acima da tabela diz em que fuso ela está — confira que marca **GMT −3:00**. Se abrir em GMT puro, clique ali e troque; a escolha fica guardada no seu navegador. Em horário de Brasília, os dados americanos saem às 10h30, em cima da nossa abertura, que é onde o WIN costuma abrir o gap.
 
-**Impacto** é a leitura do Myfxbook sobre o tamanho do estrago que o número costuma causar no câmbio. `ALTO` são os que mexem no mercado inteiro — juros do Fed e do Copom, payroll, inflação ao consumidor. `MÉDIO` são os que mexem no humor sem virar a mesa. O que importa quase nunca é o número em si, e sim a distância entre o consenso e o que saiu: um payroll forte contra um consenso já forte passa em branco; o mesmo número contra um consenso fraco derruba índice.
+**Impacto** é a leitura do Myfxbook sobre o tamanho do estrago que o número costuma causar no câmbio. `HIGH` são os que mexem no mercado inteiro — juros do Fed e do Copom, payroll, inflação ao consumidor. `MED` são os que mexem no humor sem virar a mesa. O que importa quase nunca é o número em si, e sim a distância entre o consenso e o que saiu: um payroll forte contra um consenso já forte passa em branco; o mesmo número contra um consenso fraco derruba índice.
 
 ## Horário das bolsas
 
