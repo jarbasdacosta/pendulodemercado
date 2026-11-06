@@ -1,11 +1,11 @@
 ---
 title: "🔔 Linha do tempo"
-date: 2026-11-05
+date: 2026-11-06
 description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais recente para o mais antigo"
 tags: [eventos]
 ---
 
-*Atualizada 05/11/2026 19:06 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 06/11/2026 10:15 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças da Crise. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -18,7 +18,7 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 ## Últimos 7 dias
 
-### Hoje · qui, 05/11/2026
+### Hoje · sex, 06/11/2026
 
 *Nenhum evento hoje até agora.*
 
@@ -36,21 +36,13 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 |---|---|---|---|---|
 | 18:00 fechamento | Sinais · Mensal | 🟠 Topo (proteção) · TT+RSI ⏱️ | Top tail + RSI≥70 · acertou 38% · 2,5× o acaso | — |
 
-### sex, 30/10/2026 · 3 eventos
-
-| Hora | Módulo | Evento | Detalhe | 📲 |
-|---|---|---|---|---|
-| **19:06** | Crise · diário | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 66% · LPPL 0% | — |
-| **19:01** | Tendência · Semanal | ⚠️ Ordem de venda armada (candle fechou abaixo da MME9) ⚡ | zera se passar abaixo de 167.008 em até 3 semanas | ✅ |
-| 18:00 fechamento | Sinais · Diário | 🔥 Sinal FORTE de fundo · FD+RSI ⏱️ | Fechou fora→dentro da BB inferior + RSI≤30 · acertou 71% · 2,8× o acaso | ✅ |
-
 ## Histórico por ano
 
 Clique no ano; na página do ano, clique no mês e depois no dia.
 
 | Ano | Eventos | 🟢 Compras | ⚪🔴 Vendas e stops | 📌⚠️ Ordens armadas | Sinais |
 |---|---|---|---|---|---|
-| **[2026](linha-do-tempo/2026)** | 211 | 22 | 41 | 32 | 42 |
+| **[2026](linha-do-tempo/2026)** | 205 | 22 | 41 | 32 | 42 |
 | **[2025](linha-do-tempo/2025)** | 113 | 30 | 25 | 43 | 11 |
 | **[2024](linha-do-tempo/2024)** | 156 | 41 | 45 | 57 | 3 |
 | **[2023](linha-do-tempo/2023)** | 99 | 22 | 22 | 53 | 1 |
