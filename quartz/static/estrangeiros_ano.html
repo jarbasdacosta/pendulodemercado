@@ -17,18 +17,24 @@ const D = {"titulo":"Capital estrangeiro na B3 em 2026 \u2014 acumulado no ano, 
 const escuro = matchMedia("(prefers-color-scheme: dark)").matches;
 const cor = escuro ? "#e6e6e6" : "#1f2a37";
 const grade = escuro ? "#333333" : "#e5e7eb";
-const traces = D.series.map(s => ({
-  type: s.tipo === "bar" ? "bar" : "scatter",
-  mode: "lines",
-  name: s.nome,
-  x: D.x,
-  y: s.y,
-  yaxis: s.eixo === "y2" ? "y2" : "y",
-  marker: s.tipo === "bar" ? {color: s.cor} : undefined,
-  line: s.tipo === "bar" ? undefined
-        : {color: s.cor, width: s.largura || 2, dash: s.tracejado ? "dash" : "solid"},
-  hovertemplate: "%{y:,.2f} bi<extra>" + s.nome + "</extra>"
-}));
+const traces = D.series.map(s => {
+  const t = {
+    name: s.nome,
+    x: D.x,
+    y: s.y,
+    yaxis: s.eixo === "y2" ? "y2" : "y",
+    hovertemplate: "%{y:,.2f} bi<extra>" + s.nome + "</extra>"
+  };
+  if (s.tipo === "bar") {
+    t.type = "bar";
+    t.marker = {color: s.cor};
+  } else {
+    t.type = "scatter";
+    t.mode = "lines";
+    t.line = {color: s.cor, width: s.largura || 2, dash: s.tracejado ? "dash" : "solid"};
+  }
+  return t;
+});
 const layout = {
   title: {text: D.titulo, font: {size: 14, color: cor}},
   barmode: D.barmode || "relative",
