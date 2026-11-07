@@ -5,7 +5,7 @@ description: "Compras e vendas dos investidores estrangeiros no mercado à vista
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **04/11/2026** (a B3 publica dois pregões depois) · página atualizada 06/11/2026 19:05. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **04/11/2026** (a B3 publica dois pregões depois) · página atualizada 06/11/2026 22:52. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
 > [!danger] 04/11/2026: **−R\$ 1,7 bi**
 > 9 pregões seguidos de saída, de 22/10/2026 a 04/11/2026, somando **−R\$ 14,0 bi** — média de **−R\$ 1,6 bi** por pregão.
@@ -143,6 +143,41 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 | 2009 ³ | **+R\$ 18,5 bi** | — | — | +R\$ 18,5 bi |
 
 *³ ano pelas postagens diárias do Pai Rico (antes de 2016 a B3 não separava as ofertas).*
+
+## Dinheiro novo: ofertas de ações
+
+*Quanto as empresas captaram em IPOs e follow-ons na B3, por ano. Atenção: esta tabela é do **mercado inteiro**, somando todos os investidores — não é o fluxo estrangeiro das tabelas acima. Serve para ver quando a janela de captação abre e fecha. Valores em reais de cada ano, sem correção monetária.*
+
+| Ano | Ofertas | IPOs | Follow-ons | Total |
+|---|---|---|---|---|
+| 2026 | 13 | R\$ 3,4 bi <small>(2 empresas)</small> | R\$ 34,4 bi | **R\$ 37,8 bi** |
+| 2025 | 10 | — | R\$ 15,5 bi | **R\$ 15,5 bi** |
+| 2024 | 9 | — | R\$ 25,0 bi | **R\$ 25,0 bi** |
+| 2023 | 20 | — | R\$ 31,1 bi | **R\$ 31,1 bi** |
+| 2022 | 6 | — | R\$ 33,7 bi | **R\$ 33,7 bi** |
+| 2021 | 57 | R\$ 54,9 bi <small>(31 empresas)</small> | R\$ 13,2 bi | **R\$ 68,1 bi** |
+| 2020 | 48 | R\$ 44,6 bi <small>(26 empresas)</small> | R\$ 29,0 bi | **R\$ 73,6 bi** |
+| 2019 | 14 | R\$ 10,2 bi <small>(5 empresas)</small> | R\$ 25,0 bi | **R\$ 35,2 bi** |
+| 2018 | 6 | R\$ 6,8 bi <small>(3 empresas)</small> | R\$ 0 mi | **R\$ 6,8 bi** |
+| 2017 | 22 | R\$ 20,1 bi <small>(9 empresas)</small> | R\$ 3,0 bi | **R\$ 23,1 bi** |
+| 2016 | 5 | R\$ 800 mi <small>(1 empresa)</small> | R\$ 3,5 bi | **R\$ 4,3 bi** |
+| 2015 | 3 | R\$ 600 mi <small>(1 empresa)</small> | R\$ 16,1 bi | **R\$ 16,7 bi** |
+| 2014 | 4 | R\$ 400 mi <small>(1 empresa)</small> | R\$ 15,0 bi | **R\$ 15,4 bi** |
+| 2013 | 28 | R\$ 16,8 bi <small>(9 empresas)</small> | R\$ 7,1 bi | **R\$ 23,9 bi** |
+| 2012 | 21 | R\$ 700 mi <small>(2 empresas)</small> | R\$ 13,6 bi | **R\$ 14,3 bi** |
+| 2011 | 40 | R\$ 7,0 bi <small>(10 empresas)</small> | R\$ 12,1 bi | **R\$ 19,2 bi** |
+| 2010 | 37 | R\$ 11,8 bi <small>(10 empresas)</small> | R\$ 140,4 bi | **R\$ 152,2 bi** |
+| 2009 | 31 | R\$ 10,8 bi <small>(5 empresas)</small> | R\$ 36,3 bi | **R\$ 47,1 bi** |
+| 2008 | 19 | R\$ 7,6 bi <small>(4 empresas)</small> | R\$ 27,3 bi | **R\$ 34,9 bi** |
+| 2007 | 122 | R\$ 52,2 bi <small>(53 empresas)</small> | R\$ 23,3 bi | **R\$ 75,5 bi** |
+| 2006 | 71 | R\$ 11,6 bi <small>(20 empresas)</small> | R\$ 19,6 bi | **R\$ 31,2 bi** |
+| 2005 | 33 | R\$ 5,5 bi <small>(9 empresas)</small> | R\$ 8,8 bi | **R\$ 14,3 bi** |
+| 2004 | 21 | R\$ 4,8 bi <small>(7 empresas)</small> | R\$ 4,4 bi | **R\$ 9,2 bi** |
+
+Repare na seca: **2022 a 2025** sem nenhum IPO na B3. Empresas continuaram levantando dinheiro em follow-ons, mas nenhuma estreou em bolsa — a janela de abertura de capital ficou fechada.
+
+Fonte: CVM — dados abertos, ofertas de distribuição. Ano pela data de registro da oferta na CVM.
+
 
 ## Participação no volume (compra + venda)
 
