@@ -6,7 +6,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 06/11/2026 21:19 BRT · Diário D1*
+*Última atualização: 06/11/2026 21:21 BRT · Diário D1*
 
 > [!danger] Onde o mercado está no fechamento de 06/11: **🔪 Queda forte**
 > `Pânico ◀●────────────────────▶ Euforia`
@@ -82,7 +82,7 @@ tags: [home]
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
 >
-> Os momentos úteis são as **mudanças** do ζ: 🚀 ζ Topo subindo para 30–60% (69% subiu no mês) e 🔪 ζ Fundo disparando (só 42% subiu em 3 meses). 📉 ζ Topo desinflando do 🔴 teve queda de 5% em 45% das vezes (31% num dia qualquer), mas com poucos casos. O 📉 do 🟡 e o 🌱 ficaram como contexto: não se confirmaram em 2014–2026 (revisão de 23/10/2026). [Metodologia da Crise](metodologia/crise).
+> Os momentos úteis são as **mudanças** do ζ: 🚀 ζ Topo subindo para 30–60% (69% subiu no mês) e 🔪 ζ Fundo disparando (só 42% subiu em 3 meses). 📉 ζ Topo desinflando do 🔴 teve queda de 5% em 45% das vezes (31% num dia qualquer), mas com poucos casos. O 📉 do 🟡 e o 🌱 ficaram como contexto: não se confirmaram em 2014–2026 (revisão de 23/10/2026). [Metodologia da Sinal IMA](metodologia/crise).
 
 ## Seções
 
@@ -92,7 +92,7 @@ tags: [home]
 - 📍 **[Sinais](sinais-topo-fundo/)**: de hoje, 🎯 raros de grande fundo e ⚠️ alerta de topo · [Todos os sinais](sinais-topo-fundo/todos-os-sinais) · [Como ler](sinais-topo-fundo/tutorial)
 - 📊 **[Amplitude](amplitude/)** (% das ações do Ibovespa acima das médias) · 🌎 **[Capital estrangeiro](estrangeiros/)** (dados da B3): contexto do mercado, ainda em teste
 - 📈 **[Gráficos](tecnico/)**: mensal, semanal e diário com médias, Bollinger, MACD-V, CCI e RSI
-- 📚 **[Metodologia](metodologia/)**: [Crise](metodologia/crise) · [Sinais](metodologia/sinais) · [Regras de operação](metodologia/regras-de-operacao) · [O que não passou](metodologia/o-que-nao-passou)
+- 📚 **[Metodologia](metodologia/)**: [Sinal IMA](metodologia/crise) · [Sinais](metodologia/sinais) · [Regras de operação](metodologia/regras-de-operacao) · [O que não passou](metodologia/o-que-nao-passou)
 
 ---
 *Pêndulo de Mercado · entre o pânico e a euforia, onde o mercado está. Sinal IMA baseado no trabalho do Prof. Marco Antonio Leonel Caetano (IMA Wavelet, [Caetano & Yoneyama, Physica-A 2007](https://doi.org/10.1016/j.physa.2007.03.054)) e do Prof. Didier Sornette (LPPL, ETH-Zurich); Sinais de Topo e Fundo baseados no trabalho de Oliver Velez, J. Welles Wilder, Donald Lambert, John Bollinger e Alex Spiroglou. Adaptado, testado no Ibovespa e mantido por Jarbas Daniel da Costa. Os autores citados não participam do produto. · [Metodologia](metodologia/) · [Histórico](historico)*

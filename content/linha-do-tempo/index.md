@@ -5,9 +5,9 @@ description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais re
 tags: [eventos]
 ---
 
-*Atualizada 06/11/2026 21:19 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 06/11/2026 21:21 BRT · a cada 15 min no pregão e às 19h.*
 
-Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças da Crise. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
+Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
 > [!info]- Como ler
 > - **Hora em negrito** = registrado ao vivo, na hora em que o sistema detectou (o pregão é conferido a cada 15 min, com candles de 15 min; a hora é a do candle em que aconteceu).
