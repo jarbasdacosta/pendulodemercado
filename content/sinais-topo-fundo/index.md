@@ -55,12 +55,12 @@ Aparecem menos de uma vez por ano e quase sempre perto de um **grande fundo** (q
 
 ## 🔥 Últimos sinais fortes
 
-| Candle | Tempo gráfico | Tipo | Sinal | Força | Acerto | vs. acaso |
+| Candle | Tempo gráfico | Tipo | Sinal | Força | Acerto (n) | vs. acaso |
 |---|---|---|---|---|---|---|
-| **30/10/2026** | Diário | 🟢 FUNDO | **[FD+RSI](tecnico/#diário)** — Fechou fora→dentro da BB inferior + RSI≤30 | 🔥 **FORTE** | **71%** | 2,8× |
-| **09/06/2026** | Diário | 🟢 FUNDO | **[FD+RSI](tecnico/#diário)** — Fechou fora→dentro da BB inferior + RSI≤30 | 🔥 **FORTE** | **71%** | 2,8× |
-| **21/05/2026** | Diário | 🟢 FUNDO | **[BT+RSI](tecnico/#diário)** — Bottom tail + RSI≤30 | 🔥 **FORTE** | **73%** | 3,2× |
-| **10/01/2025** | Semanal | 🟢 FUNDO | **[FD+RSI](tecnico/#semanal)** — Fechou fora→dentro da BB inferior + RSI≤30 | 🔥 **FORTE** | **88%** | 3,2× |
+| **30/10/2026** | Diário | 🟢 FUNDO | **[FD+RSI](tecnico/#diário)** — Fechou fora→dentro da BB inferior + RSI≤30 | 🔥 **FORTE** | **71%** <small>(51 casos)</small> | 2,8× |
+| **09/06/2026** | Diário | 🟢 FUNDO | **[FD+RSI](tecnico/#diário)** — Fechou fora→dentro da BB inferior + RSI≤30 | 🔥 **FORTE** | **71%** <small>(51 casos)</small> | 2,8× |
+| **21/05/2026** | Diário | 🟢 FUNDO | **[BT+RSI](tecnico/#diário)** — Bottom tail + RSI≤30 | 🔥 **FORTE** | **73%** <small>(40 casos)</small> | 3,2× |
+| **10/01/2025** | Semanal | 🟢 FUNDO | **[FD+RSI](tecnico/#semanal)** — Fechou fora→dentro da BB inferior + RSI≤30 | 🔥 **FORTE** | **88%** <small>(8 casos)</small> | 3,2× |
 
 Os moderados ficam em [Todos os sinais](sinais-topo-fundo/todos-os-sinais).
 
@@ -77,7 +77,7 @@ Os moderados ficam em [Todos os sinais](sinais-topo-fundo/todos-os-sinais).
 | Diário | **BT+RSI** (73%), **BT+CCI** (57%), **FD+RSI** (71%) | — |
 | H4 | — | — |
 
-*Atualizado em 06/11/2026 19:00 BRT (último pregão fechado: 06/11/2026). Dados: Yahoo (^BVSP); semanal e mensal reamostrados do diário; H4 do 60 min.*
+*Atualizado em 06/11/2026 21:02 BRT (último pregão fechado: 06/11/2026). Dados: Yahoo (^BVSP); semanal e mensal reamostrados do diário; H4 do 60 min.*
 
 > [!quote]- Aviso
 > Estudo estatístico. Não constitui recomendação de investimento.
