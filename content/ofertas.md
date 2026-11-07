@@ -1,11 +1,11 @@
 ---
 title: "💰 Ofertas de ações"
-date: 2026-11-06
+date: 2026-11-07
 description: "Quanto as empresas captaram em IPOs e follow-ons na B3, ano a ano"
 tags: [ofertas]
 ---
 
-*Dinheiro novo que as empresas levantaram na bolsa, por ano. Fonte: CVM, dados abertos · página atualizada 06/11/2026.*
+*Dinheiro novo que as empresas levantaram na bolsa, por ano. Fonte: CVM, dados abertos · página atualizada 07/11/2026.*
 
 > [!info] Isto não é fluxo estrangeiro
 > Esta página mede o **mercado inteiro**: tudo o que as empresas captaram, somando todos os investidores. O quanto disso veio de fora está em [Capital estrangeiro](estrangeiros/), que é outra conta.
