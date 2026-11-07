@@ -10,7 +10,7 @@ tags: [historico]
 [← Histórico atual](historico)
 
 
-Registro diário do Sinal de Crise B3 baseado no método IMA Wavelet (Caetano/ITA) + LPPL (Sornette/ETH-Zurich).
+Registro diário do Sinal IMA baseado no método IMA Wavelet (Caetano/ITA) + LPPL (Sornette/ETH-Zurich).
 
 ## Últimos 60 Dias
 

@@ -79,7 +79,7 @@ tags: [sinais, tutorial]
 <!-- v16-site -->
 ## 4. No site
 
-Os sinais ficam na pasta **📍 [Sinais](sinais-topo-fundo/)**, separada do Sinal de Crise (IMA + LPPL) e das Operações:
+Os sinais ficam na pasta **📍 [Sinais](sinais-topo-fundo/)**, separada do Sinal IMA (IMA + LPPL) e das Operações:
 
 - **[📍 Sinais](sinais-topo-fundo/)** — atualizada todo dia às 19h: sinais do fechamento, fortes ainda na janela, sinais em formação, os **🎯 sinais raros de grande fundo**, o **⚠️ alerta raro de topo** e os últimos sinais fortes.
 - **[Todos os sinais](sinais-topo-fundo/todos-os-sinais)** — histórico de cada tempo gráfico, fortes e moderados.

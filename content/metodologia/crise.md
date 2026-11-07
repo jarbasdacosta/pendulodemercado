@@ -7,10 +7,10 @@ description: "IMA Wavelet (Caetano) e LPPL (Sornette) no Ibovespa"
 
 <!-- v7-creditos -->
 > [!quote] Créditos
-> O Sinal de Crise do **Pêndulo de Mercado** é baseado no trabalho do **Prof. Marco Antonio Leonel Caetano** (IMA Wavelet, Caetano & Yoneyama) e do **Prof. Didier Sornette** (LPPL, ETH-Zurich), **adaptado, calibrado no Ibovespa e mantido por Jarbas Daniel da Costa**. Os autores citados não participam do produto. Conteúdo educacional, não recomendação.
+> O Sinal IMA do **Pêndulo de Mercado** é baseado no trabalho do **Prof. Marco Antonio Leonel Caetano** (IMA Wavelet, Caetano & Yoneyama) e do **Prof. Didier Sornette** (LPPL, ETH-Zurich), **adaptado, calibrado no Ibovespa e mantido por Jarbas Daniel da Costa**. Os autores citados não participam do produto. Conteúdo educacional, não recomendação.
 
 > [!abstract] Em uma frase
-> O Sinal de Crise do Pêndulo de Mercado mede **o quanto o Ibovespa está esticado em relação à própria tendência**, olhando ao mesmo tempo para várias escalas de tempo. Esticado para cima é **ζ Topo**; esticado para baixo é **ζ Fundo**. Os momentos úteis para agir não são quando o ζ está alto, e sim **quando ele entra numa faixa ou começa a desinflar**.
+> O Sinal IMA do Pêndulo de Mercado mede **o quanto o Ibovespa está esticado em relação à própria tendência**, olhando ao mesmo tempo para várias escalas de tempo. Esticado para cima é **ζ Topo**; esticado para baixo é **ζ Fundo**. Os momentos úteis para agir não são quando o ζ está alto, e sim **quando ele entra numa faixa ou começa a desinflar**.
 
 > [!warning] Antes de tudo
 > Nada aqui é recomendação de investimento. São **estatísticas de 26 anos de Ibovespa** (2000–2026) que mostram em que situações as chances ficaram historicamente a favor ou contra. Nenhuma situação tem 100% de acerto, e o passado não garante o futuro. Use como **filtro de contexto** para o seu método, com stop e gestão de risco.
