@@ -9,7 +9,7 @@ O Pêndulo de Mercado tem quatro módulos. Cada página explica como o módulo f
 
 | Página | O que tem |
 |---|---|
-| 🌊 [Sinal de Crise](metodologia/crise) | IMA Wavelet (Caetano) e LPPL (Sornette): o que o ζ mede, o que 26 anos de dados mostram, como usar e limites |
+| 🌊 [Sinal IMA](metodologia/crise) | IMA Wavelet (Caetano) e LPPL (Sornette): o que o ζ mede, o que 26 anos de dados mostram, como usar e limites |
 | 📍 [Sinais](metodologia/sinais) | Sinais de topo e fundo (candles de Oliver Velez + RSI, CCI, MACD-V e Bollinger), 🎯 sinais raros de grande fundo e ⚠️ alerta raro de topo |
 | 🎯 [Regras de operação](metodologia/regras-de-operacao) | Tendência MME9 e Entradas do método: regras, testes fora da amostra, walk-forward e PBO |
 | 🧪 [O que testamos e não passou](metodologia/o-que-nao-passou) | Venda (mesmo só em mercado de baixa), radar de grande queda como compra, harami, envelope do Nadaraya e outros |
