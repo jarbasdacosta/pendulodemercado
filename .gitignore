@@ -10,3 +10,6 @@ private/
 .replit
 replit.nix
 *.antes-*
+
+# backups deixados por patches
+*.bak*
