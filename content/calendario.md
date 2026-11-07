@@ -17,51 +17,49 @@ O widget só existe em inglês com as bandeiras corretas — na versão em portu
 
 Os sufixos se repetem em quase todos: **MoM** compara com o mês anterior, **YoY** com o mesmo mês do ano passado, **QoQ** com o trimestre anterior. **Flash** ou **Prel** é a prévia, **Final** é a revisão definitiva — a prévia é que move o mercado.
 
-**Estados Unidos**
+> [!abstract]- Estados Unidos — 24 indicadores
+> | No calendário | Em português |
+> |---|---|
+> | Non Farm Payrolls | Folha de pagamento não-agrícola — o emprego criado no mês, o dado mais pesado do calendário |
+> | Nonfarm Payrolls Private | O mesmo, só o setor privado (exclui governo) |
+> | Unemployment Rate | Taxa de desemprego |
+> | U-6 Unemployment Rate | Taxa ampliada — inclui subocupados e desalentados |
+> | Participation Rate | Taxa de participação na força de trabalho |
+> | Average Hourly Earnings | Rendimento médio por hora — é por onde o Fed olha salário virando inflação |
+> | Initial Jobless Claims | Pedidos iniciais de seguro-desemprego (semanal, toda quinta) |
+> | Inflation Rate / CPI | Inflação ao consumidor |
+> | Core Inflation Rate | Núcleo da inflação — sem alimentos e energia |
+> | PCE Price Index | Índice de preços PCE — a medida de inflação que o Fed usa na meta |
+> | PPI | Índice de preços ao produtor |
+> | Retail Sales | Vendas no varejo |
+> | Industrial Production | Produção industrial |
+> | Durable Goods Orders | Pedidos de bens duráveis |
+> | GDP Growth Rate | Variação do PIB |
+> | ISM Manufacturing PMI | PMI industrial do ISM — acima de 50 é expansão |
+> | ISM Services PMI | PMI de serviços do ISM |
+> | Michigan Consumer Sentiment | Índice de confiança do consumidor (Universidade de Michigan) |
+> | Consumer Confidence | Confiança do consumidor (Conference Board) |
+> | Building Permits / Housing Starts | Alvarás de construção / início de obras |
+> | Fed Interest Rate Decision | Decisão de juros do Fed |
+> | FOMC Minutes | Ata do FOMC |
+> | Fed … Speech | Discurso de um dirigente do Fed |
+> | Crude Oil Inventories | Estoques de petróleo (EIA, semanal) |
 
-| No calendário | Em português |
-|---|---|
-| Non Farm Payrolls | Folha de pagamento não-agrícola — o emprego criado no mês, o dado mais pesado do calendário |
-| Nonfarm Payrolls Private | O mesmo, só o setor privado (exclui governo) |
-| Unemployment Rate | Taxa de desemprego |
-| U-6 Unemployment Rate | Taxa ampliada — inclui subocupados e desalentados |
-| Participation Rate | Taxa de participação na força de trabalho |
-| Average Hourly Earnings | Rendimento médio por hora — é por onde o Fed olha salário virando inflação |
-| Initial Jobless Claims | Pedidos iniciais de seguro-desemprego (semanal, toda quinta) |
-| Inflation Rate / CPI | Inflação ao consumidor |
-| Core Inflation Rate | Núcleo da inflação — sem alimentos e energia |
-| PCE Price Index | Índice de preços PCE — a medida de inflação que o Fed usa na meta |
-| PPI | Índice de preços ao produtor |
-| Retail Sales | Vendas no varejo |
-| Industrial Production | Produção industrial |
-| Durable Goods Orders | Pedidos de bens duráveis |
-| GDP Growth Rate | Variação do PIB |
-| ISM Manufacturing PMI | PMI industrial do ISM — acima de 50 é expansão |
-| ISM Services PMI | PMI de serviços do ISM |
-| Michigan Consumer Sentiment | Índice de confiança do consumidor (Universidade de Michigan) |
-| Consumer Confidence | Confiança do consumidor (Conference Board) |
-| Building Permits / Housing Starts | Alvarás de construção / início de obras |
-| Fed Interest Rate Decision | Decisão de juros do Fed |
-| FOMC Minutes | Ata do FOMC |
-| Fed … Speech | Discurso de um dirigente do Fed |
-| Crude Oil Inventories | Estoques de petróleo (EIA, semanal) |
-
-**Brasil, Europa e Ásia**
-
-| No calendário | Em português |
-|---|---|
-| Interest Rate Decision (BRL) | Decisão de juros do Copom |
-| Balance of Trade | Balança comercial |
-| Business Confidence | Confiança empresarial |
-| Retail Sales (EUR) | Vendas no varejo da Zona do Euro |
-| ECB Interest Rate Decision | Decisão de juros do Banco Central Europeu |
-| Ifo Business Climate | Índice Ifo de clima de negócios (Alemanha) |
-| ZEW Economic Sentiment | Índice ZEW de expectativas (Alemanha) |
-| BoJ Interest Rate Decision | Decisão de juros do Banco do Japão |
-| Tankan Large Manufacturers Index | Pesquisa Tankan — confiança da grande indústria japonesa |
-| Caixin Manufacturing PMI | PMI industrial Caixin (China, empresas menores e privadas) |
-| NBS Manufacturing PMI | PMI industrial oficial (China, estatais e grandes) |
-| Loan Prime Rate | Taxa básica de empréstimo do banco central chinês |
+> [!abstract]- Brasil, Europa e Ásia — 12 indicadores
+> | No calendário | Em português |
+> |---|---|
+> | Interest Rate Decision (BRL) | Decisão de juros do Copom |
+> | Balance of Trade | Balança comercial |
+> | Business Confidence | Confiança empresarial |
+> | Retail Sales (EUR) | Vendas no varejo da Zona do Euro |
+> | ECB Interest Rate Decision | Decisão de juros do Banco Central Europeu |
+> | Ifo Business Climate | Índice Ifo de clima de negócios (Alemanha) |
+> | ZEW Economic Sentiment | Índice ZEW de expectativas (Alemanha) |
+> | BoJ Interest Rate Decision | Decisão de juros do Banco do Japão |
+> | Tankan Large Manufacturers Index | Pesquisa Tankan — confiança da grande indústria japonesa |
+> | Caixin Manufacturing PMI | PMI industrial Caixin (China, empresas menores e privadas) |
+> | NBS Manufacturing PMI | PMI industrial oficial (China, estatais e grandes) |
+> | Loan Prime Rate | Taxa básica de empréstimo do banco central chinês |
 
 **Horário.** O seletor logo acima da tabela diz em que fuso ela está — confira que marca **GMT −3:00**. Se abrir em GMT puro, clique ali e troque; a escolha fica guardada no seu navegador. Em horário de Brasília, os dados americanos saem às 10h30, em cima da nossa abertura, que é onde o WIN costuma abrir o gap.
 
