@@ -36,6 +36,35 @@ tags: [ofertas]
 | 2005 | 33 | R\$ 5,5 bi <small>(9 empresas)</small> | R\$ 8,8 bi | **R\$ 14,3 bi** |
 | 2004 | 21 | R\$ 4,8 bi <small>(7 empresas)</small> | R\$ 4,4 bi | **R\$ 9,2 bi** |
 
+## As maiores ofertas desde 2004
+
+*Somando ordinárias e preferenciais da mesma empresa no mesmo ano — a capitalização da Petrobras de 2010 foi uma operação só, em dois papéis.*
+
+| # | Ano | Empresa | Tipo | Valor |
+|---|---|---|---|---|
+| 1 | 2010 | Petróleo Brasileiro S.A. - Petrobras | Follow-on | **R\$ 120,2 bi** |
+| 2 | 2022 | Centrais Eletricas Brasileiras S.A. | Follow-on | **R\$ 33,7 bi** |
+| 3 | 2020 | Petróleo Brasileiro S.A. - Petrobras | Follow-on | **R\$ 22,0 bi** |
+| 4 | 2008 | Cia Vale do Rio Doce | Follow-on | **R\$ 19,4 bi** |
+| 5 | 2015 | Telefônica Brasil S.A. | Follow-on | **R\$ 16,1 bi** |
+| 6 | 2014 | Oi S.A. | Follow-on | **R\$ 15,0 bi** |
+| 7 | 2024 | Cia Saneamento Básico Estado São Paulo | Follow-on | **R\$ 14,8 bi** |
+| 8 | 2009 | Banco Santander (Brasil) S.A. | Follow-on | **R\$ 14,1 bi** |
+| 9 | 2026 | Azul S.A. | Follow-on | **R\$ 12,4 bi** |
+| 10 | 2013 | Bb Seguridade Participações S.A. | IPO | **R\$ 11,5 bi** |
+| 11 | 2020 | Rede D'Or São Luiz S.A. | IPO | **R\$ 11,4 bi** |
+| 12 | 2021 | Petrobras Distribuidora S.A. | Follow-on | **R\$ 11,4 bi** |
+| 13 | 2025 | Cosan S.A. | Follow-on | **R\$ 10,5 bi** |
+| 14 | 2010 | Banco do Brasil S.A. | Follow-on | **R\$ 9,8 bi** |
+| 15 | 2019 | Petrobras Distribuidora S.A. | Follow-on | **R\$ 9,6 bi** |
+| 16 | 2009 | Cia Brasileira de Meios de Pagamento | IPO | **R\$ 8,4 bi** |
+| 17 | 2026 | Companhia de Saneamento de Minas Gerais | Follow-on | **R\$ 8,4 bi** |
+| 18 | 2026 | Engie Brasil Energia S.A. | Follow-on | **R\$ 8,4 bi** |
+| 19 | 2019 | Petróleo Brasileiro S.A. - Petrobras | Follow-on | **R\$ 7,3 bi** |
+| 20 | 2020 | Suzano S.A. | Follow-on | **R\$ 6,9 bi** |
+
+*Valores em reais do ano da oferta. Uma captação de R\$ 10 bi em 2007 pesava bem mais do que a mesma cifra hoje.*
+
 ## Como ler
 
 **IPO** é a estreia da empresa em bolsa; **follow-on** é quem já está listado levantando mais dinheiro. A coluna de IPOs traz também quantas empresas distintas estrearam no ano — é o número que diz se a janela estava aberta de verdade ou se um único negócio grande inflou o total.
