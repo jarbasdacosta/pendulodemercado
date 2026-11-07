@@ -5,7 +5,7 @@ description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais re
 tags: [eventos]
 ---
 
-*Atualizada 06/11/2026 21:21 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 06/11/2026 21:23 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -26,8 +26,8 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 | Hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
-| **19:06** | Crise · diário | 🔪 Evento: Queda forte em curso ⏱️ | ζ Fundo passou de 90% · Depois disso, só 42% subiu em 3 meses (dia qualquer: 60%); metade das vezes caiu mais 5% no mês. | ✅ |
-| **19:06** | Crise · diário | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 95% · LPPL 0% | — |
+| **19:06** | IMA · diário | 🔪 Evento: Queda forte em curso ⏱️ | ζ Fundo passou de 90% · Depois disso, só 42% subiu em 3 meses (dia qualquer: 60%); metade das vezes caiu mais 5% no mês. | ✅ |
+| **19:06** | IMA · diário | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 95% · LPPL 0% | — |
 | **10:00** | Tendência · Semanal | 🔴 Saiu durante o pregão ⚡ | ⚡ O preço tocou 167.008 às 10:00: pela regra a ordem stop de venda executa ali (preço considerado 167.008). | ✅ |
 
 ### sáb, 31/10/2026 · 1 evento

@@ -6,7 +6,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 06/11/2026 21:21 BRT · Diário D1*
+*Última atualização: 06/11/2026 21:23 BRT · Diário D1*
 
 > [!danger] Onde o mercado está no fechamento de 06/11: **🔪 Queda forte**
 > `Pânico ◀●────────────────────▶ Euforia`
@@ -37,11 +37,11 @@ tags: [home]
 
 | Data e hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
-| **03/11/2026 19:06** | Crise · diário | 🔪 Evento: Queda forte em curso ⏱️ | ζ Fundo passou de 90% · Depois disso, só 42% subiu em 3 meses (dia qualquer: 60%); metade das vezes caiu mais 5% no mês. | ✅ |
-| **03/11/2026 19:06** | Crise · diário | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 95% · LPPL 0% | — |
+| **03/11/2026 19:06** | IMA · diário | 🔪 Evento: Queda forte em curso ⏱️ | ζ Fundo passou de 90% · Depois disso, só 42% subiu em 3 meses (dia qualquer: 60%); metade das vezes caiu mais 5% no mês. | ✅ |
+| **03/11/2026 19:06** | IMA · diário | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 95% · LPPL 0% | — |
 | **03/11/2026 10:00** | Tendência · Semanal | 🔴 Saiu durante o pregão ⚡ | ⚡ O preço tocou 167.008 às 10:00: pela regra a ordem stop de venda executa ali (preço considerado 167.008). | ✅ |
 | 31/10/2026 <small>18:00 fechamento</small> | Sinais · Mensal | 🟠 Topo (proteção) · TT+RSI ⏱️ | Top tail + RSI≥70 · acertou 38% · 2,5× o acaso | — |
-| **30/10/2026 19:06** | Crise · diário | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 66% · LPPL 0% | — |
+| **30/10/2026 19:06** | IMA · diário | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 66% · LPPL 0% | — |
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
