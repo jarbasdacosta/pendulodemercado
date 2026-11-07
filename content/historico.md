@@ -1,5 +1,5 @@
 ---
-title: "🌊 Crise · Histórico"
+title: "🌊 IMA · Histórico"
 tags: [historico]
 ---
 

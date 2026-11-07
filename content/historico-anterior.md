@@ -1,5 +1,5 @@
 ---
-title: "🌊 Crise · Histórico anterior (método v3)"
+title: "🌊 IMA · Histórico anterior (método v3)"
 tags: [historico]
 ---
 

@@ -6,7 +6,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 06/11/2026 21:14 BRT · Diário D1*
+*Última atualização: 06/11/2026 21:19 BRT · Diário D1*
 
 > [!danger] Onde o mercado está no fechamento de 06/11: **🔪 Queda forte**
 > `Pânico ◀●────────────────────▶ Euforia`
