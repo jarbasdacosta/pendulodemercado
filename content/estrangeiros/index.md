@@ -5,7 +5,7 @@ description: "Compras e vendas dos investidores estrangeiros no mercado à vista
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **04/11/2026** (a B3 publica dois pregões depois) · página atualizada 07/11/2026 08:29. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **04/11/2026** (a B3 publica dois pregões depois) · página atualizada 07/11/2026 08:35. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
 > [!danger] 04/11/2026: **−R\$ 1,7 bi**
 > 9 pregões seguidos de saída, de 22/10/2026 a 04/11/2026, somando **−R\$ 14,0 bi** — média de **−R\$ 1,6 bi** por pregão.
@@ -63,7 +63,12 @@ tags: [estrangeiros]
 
 Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **quem está do outro lado** dos estrangeiros (saldo negociado na bolsa, sem ofertas).
 
-![Saldo acumulado por tipo de investidor](graficos/investidores_20261104.png)
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261107" title="Saldo acumulado por tipo de investidor" loading="lazy" style="width:100%;height:480px;border:0;border-radius:8px"></iframe>
+
+*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261107" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+
+> [!note]- Imagem estática
+> ![Saldo acumulado por tipo de investidor](graficos/investidores_20261104.png)
 
 | Tipo | 04/11 | Semana (03/11–04/11) | Mês (1–04/11) | Ano (até 04/11) | 12 meses (desde 12/2025) | Geral (desde 24/10/2025) |
 |---|---|---|---|---|---|---|
