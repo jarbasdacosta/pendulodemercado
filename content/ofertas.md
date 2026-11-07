@@ -71,6 +71,8 @@ tags: [ofertas]
 
 Repare na seca de **2022 a 2025**: nenhuma empresa estreou na B3 nesses anos. As listadas continuaram captando em follow-ons, mas a porta de entrada ficou fechada — juro alto em casa e apetite curto lá fora.
 
+Sobre a separação entre IPO e follow-on: ela vem do campo da própria CVM, que tem duas limitações. Em **59 das 640 ofertas** o campo vem vazio, e elas entram aqui como follow-on. E ele marca follow-on quando a empresa já tinha registro anterior, mesmo sendo a estreia daquele nome em bolsa — é o caso do Santander Brasil em 2009, que herdou o registro do Banespa.
+
 O ano é o do **registro da oferta na CVM**, não o do encerramento: no arquivo da CVM a data de encerramento é o prazo de validade do registro, seis meses depois, e usá-la jogaria a capitalização da Petrobras de 2010 para 2011.
 
 Valores em reais de cada ano, **sem correção monetária** — comparar 2007 com 2026 diretamente subestima o passado.
