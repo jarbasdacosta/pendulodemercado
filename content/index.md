@@ -6,21 +6,24 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 09/11/2026 14:31 BRT · Intraday 15min*
+*Última atualização: 09/11/2026 14:46 BRT · Intraday 15min*
 
-> [!success] Onde o mercado está agora (09/11 14:15, candles de 15 min): **🟢 Calmo**
-> `Pânico ◀───────────────●─────▶ Euforia`
+> [!warning] Onde o mercado está agora (09/11 14:30, candles de 15 min): **🟡 Esticado para cima**
+> `Pânico ◀─────────────────●───▶ Euforia`
 >
-> O Ibovespa está dentro da sua faixa normal, sem excesso para cima nem para baixo.
+> O Ibovespa subiu mais rápido que o normal e está acima da sua faixa habitual.
 > No gráfico diário: 🔪 Queda forte em curso.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
+
+> [!warning] ⚠️ Nível alto agora — IMA Intraday · 15 min (09/11 14:30)
+> - 🟡 **ζ Topo 66%** — preço esticado acima da tendência (risco de reversão)
 
 ## Agora
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 55% | [relatório](intraday/2026-11-09) |
+| 🌊 **Sinal IMA** | 🟡 AMARELO · 🟡 esticado para cima · ζ Topo 🟡 **66%** | [relatório](intraday/2026-11-09) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | ⏳ aguardando: Diário · Nadaraya, Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
@@ -35,11 +38,11 @@ tags: [home]
 
 | Data e hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
+| **09/11/2026 14:46** | IMA · 15 min | 🟡 Zona mudou: VERDE → AMARELO | Risco 66% · ζ Topo 66% · ζ Fundo 0% · LPPL 0% | — |
+| **09/11/2026 14:46** | IMA · 15 min | 🟡 ζ Topo entrou em nível alto | Risco 66% · ζ Topo 66% · ζ Fundo 0% · LPPL 0% | ✅ |
 | **03/11/2026 19:06** | IMA · diário | 🔪 Evento: Queda forte em curso ⏱️ | ζ Fundo passou de 90% · Depois disso, só 42% subiu em 3 meses (dia qualquer: 60%); metade das vezes caiu mais 5% no mês. | ✅ |
 | **03/11/2026 19:06** | IMA · diário | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 95% · LPPL 0% | — |
 | **03/11/2026 10:00** | Tendência · Semanal | 🔴 Saiu durante o pregão ⚡ | ⚡ O preço tocou 167.008 às 10:00: pela regra a ordem stop de venda executa ali (preço considerado 167.008). | ✅ |
-| 31/10/2026 <small>18:00 fechamento</small> | Sinais · Mensal | 🟠 Topo (proteção) · TT+RSI ⏱️ | Top tail + RSI≥70 · acertou 38% · 2,5× o acaso | — |
-| **30/10/2026 19:06** | IMA · diário | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 66% · LPPL 0% | — |
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
@@ -49,26 +52,26 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (09/11 14:15): 🟢 **VERDE** — Risco 55% · ▲ +12 p.p. vs leitura anterior
-> > `███████████░░░░░░░░░`
-> > Preço na faixa normal em torno da tendência.
+> > [!warning] IMA Intraday · 15 min (09/11 14:30): 🟡 **AMARELO** — Risco 66% · ▲ +11 p.p. vs leitura anterior
+> > `█████████████░░░░░░░`
+> > Atenção — preço esticado acima da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (09/11 14:15) | Valor |
+> | Indicador — IMA Intraday · 15 min (09/11 14:30) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | **55%** |
+> | 🔴 ζ Topo — preço esticado acima da tendência | 🟡 **66%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 171.305 pts |
+> | 📊 Ibovespa | 170.943 pts |
 >
-> **Multi-ativo:** 4% em tensão (0🔴 2🟡 de 25 ativos)
+> **Multi-ativo:** 4% em tensão (0🔴 1🟡 de 25 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [09/11/2026](intraday/2026-11-09) | 🟢 VERDE | **55%** | 55% | 0% | 0% |
+> | [09/11/2026](intraday/2026-11-09) | 🟡 AMARELO | 🟡 **66%** | 🟡 **66%** | 0% | 0% |
 > | [06/11/2026](intraday/2026-11-06) | 🟢 VERDE | **2%** | 2% | 0% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
