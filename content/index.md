@@ -6,9 +6,9 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 09/11/2026 16:15 BRT · Intraday 15min*
+*Última atualização: 09/11/2026 16:30 BRT · Intraday 15min*
 
-> [!warning] Onde o mercado está agora (09/11 16:00, candles de 15 min): **🟡 Esticado para cima**
+> [!warning] Onde o mercado está agora (09/11 16:15, candles de 15 min): **🟡 Esticado para cima**
 > `Pânico ◀───────────────────●─▶ Euforia`
 >
 > O Ibovespa subiu mais rápido que o normal e está acima da sua faixa habitual.
@@ -16,14 +16,14 @@ tags: [home]
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
-> [!warning] ⚠️ Nível alto agora — IMA Intraday · 15 min (09/11 16:00)
-> - 🟡 **ζ Topo 88%** — preço esticado acima da tendência (risco de reversão)
+> [!warning] ⚠️ Nível alto agora — IMA Intraday · 15 min (09/11 16:15)
+> - 🟡 **ζ Topo 86%** — preço esticado acima da tendência (risco de reversão)
 
 ## Agora
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🔴 VERMELHO · 🟡 esticado para cima · ζ Topo 🟡 **88%** | [relatório](intraday/2026-11-09) |
+| 🌊 **Sinal IMA** | 🔴 VERMELHO · 🟡 esticado para cima · ζ Topo 🟡 **86%** | [relatório](intraday/2026-11-09) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | ⏳ aguardando: Diário · Nadaraya, Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
@@ -52,26 +52,26 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!danger] IMA Intraday · 15 min (09/11 16:00): 🔴 **VERMELHO** — Risco 88% · ▼ -3 p.p. vs leitura anterior
-> > `██████████████████░░`
+> > [!danger] IMA Intraday · 15 min (09/11 16:15): 🔴 **VERMELHO** — Risco 86% · ▼ -2 p.p. vs leitura anterior
+> > `█████████████████░░░`
 > > ALERTA — esticamento extremo (ζ ≥ 0,90): risco de reversão.
 >
 >
-> | Indicador — IMA Intraday · 15 min (09/11 16:00) | Valor |
+> | Indicador — IMA Intraday · 15 min (09/11 16:15) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | 🟡 **88%** |
+> | 🔴 ζ Topo — preço esticado acima da tendência | 🟡 **86%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 171.175 pts |
+> | 📊 Ibovespa | 171.183 pts |
 >
-> **Multi-ativo:** 8% em tensão (0🔴 3🟡 de 25 ativos)
+> **Multi-ativo:** 4% em tensão (0🔴 2🟡 de 25 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [09/11/2026](intraday/2026-11-09) | 🔴 VERMELHO | 🟡 **88%** | 🟡 **88%** | 0% | 0% |
+> | [09/11/2026](intraday/2026-11-09) | 🔴 VERMELHO | 🟡 **86%** | 🟡 **86%** | 0% | 0% |
 > | [06/11/2026](intraday/2026-11-06) | 🟢 VERDE | **2%** | 2% | 0% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
