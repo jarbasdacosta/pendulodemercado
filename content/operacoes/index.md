@@ -7,17 +7,12 @@ description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23
 
 Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/2026**. Daqui para frente cada operação entra no **placar ao vivo**, o único resultado sem nenhum ajuste ao histórico. Nenhuma regra de venda passou nos testes ([por quê](metodologia/o-que-nao-passou)).
 
-> [!tip] 🎯 Operações — último candle
-> - ⚪ Tendência Semanal: **saída** (-5,3%)
->
-> [Ver operações](operacoes/)
-
 ## 🟢 Posições em aberto
 
 _Nenhuma posição aberta agora._
 
 > [!info] 🌊 Contexto do IMA para compras
-> 🔪 **queda forte ativa** desde 03/11 (compras assim renderam menos no histórico) · 🎯 **amplitude na região de fundo** (14% acima da MM 200) — ζ Topo 0% · ζ Fundo 100% em 06/11
+> 🔪 **queda forte ativa** desde 03/11 (compras assim renderam menos no histórico) · 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 100% em 09/11
 > Informa, não filtra: veja como as compras se saíram em cada contexto no [🏆 Ranking](operacoes/ranking#contexto-do-ima).
 
 ## Agora

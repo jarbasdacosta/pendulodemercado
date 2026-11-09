@@ -1,6 +1,6 @@
 ---
 title: Todos os sinais
-date: 2026-11-06
+date: 2026-11-09
 tags: [sinais]
 description: Histórico dos sinais de topo e fundo por tempo gráfico
 ---
@@ -69,13 +69,13 @@ Histórico de cada tempo gráfico, do mais recente para o mais antigo. Linhas co
 
 ## H4
 
-Últimos 120 candles: 19 sinais, **0 fortes**.
+Últimos 120 candles: 17 sinais, **0 fortes**.
 
 | Candle | Tipo | Sinal | Força | Acerto (n) | vs. acaso |
 |---|---|---|---|---|---|
 | 27/10/2026 14h | 🟢 FUNDO | **[FD+CCI](sinais-topo-fundo/todos-os-sinais#h4)** — Fechou fora→dentro da BB inferior + CCI≤-200 | moderado | 38% <small>(12 casos)</small> | 2,1× |
 | 27/10/2026 14h | 🟢 FUNDO | **[FD+RSI](sinais-topo-fundo/todos-os-sinais#h4)** — Fechou fora→dentro da BB inferior + RSI≤30 | moderado | 50% <small>(12 casos)</small> <small>⚠ não validado</small> | 2,5× |
-| 13/10/2026 10h | 🟠 TOPO (proteção) | **[MV-](sinais-topo-fundo/todos-os-sinais#h4)** — MACD-V vira verde sem brilho acima do limiar | moderado | 62% <small>(15 casos)</small> <small>⚠ não validado</small> | 3,8× |
+| 13/10/2026 10h | 🟠 TOPO (proteção) | **[MV-](sinais-topo-fundo/todos-os-sinais#h4)** — MACD-V vira verde sem brilho acima do limiar | moderado | 62% <small>(14 casos)</small> <small>⚠ não validado</small> | 3,8× |
 | 06/10/2026 14h | 🟠 TOPO (proteção) | **[FD+CCI](sinais-topo-fundo/todos-os-sinais#h4)** — Fechou fora→dentro da BB superior + CCI≥200 | moderado | 39% <small>(15 casos)</small> <small>⚠ não validado</small> | 2,2× |
 | 05/10/2026 14h | 🟠 TOPO (proteção) | **[RSI75+MV](sinais-topo-fundo/todos-os-sinais#h4)** — RSI≥75 e MACD-V≥130 | moderado | 80% <small>(14 casos)</small> <small>⚠ não validado</small> | 2,5× |
 | 29/09/2026 10h | 🟢 FUNDO | **[BT+BB](sinais-topo-fundo/todos-os-sinais#h4)** — Bottom tail tocando a BB inferior | moderado | 53% <small>(23 casos)</small> | 3,1× |
@@ -85,14 +85,12 @@ Histórico de cada tempo gráfico, do mais recente para o mais antigo. Linhas co
 | 25/09/2026 10h | 🟢 FUNDO | **[BT+BB](sinais-topo-fundo/todos-os-sinais#h4)** — Bottom tail tocando a BB inferior | moderado | 53% <small>(23 casos)</small> | 3,1× |
 | 25/09/2026 10h | 🟢 FUNDO | **[BT+CCI](sinais-topo-fundo/todos-os-sinais#h4)** — Bottom tail + CCI≤-200 | moderado | 100% <small>(4 casos)</small> | 5,2× |
 | 17/09/2026 10h | 🟢 FUNDO | **[BT+BB](sinais-topo-fundo/todos-os-sinais#h4)** — Bottom tail tocando a BB inferior | moderado | 53% <small>(23 casos)</small> | 3,1× |
-| 09/09/2026 10h | 🟠 TOPO (proteção) | **[MV-](sinais-topo-fundo/todos-os-sinais#h4)** — MACD-V vira verde sem brilho acima do limiar | moderado | 62% <small>(15 casos)</small> <small>⚠ não validado</small> | 3,8× |
+| 09/09/2026 10h | 🟠 TOPO (proteção) | **[MV-](sinais-topo-fundo/todos-os-sinais#h4)** — MACD-V vira verde sem brilho acima do limiar | moderado | 62% <small>(14 casos)</small> <small>⚠ não validado</small> | 3,8× |
 | 08/09/2026 10h | 🟠 TOPO (proteção) | **[RSI75+MV](sinais-topo-fundo/todos-os-sinais#h4)** — RSI≥75 e MACD-V≥130 | moderado | 80% <small>(14 casos)</small> <small>⚠ não validado</small> | 2,5× |
-| 04/09/2026 14h | 🟠 TOPO (proteção) | **[MV-](sinais-topo-fundo/todos-os-sinais#h4)** — MACD-V vira verde sem brilho acima do limiar | moderado | 62% <small>(15 casos)</small> <small>⚠ não validado</small> | 3,8× |
+| 04/09/2026 14h | 🟠 TOPO (proteção) | **[MV-](sinais-topo-fundo/todos-os-sinais#h4)** — MACD-V vira verde sem brilho acima do limiar | moderado | 62% <small>(14 casos)</small> <small>⚠ não validado</small> | 3,8× |
 | 03/09/2026 10h | 🟠 TOPO (proteção) | **[FD+CCI](sinais-topo-fundo/todos-os-sinais#h4)** — Fechou fora→dentro da BB superior + CCI≥200 | moderado | 39% <small>(15 casos)</small> <small>⚠ não validado</small> | 2,2× |
 | 02/09/2026 10h | 🟠 TOPO (proteção) | **[RSI75+MV](sinais-topo-fundo/todos-os-sinais#h4)** — RSI≥75 e MACD-V≥130 | moderado | 80% <small>(14 casos)</small> <small>⚠ não validado</small> | 2,5× |
-| 12/08/2026 10h | 🟢 FUNDO | **[FD+CCI](sinais-topo-fundo/todos-os-sinais#h4)** — Fechou fora→dentro da BB inferior + CCI≤-200 | moderado | 38% <small>(12 casos)</small> | 2,1× |
-| 12/08/2026 10h | 🟢 FUNDO | **[FD+RSI](sinais-topo-fundo/todos-os-sinais#h4)** — Fechou fora→dentro da BB inferior + RSI≤30 | moderado | 50% <small>(12 casos)</small> <small>⚠ não validado</small> | 2,5× |
 
 *⚠ **não validado**: o sinal não passou no teste de robustez — exige lift ≥ 1,3 em cada metade da história e percentil ≥ 90 contra 300 deslocamentos aleatórios do próprio sinal. Continua publicado por transparência, com a ressalva.*
 
-*Atualizado em 06/11/2026 22:05 BRT.*
+*Atualizado em 09/11/2026 19:00 BRT.*
