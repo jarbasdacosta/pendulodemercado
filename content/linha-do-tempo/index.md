@@ -1,11 +1,11 @@
 ---
 title: "🔔 Linha do tempo"
-date: 2026-11-06
+date: 2026-11-09
 description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais recente para o mais antigo"
 tags: [eventos]
 ---
 
-*Atualizada 06/11/2026 21:23 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 09/11/2026 10:15 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -18,7 +18,7 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 ## Últimos 7 dias
 
-### Hoje · sex, 06/11/2026
+### Hoje · seg, 09/11/2026
 
 *Nenhum evento hoje até agora.*
 
@@ -30,19 +30,13 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 | **19:06** | IMA · diário | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 95% · LPPL 0% | — |
 | **10:00** | Tendência · Semanal | 🔴 Saiu durante o pregão ⚡ | ⚡ O preço tocou 167.008 às 10:00: pela regra a ordem stop de venda executa ali (preço considerado 167.008). | ✅ |
 
-### sáb, 31/10/2026 · 1 evento
-
-| Hora | Módulo | Evento | Detalhe | 📲 |
-|---|---|---|---|---|
-| 18:00 fechamento | Sinais · Mensal | 🟠 Topo (proteção) · TT+RSI ⏱️ | Top tail + RSI≥70 · acertou 38% · 2,5× o acaso | — |
-
 ## Histórico por ano
 
 Clique no ano; na página do ano, clique no mês e depois no dia.
 
 | Ano | Eventos | 🟢 Compras | ⚪🔴 Vendas e stops | 📌⚠️ Ordens armadas | Sinais |
 |---|---|---|---|---|---|
-| **[2026](linha-do-tempo/2026)** | 211 | 22 | 41 | 32 | 42 |
+| **[2026](linha-do-tempo/2026)** | 205 | 22 | 41 | 32 | 42 |
 | **[2025](linha-do-tempo/2025)** | 113 | 30 | 25 | 43 | 11 |
 | **[2024](linha-do-tempo/2024)** | 156 | 41 | 45 | 57 | 3 |
 | **[2023](linha-do-tempo/2023)** | 99 | 22 | 22 | 53 | 1 |
