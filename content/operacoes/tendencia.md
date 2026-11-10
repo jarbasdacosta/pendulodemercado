@@ -7,13 +7,13 @@ description: "Só compra, diário e semanal: rompimento do candle que fecha acim
 
 > [!example] 📈 Tendência MME9 — só compra · 🧪 em teste ao vivo desde 23/10/2026
 >
-> 🌊 **Contexto do IMA para compras:** 🔪 **queda forte ativa** desde 03/11 (compras assim renderam menos no histórico) · 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 100% em 09/11 · *informa, não filtra*
+> 🌊 **Contexto do IMA para compras:** 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 48% em 10/11 · *informa, não filtra*
 >
 > **Placar ao vivo:** nenhuma operação encerrada desde 23/10/2026.
 >
 > | Tempo | Situação | Próximo passo | Histórico (ao ano · maior queda) |
 > |---|---|---|---|
-> | **Diário** | — fora<br><small>fechou abaixo da MME9 (172.236 × 173.082)</small> | espera fechar acima da MME9 | +13,1% · 35% <small>(comprar e segurar: +8,8% · 60%)</small> |
+> | **Diário** | — fora<br><small>fechou abaixo da MME9 (171.337 × 172.733)</small> | espera fechar acima da MME9 | +13,1% · 35% <small>(comprar e segurar: +8,8% · 60%)</small> |
 > | **Semanal** | — fora<br><small>fechou abaixo da MME9 (168.499 × 184.833)</small> | espera fechar acima da MME9 | +8,4% · 29% <small>(comprar e segurar: +8,8% · 57%)</small> |
 >
 > **Últimas operações** (antes do teste ao vivo = simuladas no histórico)
@@ -29,7 +29,7 @@ description: "Só compra, diário e semanal: rompimento do candle que fecha acim
 >
 > 🌡️ **Radar de grande queda:** 19% (liga em 30%) · fora da zona de grande queda. *Só contexto: no estudo ele achou a região dos grandes fundos, mas avisa cedo demais para servir de compra.*
 >
-> <small>Atualizado 09/11 19:00. Histórico desde 2000, índice à vista, custo 0,05% por operação, sem impostos (no WIN o comprado paga o carrego dos juros).</small>
+> <small>Atualizado 10/11 19:02. Histórico desde 2000, índice à vista, custo 0,05% por operação, sem impostos (no WIN o comprado paga o carrego dos juros).</small>
 >
 > *Regra: um candle **fecha acima da MME9** → compra se o preço passar da máxima dele em até 3 candles. Um candle **fecha abaixo da MME9** → zera se o preço passar da mínima dele em até 3 candles. Stop de segurança 10% abaixo da entrada. No semanal o sinal só conta com a semana fechada, mas a ordem pode executar em qualquer dia. Funcionou com médias de 5 a 50 (não é ajuste fino), mas o histórico não é teste fora da amostra: o placar ao vivo é o que vale. [Metodologia](metodologia/regras-de-operacao#tendência-mme9). Leitura educacional do método, não recomendação.*
 
