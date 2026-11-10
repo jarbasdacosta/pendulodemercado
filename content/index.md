@@ -1,28 +1,29 @@
 ---
 title: Pêndulo de Mercado
-date: 2026-11-09
+date: 2026-11-10
 tags: [home]
 ---
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 09/11/2026 19:06 BRT · Diário D1*
+*Última atualização: 10/11/2026 10:16 BRT · Intraday 15min*
 
-> [!danger] Onde o mercado está no fechamento de 09/11: **🔪 Queda forte**
-> `Pânico ◀●────────────────────▶ Euforia`
+> [!danger] Onde o mercado está agora (10/11 10:00, candles de 15 min): **🔴 Euforia extrema**
+> `Pânico ◀───────────────────●─▶ Euforia`
 >
-> O Ibovespa caiu rápido e está bem abaixo da sua tendência, em ritmo de pânico. Historicamente, quedas assim costumaram continuar um pouco antes de virar.
+> O Ibovespa subiu muito acima da sua tendência. Historicamente, foi a fase com maior risco de correção.
+> No gráfico diário: 🔪 Queda forte em curso.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
-> [!danger] 🚨 Nível EXTREMO agora — IMA Diário (09/11)
-> - 🔪 **ζ Fundo 100%** — preço esticado abaixo da tendência — 🔪 faca caindo: queda forte em andamento
+> [!danger] 🚨 Nível EXTREMO agora — IMA Intraday · 15 min (10/11 10:00)
+> - 🔴 **ζ Topo 92%** — preço esticado acima da tendência (risco de reversão)
 
 ## Agora
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🟢 VERDE · 🔪 queda forte · ζ Topo 0% | [relatório](diario/2026-11-09) |
+| 🌊 **Sinal IMA** | 🔴 VERMELHO · 🔴 euforia extrema · ζ Topo 🔴 **92%** | [relatório](intraday/2026-11-10) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | ⏳ aguardando: Diário · Nadaraya, Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
@@ -40,40 +41,33 @@ tags: [home]
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
-> [!note] 🧭 IMA Diário · situação: 🔪 **Queda forte em curso**
+> [!note] 🧭 IMA Diário · viés (09/11): 🔪 **Queda forte em curso**
 > 📚 historicamente, quedas assim costumaram continuar um pouco antes de virar
->
-> Eventos recentes: 🔪 03/11 Queda forte em curso · 📉 28/10 Esticamento desinflando · 📉 16/09 Esticamento desinflando · 🚀 09/09 Força
 >
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Diário (09/11): 🟢 **VERDE** — Risco 0% · ＝ +0 p.p. vs leitura anterior
-> > `░░░░░░░░░░░░░░░░░░░░`
-> > Preço na faixa normal em torno da tendência.
+> > [!danger] IMA Intraday · 15 min (10/11 10:00): 🔴 **VERMELHO** — Risco 92% · ▲ +1 p.p. vs leitura anterior
+> > `██████████████████░░`
+> > ALERTA — esticamento extremo (ζ ≥ 0,90): risco de reversão.
 >
 >
-> | Indicador — IMA Diário (09/11) | Valor |
+> | Indicador — IMA Intraday · 15 min (10/11 10:00) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
-> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔪 **100%** |
+> | 🔴 ζ Topo — preço esticado acima da tendência | 🔴 **92%** |
+> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 1% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 172.236 pts |
+> | 📊 Ibovespa | 172.968 pts |
 >
-> **Multi-ativo:** 0% em tensão (0🔴 0🟡 de 25 ativos)
+> **Multi-ativo:** 4% em tensão (1🔴 0🟡 de 25 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [09/11/2026](diario/2026-11-09) | 🟢 VERDE | **0%** | 0% | 🔪 **100%** | 0% |
-> | [06/11/2026](diario/2026-11-06) | 🟢 VERDE | **0%** | 0% | 🔪 **100%** | 0% |
-> | [05/11/2026](diario/2026-11-05) | 🟢 VERDE | **0%** | 0% | 🔪 **99%** | 0% |
-> | [04/11/2026](diario/2026-11-04) | 🟢 VERDE | **0%** | 0% | 🔪 **100%** | 0% |
-> | [03/11/2026](diario/2026-11-03) | 🟢 VERDE | **0%** | 0% | 🔪 **95%** | 0% |
-> | [30/10/2026](diario/2026-10-30) | 🟢 VERDE | **0%** | 0% | 🔵 **66%** | 0% |
-> | [29/10/2026](diario/2026-10-29) | 🟢 VERDE | **4%** | 4% | 23% | 0% |
+> | [10/11/2026](intraday/2026-11-10) | 🔴 VERMELHO | 🔴 **92%** | 🔴 **92%** | 1% | 0% |
+> | [09/11/2026](intraday/2026-11-09) | 🔴 VERMELHO | 🔴 **91%** | 🔴 **91%** | 0% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
 >
