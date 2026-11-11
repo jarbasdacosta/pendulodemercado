@@ -1,44 +1,45 @@
 ---
 title: "🌎 Capital estrangeiro"
-date: 2026-11-10
+date: 2026-11-11
 description: "Compras e vendas dos investidores estrangeiros no mercado à vista da B3"
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **06/11/2026** (a B3 publica dois pregões depois) · página atualizada 10/11/2026 19:06. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **09/11/2026** (a B3 publica dois pregões depois) · página atualizada 11/11/2026 05:12. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
-> [!danger] 06/11/2026: **−R\$ 460 mi**
-> 11 pregões seguidos de saída, de 22/10/2026 a 06/11/2026, somando **−R\$ 16,2 bi** — média de **−R\$ 1,5 bi** por pregão.
-> No ano: **+R\$ 31,3 bi** negociados na bolsa · **+R\$ 4,6 bi** em IPOs/follow-ons · total **+R\$ 35,9 bi**
+> [!danger] 09/11/2026: **−R\$ 86 mi**
+> 12 pregões seguidos de saída, de 22/10/2026 a 09/11/2026, somando **−R\$ 16,3 bi** — média de **−R\$ 1,4 bi** por pregão.
+> No ano: **+R\$ 31,2 bi** negociados na bolsa · **+R\$ 4,6 bi** em IPOs/follow-ons · total **+R\$ 35,9 bi**
 
 ## Resumo
 
 | | Dia | Semana | Mês | Ano | 12 meses | Geral¹ |
 |---|---|---|---|---|---|---|
-| **Bolsa** (compras − vendas) | −R\$ 460 mi | −R\$ 4,3 bi | −R\$ 4,3 bi | +R\$ 31,3 bi | +R\$ 29,4 bi | +R\$ 169,3 bi |
+| **Bolsa** (compras − vendas) | −R\$ 86 mi | −R\$ 86 mi | −R\$ 4,3 bi | +R\$ 31,2 bi | +R\$ 29,4 bi | +R\$ 169,2 bi |
 | IPOs/follow-ons | +R\$ 0 mi | +R\$ 0 mi | +R\$ 0 mi | +R\$ 4,6 bi | +R\$ 4,9 bi | +R\$ 208,2 bi |
-| **Total** | **−R\$ 460 mi** | **−R\$ 4,3 bi** | **−R\$ 4,3 bi** | **+R\$ 35,9 bi** | **+R\$ 34,3 bi** | **+R\$ 377,5 bi** |
+| **Total** | **−R\$ 86 mi** | **−R\$ 86 mi** | **−R\$ 4,3 bi** | **+R\$ 35,9 bi** | **+R\$ 34,2 bi** | **+R\$ 377,4 bi** |
 
 *Semana = desde segunda-feira · 12 meses = o mês até o dia + os 11 anteriores · ¹ Geral = bolsa desde 05/02/2009; ofertas desde 2016 (quando a B3 começou a somar). **Bolsa** é o número que a B3 divulga todo dia (e os sites publicam de manhã); **ofertas** são os IPOs e follow-ons que a B3 soma no total do mês; **total** = os dois (o total mensal oficial da B3). Dia e semana das ofertas só aparecem a partir do download diário (antes disso a B3 só dá o mês).*
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_ano.html?v=20261110" title="Capital estrangeiro — acumulado do ano" loading="lazy" style="width:100%;height:520px;border:0;border-radius:8px"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_ano.html?v=20261111" title="Capital estrangeiro — acumulado do ano" loading="lazy" style="width:100%;height:520px;border:0;border-radius:8px"></iframe>
 
-*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_ano.html?v=20261110" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_ano.html?v=20261111" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática
-> ![Acumulado do ano, pregão a pregão](graficos/estrangeirosano_20261106.png)
+> ![Acumulado do ano, pregão a pregão](graficos/estrangeirosano_20261109.png)
 
 ## Dia a dia
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_dia.html?v=20261110" title="Capital estrangeiro — dia a dia" loading="lazy" style="width:100%;height:460px;border:0;border-radius:8px"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_dia.html?v=20261111" title="Capital estrangeiro — dia a dia" loading="lazy" style="width:100%;height:460px;border:0;border-radius:8px"></iframe>
 
-*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_dia.html?v=20261110" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_dia.html?v=20261111" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática
-> ![Capital estrangeiro dia a dia](graficos/estrangeirosdia_20261106.png)
+> ![Capital estrangeiro dia a dia](graficos/estrangeirosdia_20261109.png)
 
 | Dia | Saldo do dia | Semana | Mês | Ano | 12 meses | Geral | IPO/follow-on |
 |---|---|---|---|---|---|---|---|
+| 09/11/2026 | **−R\$ 86 mi** | −R\$ 86 mi | −R\$ 4,3 bi | +R\$ 31,2 bi | +R\$ 29,4 bi | +R\$ 169,2 bi | — |
 | 06/11/2026 | **−R\$ 460 mi** | −R\$ 4,3 bi | −R\$ 4,3 bi | +R\$ 31,3 bi | +R\$ 29,4 bi | +R\$ 169,3 bi | — |
 | 05/11/2026 | **−R\$ 1,7 bi** | −R\$ 3,8 bi | −R\$ 3,8 bi | +R\$ 31,8 bi | +R\$ 29,9 bi | +R\$ 169,8 bi | — |
 | 04/11/2026 | **−R\$ 1,7 bi** | −R\$ 2,1 bi | −R\$ 2,1 bi | +R\$ 33,5 bi | +R\$ 31,6 bi | +R\$ 171,5 bi | — |
@@ -53,7 +54,6 @@ tags: [estrangeiros]
 | 21/10/2026 | **+R\$ 157 mi** | −R\$ 834 mi | +R\$ 20,2 bi | +R\$ 47,6 bi | +R\$ 47,7 bi | +R\$ 185,5 bi | — |
 | 20/10/2026 | **+R\$ 18 mi** | −R\$ 991 mi | +R\$ 20,0 bi | +R\$ 47,4 bi | +R\$ 47,6 bi | +R\$ 185,4 bi | — |
 | 19/10/2026 | **−R\$ 1,0 bi** | −R\$ 1,0 bi | +R\$ 20,0 bi | +R\$ 47,4 bi | +R\$ 47,6 bi | +R\$ 185,4 bi | — |
-| 16/10/2026 | **+R\$ 2,2 bi** | +R\$ 5,2 bi | +R\$ 21,0 bi | +R\$ 48,4 bi | +R\$ 48,6 bi | +R\$ 186,4 bi | — |
 
 *Saldo negociado na bolsa (sem ofertas). Fonte do dia: relatório da B3 baixado todo dia; antes do download diário, Dados de Mercado e Clube do Pai Rico (os mesmos números da B3).*
 
@@ -63,26 +63,27 @@ tags: [estrangeiros]
 
 Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **quem está do outro lado** dos estrangeiros (saldo negociado na bolsa, sem ofertas).
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261110" title="Saldo acumulado por tipo de investidor" loading="lazy" style="width:100%;height:480px;border:0;border-radius:8px"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261111" title="Saldo acumulado por tipo de investidor" loading="lazy" style="width:100%;height:480px;border:0;border-radius:8px"></iframe>
 
-*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261110" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261111" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática
-> ![Saldo acumulado por tipo de investidor](graficos/investidores_20261106.png)
+> ![Saldo acumulado por tipo de investidor](graficos/investidores_20261109.png)
 
-| Tipo | 06/11 | Semana (03/11–06/11) | Mês (1–06/11) | Ano (até 06/11) | 12 meses (desde 12/2025) | Geral (desde 24/10/2025) |
+| Tipo | 09/11 | Semana (09/11–09/11) | Mês (1–09/11) | Ano (até 09/11) | 12 meses (desde 12/2025) | Geral (desde 24/10/2025) |
 |---|---|---|---|---|---|---|
-| Estrangeiro | **−R$ 460 mi** | −R$ 4,3 bi | −R$ 4,3 bi | +R$ 31,3 bi | +R$ 29,4 bi | +R$ 34,0 bi |
-| Institucional | **+R$ 28 mi** | +R$ 1,3 bi | +R$ 1,3 bi | −R$ 47,6 bi | −R$ 44,8 bi | −R$ 54,0 bi |
-| Pessoa física | **+R$ 80 mi** | +R$ 2,1 bi | +R$ 2,1 bi | +R$ 17,2 bi | +R$ 21,1 bi | +R$ 16,7 bi |
-| Inst. financeiras | **+R$ 196 mi** | +R$ 549 mi | +R$ 549 mi | −R$ 1,0 bi | −R$ 3,6 bi | −R$ 1,2 bi |
-| Outros | **+R$ 155 mi** | +R$ 384 mi | +R$ 384 mi | +R$ 98 mi | −R$ 2,2 bi | +R$ 4,5 bi |
+| Estrangeiro | **−R$ 86 mi** | −R$ 86 mi | −R$ 4,3 bi | +R$ 31,2 bi | +R$ 29,4 bi | +R$ 33,9 bi |
+| Institucional | **−R$ 479 mi** | −R$ 479 mi | +R$ 780 mi | −R$ 48,1 bi | −R$ 45,2 bi | −R$ 54,5 bi |
+| Pessoa física | **−R$ 35 mi** | −R$ 35 mi | +R$ 2,0 bi | +R$ 17,2 bi | +R$ 21,1 bi | +R$ 16,6 bi |
+| Inst. financeiras | **+R$ 599 mi** | +R$ 599 mi | +R$ 1,1 bi | −R$ 410 mi | −R$ 3,0 bi | −R$ 595 mi |
+| Outros | **−R$ 0 mi** | −R$ 0 mi | +R$ 384 mi | +R$ 98 mi | −R$ 2,2 bi | +R$ 4,5 bi |
 
-*Dados até 06/11/2026 · 26 pregões vindos direto da B3 (Boletim Diário do Mercado). Cada coluna é um acumulado DESTA tabela, nas datas do cabeçalho. Conferência do dia: os 5 tipos somam +R$ 0 mi (zero, como tem de ser).*
+*Dados até 09/11/2026 · 27 pregões vindos direto da B3 (Boletim Diário do Mercado). Cada coluna é um acumulado DESTA tabela, nas datas do cabeçalho. Conferência do dia: os 5 tipos somam −R$ 0 mi (zero, como tem de ser).*
 
 > [!note]- Últimos 15 pregões
 > | Dia | Estrangeiro | Institucional | Pessoa física | Inst. financeiras | Outros |
 > |---|---|---|---|---|---|
+> | 09/11 | −R$ 86 mi | −R$ 479 mi | −R$ 35 mi | +R$ 599 mi | −R$ 0 mi |
 > | 06/11 | −R$ 460 mi | +R$ 28 mi | +R$ 80 mi | +R$ 196 mi | +R$ 155 mi |
 > | 05/11 | −R$ 1,7 bi | +R$ 704 mi | +R$ 789 mi | +R$ 201 mi | +R$ 41 mi |
 > | 04/11 | −R$ 1,7 bi | +R$ 1,2 bi | +R$ 373 mi | +R$ 47 mi | +R$ 4 mi |
@@ -97,22 +98,21 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 > | 21/10 | +R$ 157 mi | −R$ 753 mi | +R$ 970 mi | −R$ 430 mi | +R$ 56 mi |
 > | 20/10 | +R$ 18 mi | +R$ 130 mi | +R$ 55 mi | −R$ 39 mi | −R$ 164 mi |
 > | 19/10 | −R$ 1,0 bi | +R$ 464 mi | +R$ 632 mi | −R$ 56 mi | −R$ 31 mi |
-> | 16/10 | +R$ 2,2 bi | −R$ 2,5 bi | −R$ 770 mi | +R$ 1,2 bi | −R$ 213 mi |
 
 *Fonte: B3 — Boletim Diário do Mercado › Renda Variável › Indicadores e Informativos › Participação dos Investidores (compras e vendas de cada tipo, acumuladas no mês; o saldo do dia sai da diferença entre dois pregões). Baixado sozinho todo dia útil de manhã.*
 
 ## Mês a mês
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_mes.html?v=20261110" title="Capital estrangeiro — mês a mês" loading="lazy" style="width:100%;height:520px;border:0;border-radius:8px"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_mes.html?v=20261111" title="Capital estrangeiro — mês a mês" loading="lazy" style="width:100%;height:520px;border:0;border-radius:8px"></iframe>
 
-*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_mes.html?v=20261110" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_mes.html?v=20261111" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática
-> ![Capital estrangeiro na B3 — mensal](graficos/estrangeiros_20261106.png)
+> ![Capital estrangeiro na B3 — mensal](graficos/estrangeiros_20261109.png)
 
 | Mês | Bolsa | IPO/follow-on | Total | | Ano (bolsa) | Ano (total) | 12 meses (total) |
 |---|---|---|---|---|---|---|---|
-| nov/2026 *(até 06)* | **−R\$ 4,3 bi** | — | −R\$ 4,3 bi | 🟥🟥 | +R\$ 31,3 bi | +R\$ 35,9 bi | +R\$ 34,3 bi |
+| nov/2026 *(até 09)* | **−R\$ 4,3 bi** | — | −R\$ 4,3 bi | 🟥🟥 | +R\$ 31,2 bi | +R\$ 35,9 bi | +R\$ 34,2 bi |
 | out/2026 | **+R\$ 8,2 bi** | — | +R\$ 8,2 bi | 🟩🟩🟩 | +R\$ 35,6 bi | +R\$ 40,2 bi | +R\$ 41,1 bi |
 | set/2026 | **+R\$ 9,1 bi** | — | +R\$ 9,1 bi | 🟩🟩🟩 | +R\$ 27,4 bi | +R\$ 32,0 bi | +R\$ 31,8 bi |
 | ago/2026 | **−R\$ 18,1 bi** | — | −R\$ 18,1 bi | 🟥🟥🟥🟥🟥🟥🟥 | +R\$ 18,3 bi | +R\$ 22,9 bi | +R\$ 28,0 bi |
@@ -143,7 +143,7 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 | Ano | Bolsa | IPO/follow-on | Total | Geral (bolsa) |
 |---|---|---|---|---|
-| 2026 *(até 06/11)* | **+R\$ 31,3 bi** | +R\$ 4,6 bi | +R\$ 35,9 bi | +R\$ 169,3 bi |
+| 2026 *(até 09/11)* | **+R\$ 31,2 bi** | +R\$ 4,6 bi | +R\$ 35,9 bi | +R\$ 169,2 bi |
 | 2025 | **+R\$ 25,5 bi** | +R\$ 1,4 bi | +R\$ 26,9 bi | +R\$ 138,0 bi |
 | 2024 | **−R\$ 32,1 bi** | +R\$ 7,9 bi | −R\$ 24,2 bi | +R\$ 112,5 bi |
 | 2023 | **+R\$ 44,9 bi** | +R\$ 11,1 bi | +R\$ 56,0 bi | +R\$ 144,6 bi |
@@ -168,7 +168,7 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 | Mês | Estrangeiros | Institucionais | Pessoas físicas | Inst. financeiras | Outros |
 |---|---|---|---|---|---|
-| nov/2026 | **65,0%** | 22,0% | 10,9% | 1,7% | 0,5% |
+| nov/2026 | **64,6%** | 21,9% | 11,2% | 1,8% | 0,5% |
 | out/2026 | **62,0%** | 25,9% | 9,5% | 2,0% | 0,6% |
 | set/2026 | **61,8%** | 24,2% | 10,5% | 3,0% | 0,5% |
 | ago/2026 | **58,3%** | 26,3% | 10,9% | 3,6% | 0,9% |
@@ -187,18 +187,18 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 | O que | Por aqui | Pela outra fonte | |
 |---|---|---|---|
-| Mês até 06/11: soma dos dias × relatório da B3 | −R\$ 4,3 bi | −R\$ 4,3 bi | ✅ |
-| Ano até 06/11 (bolsa): resumo/gráfico × B3 | +R\$ 31,3 bi | +R\$ 31,3 bi | ✅ |
-| Ano até 06/11 com ofertas: total × B3 (A+C−B) | +R\$ 35,9 bi | +R\$ 35,9 bi | ✅ |
+| Mês até 09/11: soma dos dias × relatório da B3 | −R\$ 4,3 bi | −R\$ 4,3 bi | ✅ |
+| Ano até 09/11 (bolsa): resumo/gráfico × B3 | +R\$ 31,2 bi | +R\$ 31,2 bi | ✅ |
+| Ano até 09/11 com ofertas: total × B3 (A+C−B) | +R\$ 35,9 bi | +R\$ 35,9 bi | ✅ |
 | Meses fechados de 2026: soma dos dias × mês oficial | 10 de 10 batem | — | ✅ |
 | Ano até 06/11: nosso × publicado pelo Pai Rico | +R\$ 31,3 bi | +R\$ 31,3 bi | ✅ |
-| Tabela dos 5 tipos (até 06/11): estrangeiro no ano × série principal na MESMA data | +R\$ 31,3 bi | +R\$ 31,3 bi | ✅ |
-| Tabela dos 5 tipos: os 5 saldos de 06/11 somam zero | +R\$ 0 mi | zero | ✅ |
+| Tabela dos 5 tipos (até 09/11): estrangeiro no ano × série principal na MESMA data | +R\$ 31,2 bi | +R\$ 31,2 bi | ✅ |
+| Tabela dos 5 tipos: os 5 saldos de 09/11 somam zero | −R\$ 0 mi | zero | ✅ |
 
 > [!info]- Como funciona (fontes e horários)
 > - **B3, direto:** todo dia útil das 5h40 às 8h40 o servidor baixa o relatório *Dados de mercado* da B3 (1 download por tentativa). A B3 publica a movimentação dos estrangeiros em **D+2** — o pregão de segunda sai na quarta de manhã. A diferença entre o relatório de hoje e o anterior é o saldo do pregão novo (compras, vendas e ofertas separados).
 > - **Histórico antes do download diário:** postagens do Clube do Pai Rico (dado da B3 desde 2009) e o arquivo do Dados de Mercado — conferidos dia a dia contra a B3.
-> - Relatórios da B3 guardados: 8 (o mais recente com dado até 06/11/2026).
+> - Relatórios da B3 guardados: 9 (o mais recente com dado até 09/11/2026).
 > - Se a B3 corrigir um mês, o relatório seguinte já traz o valor novo e a conferência mostra.
 
 > [!info]- De onde vêm os 5 tipos de investidor
