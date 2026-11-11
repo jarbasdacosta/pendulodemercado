@@ -6,9 +6,9 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 11/11/2026 12:16 BRT · Intraday 15min*
+*Última atualização: 11/11/2026 12:31 BRT · Intraday 15min*
 
-> [!success] Onde o mercado está agora (11/11 12:00, candles de 15 min): **🟢 Calmo**
+> [!success] Onde o mercado está agora (11/11 12:15, candles de 15 min): **🟢 Calmo**
 > `Pânico ◀──────────●──────────▶ Euforia`
 >
 > O Ibovespa está dentro da sua faixa normal, sem excesso para cima nem para baixo.
@@ -20,7 +20,7 @@ tags: [home]
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 2% | [relatório](intraday/2026-11-11) |
+| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 0% | [relatório](intraday/2026-11-11) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | ⏳ aguardando: Diário · Nadaraya, Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
@@ -44,26 +44,26 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (11/11 12:00): 🟢 **VERDE** — Risco 2% · ▼ -4 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (11/11 12:15): 🟢 **VERDE** — Risco 0% · ▼ -2 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (11/11 12:00) | Valor |
+> | Indicador — IMA Intraday · 15 min (11/11 12:15) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | **2%** |
+> | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 172.678 pts |
+> | 📊 Ibovespa | 172.700 pts |
 >
-> **Multi-ativo:** 12% em tensão (2🔴 1🟡 de 26 ativos)
+> **Multi-ativo:** 8% em tensão (2🔴 0🟡 de 26 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [11/11/2026](intraday/2026-11-11) | 🟢 VERDE | **2%** | 2% | 0% | 0% |
+> | [11/11/2026](intraday/2026-11-11) | 🟢 VERDE | **0%** | 0% | 0% | 0% |
 > | [10/11/2026](intraday/2026-11-10) | 🟢 VERDE | **0%** | 0% | 9% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
