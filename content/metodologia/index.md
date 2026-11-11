@@ -1,6 +1,6 @@
 ---
 title: "📚 Metodologia"
-date: 2026-11-10
+date: 2026-11-11
 tags: [metodologia]
 description: "Como cada módulo do Pêndulo de Mercado funciona e como foi testado"
 ---
