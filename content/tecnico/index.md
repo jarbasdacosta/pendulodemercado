@@ -1,28 +1,28 @@
 ---
 title: 📈 Gráficos
-date: 2026-11-10
+date: 2026-11-11
 tags: [tecnico]
 description: Ibovespa no mensal, semanal e diário com médias, Bollinger, MACD-V, CCI e RSI
 ---
 
-Ibovespa com **MME(9)**, **MMA(20)**, **MMA(50)**, **MMA(200)** e **Bollinger(20,2)**, mais **MACD-V**, **CCI(20)** e **RSI(14)**, com os **Sinais de Topo e Fundo** marcados nos candles. Fechamento de **10/11/2026**; o semanal e o mensal mostram o candle atual ainda em formação.
+Ibovespa com **MME(9)**, **MMA(20)**, **MMA(50)**, **MMA(200)** e **Bollinger(20,2)**, mais **MACD-V**, **CCI(20)** e **RSI(14)**, com os **Sinais de Topo e Fundo** marcados nos candles. Fechamento de **11/11/2026**; o semanal e o mensal mostram o candle atual ainda em formação.
 
 **Atalhos:** [Mensal](#mensal) · [Semanal](#semanal) · [Diário](#diário)
 
 ## Mensal
 
-![Ibovespa Mensal](graficos/tecnico_mensal_20261110.png)
+![Ibovespa Mensal](graficos/tecnico_mensal_20261111.png)
 
 | Indicador | Valor | Posição | Direção (vs. candle anterior) |
 |---|---|---|---|
-| MME(9) | 173.826 | 🔴 preço abaixo (−1,4%) | ↘ caindo |
-| MMA(20) | 163.659 | 🟢 preço acima (+4,7%) | ↗ subindo |
-| MMA(50) | 137.980 | 🟢 preço acima (+24,2%) | ↗ subindo |
-| MMA(200) | 90.123 | 🟢 preço acima (+90,1%) | ↗ subindo |
-| Bollinger(20,2) | 125.363 – 201.954 | dentro das bandas (%B 60%) | →← fechando |
-| MACD-V | 100,1 (média 137,8) | 🔴 abaixo da média (sinal) | 🟥 ↘ caindo |
-| CCI(20) | 29,8 (MME9 80,8) | 🔴 abaixo da MME9 · acima de zero | ↗ subindo |
-| RSI(14) | 57,8 | neutro · acima de 50 | ↗ subindo |
+| MME(9) | 173.971 | 🔴 preço abaixo (−1,1%) | ↘ caindo |
+| MMA(20) | 163.695 | 🟢 preço acima (+5,1%) | ↗ subindo |
+| MMA(50) | 137.994 | 🟢 preço acima (+24,7%) | ↗ subindo |
+| MMA(200) | 90.126 | 🟢 preço acima (+90,9%) | ↗ subindo |
+| Bollinger(20,2) | 125.369 – 202.021 | dentro das bandas (%B 61%) | →← fechando |
+| MACD-V | 100,6 (média 137,9) | 🔴 abaixo da média (sinal) | 🟥 ↘ caindo |
+| CCI(20) | 32,5 (MME9 81,3) | 🔴 abaixo da MME9 · acima de zero | ↗ subindo |
+| RSI(14) | 58,2 | neutro · acima de 50 | ↗ subindo |
 
 **Sinais de Topo e Fundo marcados no gráfico** (▲ fundo · ▼ topo · maior = forte · vazado = em formação) — [como ler](sinais-topo-fundo/tutorial)
 
@@ -39,18 +39,18 @@ Ibovespa com **MME(9)**, **MMA(20)**, **MMA(50)**, **MMA(200)** e **Bollinger(20
 
 ## Semanal
 
-![Ibovespa Semanal](graficos/tecnico_semanal_20261110.png)
+![Ibovespa Semanal](graficos/tecnico_semanal_20261111.png)
 
 | Indicador | Valor | Posição | Direção (vs. candle anterior) |
 |---|---|---|---|
-| MME(9) | 182.134 | 🔴 preço abaixo (−5,9%) | ↘ caindo |
-| MMA(20) | 181.227 | 🔴 preço abaixo (−5,5%) | ↘ caindo |
-| MMA(50) | 178.542 | 🔴 preço abaixo (−4,0%) | ↗ subindo |
-| MMA(200) | 139.231 | 🟢 preço acima (+23,1%) | ↗ subindo |
-| Bollinger(20,2) | 156.124 – 206.331 | dentro das bandas (%B 30%) | ↔ abrindo |
-| MACD-V | 20,9 (média 55,7) | 🔴 abaixo da média (sinal) | 🟥 ↘ caindo |
-| CCI(20) | -64,1 (MME9 34,9) | 🔴 abaixo da MME9 · abaixo de zero | ↗ subindo |
-| RSI(14) | 44,2 | neutro · abaixo de 50 | ↗ subindo |
+| MME(9) | 182.279 | 🔴 preço abaixo (−5,6%) | ↘ caindo |
+| MMA(20) | 181.263 | 🔴 preço abaixo (−5,1%) | ↘ caindo |
+| MMA(50) | 178.556 | 🔴 preço abaixo (−3,6%) | ↗ subindo |
+| MMA(200) | 139.234 | 🟢 preço acima (+23,6%) | ↗ subindo |
+| Bollinger(20,2) | 156.215 – 206.312 | dentro das bandas (%B 32%) | ↔ abrindo |
+| MACD-V | 21,6 (média 55,8) | 🔴 abaixo da média (sinal) | 🟥 ↘ caindo |
+| CCI(20) | -59,8 (MME9 35,8) | 🔴 abaixo da MME9 · abaixo de zero | ↗ subindo |
+| RSI(14) | 44,6 | neutro · abaixo de 50 | ↗ subindo |
 
 **Sinais de Topo e Fundo marcados no gráfico** (▲ fundo · ▼ topo · maior = forte · vazado = em formação) — [como ler](sinais-topo-fundo/tutorial)
 
@@ -80,18 +80,18 @@ Ibovespa com **MME(9)**, **MMA(20)**, **MMA(50)**, **MMA(200)** e **Bollinger(20
 
 ## Diário
 
-![Ibovespa Diário](graficos/tecnico_diario_20261110.png)
+![Ibovespa Diário](graficos/tecnico_diario_20261111.png)
 
 | Indicador | Valor | Posição | Direção (vs. candle anterior) |
 |---|---|---|---|
-| MME(9) | 172.733 | 🔴 preço abaixo (−0,8%) | ↘ caindo |
-| MMA(20) | 186.200 | 🔴 preço abaixo (−8,0%) | ↘ caindo |
-| MMA(50) | 187.634 | 🔴 preço abaixo (−8,7%) | ↘ caindo |
-| MMA(200) | 181.526 | 🔴 preço abaixo (−5,6%) | ↘ caindo |
-| Bollinger(20,2) | 150.330 – 222.071 | dentro das bandas (%B 29%) | →← fechando |
-| MACD-V | -134,3 (média -106,5) | 🔴 abaixo da média (sinal) | 🔴 ↗ subindo |
-| CCI(20) | -56,2 (MME9 -81,1) | 🟢 acima da MME9 · abaixo de zero | ↗ subindo |
-| RSI(14) | 35,7 | neutro · abaixo de 50 | ↘ caindo |
+| MME(9) | 172.598 | 🔴 preço abaixo (−0,3%) | ↘ caindo |
+| MMA(20) | 184.459 | 🔴 preço abaixo (−6,7%) | ↘ caindo |
+| MMA(50) | 187.562 | 🔴 preço abaixo (−8,3%) | ↘ caindo |
+| MMA(200) | 181.509 | 🔴 preço abaixo (−5,2%) | ↘ caindo |
+| Bollinger(20,2) | 149.403 – 219.516 | dentro das bandas (%B 32%) | →← fechando |
+| MACD-V | -133,4 (média -118,6) | 🔴 abaixo da média (sinal) | 🔴 ↗ subindo |
+| CCI(20) | -48,7 (MME9 -74,7) | 🟢 acima da MME9 · abaixo de zero | ↗ subindo |
+| RSI(14) | 36,9 | neutro · abaixo de 50 | ↗ subindo |
 
 **Sinais de Topo e Fundo marcados no gráfico** (▲ fundo · ▼ topo · maior = forte · vazado = em formação) — [como ler](sinais-topo-fundo/tutorial)
 
@@ -109,7 +109,7 @@ Ibovespa com **MME(9)**, **MMA(20)**, **MMA(50)**, **MMA(200)** e **Bollinger(20
 **Entradas do método neste gráfico** (▲ = compra · ✖ = saída · tracejado âmbar = stop da compra em andamento · linha verde-água/âmbar = Nadaraya 12 · ● = fundo/topo fixo do semáforo) — [regras](metodologia/regras-de-operacao#entradas-do-método)
 
 - **Nadaraya** (✅ passou fora da amostra): ⏳ aguardando — setup FD+RSI (forte); entra quando o Nadaraya virar para cima no fechamento (hoje está caindo)
-- **Semáforo N3 após ζ Fundo** (🧪 em observação): ⏳ aguardando — setup ζ Fundo 100%; entra quando fundo candidato em 03/11 (164.447): vira entrada se não houver mínima menor em 7 pregões
+- **Semáforo N3 após ζ Fundo** (🧪 em observação): ⏳ aguardando — setup ζ Fundo 100%; entra quando fundo candidato em 03/11 (164.447): vira entrada se não houver mínima menor em 6 pregões
 
 *Operações anteriores a 23/10/2026 são simuladas no histórico (as regras estão em teste ao vivo desde então).*
 
@@ -124,4 +124,4 @@ Ibovespa com **MME(9)**, **MMA(20)**, **MMA(50)**, **MMA(200)** e **Bollinger(20
 
 <small>Direção = valor de hoje comparado com o do candle anterior (no semanal e no mensal, com o candle em formação). MACD-V: 🟩 verde subindo · 🟢 verde sem brilho · 🔴 vermelho sem brilho · 🟥 vermelho caindo. CCI: aqua subindo · magenta caindo · azul ≥ +200 · vermelho ≤ −200 · linha amarela = MME9 do CCI.</small>
 
-*Atualizado em 10/11/2026 19:06 BRT. Dados: Yahoo (^BVSP); semanal e mensal montados do diário.*
+*Atualizado em 11/11/2026 19:05 BRT. Dados: Yahoo (^BVSP); semanal e mensal montados do diário.*
