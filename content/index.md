@@ -6,9 +6,9 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 12/11/2026 15:31 BRT · Intraday 15min*
+*Última atualização: 12/11/2026 15:46 BRT · Intraday 15min*
 
-> [!info] Onde o mercado está agora (12/11 15:15, candles de 15 min): **🔵 Esticado para baixo**
+> [!info] Onde o mercado está agora (12/11 15:30, candles de 15 min): **🔵 Esticado para baixo**
 > `Pânico ◀─●───────────────────▶ Euforia`
 >
 > O Ibovespa caiu mais rápido que o normal e está abaixo da sua faixa habitual.
@@ -16,7 +16,7 @@ tags: [home]
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
-> [!warning] ⚠️ Nível alto agora — IMA Intraday · 15 min (12/11 15:15)
+> [!warning] ⚠️ Nível alto agora — IMA Intraday · 15 min (12/11 15:30)
 > - 🔵 **ζ Fundo 88%** — preço esticado abaixo da tendência
 
 ## Agora
@@ -47,20 +47,20 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (12/11 15:15): 🟢 **VERDE** — Risco 0% · ＝ +0 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (12/11 15:30): 🟢 **VERDE** — Risco 0% · ＝ +0 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (12/11 15:15) | Valor |
+> | Indicador — IMA Intraday · 15 min (12/11 15:30) | Valor |
 > |---|---|
 > | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔵 **88%** |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 170.902 pts |
+> | 📊 Ibovespa | 170.849 pts |
 >
-> **Multi-ativo:** 19% em tensão (3🔴 2🟡 de 27 ativos)
+> **Multi-ativo:** 22% em tensão (3🔴 3🟡 de 27 ativos)
 >
 > **Últimos 7 pregões**
 >
