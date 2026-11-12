@@ -1,18 +1,18 @@
 ---
 title: "📈 Avanço e declínio"
-date: 2026-11-11
+date: 2026-11-12
 description: "Linha de avanço e declínio do Ibovespa: ações que subiram menos as que caíram, acumulado"
 tags: [amplitude]
 ---
 
-*Atualizado 11/11/2026 19:03 · fechamento de 11/11/2026.*
+*Atualizado 12/11/2026 19:04 · fechamento de 12/11/2026.*
 
 Em cada pregão, conta quantas ações da carteira do Ibovespa **subiram** e quantas **caíram**. O saldo do dia (subiram − caíram) é somado dia após dia: essa é a **linha de avanço e declínio**. Ela mostra se a alta do índice é de muitas ações ou só de algumas grandes. **Divergência:** o Ibovespa faz um **topo maior** que o topo anterior e a linha, nesse topo, fica **abaixo** do pico que tinha no topo anterior — a alta está ficando estreita.
 
 > [!danger] ⚠ **Divergência confirmada em 26/10/2026** — topo de 209.067 (09/10) acima do topo de 14/04, com a linha 188 abaixo.
-> 11/11/2026: 54 subiram · 22 caíram · saldo **+32**
+> 12/11/2026: 18 subiram · 55 caíram · saldo **-37**
 
-![Linha de avanço e declínio](graficos/linha_ad_20261111.png)
+![Linha de avanço e declínio](graficos/linha_ad_20261112.png)
 
 ## Topos maiores e a linha
 
@@ -41,6 +41,7 @@ Desde 2001: **42** topos maiores confirmados · **15** com divergência.
 
 | Data | Subiram | Caíram | Saldo | Linha | Ibovespa |
 |---|---|---|---|---|---|
+| 12/11/2026 | 18 | 55 | **-37** | 1.051 | 171.324 |
 | 11/11/2026 | 54 | 22 | **+32** | 1.088 | 172.060 |
 | 10/11/2026 | 22 | 54 | **-32** | 1.056 | 171.337 |
 | 09/11/2026 | 65 | 10 | **+55** | 1.088 | 172.236 |
@@ -50,7 +51,6 @@ Desde 2001: **42** topos maiores confirmados · **15** com divergência.
 | 03/11/2026 | 21 | 55 | **-34** | 947 | 165.529 |
 | 30/10/2026 | 17 | 58 | **-41** | 981 | 167.922 |
 | 29/10/2026 | 13 | 63 | **-50** | 1.022 | 169.186 |
-| 28/10/2026 | 7 | 68 | **-61** | 1.072 | 171.006 |
 
 ## 📦 OBV — o volume (só informação)
 
@@ -59,7 +59,7 @@ O **OBV** (*On-Balance Volume*) soma o volume financeiro das ações da carteira
 > [!note] **OBV do índice:** sem topo maior em formação · **OBV agregado** (ação por ação): sem topo maior em formação
 > **No teste a divergência do OBV funcionou AO CONTRÁRIO da teoria** — não use como sinal (detalhes abaixo).
 
-![OBV do Ibovespa](graficos/linha_ad_obv_20261111.png)
+![OBV do Ibovespa](graficos/linha_ad_obv_20261112.png)
 
 | OBV no teste (23/10/2026, topo/fundo confirmado por 5%) | O que aconteceu depois | Leitura |
 |---|---|---|
