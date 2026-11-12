@@ -6,9 +6,9 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 12/11/2026 14:16 BRT · Intraday 15min*
+*Última atualização: 12/11/2026 14:30 BRT · Intraday 15min*
 
-> [!info] Onde o mercado está agora (12/11 14:00, candles de 15 min): **🔵 Esticado para baixo**
+> [!info] Onde o mercado está agora (12/11 14:15, candles de 15 min): **🔵 Esticado para baixo**
 > `Pânico ◀──●──────────────────▶ Euforia`
 >
 > O Ibovespa caiu mais rápido que o normal e está abaixo da sua faixa habitual.
@@ -16,8 +16,8 @@ tags: [home]
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
-> [!warning] ⚠️ Nível alto agora — IMA Intraday · 15 min (12/11 14:00)
-> - 🔵 **ζ Fundo 85%** — preço esticado abaixo da tendência
+> [!warning] ⚠️ Nível alto agora — IMA Intraday · 15 min (12/11 14:15)
+> - 🔵 **ζ Fundo 84%** — preço esticado abaixo da tendência
 
 ## Agora
 
@@ -47,26 +47,26 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (12/11 14:00): 🟢 **VERDE** — Risco 1% · ＝ +0 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (12/11 14:15): 🟢 **VERDE** — Risco 1% · ＝ +0 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (12/11 14:00) | Valor |
+> | Indicador — IMA Intraday · 15 min (12/11 14:15) | Valor |
 > |---|---|
 > | 🔴 ζ Topo — preço esticado acima da tendência | **1%** |
-> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔵 **85%** |
+> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔵 **84%** |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 171.252 pts |
+> | 📊 Ibovespa | 171.034 pts |
 >
-> **Multi-ativo:** 15% em tensão (2🔴 2🟡 de 27 ativos)
+> **Multi-ativo:** 15% em tensão (2🔴 3🟡 de 27 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [12/11/2026](intraday/2026-11-12) | 🟢 VERDE | **1%** | 1% | 🔵 **85%** | 0% |
+> | [12/11/2026](intraday/2026-11-12) | 🟢 VERDE | **1%** | 1% | 🔵 **84%** | 0% |
 > | [11/11/2026](intraday/2026-11-11) | 🟢 VERDE | **0%** | 0% | 2% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
