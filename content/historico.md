@@ -5,7 +5,7 @@ tags: [historico]
 
 # 📜 Histórico de leituras (v5)
 
-**2.346 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
+**2.347 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
 
 [**Baixar o histórico completo**](historico-completo.csv) (103 KB · abre no Excel e no LibreOffice)
 
@@ -16,6 +16,7 @@ tags: [historico]
 
 | Data | Modo | Zona | Risco | IMA | LPPL |
 |---|---|---|---|---|---|
+| 2026-11-13 10:00 | intraday | 🟢 VERDE | 0% | 0% | 0% |
 | 2026-11-12 18:00 | intraday | 🟢 VERDE | 0% | 0% | 0% |
 | 2026-11-12 17:45 | intraday | 🟢 VERDE | 0% | 0% | 0% |
 | 2026-11-12 17:30 | intraday | 🟢 VERDE | 0% | 0% | 0% |
@@ -84,40 +85,6 @@ tags: [historico]
 | 2026-11-11 10:15 | intraday | 🟢 VERDE | 2% | 2% | 0% |
 | 2026-11-11 10:00 | intraday | 🟢 VERDE | 0% | 0% | 0% |
 | 2026-11-11 | diario | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 18:00 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 17:45 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 17:30 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 17:15 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 17:00 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 16:45 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 16:30 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 16:15 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 16:00 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 15:45 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 15:30 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 15:15 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 15:00 | intraday | 🟢 VERDE | 1% | 1% | 0% |
-| 2026-11-10 14:45 | intraday | 🟢 VERDE | 2% | 2% | 0% |
-| 2026-11-10 14:30 | intraday | 🟢 VERDE | 1% | 1% | 0% |
-| 2026-11-10 14:15 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 14:00 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 13:45 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 13:30 | intraday | 🟢 VERDE | 0% | 0% | 0% |
-| 2026-11-10 13:15 | intraday | 🟢 VERDE | 1% | 1% | 0% |
-| 2026-11-10 13:00 | intraday | 🟢 VERDE | 1% | 1% | 0% |
-| 2026-11-10 12:45 | intraday | 🟢 VERDE | 1% | 1% | 0% |
-| 2026-11-10 12:30 | intraday | 🟢 VERDE | 1% | 1% | 0% |
-| 2026-11-10 12:15 | intraday | 🟢 VERDE | 1% | 1% | 0% |
-| 2026-11-10 12:00 | intraday | 🟢 VERDE | 6% | 6% | 0% |
-| 2026-11-10 11:45 | intraday | 🟢 VERDE | 30% | 30% | 0% |
-| 2026-11-10 11:30 | intraday | 🟡 AMARELO | 49% | 49% | 0% |
-| 2026-11-10 11:15 | intraday | 🟡 AMARELO | 🟡 **74%** | 🟡 **74%** | 0% |
-| 2026-11-10 11:00 | intraday | 🔴 VERMELHO | 🟡 **88%** | 🟡 **88%** | 0% |
-| 2026-11-10 10:45 | intraday | 🔴 VERMELHO | 🔴 **99%** | 🔴 **99%** | 0% |
-| 2026-11-10 10:30 | intraday | 🔴 VERMELHO | 🔴 **98%** | 🔴 **98%** | 0% |
-| 2026-11-10 10:15 | intraday | 🔴 VERMELHO | 🔴 **96%** | 🔴 **96%** | 0% |
-| 2026-11-10 10:00 | intraday | 🔴 VERMELHO | 🔴 **92%** | 🔴 **92%** | 0% |
-| 2026-11-10 | diario | 🟢 VERDE | 0% | 0% | 0% |
 
 ## Dias anteriores, um por linha
 
@@ -125,6 +92,7 @@ O risco mostrado é o **máximo do dia** — é o que importa para saber se a zo
 
 | Dia | Leituras | Zona na última | Risco máximo | IMA máximo | LPPL máximo |
 |---|---|---|---|---|---|
+| 2026-11-10 | 34 | 🟢 VERDE | 🔴 **99%** | 🔴 **99%** | 0% |
 | 2026-11-09 | 34 | 🔴 VERMELHO | 🔴 **95%** | 🔴 **95%** | 0% |
 | 2026-11-06 | 34 | 🟢 VERDE | 45% | 45% | 0% |
 | 2026-11-05 | 33 | 🟢 VERDE | 16% | 16% | 0% |

@@ -1,6 +1,6 @@
 ---
 title: "🎯 Regras de operação"
-date: 2026-11-12
+date: 2026-11-13
 tags: [metodologia]
 description: "Tendência MME9 e Entradas do método: regras e testes"
 ---
