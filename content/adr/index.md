@@ -2,7 +2,7 @@
 title: "🗽 Ações que foram para Nova York"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 15/11/2026 20:34*
+*Dados da B3 de 13/11/2026 · atualizado em 15/11/2026 20:46*
 
 Um estrangeiro que quer comprar ação brasileira tem dois caminhos: comprar aqui, em reais, ou
 comprar o **ADR** — um recibo negociado nos Estados Unidos que representa a ação. O recibo não
@@ -32,10 +32,10 @@ Variação da quantidade depositada ao longo dos pregões guardados. **Só movim
 | 1 | **B3SA3** | B3 S.A. - Brasil, Bolsa, | ON       | 69,16 | **+22,3%** | +1,8% | 12.619.890 |
 | 2 | **TOTS3** | Totvs S.A. | ON       | 10,27 | **+16,1%** | +2,1% | 1.427.300 |
 | 3 | **CYRE3** | Cyrela Brazil Realty S.A | ON       | 17,93 | **+14,7%** | +0,7% | 2.296.700 |
-| 4 | — | Banco Do Brasil S/A | ON       | 150,37 | **+10,1%** | +6,0% | 13.773.000 |
+| 4 | **BBAS3** | Banco Do Brasil S/A | ON       | 150,37 | **+10,1%** | +6,0% | 13.773.000 |
 | 5 | **VBBR3** | Vibra Energia S.A. | ON       | 16,43 | **+8,9%** | +0,0% | 1.342.410 |
 | 6 | **SUZB3** | Suzano S.A. | ON       | 104,99 | **+6,1%** | +0,0% | 6.009.600 |
-| 7 | — | Banco Bradesco S/A | ON       | 8,71 | **+5,8%** | — | 475.000 |
+| 7 | **BBDC3** | Banco Bradesco S/A | ON       | 8,71 | **+5,8%** | — | 475.000 |
 | 8 | **EQTL3** | Equatorial S.A. | ON       | 0,52 | **+5,3%** | +0,0% | 26.000 |
 | 9 | **RENT3** | Localiza Rent A Car S/A | ON       | 4,45 | **+5,0%** | -0,5% | 212.700 |
 | 10 | **TIMS3** | Tim S.A. | ON       | 105,50 | **+4,0%** | +0,0% | 4.041.600 |
@@ -60,10 +60,10 @@ Em quantidade absoluta de ações dentro do programa. Empresa grande com ADR ant
 | # | Papel | Empresa | Classe | Ações em ADR (mi) | No período |
 |---|---|---|---|---|---|
 | 1 | **PETR3** | Petroleo Brasileiro S/A Petr | ON       | **2.012,53** | -0,2% |
-| 2 | — | Banco Santander (Brasil) S.A | UNT | **1.290,78** | -0,0% |
+| 2 | **SANB11** | Banco Santander (Brasil) S.A | UNT | **1.290,78** | -0,0% |
 | 3 | **ITUB4** | Itau Unibanco Holding S/A | PN       | **1.264,97** | +0,2% |
 | 4 | **VALE3** | Vale S.A. | ON       | **1.261,79** | +0,0% |
-| 5 | — | Banco Bradesco S/A | PN       | **1.197,69** | -0,3% |
+| 5 | **BBDC4** | Banco Bradesco S/A | PN       | **1.197,69** | -0,3% |
 | 6 | **ABEV3** | Ambev S.A. | ON | **902,89** | -0,2% |
 | 7 | **PETR4** | Petroleo Brasileiro S/A Petr | PN       | **769,37** | +1,0% |
 | 8 | **GGBR4** | Gerdau S.A. | PN  ED   | **448,21** | +0,0% |
@@ -73,7 +73,7 @@ Em quantidade absoluta de ações dentro do programa. Empresa grande com ADR ant
 | 12 | **EMBJ3** | Embraer S.A. | ON       | **337,90** | -2,0% |
 | 13 | **CMIG4** | Cia. Energetica De Minas Ger | PN       | **205,64** | +0,0% |
 | 14 | **CSAN3** | Cosan Sa | ON       | **204,99** | +2,3% |
-| 15 | — | Banco Do Brasil S/A | ON       | **150,37** | +10,1% |
+| 15 | **BBAS3** | Banco Do Brasil S/A | ON       | **150,37** | +10,1% |
 
 
 ## Degraus: o que não é fluxo
@@ -87,7 +87,7 @@ quando é mudança de cadastro. Ficam aqui, visíveis e nomeadas pelo que são:
 
 | Papel | Empresa | Classe | Antes (mi) | Agora (mi) | Variação | O que parece |
 |---|---|---|---|---|---|---|
-| — | Br Advisory Partners Par | UNT      | 2,57 | 1,02 | -60,4% | mudança de patamar |
+| **BRBI11** | Br Advisory Partners Par | UNT      | 2,57 | 1,02 | -60,4% | mudança de patamar |
 | **MGLU3** | Magazine Luiza S.A. | ON       | 0,33 | 0,51 | +54,4% | mudança de patamar |
 | **BRAV3** | Brava Energia S.A. | ON       | 0,06 | 0,09 | +37,8% | mudança de patamar |
 | **CASH3** | Méliuz S.A. | ON       | 0,03 | 0,04 | +36,0% | mudança de patamar |
@@ -95,7 +95,7 @@ quando é mudança de cadastro. Ficam aqui, visíveis e nomeadas pelo que são:
 | **AZUL3** | Azul S.A | ON       | 356,30 | 387,89 | +8,9% | mudança de patamar |
 | **BEEF3** | Minerva S.A. | ON       | 4,80 | 5,22 | +8,8% | mudança de patamar |
 | **CYRE4** | Cyrela Brazil Realty S.A | PN       | 2,65 | 2,86 | +8,1% | mudança de patamar |
-| — | Cogna Educacao S.A | ON       | 5,58 | 5,88 | +5,4% | mudança de patamar |
+| **COGN3** | Cogna Educacao S.A | ON       | 5,58 | 5,88 | +5,4% | mudança de patamar |
 | **HYPE3** | Hypera S.A. | ON       | 1,14 | 1,09 | -3,9% | mudança de patamar |
 | **AXIA7** | Axia Energia S.A. | PNC P    | 0,92 | — | — | mudança de patamar |
 | **AXIA7** | Axia Energia S.A. | PNC ATZ  | 4,35 | — | — | mudança de patamar |
