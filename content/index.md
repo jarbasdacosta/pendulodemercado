@@ -1,12 +1,12 @@
 ---
 title: Pêndulo de Mercado
-date: 2026-11-13
+date: 2026-11-15
 tags: [home]
 ---
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 13/11/2026 19:06 BRT · Diário D1*
+*Última atualização: 15/11/2026 20:13 BRT · Diário D1*
 
 > [!success] Onde o mercado está no fechamento de 13/11: **🟢 Calmo**
 > `Pânico ◀─────●───────────────▶ Euforia`
@@ -81,15 +81,17 @@ tags: [home]
 >
 > Os momentos úteis são as **mudanças** do ζ: 🚀 ζ Topo subindo para 30–60% (69% subiu no mês) e 🔪 ζ Fundo disparando (só 42% subiu em 3 meses). 📉 ζ Topo desinflando do 🔴 teve queda de 5% em 45% das vezes (31% num dia qualquer), mas com poucos casos. O 📉 do 🟡 e o 🌱 ficaram como contexto: não se confirmaram em 2014–2026 (revisão de 23/10/2026). [Metodologia da Sinal IMA](metodologia/crise).
 
-## Seções
+## Os sete grupos
 
-- 🌊 **Sinal IMA** (IMA + LPPL): [Diário](diario/) · [Intraday](intraday/) · [Histórico](historico)
-- 🎯 **[Operações](operacoes/)**: [Tendência MME9](operacoes/tendencia) · [Entradas do método](operacoes/entradas) · [Últimas operações](operacoes/ultimas-operacoes)
-- 🔔 **[Linha do tempo](linha-do-tempo/)**: todo sinal, ordem, stop e aviso, do mais recente para o mais antigo
-- 📍 **[Sinais](sinais-topo-fundo/)**: de hoje, 🎯 raros de grande fundo e ⚠️ alerta de topo · [Todos os sinais](sinais-topo-fundo/todos-os-sinais) · [Como ler](sinais-topo-fundo/tutorial)
-- 📊 **[Amplitude](amplitude/)** (% das ações do Ibovespa acima das médias) · 🌎 **[Capital estrangeiro](estrangeiros/)** (dados da B3): contexto do mercado, ainda em teste
-- 📈 **[Gráficos](tecnico/)**: mensal, semanal e diário com médias, Bollinger, MACD-V, CCI e RSI
-- 📚 **[Metodologia](metodologia/)**: [Sinal IMA](metodologia/crise) · [Sinais](metodologia/sinais) · [Regras de operação](metodologia/regras-de-operacao) · [O que não passou](metodologia/o-que-nao-passou)
+Cada grupo responde uma pergunta diferente. [Por onde começar](por-onde-comecar) explica para que serve cada um, o que tem dentro e como usar.
+
+- **1 · Onde está o mercado** — a temperatura de hoje: 🌊 [IMA Diário](diario/) · [Intraday](intraday/) · 📊 [Amplitude](amplitude/) · 🧭 [Larry Williams](larry-williams/) · 📈 [Gráficos](tecnico/) · 📅 [Calendário](calendario)
+- **2 · Operar com tendência** — o que fazer com a leitura: 🎯 [Operações](operacoes/) · [Tendência MME9](operacoes/tendencia) · [Entradas](operacoes/entradas) · [Últimas operações](operacoes/ultimas-operacoes)
+- **3 · Sinais de topo e fundo** — extremos pontuais: 📍 [Sinais de hoje](sinais-topo-fundo/) · [Todos](sinais-topo-fundo/todos-os-sinais) · [Como ler](sinais-topo-fundo/tutorial)
+- **4 · Para onde vai o dinheiro** — fluxo e oferta: 🌎 [Capital estrangeiro](estrangeiros/) · 💰 [Ofertas de ações](ofertas)
+- **5 · Quem está posicionado** — tensão acumulada: ⚖️ [Aluguel de ações](posicionamento/aluguel)
+- **6 · O que já aconteceu** — o registro, para conferir: 🔔 [Linha do tempo](linha-do-tempo/) · 🌊 [Histórico do IMA](historico) · [Método anterior](historico-anterior)
+- **7 · Como isso funciona** — método e testes: 📚 [Metodologia](metodologia/) · [Sinal IMA](metodologia/crise) · [Regras](metodologia/regras-de-operacao) · 🧪 [O que não passou](metodologia/o-que-nao-passou)
 
 ---
 *Pêndulo de Mercado · entre o pânico e a euforia, onde o mercado está. Sinal IMA baseado no trabalho do Prof. Marco Antonio Leonel Caetano (IMA Wavelet, [Caetano & Yoneyama, Physica-A 2007](https://doi.org/10.1016/j.physa.2007.03.054)) e do Prof. Didier Sornette (LPPL, ETH-Zurich); Sinais de Topo e Fundo baseados no trabalho de Oliver Velez, J. Welles Wilder, Donald Lambert, John Bollinger e Alex Spiroglou. Adaptado, testado no Ibovespa e mantido por Jarbas Daniel da Costa. Os autores citados não participam do produto. · [Metodologia](metodologia/) · [Histórico](historico)*

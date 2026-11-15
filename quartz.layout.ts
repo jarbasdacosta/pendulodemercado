@@ -7,7 +7,7 @@ import * as Component from "./quartz/components"
 const explorerDateSort = Component.Explorer({
   sortFn: (a, b) => {
     // menu: ordem fixa na raiz do site
-    const ordem = ["diario", "intraday", "historico", "linha-do-tempo", "operacoes", "sinais-topo-fundo", "amplitude", "estrangeiros", "tecnico", "metodologia", "ranking", "tendencia", "entradas", "ultimas-operacoes", "historico-por-ano", "todos-os-sinais", "tutorial", "crise", "sinais", "regras-de-operacao", "o-que-nao-passou"]
+    const ordem = ["por-onde-comecar", "diario", "intraday", "amplitude", "larry-williams", "tecnico", "calendario", "operacoes", "sinais-topo-fundo", "estrangeiros", "ofertas", "posicionamento", "linha-do-tempo", "historico", "historico-anterior", "metodologia", "ranking", "tendencia", "entradas", "ultimas-operacoes", "historico-por-ano", "todos-os-sinais", "tutorial", "crise", "sinais", "regras-de-operacao", "o-que-nao-passou", "avanco-declinio", "aluguel"]
     const ia = ordem.indexOf(a.slugSegment)
     const ib = ordem.indexOf(b.slugSegment)
     if (ia !== -1 || ib !== -1) {
