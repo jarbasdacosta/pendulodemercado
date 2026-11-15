@@ -81,14 +81,25 @@ cada lado**. Estrangeiro, institucional e pessoa física se comportam de maneira
 saber qual deles está comprando muda a leitura de uma alta.
 
 - 🌎 [Capital estrangeiro](estrangeiros/) — saldo diário e acumulado, por tipo de investidor
+- 🗽 [Ações que foram para Nova York](adr/) — quantas ações de cada empresa estão dentro do
+  programa de ADR, e para onde essa quantidade está indo
 - 💰 [Ofertas de ações](ofertas) — IPOs e follow-ons registrados na CVM
+
+A página de ADR merece uma explicação, porque a medida é incomum. Um estrangeiro que quer ação
+brasileira pode comprar aqui ou comprar o recibo negociado nos Estados Unidos. Para o recibo
+existir, alguém precisa **tirar a ação da custódia brasileira** e depositá-la no programa. A B3
+publica essa quantidade todo pregão. Quando ela sobe, ação está saindo daqui para virar recibo
+lá fora; quando cai, recibos estão sendo cancelados e as ações voltando. É fluxo estrangeiro
+medido por contagem de ações, não por estimativa.
 
 **Como usar:** como peso de evidência, nunca sozinho. Fluxo estrangeiro forte e persistente num
 mercado barato é uma combinação; o mesmo fluxo num mercado esticado é outra. E oferta grande
 chegando é papel novo competindo pelo mesmo dinheiro.
 
-**O que não esperar:** o fluxo chega com atraso de dois ou três dias. Não serve para o pregão de
-hoje.
+**O que não esperar:** o fluxo por tipo de investidor chega com atraso de dois ou três dias, e
+não serve para o pregão de hoje. No ADR, cuidado com o engano que a página separa numa tabela
+própria: salto de patamar num único pregão é evento corporativo — fusão, extinção de classe —
+e não dinheiro entrando. Só a subida gradual é fluxo.
 
 ## 5 · Quem está posicionado
 
