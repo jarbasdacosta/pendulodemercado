@@ -2,7 +2,7 @@
 title: "🗽 Ações que foram para Nova York"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 07:45*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 07:55*
 
 Um estrangeiro que quer comprar ação brasileira tem dois caminhos: comprar aqui, em reais, ou
 comprar o **ADR** — um recibo negociado nos Estados Unidos que representa a ação. O recibo não
@@ -74,6 +74,42 @@ Em quantidade absoluta de ações dentro do programa. Empresa grande com ADR ant
 | 13 | **CMIG4** | Cia. Energetica De Minas G | PN       | **205,64** | **10,8%** | 1.905 | +0,0% |
 | 14 | **CSAN3** | Cosan Sa | ON       | **204,99** | **5,2%** | 3.967 | +2,3% |
 | 15 | **BBAS3** | Banco Do Brasil S/A | ON       | **150,37** | **2,6%** | 5.731 | +10,1% |
+
+
+## Quando quase toda a classe está lá fora
+Nestes papéis, **mais de 70% da classe está
+depositada no programa de ADR**. A ordem da tabela é pela penúltima coluna, do menor para o
+maior: **quanta ação daquela classe sobra negociando no Brasil**.
+
+A ordem é essa de propósito. A porcentagem diz que a classe está concentrada lá fora; ela não
+diz se dá para operar aqui. Uma empresa com 89% da classe no programa e 150 milhões de ações
+sobrando tem livro; outra com 97% e 13 milhões sobrando não tem. São situações diferentes com
+porcentagens parecidas, e quem opera precisa da segunda informação, não da primeira.
+
+**O que está medido:** capital social da classe menos o que está no programa. Nada além disso.
+
+**O que isso significa na prática:** quando sobra pouco papel aqui, o que limita o tamanho de
+uma ordem deixa de ser o valor de mercado da empresa e passa a ser o livro. Papel assim anda
+muito com pouco dinheiro, o spread abre, e o preço local pode descolar do recibo lá fora porque
+os dois mercados têm profundidades diferentes. A formação de preço, nesses casos, costuma estar
+em Nova York, e a cotação daqui segue.
+
+**O que observar:** a direção. Enquanto a custódia sobe, o float local encolhe e o papel fica
+mais errático nos dois sentidos. Se ela começar a cair, é ação voltando para um mercado sem
+profundidade para absorver — oferta chegando num livro fino.
+
+**O que isso não diz:** por que a classe foi parar lá. Pode ser demanda estrangeira, pode ser
+bloco de controlador, e pode ser credor que virou acionista numa reestruturação e manteve o
+papel onde opera. As três produzem o mesmo número e implicações diferentes: um acionista que
+recebeu ação em troca de dívida não tem tese de alta, tem papel recebido. Descobrir qual é o
+caso exige ler o fato relevante da empresa — esta página mede a quantidade, não a intenção.
+
+> Leitura de risco, não recomendação. A decisão e o risco são de quem opera.
+
+| # | Papel | Empresa | Classe | % da classe em ADR | Ações da classe (mi) | Sobra no Brasil (mi) | No período |
+|---|---|---|---|---|---|---|---|
+| 1 | **AZUL3** | Azul S.A | ON       | **96,8%** | 401 | **12,94** | +8,9% |
+| 2 | **SANB11** | Banco Santander (Brasil) | UNT | **89,2%** | 1.447 | **156,29** | -0,0% |
 
 
 ## Degraus: o que não é fluxo
