@@ -4,6 +4,16 @@ title: "🗽 Ações que foram para Nova York"
 
 *Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 09:16*
 
+
+<!-- NOTAS-INICIO -->
+> [!warning]- 2 pontos de atenção nesta página
+> **⚠️ O casamento entre empresa e código é por nome, e falha em alguns** — A B3 publica a custódia em ADR por razão social, sem o código do papel. O cruzamento é feito por semelhança de nome e acerta em torno de 97% das linhas; as que não casam aparecem sem código em vez de receber um palpite.
+>
+> **ℹ️ O percentual da classe depende do capital social cadastrado** — Só uma fração dos instrumentos tem capital social preenchido no cadastro da B3. Onde falta, o percentual não é calculado — e onde o resultado passaria de 100%, ele é suprimido, porque indica cadastro desatualizado e não concentração real.
+>
+> *Todos os pontos de atenção do site estão juntos em [Avisos](/avisos/).*
+<!-- NOTAS-FIM -->
+
 Um estrangeiro que quer comprar ação brasileira tem dois caminhos: comprar aqui, em reais, ou
 comprar o **ADR** — um recibo negociado nos Estados Unidos que representa a ação. O recibo não
 nasce do nada: para criá-lo, alguém precisa **tirar a ação da custódia brasileira** e depositá-la
