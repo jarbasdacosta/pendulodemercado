@@ -1,7 +1,7 @@
 ---
 title: "🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam"
 ---
-*Curvas da B3 de 13/11/2026 · Focus de 13/11/2026 · PTAX de 13/11/2026 · atualizado em 16/11/2026 15:48*
+*Curvas da B3 de 13/11/2026 · Focus de 13/11/2026 · PTAX de 13/11/2026 · atualizado em 16/11/2026 15:56*
 
 
 <!-- NOTAS-INICIO -->
@@ -208,7 +208,9 @@ problema.
 > [!danger] O carry trade e a conta que ele esconde
 > O carrego paga alguns por cento ao ano, em prestações mensais e silenciosas. O risco não vem em prestações: vem de uma vez.
 >
-> **O exemplo é recente.** Na eleição de 2026, o dólar saiu de cerca de R\$ 4,96 na sexta anterior ao segundo turno para R\$ 5,48 na terça seguinte — o maior fechamento do ano — e a inflação implícita nos títulos públicos avançou mais de um ponto no mesmo intervalo. Uma posição vendida em dólar futuro perdeu, em três sessões, mais do que o carrego de um ano inteiro.
+> **O exemplo não é hipótese, é o pior pregão do próprio arquivo desta página.** Em **26/10/2026**, o ajuste do dólar futuro variou **+8,26%**, o DI de um ano andou **+182 pontos-base** e o índice futuro variou **-14,61%** — os três na mesma direção, numa sessão só. A variação é do mesmo contrato em relação ao ajuste anterior, então não é efeito de troca de vencimento.
+>
+> Uma posição vendida em dólar futuro perdeu, naquele único pregão, **mais do que o carrego de um ano inteiro**.
 >
 > **A assimetria é a característica definidora da operação, não um azar.** Ela ganha pouco com frequência alta e perde muito com frequência baixa. Quem dimensiona a posição pelo retorno esperado está dimensionando pela parte boa da distribuição.
 >
