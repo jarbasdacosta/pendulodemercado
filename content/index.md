@@ -6,10 +6,10 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 16/11/2026 11:00 BRT · Intraday 15min*
+*Última atualização: 16/11/2026 11:16 BRT · Intraday 15min*
 
-> [!success] Onde o mercado está agora (16/11 10:45, candles de 15 min): **🟢 Calmo**
-> `Pânico ◀───────●─────────────▶ Euforia`
+> [!success] Onde o mercado está agora (16/11 11:00, candles de 15 min): **🟢 Calmo**
+> `Pânico ◀──────●──────────────▶ Euforia`
 >
 > O Ibovespa está dentro da sua faixa normal, sem excesso para cima nem para baixo.
 > No gráfico diário: 🌱 Fundo se desfazendo.
@@ -20,7 +20,7 @@ tags: [home]
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 1% | [relatório](intraday/2026-11-16) |
+| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 0% | [relatório](intraday/2026-11-16) |
 | 📈 **Tendência MME9** | Diário 📌 compra acima de 172.715<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | ⏳ aguardando: Diário · Nadaraya, Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
@@ -49,18 +49,18 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (16/11 10:45): 🟢 **VERDE** — Risco 1% · ▼ -2 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (16/11 11:00): 🟢 **VERDE** — Risco 0% · ▼ -1 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (16/11 10:45) | Valor |
+> | Indicador — IMA Intraday · 15 min (16/11 11:00) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | **1%** |
-> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 31% |
+> | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
+> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 36% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 170.758 pts |
+> | 📊 Ibovespa | 170.737 pts |
 >
 > **Multi-ativo:** 0% em tensão (0🔴 0🟡 de 25 ativos)
 >
@@ -68,7 +68,7 @@ tags: [home]
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [16/11/2026](intraday/2026-11-16) | 🟢 VERDE | **1%** | 1% | 31% | 0% |
+> | [16/11/2026](intraday/2026-11-16) | 🟢 VERDE | **0%** | 0% | 36% | 0% |
 > | [13/11/2026](intraday/2026-11-13) | 🟢 VERDE | **0%** | 0% | 0% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
@@ -79,7 +79,7 @@ tags: [home]
 
 Cada grupo responde uma pergunta diferente. [Por onde começar](por-onde-comecar) explica para que serve cada um, o que tem dentro e como usar.
 
-- **1 · Onde está o mercado** — a temperatura de hoje: 🌊 [IMA Diário](diario/) · [Intraday](intraday/) · 📊 [Amplitude](amplitude/) · 🧭 [Larry Williams](larry-williams/) · 📈 [Gráficos](tecnico/) · 📅 [Calendário](calendario)
+- **1 · Onde está o mercado** — a temperatura de hoje: 🌊 [IMA Diário](diario/) · [Intraday](intraday/) · 📊 [Amplitude](amplitude/) · 🧭 [Larry Williams](larry-williams/) · 📈 [Gráficos](tecnico/) · 📅 [Calendário](calendario) · 📉 [Juros](juros/)
 - **2 · Operar com tendência** — o que fazer com a leitura: 🎯 [Operações](operacoes/) · [Tendência MME9](operacoes/tendencia) · [Entradas](operacoes/entradas) · [Últimas operações](operacoes/ultimas-operacoes)
 - **3 · Sinais de topo e fundo** — extremos pontuais: 📍 [Sinais de hoje](sinais-topo-fundo/) · [Todos](sinais-topo-fundo/todos-os-sinais) · [Como ler](sinais-topo-fundo/tutorial)
 - **4 · Para onde vai o dinheiro** — fluxo e oferta: 🌎 [Capital estrangeiro](estrangeiros/) · 🗽 [Ações que foram para Nova York](adr/) · 💰 [Ofertas de ações](ofertas)
