@@ -6,9 +6,9 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 16/11/2026 16:46 BRT · Intraday 15min*
+*Última atualização: 16/11/2026 17:01 BRT · Intraday 15min*
 
-> [!danger] Onde o mercado está agora (16/11 16:30, candles de 15 min): **🔪 Queda forte**
+> [!danger] Onde o mercado está agora (16/11 16:45, candles de 15 min): **🔪 Queda forte**
 > `Pânico ◀●────────────────────▶ Euforia`
 >
 > O Ibovespa caiu rápido e está bem abaixo da sua tendência, em ritmo de pânico. Historicamente, quedas assim costumaram continuar um pouco antes de virar.
@@ -16,7 +16,7 @@ tags: [home]
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
-> [!danger] 🚨 Nível EXTREMO agora — IMA Intraday · 15 min (16/11 16:30)
+> [!danger] 🚨 Nível EXTREMO agora — IMA Intraday · 15 min (16/11 16:45)
 > - 🔪 **ζ Fundo 98%** — preço esticado abaixo da tendência — 🔪 faca caindo: queda forte em andamento
 
 ## Agora
@@ -52,18 +52,18 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (16/11 16:30): 🟢 **VERDE** — Risco 0% · ＝ +0 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (16/11 16:45): 🟢 **VERDE** — Risco 0% · ＝ +0 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (16/11 16:30) | Valor |
+> | Indicador — IMA Intraday · 15 min (16/11 16:45) | Valor |
 > |---|---|
 > | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔪 **98%** |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 168.796 pts |
+> | 📊 Ibovespa | 168.792 pts |
 >
 > **Multi-ativo:** 4% em tensão (1🔴 0🟡 de 25 ativos)
 >
