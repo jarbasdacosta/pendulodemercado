@@ -2,7 +2,7 @@
 title: "🗽 Ações que foram para Nova York"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 09:16*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 19:09*
 
 
 <!-- NOTAS-INICIO -->
