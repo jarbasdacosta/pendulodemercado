@@ -2,7 +2,7 @@
 title: "🌾 Agro: o que a curva está dizendo"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 08:54*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 09:08*
 
 Em commodity agrícola, o preço de hoje responde menos do que a **forma da curva**. Cada
 mercadoria é negociada em vários vencimentos ao mesmo tempo, e comparar o que o mercado paga
@@ -96,6 +96,24 @@ o ajuste.
 
 A curva do café arábica 4/5 **desce 7,6%** ao longo de 9 meses: o vencimento curto vale mais que o longo. Mercado paga prêmio por ter a mercadoria agora, o que costuma significar oferta apertada no presente. Para quem produz, é o desenho que favorece vender à vista em vez de travar preço lá na frente; para quem especula, é o que torna caro ficar comprado em vencimento longo esperando convergência.
 
+**Contra ICE (Nova York).** A B3 publica, para cada vencimento do café arábica 4/5, o preço do contrato de café arábica tipo C em ICE — cotado em centavos de dólar por libra-peso. Convertendo para a mesma unidade do contrato daqui:
+
+
+| Vencimento | Dias | KC lá fora | Convertido | Ajuste na B3 | Diferença |
+|---|---|---|---|---|---|
+| 18/12/2026 | 35 | 278,65 | US\$ 368,59 | US\$ 347,15 | -5,82% |
+| 22/03/2027 | 129 | 273,50 | US\$ 361,78 | US\$ 343,90 | -4,94% |
+| 20/05/2027 | 188 | 269,45 | US\$ 356,42 | US\$ 339,30 | -4,80% |
+| 22/09/2027 | 313 | 263,35 | US\$ 348,35 | US\$ 320,65 | -7,95% |
+
+
+
+O contrato daqui negocia com **desconto médio de 5,9%** contra a referência externa, e ele **não é uniforme**: o mais largo está em 22/09/2027 (8,0%) e o mais estreito em 20/05/2027 (4,8%).
+
+**É aqui que mora a informação.** Esse desconto é o preço que o mercado atribui à diferença entre o produto brasileiro e o padrão negociado lá fora: tipo, qualidade, local de entrega e custo de levar a mercadoria até o comprador internacional. Ele muda devagar, e é justamente por isso que serve de referência: quando se afasta do normal, ou mudou alguma coisa na oferta brasileira, ou alguém está pagando caro demais por um dos dois lados. Quem acompanha esse número ao longo do tempo tem uma régua; quem olha só o preço absoluto não tem.
+
+**Onde olhar primeiro:** 22/09/2027, o vencimento em que o produto daqui está mais barato contra o de fora (8,0% de desconto). Isso não é sinal de compra — o desconto pode ser justo, e normalmente é. Mas é ali que vale perguntar o que o mercado está precificando de diferente naquele mês, porque é a pergunta que o preço absoluto não faz.
+
 ## Etanol Hidratado · ETH
 **R\$ 3.085,00** no vencimento mais próximo
 (30/11/2026, 17 dias), +0,98% no pregão.
@@ -147,6 +165,21 @@ o ajuste.
 
 
 A curva do minicontrato de soja do cme group **sobe 1,1%** ao longo de 4 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
+
+**Contra CME Group (Chicago).** A B3 publica, para cada vencimento do minicontrato de soja do cme group, o preço do contrato de soja em CME Group — cotado em centavos de dólar por bushel. Convertendo para a mesma unidade do contrato daqui:
+
+
+| Vencimento | Dias | YK lá fora | Convertido | Ajuste na B3 | Diferença |
+|---|---|---|---|---|---|
+| 29/12/2026 | 46 | 1.231,50 | US\$ 27,15 | US\$ 27,15 | -0,00% |
+| 25/02/2027 | 104 | 1.237,25 | US\$ 27,28 | US\$ 27,28 | -0,00% |
+| 29/04/2027 | 167 | 1.244,50 | US\$ 27,44 | US\$ 27,44 | -0,00% |
+
+
+
+Os dois são **o mesmo preço** (diferença média de -0,00% entre todos os vencimentos). Isso não é coincidência nem oportunidade: este contrato da B3 é liquidado pelo preço de lá, e o que se negocia aqui é o preço de CME Group convertido de centavos de dólar por bushel para a unidade brasileira.
+
+**A vantagem, aqui, não é de preço — é de acesso e de moeda.** Quem opera este contrato está comprando ou vendendo o mercado externo com liquidação em reais, sem conta lá fora e sem remessa. Quem procurar descolamento entre os dois para arbitrar vai achar só o custo da operação. O risco real é o cambial: o resultado vem em reais, e o dólar entra na conta inteiro.
 
 ## O preço físico, e de onde ele vem
 O futuro de cada uma dessas mercadorias é liquidado contra um **indicador de
