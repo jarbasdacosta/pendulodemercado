@@ -37,6 +37,8 @@ indicadores clássicos.
 - 📅 [Calendário econômico](calendario) — o que pode mexer com tudo isso nos próximos dias
 - 📉 [Juros: o que o mercado paga × o que os economistas esperam](juros/) — a curva de DI da
   B3 contra o consenso do Boletim Focus, ano a ano e na mesma grandeza
+- 🧮 [Inflação e dólar: o que o mercado paga × o que os economistas esperam](inflacao-e-cambio/)
+  — a inflação implícita (DI contra DAP) e a curva de dólar futuro, também contra o Focus
 
 **A página de juros merece uma palavra à parte**, porque ela responde uma pergunta que as
 outras não tocam. Todas as medidas acima olham o mercado de ações. A curva de juros é o preço
@@ -45,6 +47,12 @@ pontos, cada real de lucro futuro passa a valer menos hoje, e isso acontece ante
 indicador técnico acusar. Comparar essa curva com o que os economistas projetam mostra se o
 mercado está pagando prêmio para carregar risco — e prêmio grande num horizonte específico é
 o mercado dizendo onde ele acha que o problema está.
+
+**A página de inflação e dólar continua a mesma conta nas outras duas pontas.** A inflação
+implícita sai da diferença entre o contrato de juro nominal e o de juro real, e serve para
+uma decisão concreta: escolher entre prefixado e IPCA+. Já a curva de dólar futuro não é
+previsão de ninguém — é o diferencial de juros embutido num preço, e confundir as duas
+coisas é o erro mais caro que se comete lendo manchete de mercado.
 
 **Como usar:** como contexto, não como gatilho. Um mercado esticado pode continuar subindo por
 meses. O que estas páginas dizem é **quanto espaço existe** para o movimento continuar, e quanto

@@ -56,7 +56,8 @@ const menuCelular = Component.Explorer({
   useSavedState: true,
   sortFn: (a, b) => {
     const ordem = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude", "larry-williams",
-                   "tecnico", "calendario", "juros", "operacoes", "sinais-topo-fundo", "estrangeiros",
+                   "tecnico", "calendario", "juros", "inflacao-e-cambio", "operacoes",
+                   "sinais-topo-fundo", "estrangeiros",
                    "adr", "ofertas", "posicionamento", "agro", "linha-do-tempo", "historico",
                    "historico-anterior", "metodologia", "ranking", "tendencia", "entradas",
                    "ultimas-operacoes", "historico-por-ano", "todos-os-sinais", "tutorial",
@@ -82,13 +83,15 @@ const grupos = [
     "1 · Onde está o mercado",
     (node) => {
       const dentro = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude",
-                      "larry-williams", "tecnico", "calendario", "juros"]
+                      "larry-williams", "tecnico", "calendario", "juros",
+                      "inflacao-e-cambio"]
       const s = node.slug ?? ""
       return dentro.some((d) => s === d || s.startsWith(d + "/"))
     },
     (a, b) => {
       const ordem = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude",
-                     "larry-williams", "tecnico", "calendario", "juros", "avanco-declinio"]
+                     "larry-williams", "tecnico", "calendario", "juros",
+                     "inflacao-e-cambio", "avanco-declinio"]
       const ia = ordem.indexOf(a.slugSegment)
       const ib = ordem.indexOf(b.slugSegment)
       if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib)

@@ -2,7 +2,7 @@
 title: "🌾 Agro: o que a curva está dizendo"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 09:08*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 15:21*
 
 
 <!-- NOTAS-INICIO -->
@@ -84,7 +84,7 @@ o ajuste.
 
 A curva do milho **sobe 13,6%** ao longo de 12 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
 
-**Base: R\$ 0,05 (+0,1%)** — o vencimento mais curto está acima do físico (R\$ 67,34, *Cotação de Milho - Preço a vista R$/60kg*). Futuro e físico praticamente colados. Base perto de zero costuma aparecer quando o vencimento está prestes a virar — o contrato converge para o indicador na liquidação, e é isso que se vê acontecendo. O valor usado na liquidação é outro: R\$ 67,31 (*MILHO - Média das últimas três cotações R$/60kg*), e é contra ele que o contrato é fechado no vencimento.
+**Base: R\$ 0,05 (+0,1%)** — o vencimento mais curto está acima do físico (R\$ 67,34, *Cotação de Milho - Preço a vista R\$/60kg*). Futuro e físico praticamente colados. Base perto de zero costuma aparecer quando o vencimento está prestes a virar — o contrato converge para o indicador na liquidação, e é isso que se vê acontecendo. O valor usado na liquidação é outro: R\$ 67,31 (*MILHO - Média das últimas três cotações R\$/60kg*), e é contra ele que o contrato é fechado no vencimento.
 
 O milho também é publicado em duas formas de pagamento: R\$ 67,34 à vista e R\$ 68,18 a prazo, com prazo médio de **24,4 dias**. A diferença é **+1,25% no período**, o que equivale a **+20,4% ao ano**. Esse é o juro que o mercado físico cobra embutido no preço, e quem vende a prazo está financiando o comprador a essa taxa. Comparar com o custo do próprio dinheiro — CDI, capital de giro, crédito rural — diz de que lado do balcão está a vantagem: quem consegue pagar à vista compra mais barato do que o dinheiro lhe custa, e quem vende a prazo só ganha se esse juro for maior que o que paga para se financiar.
 
@@ -157,7 +157,7 @@ o ajuste.
 
 A curva do etanol hidratado **vira em 26/02/2027**: sobe até ali e muda de direção depois. Forma assim quase sempre é calendário de safra — aperto numa janela do ano e folga na seguinte. O ponto de virada é a informação: é onde o mercado está dizendo que a oferta muda.
 
-**Base: R\$ 41,50 (+1,4%)** — o vencimento mais curto está acima do físico (R\$ 3.043,50, *Cotação de Etanol - Preço a vista R$/m3*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** etanol hidratado, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 3.010,50 (*ETANOL - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
+**Base: R\$ 41,50 (+1,4%)** — o vencimento mais curto está acima do físico (R\$ 3.043,50, *Cotação de Etanol - Preço a vista R\$/m3*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** etanol hidratado, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 3.010,50 (*ETANOL - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
 
 ## Minicontrato de Soja do CME Group · SJC
 **US\$ 27,15** no vencimento mais próximo
