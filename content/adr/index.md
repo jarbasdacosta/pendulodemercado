@@ -2,7 +2,7 @@
 title: "🗽 Ações que foram para Nova York"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 08:03*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 09:16*
 
 Um estrangeiro que quer comprar ação brasileira tem dois caminhos: comprar aqui, em reais, ou
 comprar o **ADR** — um recibo negociado nos Estados Unidos que representa a ação. O recibo não
