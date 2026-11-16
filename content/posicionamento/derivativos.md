@@ -2,7 +2,7 @@
 title: "📑 Contratos em aberto"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 08:09*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 08:23*
 
 **Volume conta quem passou. Posição em aberto conta quem ficou.**
 
@@ -13,6 +13,82 @@ desaparece — mesmo que tenha havido muito negócio no caminho.
 É por isso que as duas medidas contam histórias diferentes. Volume alto com posição em aberto
 **caindo** é gente desmontando o que tinha. Volume alto com posição **subindo** é dinheiro novo
 entrando e escolhendo um lado. O preço é igual nos dois casos; o que vem depois, não.
+
+## O que aconteceu em cada contrato hoje
+Cruzando **para onde foi o preço** com **o que a posição em aberto fez**.
+São quatro combinações, e elas contam histórias diferentes com o mesmo preço na tela:
+
+| | Preço subiu | Preço caiu |
+|---|---|---|
+| **Posição subiu** | dinheiro novo comprando | dinheiro novo vendendo |
+| **Posição caiu** | vendido recomprando | liquidação dos dois lados |
+
+A diferença que decide está na segunda linha. Alta com posição **caindo** é alta de recompra e
+tem fim marcado — acaba quando acabarem os vendidos. Alta com posição **subindo** não tem esse
+limite. O gráfico é idêntico nos dois casos.
+
+| Contrato | O que é | Ajuste | Preço | Posição | Em aberto | Leitura de hoje |
+|---|---|---|---|---|---|---|
+| **WIN** | Minicontrato de Ibovespa | 174.179,00 | +0,73% | +0,30% | 1.435.521 | **Dinheiro novo comprando** |
+| **WDO** | Minicontrato de Dólar Comercia | 5.663,02 | -0,11% | +5,78% | 1.506.441 | **Sem direção** |
+| **DOL** | Dólar Comercial | 5.663,02 | -0,11% | +3,80% | 948.681 | **Sem direção** |
+| **DI1** | Taxa Média de Depósitos Interf | 98.336,11 | -0,00% | -0,12% | 42.978.592 | **Sem direção** |
+| **IND** | Ibovespa | 174.179,00 | +0,73% | +0,66% | 202.140 | **Dinheiro novo comprando** |
+| **WSP** | Microcontrato de Índice S&P500 | 7.583,00 | -0,46% | +1,99% | 101.312 | **Dinheiro novo vendendo** |
+| **DAP** | Cupom de IPCA | 88.449,08 | +0,02% | +0,42% | 3.420.159 | **Dinheiro novo comprando** |
+| **T10** | US Treasury Note de 10 Anos | 105,19 | -0,25% | -5,38% | 4.483 | **Liquidação** |
+| **ISP** | BVMF de Índice S&P500 | 7.583,00 | -0,46% | +0,74% | 10.518 | **Dinheiro novo vendendo** |
+| **BIT** | Futuro de Bitcoin | 391.496,48 | -3,26% | +2,69% | 27.936 | **Dinheiro novo vendendo** |
+| **DDI** | Cupom Cambial de DI1 | 100.306,08 | -0,11% | +1,11% | 4.668.572 | **Sem direção** |
+| **EUP** | Dólar dos Estados Unidos da Am | 1.104,14 | -0,20% | -2,85% | 47.340 | **Liquidação** |
+| **BGI** | Boi Gordo | 402,40 | -0,31% | +0,22% | 52.580 | **Dinheiro novo vendendo** |
+| **CCM** | Milho | 70,78 | -0,14% | +0,32% | 183.197 | **Dinheiro novo vendendo** |
+
+O **ajuste** é o preço contra o qual a posição é marcada, e a variação sai
+de dentro do contrato de maior posição em aberto do dia — o mesmo contrato comparado consigo
+mesmo, para a troca de vencimento não inventar um salto que ninguém viveu. A coluna **Posição**
+soma todos os vencimentos do ativo.
+
+### O padrão se manteve ou virou?
+
+Quantos dos 21 pregões guardados caíram em cada leitura. Um contrato que repete
+a mesma leitura semanas a fio está num regime; um que alterna não está.
+
+| Contrato | Dinheiro novo comprando | Vendido recomprando | Dinheiro novo vendendo | Liquidação | Sem direção | Hoje |
+|---|---|---|---|---|---|---|
+| **WIN** | 5 | 1 | 7 | 2 | 5 | Dinheiro novo comprando |
+| **WDO** | 7 | 2 | 3 | 1 | 7 | Sem direção |
+| **DOL** | 8 | 2 | 4 | 1 | 5 | Sem direção |
+| **DI1** | 1 | 4 | 2 | 2 | 11 | Sem direção |
+| **IND** | 8 | 0 | 5 | 3 | 4 | Dinheiro novo comprando |
+| **WSP** | 4 | 4 | 7 | 2 | 3 | Dinheiro novo vendendo |
+| **DAP** | 9 | 0 | 5 | 2 | 4 | Dinheiro novo comprando |
+| **T10** | 4 | 1 | 3 | 6 | 6 | Liquidação |
+| **ISP** | 1 | 9 | 5 | 4 | 1 | Dinheiro novo vendendo |
+| **BIT** | 2 | 3 | 6 | 1 | 8 | Dinheiro novo vendendo |
+| **DDI** | 7 | 1 | 4 | 1 | 7 | Sem direção |
+| **EUP** | 3 | 3 | 2 | 7 | 5 | Liquidação |
+| **BGI** | 4 | 3 | 10 | 1 | 2 | Dinheiro novo vendendo |
+| **CCM** | 2 | 3 | 10 | 0 | 5 | Dinheiro novo vendendo |
+
+A coluna **Sem direção** está aí para as contas fecharem: são os pregões em que o preço ou a posição andaram menos que o normal daquele contrato. O corte é calibrado por contrato, não é um número fixo — com limiar único, o DI ficaria mudo (o PU dele anda centésimos por cento) e o índice classificaria ruído como regime.
+
+### O que isso sugere, contrato a contrato
+Leitura dos de maior volume financeiro do pregão. Contratos que dividem o mesmo ativo-objeto — mini e cheio — aparecem juntos, porque são o mesmo movimento. É análise do que o movimento tem de sustentação, não indicação de operação.
+
+**WIN** e **IND** · Ibovespa — O preço subiu +0,73% com posição nova entrando (+0,30%), e é a 3ª vez nos últimos 5 pregões. Aqui ninguém é obrigado a comprar: não há o combustível forçado da recompra, e também não há o limite dela. É o tipo de alta que dura enquanto durar o apetite, o que a torna mais difícil de cronometrar e menos propensa a terminar de uma vez.
+
+**WSP** e **ISP** · Índice S&P500 — O preço caiu -0,46% com posição nova entrando (+1,99%), e é a 2ª vez nos últimos 5 pregões. Queda com posição crescendo é gente montando posição contra, não gente saindo. Diferente de liquidação, isso não se esgota sozinho — a posição nova precisa ser desfeita um dia, e é esse desfazer que costuma produzir o repique.
+
+**DAP** · Cupom de IPCA — O preço subiu +0,02% com posição nova entrando (+0,42%), e é a 3ª vez nos últimos 5 pregões. Aqui ninguém é obrigado a comprar: não há o combustível forçado da recompra, e também não há o limite dela. É o tipo de alta que dura enquanto durar o apetite, o que a torna mais difícil de cronometrar e menos propensa a terminar de uma vez.
+
+**T10** · US Treasury Note de 10 Anos — Preço -0,25% e posição -5,38%, e é a 3ª vez nos últimos 5 pregões: os dois lados desmontando ao mesmo tempo. Movimento sem convicção nova dos dois lados tende a perder força por falta de combustível, e é o quadrante em que o preço engana mais — parece tendência e é esvaziamento.
+
+> [!warning] O que o quadrante não diz
+> **Não diz quem está comprado.** Posição em aberto é o total de contratos vivos, e todo contrato tem os dois lados. 'Dinheiro novo comprando' significa que entraram pares novos num dia de alta — quem apostou na direção foi quem aceitou o preço, e isso o dado não nomeia.
+> 
+> **Não é sinal de entrada.** É descrição do que já aconteceu. O que muda com ele é a leitura do que vem depois: alta sustentada por recompra tem munição finita, alta com posição nova não tem.
+
 
 ## Futuros
 Em **contratos**. A variação no dia é publicada pela B3; a da semana é calculada sobre os pregões guardados aqui.
@@ -214,18 +290,14 @@ está comprado" está inventando a metade que o dado não tem.
 
 ### A vantagem que já existe, e não depende de estatística
 
-É **cruzar a direção da posição com a direção do preço**, e são quatro combinações com
-significados diferentes — nenhuma delas precisa de modelo, só de duas séries lado a lado:
+É o cruzamento que abre esta página: **posição contra preço**, contrato por contrato. Não
+precisa de modelo nem de histórico longo — precisa das duas séries lado a lado, e as duas
+estão publicadas todo pregão.
 
-| | Preço subindo | Preço caindo |
-|---|---|---|
-| **Posição subindo** | dinheiro novo comprando | dinheiro novo vendendo |
-| **Posição caindo** | vendido recomprando | liquidação dos dois lados |
-
-A diferença prática está na segunda linha. Alta com posição **caindo** é alta de recompra, e
-ela tem fim marcado: acaba quando acabarem os vendidos. Alta com posição **subindo** não tem
-esse limite. O preço é idêntico nos dois casos; o que vem depois, não — e é só a posição em
-aberto que separa um do outro.
+O valor dele não é prever: é **separar duas altas que parecem iguais no gráfico**. Uma
+sustentada por recompra de vendido tem munição finita e acaba quando acabarem os vendidos; uma
+com posição nova entrando não tem esse limite. Quem só olha preço não distingue as duas, e a
+diferença aparece justamente no que vem depois.
 
 Hoje o contrato que mais abriu posição foi o **WDO**
 (Minicontrato de Dólar Comercial), com +82.288 contratos novos num único pregão.
