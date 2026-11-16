@@ -116,9 +116,9 @@ vendidos levariam para sair se precisassem.
 
 As duas páginas medem a mesma coisa por caminhos diferentes. O aluguel mostra a aposta contra
 montada no mercado à vista; os contratos em aberto mostram a posição montada em derivativos —
-índice, dólar, juros, bitcoin, commodities e opções de ações. **Posição em aberto não é
-volume**: volume conta quem passou pelo mercado hoje, posição em aberto conta quem ficou
-exposto no fim do dia.
+índice, dólar, juros, bitcoin, commodities, opções de ações e o **termo**, que é compra de ação
+com dinheiro emprestado. **Posição em aberto não é volume**: volume conta quem passou pelo
+mercado hoje, posição em aberto conta quem ficou exposto no fim do dia.
 
 **Como usar:** posição grande pagando caro numa saída estreita é a condição em que movimentos
 violentos acontecem. Não é previsão de que vão acontecer — é medida de quanto cabe de estrago

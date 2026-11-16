@@ -2,7 +2,7 @@
 title: "📑 Contratos em aberto"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 15/11/2026 21:10*
+*Dados da B3 de 13/11/2026 · atualizado em 15/11/2026 21:13*
 
 **Volume conta quem passou. Posição em aberto conta quem ficou.**
 
@@ -153,6 +153,34 @@ coisa se o preço andar contra.
 | **GGBR** | **82%** | 128,4 | 104,8 | 0,91 |
 | **BRKM** | **81%** | 21,8 | 17,6 | 3,62 |
 | **LEVE** | **80%** | 15,3 | 12,3 | 0,94 |
+
+
+## Termo de ações
+No termo, o comprador leva a ação agora e paga depois, numa data combinada
+— é compra alavancada com prazo. Quem financia é quem vende a termo. A posição em aberto é o
+que ainda não venceu: **R\$ 59.018.167,60 bilhões** no fechamento.
+
+Papel muito termado é papel que está sendo comprado com dinheiro emprestado. Isso amplifica os
+dois lados: se o preço sobe, o retorno do comprador é maior; se cai, a garantia aperta e pode
+virar venda forçada.
+
+| # | Papel | Posição a termo | Ações | Contratos | Preço médio | Na semana |
+|---|---|---|---|---|---|---|
+| 1 | **VBBR** | **R\$ 14.708.771.002.455.952** | 20.891.600 | 190 | R\$ 704.051.915,72 | -32,9% |
+| 2 | **JHSF** | **R\$ 9.681.111.012.405.470** | 29.774.908 | 239 | R\$ 325.143.272,06 | +170,3% |
+| 3 | **ENGI** | **R\$ 8.048.534.363.328.077** | 12.802.980 | 117 | R\$ 628.645.390,63 | +0,0% |
+| 4 | **BBAS** | **R\$ 5.618.967.572.315.517** | 15.651.538 | 1.749 | R\$ 359.004.180,44 | +0,4% |
+| 5 | **MRVE** | **R\$ 4.026.918.601.302.234** | 22.825.947 | 269 | R\$ 176.418.468,04 | +0,0% |
+| 6 | **ASAI** | **R\$ 3.931.884.696.722.396** | 20.438.051 | 95 | R\$ 192.380.608,93 | +64,3% |
+| 7 | **AXIA** | **R\$ 1.982.453.017.143.493** | 6.247.686 | 551 | R\$ 317.309.963,58 | -34,5% |
+| 8 | **BEEF** | **R\$ 1.712.674.528.799.952** | 19.806.400 | 279 | R\$ 86.470.763,43 | -1,8% |
+| 9 | **SPXU** | **R\$ 1.341.291.441.195.713** | 8.436.128 | 1.338 | R\$ 158.993.728,07 | +21,3% |
+| 10 | **PGMN** | **R\$ 1.038.166.428.328.000** | 16.160.000 | 387 | R\$ 64.242.972,05 | +0,4% |
+| 11 | **VALE** | **R\$ 788.774.623.601.706** | 3.338.569 | 1.257 | R\$ 236.261.291,47 | -12,6% |
+| 12 | **ITUB** | **R\$ 643.262.816.252.212** | 3.885.811 | 432 | R\$ 165.541.457,43 | +9,3% |
+| 13 | **COGN** | **R\$ 575.507.784.252.368** | 16.204.562 | 431 | R\$ 35.515.170,62 | +1,5% |
+| 14 | **EQTL** | **R\$ 499.089.650.935.612** | 3.250.600 | 154 | R\$ 153.537.701,02 | -6,1% |
+| 15 | **WEGE** | **R\$ 444.416.505.274.199** | 3.146.228 | 110 | R\$ 141.253.750,61 | -0,3% |
 
 
 ## Como usar esta página
