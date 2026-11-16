@@ -2,7 +2,7 @@
 title: "📉 Juros: o que o mercado paga × o que os economistas esperam"
 ---
 
-*Curva da B3 de 13/11/2026 · Focus de 13/11/2026 · atualizado em 16/11/2026 11:12*
+*Curva da B3 de 13/11/2026 · Focus de 13/11/2026 · atualizado em 16/11/2026 15:39*
 
 
 <!-- NOTAS-INICIO -->
@@ -153,6 +153,20 @@ dos dois vai ter de ceder.
 > - 12 vencimento(s) de 2027 com 2 dia(s) úteis a mais na B3 do que no calendário local — diferença constante aponta feriado sobrando ou faltando em feriados_b3.txt, não erro espalhado
 >
 > Isso não afeta as taxas desta página.
+
+
+## A mesma conta nas outras duas pontas
+
+Esta página compara o **juro** que o mercado paga com o que os economistas projetam. A
+inflação e o dólar têm a mesma estrutura, e os três números se movem juntos:
+
+- A **inflação implícita** sai da diferença entre o contrato de juro nominal (DI) e o de
+  juro real (DAP). Ela resolve uma decisão concreta — escolher entre prefixado e IPCA+ — e
+  é a mesma curva desta página vista pelo outro lado.
+- A **curva de dólar futuro** não é previsão: é o diferencial de juros embutido num preço.
+  É a curva desta página multiplicada pelo câmbio à vista.
+
+👉 [Inflação e dólar: o que o mercado paga × o que os economistas esperam](/inflacao-e-cambio/)
 
 
 ---
