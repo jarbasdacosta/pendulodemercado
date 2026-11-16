@@ -5,7 +5,7 @@ description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais re
 tags: [eventos]
 ---
 
-*Atualizada 16/11/2026 16:01 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 16/11/2026 16:16 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -18,10 +18,11 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 ## Últimos 7 dias
 
-### Hoje · seg, 16/11/2026 · 1 evento
+### Hoje · seg, 16/11/2026 · 2 eventos
 
 | Hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
+| **16:16** | IMA · 15 min | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 91% · LPPL 0% | ✅ |
 | **13:31** | IMA · 15 min | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 62% · LPPL 0% | ✅ |
 
 ### sex, 13/11/2026 · 2 eventos
@@ -51,7 +52,7 @@ Clique no ano; na página do ano, clique no mês e depois no dia.
 
 | Ano | Eventos | 🟢 Compras | ⚪🔴 Vendas e stops | 📌⚠️ Ordens armadas | Sinais |
 |---|---|---|---|---|---|
-| **[2026](linha-do-tempo/2026)** | 216 | 22 | 44 | 33 | 40 |
+| **[2026](linha-do-tempo/2026)** | 217 | 22 | 44 | 33 | 40 |
 | **[2025](linha-do-tempo/2025)** | 113 | 30 | 25 | 43 | 11 |
 | **[2024](linha-do-tempo/2024)** | 156 | 41 | 45 | 57 | 3 |
 | **[2023](linha-do-tempo/2023)** | 99 | 22 | 22 | 53 | 1 |
