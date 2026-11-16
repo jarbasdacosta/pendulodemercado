@@ -12,6 +12,12 @@ Saber qual pergunta você está fazendo resolve metade do problema. Este é o ma
 > resto desta página é para quando você quiser entender **o que cada medida mede** — e, mais
 > importante, o que ela não mede.
 
+> [!warning] Os pontos de atenção
+> Boa parte dos números daqui tem uma condição que muda a leitura: a base de cálculo, o prazo a
+> que o número se refere, o pregão ainda em andamento, a fonte que trocou. Cada página carrega os
+> seus no alto, recolhidos num bloco, e todos estão reunidos em [Avisos](/avisos/). Se você vai
+> operar com um número deste site, o aviso da página é a primeira coisa a ler.
+
 ## 1 · Onde está o mercado
 
 **A pergunta:** o mercado está esticado, calmo ou em pânico? A alta tem quantas ações

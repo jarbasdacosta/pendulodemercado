@@ -55,7 +55,7 @@ const menuCelular = Component.Explorer({
   folderClickBehavior: "link",
   useSavedState: true,
   sortFn: (a, b) => {
-    const ordem = ["por-onde-comecar", "diario", "intraday", "amplitude", "larry-williams",
+    const ordem = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude", "larry-williams",
                    "tecnico", "calendario", "juros", "operacoes", "sinais-topo-fundo", "estrangeiros",
                    "adr", "ofertas", "posicionamento", "agro", "linha-do-tempo", "historico",
                    "historico-anterior", "metodologia", "ranking", "tendencia", "entradas",
@@ -81,13 +81,13 @@ const grupos = [
   grupo(
     "1 · Onde está o mercado",
     (node) => {
-      const dentro = ["por-onde-comecar", "diario", "intraday", "amplitude",
+      const dentro = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude",
                       "larry-williams", "tecnico", "calendario", "juros"]
       const s = node.slug ?? ""
       return dentro.some((d) => s === d || s.startsWith(d + "/"))
     },
     (a, b) => {
-      const ordem = ["por-onde-comecar", "diario", "intraday", "amplitude",
+      const ordem = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude",
                      "larry-williams", "tecnico", "calendario", "juros", "avanco-declinio"]
       const ia = ordem.indexOf(a.slugSegment)
       const ib = ordem.indexOf(b.slugSegment)
