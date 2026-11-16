@@ -2,7 +2,7 @@
 title: "⚠️ Avisos: o que saber antes de usar os números"
 ---
 
-*Gerado em 16/11/2026 15:31*
+*Gerado em 16/11/2026 15:34*
 
 Este site publica muitos números, e cada um tem uma limitação que importa na hora de
 decidir. As limitações estão escritas nas próprias páginas, mas quem chega direto numa
@@ -11,7 +11,7 @@ tabela não as lê — então elas estão todas reunidas aqui.
 **Nenhum destes avisos é formalidade.** Cada um saiu de um erro cometido, de um dado que não
 cobre o que parece cobrir, ou de uma leitura que o número permite mas que não se sustenta.
 
-São **15 pontos** em **6 páginas**.
+São **19 pontos** em **7 páginas**.
 
 ## ⛔ Perigo — pontos que mudam decisão
 Ignorar um destes leva a **decisão errada**, não apenas a leitura incompleta.
@@ -25,6 +25,16 @@ Backwardation não quer dizer que o preço vai subir: quer dizer que está apert
 <small>em [🌊 IMA Diário](/diario/)</small>
 
 Um mercado esticado pode continuar subindo por meses. O que esta leitura diz é quanto espaço existe para o movimento continuar e quanto estrago cabe num susto — não quando ele acaba.
+
+**A inflação implícita não é expectativa de inflação**  
+<small>em [🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam](/inflacao-e-cambio/)</small>
+
+Ela soma três coisas: a inflação esperada, o **prêmio de risco inflacionário** e diferenças de liquidez entre o mercado de DI e o de DAP. Uma implícita de 7% com consenso em 4% não quer dizer que o mercado projeta 7% de IPCA — quer dizer que ele cobra 3 pontos para carregar o risco em torno do cenário do consenso. Nem o Banco Central separa as duas parcelas com precisão.
+
+**O dólar futuro não é previsão de ninguém**  
+<small>em [🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam](/inflacao-e-cambio/)</small>
+
+Ele é o preço à vista multiplicado pelo diferencial de juros entre real e dólar. Subiria do mesmo jeito se todo o mercado achasse que o dólar vai cair. Ler a curva como projeção — *"o mercado espera dólar a R\$ 7,00"* — é o erro mais caro que se comete lendo manchete de mercado.
 
 **A comparação é média contra média, com uma suposição**  
 <small>em [📉 Juros: o que o mercado paga × o que os economistas esperam](/juros/)</small>
@@ -53,6 +63,11 @@ A B3 publica a custódia em ADR por razão social, sem o código do papel. O cru
 
 Para esses três a B3 publica indicador de preço físico em reais, com a unidade na descrição. Para café e soja a referência publicada é a curva do mercado externo (ICE, Chicago, FOB Santos), em centavo de libra e centavo de bushel. Subtrair isso de um ajuste em reais daria um número grande e sem significado, então a conta é bloqueada.
 
+**Os vencimentos curtos de DAP não decidem nada**  
+<small>em [🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam](/inflacao-e-cambio/)</small>
+
+Parte do IPCA do período já é conhecida, porque o índice sai com defasagem. O juro real curto é o resíduo dessa mistura, não um preço limpo — por isso a implícita curta pula de 5% para 9% entre vencimentos vizinhos sem que nada tenha mudado. Esses contratos aparecem marcados na tabela e ficam fora de toda conclusão da página.
+
 **O Focus só projeta Selic por reunião para cerca de dois anos**  
 <small>em [📉 Juros: o que o mercado paga × o que os economistas esperam](/juros/)</small>
 
@@ -79,6 +94,11 @@ Só uma fração dos instrumentos tem capital social preenchido no cadastro da B
 <small>em [🌾 Agro: o que a curva está dizendo](/agro/)</small>
 
 Os contratos de boi gordo com vencimento a partir de fev/2025 são liquidados pelo Indicador do Boi DATAGRO, não mais pelo Cepea/B3. Milho e etanol seguem com o Cepea. Por isso esta página imprime a descrição que a própria B3 publica, em vez de atribuir o indicador a um provedor — texto escrito à mão envelhece sem avisar.
+
+**Duas aproximações estão embutidas na comparação**  
+<small>em [🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam](/inflacao-e-cambio/)</small>
+
+O caminho do Focus é composto no intervalo exato de cada contrato, repartindo o IPCA de cada ano de forma **uniforme** para recortar os anos das pontas. E o Focus só projeta IPCA e câmbio para cerca de cinco anos: além disso a página mostra o número medido e deixa a comparação em branco, em vez de inventar um consenso.
 
 **Cada leitura usa a última barra completa**  
 <small>em [🌊 IMA Intraday](/intraday/)</small>
