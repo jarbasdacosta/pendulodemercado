@@ -29,6 +29,16 @@ indicadores clássicos.
 - 🧭 [Larry Williams](larry-williams/) — índice de negociação e de momentum
 - 📈 [Gráficos](tecnico/) — mensal, semanal e diário com médias, Bollinger, MACD-V, CCI e RSI
 - 📅 [Calendário econômico](calendario) — o que pode mexer com tudo isso nos próximos dias
+- 📉 [Juros: o que o mercado paga × o que os economistas esperam](juros/) — a curva de DI da
+  B3 contra o consenso do Boletim Focus, ano a ano e na mesma grandeza
+
+**A página de juros merece uma palavra à parte**, porque ela responde uma pergunta que as
+outras não tocam. Todas as medidas acima olham o mercado de ações. A curva de juros é o preço
+do dinheiro, e é ela que decide o que uma ação vale: quando o juro de dois anos sobe três
+pontos, cada real de lucro futuro passa a valer menos hoje, e isso acontece antes de qualquer
+indicador técnico acusar. Comparar essa curva com o que os economistas projetam mostra se o
+mercado está pagando prêmio para carregar risco — e prêmio grande num horizonte específico é
+o mercado dizendo onde ele acha que o problema está.
 
 **Como usar:** como contexto, não como gatilho. Um mercado esticado pode continuar subindo por
 meses. O que estas páginas dizem é **quanto espaço existe** para o movimento continuar, e quanto
