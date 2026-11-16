@@ -90,3 +90,49 @@ body[data-slug^="setups/"] {
     -webkit-overflow-scrolling: touch;
   }
 }
+
+/* sinal-b3: menu em secoes
+   O .explorer do Quartz e desenhado para UM explorer ocupando a barra toda:
+   flex 0 1 auto, e a rolagem dentro do .explorer-content. Com oito secoes elas
+   viram oito itens flex disputando a mesma altura e cada uma ganha uma barrinha
+   propria, cortando os itens no meio.
+
+   O overflow-y: hidden do .explorer FICA. Nao e decoracao: o recolhimento da
+   secao nao usa display none, ele encolhe a caixa para 1.2rem e conta com esse
+   hidden para cortar o resto. Trocar por visible mata as barrinhas e desliga o
+   recolhimento junto — a setinha gira e nada acontece.
+
+   O que muda: flex 0 0 auto (altura do conteudo, sem disputar espaco com as
+   outras secoes), rolagem unica na barra, e sem barrinha dentro do conteudo.
+   Desktop apenas: no celular o Quartz usa outro menu. */
+@media all and (min-width: 801px) {
+  .sidebar.left {
+    overflow-y: auto;
+
+    .explorer {
+      flex: 0 0 auto;
+      overflow-y: hidden;
+      margin-bottom: 0.3rem;
+
+      &.collapsed {
+        flex: 0 0 1.2rem;
+      }
+    }
+
+    .explorer-content {
+      overflow-y: visible;
+      margin-top: 0.15rem;
+    }
+
+    .explorer .title-button h2 {
+      font-size: 0.88rem;
+    }
+
+    .explorer-content ul li > a,
+    .folder-container div > a,
+    .folder-container div > button span {
+      font-size: 0.9rem;
+      line-height: 1.3rem;
+    }
+  }
+}
