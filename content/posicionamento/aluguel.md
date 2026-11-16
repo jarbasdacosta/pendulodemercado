@@ -2,7 +2,7 @@
 title: "Aluguel de ações"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 15/11/2026 20:51*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 08:03*
 
 Quem aposta que uma ação vai cair precisa vendê-la sem tê-la. Para isso, **aluga o papel de
 quem o tem**, vende no mercado, e mais adiante recompra para devolver. Se o preço caiu, ganha
@@ -225,6 +225,69 @@ da classe, não do tamanho da aposta.
 Nada disso indica compra ou venda. É uma medida de **posicionamento**: quem está exposto a
 quê, e quanto dói sair. Serve para entender o que pode acontecer com um papel que você já
 acompanha, não para escolher papel.
+
+## Onde pode estar a vantagem
+**O mecanismo, que é fato.** Alugar ação custa porque papel disponível para
+emprestar é finito. A taxa sobe quando falta papel — ou porque muita gente quer vender a
+descoberto ao mesmo tempo, ou porque quem tinha parou de emprestar. Ela não sobe por
+pessimismo: sobe por escassez. E o saldo em aberto é posição que **ainda não foi recomprada**,
+ou seja, obrigação futura de comprar o papel de volta.
+
+**O que isto não é: previsão de direção.** Posição vendida grande pode ficar meses parada e dar
+certo para quem a montou. Taxa alta não é sinal de alta nem de baixa — é preço de escassez.
+
+### A vantagem que já existe, e não depende de estatística
+
+É o **relógio do carrego**. Quem está vendido paga a taxa todo dia que a posição fica aberta, e
+isso é conta fechada, não opinião.
+
+Hoje o papel mais caro de alugar é a **CMIN3**, a 50,64% ao ano.
+Quem está vendido nela perde cerca de **3,47% ao mês** só
+carregando a posição, antes de o preço andar um centavo. Para empatar, o papel precisa cair
+mais do que isso no mesmo prazo — e esse é um piso que a tabela entrega pronto, sem precisar
+de modelo. A conta é a taxa anual capitalizada em 21 dias úteis sobre base 252, que é como a
+B3 cobra: dividir por doze exageraria o custo.
+
+É aí que a assimetria aparece: posição vendida cara tem **prazo de validade financeiro**. Quem
+está do outro lado não pode esperar indefinidamente, e a pressa de quem paga carrego é uma
+informação sobre o comportamento futuro dele, não sobre o preço justo do papel.
+
+O segundo número que não precisa de teste é a **largura da saída**. A
+**CMIG3** tem 30,2 pregões de volume em posição
+vendida: se os vendidos precisarem recomprar ao mesmo tempo, é esse o tamanho da fila. Não diz
+que vão precisar — diz quanto custa se precisarem, e isso é o que se usa para dimensionar.
+
+### A hipótese, que ainda não está testada
+
+A combinação que parece promissora é **saldo grande + custo subindo + saída estreita**: os três
+juntos descrevem gente presa pagando caro num papel difícil de recomprar. É a condição que
+precede squeeze nos livros — e livro não é evidência.
+
+**Não vou fingir que sei.** São 21 pregões de histórico. Para responder se essa
+combinação antecipa alta, é preciso medir o retorno depois dela contra o retorno de um dia
+qualquer, com casos suficientes para a diferença significar algo. O arquivo cresce todo dia
+útil; em alguns meses a pergunta fica respondível. Até lá, é hipótese, e está escrito que é.
+
+### Quanto custa estar errado
+
+**Ler o relógio do squeeze sem olhar a marca ⚠** custa confundir papel sem liquidez com aposta
+grande. A classe menos negociada de uma empresa com duas classes infla os dias de recompra por
+falta de volume, não por tamanho de posição.
+
+**Ler aluguel de ETF como aposta contra** custa inverter o sentido do número. ETF é alugado em
+massa para arbitragem e formação de mercado, com a ponta comprada do outro lado. Por isso eles
+estão em tabela separada aqui.
+
+**Achar que taxa alta significa squeeze próximo** custa pagar para esperar. Taxa alta diz que o
+papel está escasso hoje; sem um gatilho — balanço, notícia, rompimento — a posição vendida pode
+continuar escassa e cara por meses, e quem comprou esperando o estouro paga o tempo.
+
+**Montar posição do tamanho que o preço sugere num papel de saída estreita** custa o mesmo que
+no ADR: o spread inteiro, cobrado na hora de sair.
+
+> **Leitura de risco, não recomendação.** Nada aqui diz para comprar ou vender nada. São
+> medidas de posicionamento e de custo, com as contas à mostra para serem conferidas. A decisão
+> é de quem opera, e o risco também.
 
 > [!abstract] Confira a conta você mesmo
 > <a href="aluguel.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar aluguel.xlsx</a> — os 1.035 papéis com todas as medidas, mais a série histórica de saldo e taxa.

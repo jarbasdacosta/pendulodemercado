@@ -2,7 +2,7 @@
 title: "🗽 Ações que foram para Nova York"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 07:55*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 08:03*
 
 Um estrangeiro que quer comprar ação brasileira tem dois caminhos: comprar aqui, em reais, ou
 comprar o **ADR** — um recibo negociado nos Estados Unidos que representa a ação. O recibo não
@@ -104,8 +104,6 @@ papel onde opera. As três produzem o mesmo número e implicações diferentes: 
 recebeu ação em troca de dívida não tem tese de alta, tem papel recebido. Descobrir qual é o
 caso exige ler o fato relevante da empresa — esta página mede a quantidade, não a intenção.
 
-> Leitura de risco, não recomendação. A decisão e o risco são de quem opera.
-
 | # | Papel | Empresa | Classe | % da classe em ADR | Ações da classe (mi) | Sobra no Brasil (mi) | No período |
 |---|---|---|---|---|---|---|---|
 | 1 | **AZUL3** | Azul S.A | ON       | **96,8%** | 401 | **12,94** | +8,9% |
@@ -150,24 +148,84 @@ casos, há menos papel brasileiro parado lá fora.
 
 **Parado** — a maioria. ADR de empresa grande e antiga mal se move, e isso não é notícia.
 
-> [!warning] O que esta página não diz
-> **A porcentagem é da CLASSE, não da empresa.** O denominador é o capital social daquela
-> classe — ON com ON, PN com PN, unit com unit —, que a B3 publica no cadastro de
-> instrumentos. Uma empresa com ordinárias e preferenciais aparece em duas linhas, cada uma
-> com a sua porcentagem, e elas não se somam nem se comparam com o total da companhia.
->
-> **Porcentagem alta nem sempre é estrangeiro comprando.** Em empresa de controle estrangeiro,
-> parte do bloco do controlador pode estar dentro do próprio programa de ADR. Isso infla a
-> porcentagem sem que haja ninguém comprando no mercado.
->
-> **Não separa convicção de arbitragem.** Parte do movimento de ADR é diferença de preço entre
-> os dois mercados sendo explorada por quem faz arbitragem, não aposta direcional. O número é o
-> mesmo; a intenção atrás dele, não.
->
-> **Nada aqui é indicação de compra ou venda.** É contagem de ações mudando de custódia.
+
+## Onde pode estar a vantagem
+**O mecanismo, que é fato e não opinião.** A custódia em ADR não sobe por
+vontade de ninguém: ela sobe porque alguém comprou a ação aqui, depositou no banco depositário
+e vendeu o recibo lá fora. Isso só dá lucro quando o recibo está **caro em relação à ação
+local**. O caminho inverso — cancelar o ADR, receber a ação e vendê-la aqui — só compensa
+quando o recibo está barato. A direção da custódia é, portanto, o rastro de onde esteve o
+prêmio entre os dois mercados.
+
+**O que isto não é: informação antecipada.** Quem acompanha as duas cotações vê o prêmio em
+tempo real, e a B3 publica a custódia com um pregão de atraso. Quem disser que esta página
+antecipa preço está vendendo o que ela não tem.
+
+**O que ela tem: persistência.** Um dia de prêmio é ruído, e some assim que o arbitrador age.
+Semanas de conversão numa direção só são desequilíbrio que não se fechou — a série mostra
+quantas vezes ele precisou agir para dar conta.
+
+No pregão de hoje, o caso mais persistente é **B3SA3**: +22,3% de custódia ao longo dos
+21 pregões guardados, sem salto — subindo aos poucos. Isso é demanda lá fora
+sendo atendida por conversão daqui, repetidamente.
+
+### A vantagem que já existe, e não depende de estatística
+
+É a coluna **"sobra no Brasil"**. Capital social da classe menos o que está depositado: quantas
+ações restam negociando aqui. Não é modelo nem previsão — é subtração, e vale hoje.
+
+O caso mais extremo deste pregão é a **AZUL3**, com
+**12,94 milhões de ações** fora do programa. Quem dimensionar posição pelo
+valor de mercado da empresa vai descobrir o tamanho real do livro na hora de sair — que é a
+pior hora possível para descobrir. Quem olhar este número antes dimensiona pelo que existe.
+
+Repare no que essa vantagem é e no que ela não é: **é de sobrevivência, não de retorno**. Ela
+não faz ninguém ganhar; evita um tipo específico de perda, que é a de ficar preso num papel que
+parecia grande e tem livro pequeno.
+
+### A hipótese, que ainda não está testada
+
+A pergunta natural é se entrada persistente em ADR **antecipa** retorno, em vez de só confirmar
+o que o preço já fez. É plausível pelo mecanismo — demanda que não se esgota costuma continuar
+—, e é igualmente plausível que não: o arbitrador reage ao prêmio, não o prevê, e o prêmio já
+está no preço quando ele age.
+
+**Não vou fingir que sei.** São 21 pregões de histórico. Qualquer número que
+esta página desse sobre isso seria inventado. O arquivo cresce todo dia útil; com alguns meses
+dá para responder com teste de verdade, comparando o retorno depois de entradas persistentes
+com o retorno de um dia qualquer. Até lá, é hipótese, e está escrito que é.
+
+### Quanto custa estar errado
+
+Esta é a parte que costuma faltar, e é a que decide se vale agir.
+
+**Confundir degrau com fluxo** custa agir sobre evento corporativo achando que é dinheiro
+entrando. A página separa os degraus numa tabela própria exatamente por isso — mas quem
+baixar a planilha e ordenar por variação vai misturar os dois se não olhar a coluna do tipo de
+movimento.
+
+**Confundir concentração com demanda** custa comprar de quem quer vender. Porcentagem alta pode
+ser estrangeiro acumulando e pode ser credor que virou acionista numa reestruturação: o segundo
+recebeu papel em troca de dívida, não tem tese de alta, e costuma vender quando aparece
+liquidez. O número é idêntico nos dois casos; o fato relevante da empresa é que separa.
+
+**Dimensionar pelo tamanho da empresa num papel concentrado** custa o spread inteiro na saída,
+e cobra justamente quando você precisa sair rápido.
+
+**Somar as classes de uma mesma empresa** custa chegar a uma porcentagem que não existe. O
+denominador é o capital social de cada classe separadamente — ON com ON, PN com PN, unit com
+unit. Uma companhia com ordinárias e preferenciais aparece em duas linhas, e elas não se somam.
+
+**Ler movimento de ADR como aposta direcional** custa confundir arbitragem com convicção. Parte
+do fluxo é diferença de preço entre os dois mercados sendo explorada por quem arbitra, e para
+esse operador a direção do papel é irrelevante. O número é o mesmo; a intenção atrás dele, não.
+
+> **Leitura de risco, não recomendação.** Nada aqui diz para comprar ou vender nada. São
+> medidas de exposição e de liquidez, com as contas à mostra para serem conferidas. A decisão
+> é de quem opera, e o risco também.
 
 > [!abstract] Confira a conta você mesmo
 > <a href="adr.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar adr.xlsx</a> — as 75 linhas com todas as medidas, mais a série pregão a pregão de cada uma.
 > 
-> Fonte: Boletim Diário do Mercado da B3, tabela *Ações custodiadas — programa de ADR*. A B3 mantém só os últimos 21 pregões disponíveis; o histórico desta página é o que foi arquivado desde que a coleta começou.
+> Fonte: Boletim Diário do Mercado da B3, tabelas *Ações custodiadas — programa de ADR* e *Cadastro de instrumentos*, esta última para o capital social de cada classe. Esta página usa os **21 pregões** da janela; a B3 mantém só os últimos 21 no ar, e o que passa disso vem do que já foi arquivado aqui.
 

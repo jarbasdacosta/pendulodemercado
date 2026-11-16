@@ -2,7 +2,7 @@
 title: "📑 Contratos em aberto"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 15/11/2026 21:17*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 08:03*
 
 **Volume conta quem passou. Posição em aberto conta quem ficou.**
 
@@ -200,14 +200,73 @@ pode ser proteção de quem está comprado no papel. As duas coisas parecem igua
 **Descoberta alta** — muita gente vendeu opção sem ter o ativo. Se o preço andar contra, essas
 posições precisam ser cobertas, e cobrir significa comprar.
 
-> [!warning] O que esta página não diz
-> **Não diz quem está comprado e quem está vendido.** Todo contrato em aberto tem os dois
-> lados; a B3 publica o total, não o saldo por tipo de investidor.
->
-> **Não mistura as unidades.** Futuro em contratos, opção de ação em posições. Os dois números
-> não se somam nem se comparam, e por isso estão em seções separadas.
->
-> **Nada aqui é indicação de compra ou venda.** É medida de exposição.
+
+## Onde pode estar a vantagem
+**O mecanismo, que é fato.** Todo contrato em aberto tem dois lados vivos: um
+comprado e um vendido, nenhum dos dois zerado. Quando os dois zeram, o contrato some da conta.
+Por isso volume e posição em aberto medem coisas diferentes — volume conta quem **passou**,
+posição conta quem **ficou**. É possível ter um pregão inteiro de giro recorde com a posição em
+aberto caindo: isso é gente desmontando o que tinha, não dinheiro novo chegando.
+
+**O que isto não é: saber de que lado está o dinheiro.** A B3 publica o total de contratos
+vivos, não o saldo por tipo de investidor. Quem transformar posição em aberto em "o mercado
+está comprado" está inventando a metade que o dado não tem.
+
+### A vantagem que já existe, e não depende de estatística
+
+É **cruzar a direção da posição com a direção do preço**, e são quatro combinações com
+significados diferentes — nenhuma delas precisa de modelo, só de duas séries lado a lado:
+
+| | Preço subindo | Preço caindo |
+|---|---|---|
+| **Posição subindo** | dinheiro novo comprando | dinheiro novo vendendo |
+| **Posição caindo** | vendido recomprando | liquidação dos dois lados |
+
+A diferença prática está na segunda linha. Alta com posição **caindo** é alta de recompra, e
+ela tem fim marcado: acaba quando acabarem os vendidos. Alta com posição **subindo** não tem
+esse limite. O preço é idêntico nos dois casos; o que vem depois, não — e é só a posição em
+aberto que separa um do outro.
+
+Hoje o contrato que mais abriu posição foi o **WDO**
+(Minicontrato de Dólar Comercial), com +82.288 contratos novos num único pregão.
+
+### O número que mede fragilidade, não direção
+
+**49% das posições abertas em opção de ação estão descobertas** — vendidas
+por quem não tem o ativo nem garantia depositada em ativo. Quem está descoberto é quem
+**precisa fazer alguma coisa** se o preço andar contra, e cobrir uma venda de call significa
+comprar o papel.
+
+Isso não diz que o preço vai subir. Diz que, se subir, existe uma camada de gente obrigada a
+comprar por cima — e obrigação é mais previsível que opinião.
+
+### A hipótese, que ainda não está testada
+
+Se posição descoberta alta num papel amplifica o movimento quando ele começa, é plausível pelo
+mecanismo e **não está medido aqui**. São 21 pregões de histórico. O arquivo
+cresce todo dia útil; com alguns meses dá para comparar o retorno depois de descoberta alta
+contra o de um dia qualquer, com casos suficientes para a diferença significar algo.
+
+### Quanto custa estar errado
+
+**Somar contratos com posições** custa chegar a um número que não existe. Futuro se conta em
+contratos; opção de ação se conta em número de ativos. São unidades diferentes e estão em
+seções separadas por isso.
+
+**Tratar IDI e CPM como futuros** custa pôr opção disfarçada no topo de um ranking. As duas
+têm posição de milhões e estão no segmento dos futuros, mas o cadastro da B3 diz que são
+opções — sobre o IDI e sobre a decisão do Copom. Ficam na sua própria tabela aqui.
+
+**Ler put ÷ call como pessimismo** custa confundir proteção com aposta. Quem está comprado no
+papel e compra put está se protegendo, não apostando na queda, e as duas coisas produzem
+exatamente o mesmo número nesta tabela.
+
+**Ler variação de posição sem olhar o preço do mesmo dia** custa perder justamente a
+informação: é o cruzamento que distingue dinheiro novo de recompra, não a posição sozinha.
+
+> **Leitura de risco, não recomendação.** Nada aqui diz para comprar ou vender nada. São
+> medidas de exposição, com as contas à mostra para serem conferidas. A decisão é de quem
+> opera, e o risco também.
 
 > [!abstract] Confira a conta você mesmo
 > <a href="derivativos.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar derivativos.xlsx</a> — os 76 contratos e 190 ativos com opção, mais a série pregão a pregão.
