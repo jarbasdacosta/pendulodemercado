@@ -46,28 +46,49 @@ const grupo = (
     sortFn,
   })
 
-const menu = [
-  grupo(
-    "🧭 Comece aqui",
-    (node) => {
-      const dentro = ["por-onde-comecar"]
-      const s = node.slug ?? ""
-      return dentro.some((d) => s === d || s.startsWith(d + "/"))
-    },
-    (a, b) => a.displayName.localeCompare(b.displayName),
-  ),
+// NO CELULAR, UM EXPLORER SÓ. Cada Explorer desenha o seu próprio botão de hambúrguer na
+// tela pequena — oito grupos viravam oito hambúrgueres empilhados, que foi como o menu
+// quebrou no celular. Então o celular recebe a lista inteira num explorer, como sempre foi,
+// e o agrupamento fica só no desktop, onde há espaço vertical para ele significar algo.
+const menuCelular = Component.Explorer({
+  folderDefaultState: "collapsed",
+  folderClickBehavior: "link",
+  useSavedState: true,
+  sortFn: (a, b) => {
+    const ordem = ["por-onde-comecar", "diario", "intraday", "amplitude", "larry-williams",
+                   "tecnico", "calendario", "operacoes", "sinais-topo-fundo", "estrangeiros",
+                   "adr", "ofertas", "posicionamento", "linha-do-tempo", "historico",
+                   "historico-anterior", "metodologia", "ranking", "tendencia", "entradas",
+                   "ultimas-operacoes", "historico-por-ano", "todos-os-sinais", "tutorial",
+                   "crise", "sinais", "regras-de-operacao", "o-que-nao-passou",
+                   "avanco-declinio", "aluguel", "derivativos"]
+    const ia = ordem.indexOf(a.slugSegment)
+    const ib = ordem.indexOf(b.slugSegment)
+    if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib)
+    if (a.isFolder && b.isFolder)
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true, sensitivity: "base",
+      })
+    if (!a.isFolder && !b.isFolder)
+      return b.slugSegment.localeCompare(a.slugSegment, undefined, {
+        numeric: true, sensitivity: "base",
+      })
+    return a.isFolder ? -1 : 1
+  },
+})
 
+const grupos = [
   grupo(
     "1 · Onde está o mercado",
     (node) => {
-      const dentro = ["diario", "intraday", "amplitude", "larry-williams", "tecnico",
-                      "calendario"]
+      const dentro = ["por-onde-comecar", "diario", "intraday", "amplitude",
+                      "larry-williams", "tecnico", "calendario"]
       const s = node.slug ?? ""
       return dentro.some((d) => s === d || s.startsWith(d + "/"))
     },
     (a, b) => {
-      const ordem = ["diario", "intraday", "amplitude", "larry-williams", "tecnico",
-                     "calendario", "avanco-declinio"]
+      const ordem = ["por-onde-comecar", "diario", "intraday", "amplitude",
+                     "larry-williams", "tecnico", "calendario", "avanco-declinio"]
       const ia = ordem.indexOf(a.slugSegment)
       const ib = ordem.indexOf(b.slugSegment)
       if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib)
@@ -238,7 +259,8 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    ...menu,
+    Component.MobileOnly(menuCelular),
+    ...grupos.map((g) => Component.DesktopOnly(g)),
   ],
   right: [
     Component.Graph(),
@@ -262,7 +284,8 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    ...menu,
+    Component.MobileOnly(menuCelular),
+    ...grupos.map((g) => Component.DesktopOnly(g)),
   ],
   right: [],
 }
