@@ -1,7 +1,7 @@
 ---
 title: "🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam"
 ---
-*Curvas da B3 de 13/11/2026 · Focus de 13/11/2026 · PTAX de 13/11/2026 · atualizado em 16/11/2026 15:39*
+*Curvas da B3 de 13/11/2026 · Focus de 13/11/2026 · PTAX de 13/11/2026 · atualizado em 16/11/2026 15:48*
 
 
 <!-- NOTAS-INICIO -->
@@ -240,6 +240,25 @@ movimento ou operar contra os extremos.
 **O que medir para confirmar:** o sinal é a direção simultânea, não o tamanho. Um DI que
 sobe 10 pontos-base com dólar e índice andando junto diz mais que um DI que sobe 30 com os
 outros dois parados.
+
+### A série que está sendo construída para medir isso
+
+Dizer que esses dias existem é uma coisa; **medir quantos são, quanto andam e se o padrão
+se repete** é outra, e precisa de série histórica. O arquivo do Boletim Diário da B3 guarda
+poucas semanas, então a partir de agora cada pregão é gravado numa linha, com três cuidados
+que decidem se o estudo vai valer alguma coisa daqui a um ano:
+
+- **Taxa de DI em prazos fixos, não em contratos.** Guardar "a taxa do contrato de jan/28"
+  dá uma série que quebra toda vez que o contrato rola. A linha guarda a taxa interpolada
+  em 21, 63, 126, 252, 504, 1260 dias úteis, que é comparável entre dias por construção.
+- **A variação do dia sai da própria linha.** O boletim publica o ajuste e o ajuste
+  anterior do **mesmo** contrato, então a variação de dólar e índice não é contaminada por
+  rolagem. Para o DI vale o mesmo: o preço anterior é do mesmo contrato com um dia útil a
+  mais, e a taxa de ontem é recuperada dele.
+- **Um buraco não contamina o dia seguinte.** Como cada linha carrega o seu próprio
+  "ontem", um pregão que falte no arquivo não vira um salto falso na série.
+
+Hoje há **21 pregões** na série — pouco para concluir qualquer coisa, e é exatamente por isso que a coleta começa antes da pergunta. O arquivo está aqui: [serie-macro.csv](serie-macro.csv).
 
 > [!tip] As três páginas
 > - [Juros: o que o mercado paga × o que os economistas esperam](/juros/) — a curva de DI contra o Focus de Selic, ano a ano
