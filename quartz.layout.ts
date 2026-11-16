@@ -57,7 +57,7 @@ const menuCelular = Component.Explorer({
   sortFn: (a, b) => {
     const ordem = ["por-onde-comecar", "diario", "intraday", "amplitude", "larry-williams",
                    "tecnico", "calendario", "operacoes", "sinais-topo-fundo", "estrangeiros",
-                   "adr", "ofertas", "posicionamento", "linha-do-tempo", "historico",
+                   "adr", "ofertas", "posicionamento", "agro", "linha-do-tempo", "historico",
                    "historico-anterior", "metodologia", "ranking", "tendencia", "entradas",
                    "ultimas-operacoes", "historico-por-ano", "todos-os-sinais", "tutorial",
                    "crise", "sinais", "regras-de-operacao", "o-que-nao-passou",
@@ -178,7 +178,25 @@ const grupos = [
   ),
 
   grupo(
-    "6 · O que já aconteceu",
+    "6 · Agro",
+    (node) => {
+      const dentro = ["agro"]
+      const s = node.slug ?? ""
+      return dentro.some((d) => s === d || s.startsWith(d + "/"))
+    },
+    (a, b) => {
+      const ordem = ["agro"]
+      const ia = ordem.indexOf(a.slugSegment)
+      const ib = ordem.indexOf(b.slugSegment)
+      if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib)
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true, sensitivity: "base",
+      })
+    },
+  ),
+
+  grupo(
+    "7 · O que já aconteceu",
     (node) => {
       const dentro = ["linha-do-tempo", "historico", "historico-anterior"]
       const s = node.slug ?? ""
@@ -204,7 +222,7 @@ const grupos = [
   ),
 
   grupo(
-    "7 · Como isso funciona",
+    "8 · Como isso funciona",
     (node) => {
       const dentro = ["metodologia"]
       const s = node.slug ?? ""

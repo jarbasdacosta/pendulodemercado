@@ -131,7 +131,30 @@ marca explicitamente: ETF alugado é arbitragem, não aposta contra; e a classe 
 uma empresa com duas classes infla o relógio do squeeze por falta de volume, não por tamanho de
 aposta.
 
-## 6 · O que já aconteceu
+## 6 · Agro
+
+**A pergunta:** está sobrando ou está faltando mercadoria agora?
+
+Commodity agrícola não tem um preço — tem vários ao mesmo tempo, um para cada mês de entrega.
+E a **forma dessa curva** responde mais do que o preço de hoje. Quando o vencimento curto vale
+menos que o longo, há produto disponível e quem compra para a frente paga armazenagem e juros
+embutidos. Quando o curto vale mais, há aperto imediato e quem precisa da mercadoria agora
+paga prêmio para não esperar.
+
+- 🌾 [O que a curva está dizendo](agro/) — boi, milho, café, etanol e soja: a curva de cada
+  um, a posição em aberto por vencimento e quanto vale um contrato
+
+**Como usar:** olhe a forma antes do nível. Curva descendo é aperto no presente, e aperto
+costuma se resolver por queda do vencimento curto, não por alta do longo. Curva que vira no
+meio quase sempre é calendário de safra, e o mês da virada é onde o mercado está dizendo que a
+oferta muda.
+
+**O que não esperar:** a página não calcula a **base** — a diferença entre o futuro e o preço
+físico. O indicador de referência é do Cepea/Esalq, e o site deles proíbe coleta automatizada;
+respeitar isso é condição para usar o trabalho de alguém. Quem quiser a base consulta o
+indicador na fonte e subtrai do ajuste publicado aqui.
+
+## 7 · O que já aconteceu
 
 **A pergunta:** o que este site disse antes, e estava certo?
 
@@ -146,7 +169,7 @@ errado e o método antigo que foi substituído.
 **Como usar:** para conferir. É o grupo que permite você duvidar do resto do site com dados na
 mão, em vez de confiar na palavra.
 
-## 7 · Como isso funciona
+## 8 · Como isso funciona
 
 **A pergunta:** de onde vêm esses números, e o que já foi testado e reprovado?
 

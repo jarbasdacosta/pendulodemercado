@@ -1,12 +1,12 @@
 ---
 title: Pêndulo de Mercado
-date: 2026-11-15
+date: 2026-11-16
 tags: [home]
 ---
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 15/11/2026 21:14 BRT · Diário D1*
+*Última atualização: 16/11/2026 08:39 BRT · Diário D1*
 
 > [!success] Onde o mercado está no fechamento de 13/11: **🟢 Calmo**
 > `Pânico ◀─────●───────────────▶ Euforia`
@@ -81,7 +81,7 @@ tags: [home]
 >
 > Os momentos úteis são as **mudanças** do ζ: 🚀 ζ Topo subindo para 30–60% (69% subiu no mês) e 🔪 ζ Fundo disparando (só 42% subiu em 3 meses). 📉 ζ Topo desinflando do 🔴 teve queda de 5% em 45% das vezes (31% num dia qualquer), mas com poucos casos. O 📉 do 🟡 e o 🌱 ficaram como contexto: não se confirmaram em 2014–2026 (revisão de 23/10/2026). [Metodologia da Sinal IMA](metodologia/crise).
 
-## Os sete grupos
+## Os oito grupos
 
 Cada grupo responde uma pergunta diferente. [Por onde começar](por-onde-comecar) explica para que serve cada um, o que tem dentro e como usar.
 
@@ -90,8 +90,9 @@ Cada grupo responde uma pergunta diferente. [Por onde começar](por-onde-comecar
 - **3 · Sinais de topo e fundo** — extremos pontuais: 📍 [Sinais de hoje](sinais-topo-fundo/) · [Todos](sinais-topo-fundo/todos-os-sinais) · [Como ler](sinais-topo-fundo/tutorial)
 - **4 · Para onde vai o dinheiro** — fluxo e oferta: 🌎 [Capital estrangeiro](estrangeiros/) · 🗽 [Ações que foram para Nova York](adr/) · 💰 [Ofertas de ações](ofertas)
 - **5 · Quem está posicionado** — tensão acumulada: ⚖️ [Aluguel de ações](posicionamento/aluguel) · 📑 [Contratos em aberto](posicionamento/derivativos)
-- **6 · O que já aconteceu** — o registro, para conferir: 🔔 [Linha do tempo](linha-do-tempo/) · 🌊 [Histórico do IMA](historico) · [Método anterior](historico-anterior)
-- **7 · Como isso funciona** — método e testes: 📚 [Metodologia](metodologia/) · [Sinal IMA](metodologia/crise) · [Regras](metodologia/regras-de-operacao) · 🧪 [O que não passou](metodologia/o-que-nao-passou)
+- **6 · Agro** — commodities agrícolas na B3: 🌾 [O que a curva está dizendo](agro/)
+- **7 · O que já aconteceu** — o registro, para conferir: 🔔 [Linha do tempo](linha-do-tempo/) · 🌊 [Histórico do IMA](historico) · [Método anterior](historico-anterior)
+- **8 · Como isso funciona** — método e testes: 📚 [Metodologia](metodologia/) · [Sinal IMA](metodologia/crise) · [Regras](metodologia/regras-de-operacao) · 🧪 [O que não passou](metodologia/o-que-nao-passou)
 
 ---
 *Pêndulo de Mercado · entre o pânico e a euforia, onde o mercado está. Sinal IMA baseado no trabalho do Prof. Marco Antonio Leonel Caetano (IMA Wavelet, [Caetano & Yoneyama, Physica-A 2007](https://doi.org/10.1016/j.physa.2007.03.054)) e do Prof. Didier Sornette (LPPL, ETH-Zurich); Sinais de Topo e Fundo baseados no trabalho de Oliver Velez, J. Welles Wilder, Donald Lambert, John Bollinger e Alex Spiroglou. Adaptado, testado no Ibovespa e mantido por Jarbas Daniel da Costa. Os autores citados não participam do produto. · [Metodologia](metodologia/) · [Histórico](historico)*

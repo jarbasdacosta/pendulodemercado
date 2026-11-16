@@ -1,11 +1,11 @@
 ---
 title: "🔔 Linha do tempo"
-date: 2026-11-15
+date: 2026-11-16
 description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais recente para o mais antigo"
 tags: [eventos]
 ---
 
-*Atualizada 15/11/2026 21:14 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 16/11/2026 08:39 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -18,7 +18,7 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 ## Últimos 7 dias
 
-### Hoje · dom, 15/11/2026
+### Hoje · seg, 16/11/2026
 
 *Nenhum evento hoje até agora.*
 
@@ -42,17 +42,6 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 | **19:06** | IMA · diário | 🌱 Evento: Fundo se desfazendo ⏱️ | ζ Fundo voltou abaixo de 75% depois de passar de 90% · Só contexto: em 2001–2013 subiu em 71% das vezes em 3 meses, mas em 2014–2026 ficou igual a um dia qualquer (60% contra 62%). O pânico passou, sem vantagem para comprar só por isso (revisto em 23/10/2026). | ✅ |
 | **12:01** | IMA · 15 min | 🟢 Zona mudou: AMARELO → VERDE | Risco 30% · ζ Topo 30% · ζ Fundo 2% · LPPL 0% | — |
 | **11:30** | IMA · 15 min | 🟡 Zona mudou: VERMELHO → AMARELO | Risco 74% · ζ Topo 74% · ζ Fundo 1% · LPPL 0% | — |
-
-### seg, 09/11/2026 · 6 eventos
-
-| Hora | Módulo | Evento | Detalhe | 📲 |
-|---|---|---|---|---|
-| **19:03** | Amplitude · MM 200 | 🎯 Saiu da região de fundo: voltou acima de 20% ⏱️ | 24% das ações acima da MM 200 · No histórico, 60 pregões depois o Ibovespa subiu em ~83% das vezes, retorno mediano de ~+10% (dia qualquer: 60% e +3,4%). Confirmado em 2001–2013 e 2014–2026. | ✅ |
-| **17:31** | IMA · 15 min | 🔴 ζ Topo entrou em nível EXTREMO | Risco 92% · ζ Topo 92% · ζ Fundo 0% · LPPL 0% | ✅ |
-| **15:16** | IMA · 15 min | 🔴 Zona mudou: AMARELO → VERMELHO | Risco 91% · ζ Topo 91% · ζ Fundo 0% · LPPL 0% | — |
-| **15:16** | IMA · 15 min | 🔴 ζ Topo entrou em nível EXTREMO | Risco 91% · ζ Topo 91% · ζ Fundo 0% · LPPL 0% | ✅ |
-| **14:46** | IMA · 15 min | 🟡 Zona mudou: VERDE → AMARELO | Risco 66% · ζ Topo 66% · ζ Fundo 0% · LPPL 0% | — |
-| **14:46** | IMA · 15 min | 🟡 ζ Topo entrou em nível alto | Risco 66% · ζ Topo 66% · ζ Fundo 0% · LPPL 0% | ✅ |
 
 ## Histórico por ano
 
