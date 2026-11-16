@@ -2,7 +2,7 @@
 title: "Aluguel de ações"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 15/11/2026 20:16*
+*Dados da B3 de 13/11/2026 · atualizado em 15/11/2026 20:51*
 
 Quem aposta que uma ação vai cair precisa vendê-la sem tê-la. Para isso, **aluga o papel de
 quem o tem**, vende no mercado, e mais adiante recompra para devolver. Se o preço caiu, ganha
@@ -229,5 +229,7 @@ acompanha, não para escolher papel.
 > [!abstract] Confira a conta você mesmo
 > <a href="aluguel.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar aluguel.xlsx</a> — os 1.035 papéis com todas as medidas, mais a série histórica de saldo e taxa.
 > 
-> Fonte: Boletim Diário do Mercado da B3, tabelas de empréstimo de ativos e de negócios consolidados. A B3 mantém só os últimos 21 pregões disponíveis; o histórico desta página é o que foi arquivado desde que a coleta começou.
+> Fonte: Boletim Diário do Mercado da B3, tabelas de empréstimo de ativos e de negócios consolidados.
+> 
+> **Duas janelas, de propósito.** Saldo e taxa usam os **21 pregões** guardados, que é o histórico que a planilha entrega. A mediana de volume usa os **20 últimos**, porque mais do que isso não melhora a mediana e o arquivo de negócios é o mais pesado do acervo. A B3 só mantém os últimos 21 pregões no ar; o que passa disso é o que já foi arquivado aqui.
 

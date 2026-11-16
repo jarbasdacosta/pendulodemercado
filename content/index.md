@@ -6,7 +6,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 15/11/2026 20:37 BRT · Diário D1*
+*Última atualização: 15/11/2026 21:13 BRT · Diário D1*
 
 > [!success] Onde o mercado está no fechamento de 13/11: **🟢 Calmo**
 > `Pânico ◀─────●───────────────▶ Euforia`
@@ -89,7 +89,7 @@ Cada grupo responde uma pergunta diferente. [Por onde começar](por-onde-comecar
 - **2 · Operar com tendência** — o que fazer com a leitura: 🎯 [Operações](operacoes/) · [Tendência MME9](operacoes/tendencia) · [Entradas](operacoes/entradas) · [Últimas operações](operacoes/ultimas-operacoes)
 - **3 · Sinais de topo e fundo** — extremos pontuais: 📍 [Sinais de hoje](sinais-topo-fundo/) · [Todos](sinais-topo-fundo/todos-os-sinais) · [Como ler](sinais-topo-fundo/tutorial)
 - **4 · Para onde vai o dinheiro** — fluxo e oferta: 🌎 [Capital estrangeiro](estrangeiros/) · 🗽 [Ações que foram para Nova York](adr/) · 💰 [Ofertas de ações](ofertas)
-- **5 · Quem está posicionado** — tensão acumulada: ⚖️ [Aluguel de ações](posicionamento/aluguel)
+- **5 · Quem está posicionado** — tensão acumulada: ⚖️ [Aluguel de ações](posicionamento/aluguel) · 📑 [Contratos em aberto](posicionamento/derivativos)
 - **6 · O que já aconteceu** — o registro, para conferir: 🔔 [Linha do tempo](linha-do-tempo/) · 🌊 [Histórico do IMA](historico) · [Método anterior](historico-anterior)
 - **7 · Como isso funciona** — método e testes: 📚 [Metodologia](metodologia/) · [Sinal IMA](metodologia/crise) · [Regras](metodologia/regras-de-operacao) · 🧪 [O que não passou](metodologia/o-que-nao-passou)
 

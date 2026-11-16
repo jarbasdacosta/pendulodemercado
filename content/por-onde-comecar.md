@@ -111,10 +111,20 @@ posicionado para a queda de cada papel, quanto custa manter essa aposta e quanto
 vendidos levariam para sair se precisassem.
 
 - ⚖️ [Aluguel de ações](posicionamento/aluguel) — saldo, custo e relógio do squeeze
+- 📑 [Contratos em aberto](posicionamento/derivativos) — quanta posição está viva em futuros e
+  em opções, e quanto dela está descoberta
+
+As duas páginas medem a mesma coisa por caminhos diferentes. O aluguel mostra a aposta contra
+montada no mercado à vista; os contratos em aberto mostram a posição montada em derivativos —
+índice, dólar, juros, bitcoin, commodities e opções de ações. **Posição em aberto não é
+volume**: volume conta quem passou pelo mercado hoje, posição em aberto conta quem ficou
+exposto no fim do dia.
 
 **Como usar:** posição grande pagando caro numa saída estreita é a condição em que movimentos
 violentos acontecem. Não é previsão de que vão acontecer — é medida de quanto cabe de estrago
-se um gatilho aparecer.
+se um gatilho aparecer. Nos derivativos, o cruzamento que informa é posição contra preço:
+posição subindo com preço subindo é dinheiro novo comprando; posição caindo com preço subindo
+é vendido recomprando, e isso acaba quando acabarem os vendidos.
 
 **O que não esperar:** nada aqui indica compra ou venda. E cuidado com dois enganos que a página
 marca explicitamente: ETF alugado é arbitragem, não aposta contra; e a classe menos negociada de
