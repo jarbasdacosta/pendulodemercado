@@ -142,17 +142,23 @@ embutidos. Quando o curto vale mais, há aperto imediato e quem precisa da merca
 paga prêmio para não esperar.
 
 - 🌾 [O que a curva está dizendo](agro/) — boi, milho, café, etanol e soja: a curva de cada
-  um, a posição em aberto por vencimento e quanto vale um contrato
+  um, a posição em aberto por vencimento, quanto vale um contrato e a **base** contra o preço
+  físico
 
 **Como usar:** olhe a forma antes do nível. Curva descendo é aperto no presente, e aperto
 costuma se resolver por queda do vencimento curto, não por alta do longo. Curva que vira no
 meio quase sempre é calendário de safra, e o mês da virada é onde o mercado está dizendo que a
 oferta muda.
 
-**O que não esperar:** a página não calcula a **base** — a diferença entre o futuro e o preço
-físico. O indicador de referência é do Cepea/Esalq, e o site deles proíbe coleta automatizada;
-respeitar isso é condição para usar o trabalho de alguém. Quem quiser a base consulta o
-indicador na fonte e subtrai do ajuste publicado aqui.
+**A base** é a diferença entre o futuro mais curto e o preço da mercadoria no mercado físico.
+Positiva, a bolsa está pagando mais que o balcão, e esse prêmio é o que remunera travar preço
+no futuro em vez de vender agora. Negativa, é o contrário. O indicador físico vem do próprio
+boletim diário da B3 — a bolsa publicando a referência que ela mesma usa para liquidar.
+
+**O que não esperar:** a base sai para boi, milho e etanol. Café e soja ficam sem, de
+propósito: para eles a B3 divulga como referência a curva do mercado externo (ICE, Chicago,
+FOB Santos), em centavo de libra e centavo de bushel. Subtrair isso de um ajuste em reais
+daria um número grande e sem significado, então a página bloqueia a conta e diz por quê.
 
 ## 7 · O que já aconteceu
 

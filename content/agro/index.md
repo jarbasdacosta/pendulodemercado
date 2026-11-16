@@ -2,7 +2,7 @@
 title: "🌾 Agro: o que a curva está dizendo"
 ---
 
-*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 08:33*
+*Dados da B3 de 13/11/2026 · atualizado em 16/11/2026 08:54*
 
 Em commodity agrícola, o preço de hoje responde menos do que a **forma da curva**. Cada
 mercadoria é negociada em vários vencimentos ao mesmo tempo, e comparar o que o mercado paga
@@ -47,6 +47,8 @@ o ajuste.
 
 A curva do boi gordo **sobe 1,6%** ao longo de 11 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
 
+**Base: R\$ 7,28 (+1,8%)** — o vencimento mais curto está acima do físico (R\$ 395,12, *Cotação de Boi Gordo - Preço de  fechamento*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** boi gordo, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 394,29 (*BOI GORDO - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
+
 ## Milho · CCM
 **R\$ 67,39** no vencimento mais próximo
 (16/11/2026, 3 dias), -0,15% no pregão.
@@ -69,6 +71,10 @@ o ajuste.
 
 
 A curva do milho **sobe 13,6%** ao longo de 12 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
+
+**Base: R\$ 0,05 (+0,1%)** — o vencimento mais curto está acima do físico (R\$ 67,34, *Cotação de Milho - Preço a vista R$/60kg*). Futuro e físico praticamente colados. Base perto de zero costuma aparecer quando o vencimento está prestes a virar — o contrato converge para o indicador na liquidação, e é isso que se vê acontecendo. O valor usado na liquidação é outro: R\$ 67,31 (*MILHO - Média das últimas três cotações R$/60kg*), e é contra ele que o contrato é fechado no vencimento.
+
+O milho também é publicado em duas formas de pagamento: R\$ 67,34 à vista e R\$ 68,18 a prazo, com prazo médio de **24,4 dias**. A diferença é **+1,25% no período**, o que equivale a **+20,4% ao ano**. Esse é o juro que o mercado físico cobra embutido no preço, e quem vende a prazo está financiando o comprador a essa taxa. Comparar com o custo do próprio dinheiro — CDI, capital de giro, crédito rural — diz de que lado do balcão está a vantagem: quem consegue pagar à vista compra mais barato do que o dinheiro lhe custa, e quem vende a prazo só ganha se esse juro for maior que o que paga para se financiar.
 
 ## Café Arábica 4/5 · ICF
 **US\$ 347,15** no vencimento mais próximo
@@ -121,6 +127,8 @@ o ajuste.
 
 A curva do etanol hidratado **vira em 26/02/2027**: sobe até ali e muda de direção depois. Forma assim quase sempre é calendário de safra — aperto numa janela do ano e folga na seguinte. O ponto de virada é a informação: é onde o mercado está dizendo que a oferta muda.
 
+**Base: R\$ 41,50 (+1,4%)** — o vencimento mais curto está acima do físico (R\$ 3.043,50, *Cotação de Etanol - Preço a vista R$/m3*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** etanol hidratado, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 3.010,50 (*ETANOL - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
+
 ## Minicontrato de Soja do CME Group · SJC
 **US\$ 27,15** no vencimento mais próximo
 (29/12/2026, 46 dias), +1,03% no pregão.
@@ -140,21 +148,22 @@ o ajuste.
 
 A curva do minicontrato de soja do cme group **sobe 1,1%** ao longo de 4 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
 
-## O preço físico, e por que ele não está aqui
-O futuro de cada uma dessas mercadorias é liquidado contra um **Indicador
-CEPEA/ESALQ** — o preço do mercado físico levantado diariamente pelo centro de pesquisa da USP
-em Piracicaba, junto a quem realmente compra e vende a mercadoria. É por isso que o futuro
-converge para o físico no vencimento: não é tendência, é regra do contrato.
+## O preço físico, e de onde ele vem
+O futuro de cada uma dessas mercadorias é liquidado contra um **indicador de
+preço físico** — o preço levantado diariamente junto a quem realmente compra e vende a
+mercadoria. É por isso que o futuro converge para o físico no vencimento: não é tendência, é
+regra do contrato.
 
 A diferença entre os dois chama-se **base**, e é a medida que o produtor usa para decidir se
 trava preço na bolsa ou vende no mercado local, e que o especulador usa para saber se o futuro
 está esticado em relação ao que a mercadoria vale de fato.
 
-**Esta página não calcula a base**, e a razão é simples: o site do Cepea proíbe coleta
-automatizada no seu `robots.txt`. Respeitar isso é condição para usar o trabalho de alguém —
-então aqui não há raspagem, e o número do indicador não aparece inventado nem estimado. Quem
-quiser a base consulta o indicador na fonte e subtrai do ajuste que está nas tabelas acima.
-
+Os indicadores publicados acima vêm do **próprio boletim diário da B3** (21
+pregões fechados no arquivo), na tabela de Indicadores Econômicos e Agropecuários. Não há
+raspagem de site nenhum aqui: é a bolsa divulgando a referência que ela mesma usa para
+liquidar. E a descrição de cada indicador aparece como a B3 a publica, em vez de atribuída por
+nós a um provedor — o boi, por exemplo, mudou de provedor em fevereiro de 2025, e texto escrito
+à mão envelhece sem avisar.
 ## Onde pode estar a vantagem
 **O mecanismo, que é fato.** A curva não é previsão de preço: é o preço que o
 mercado **aceita hoje** para entregar depois. Contango e backwardation são o custo ou o prêmio
@@ -206,5 +215,5 @@ safra. Quando a curva vira num mês específico, o mercado está dizendo onde a 
 > [!abstract] Confira a conta você mesmo
 > <a href="agro.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar agro.xlsx</a> — os 37 vencimentos com ajuste, posição e valor do contrato, mais a série pregão a pregão.
 > 
-> Fonte: Boletim Diário do Mercado da B3 — *Negócios consolidados*, *Posições em aberto* e *Cadastro de instrumentos*, este último para multiplicador, moeda e data de vencimento. Histórico de 21 pregões arquivados. Os indicadores de preço físico citados no texto são do Cepea/Esalq-USP e não são coletados aqui.
+> Fonte: Boletim Diário do Mercado da B3 — *Negócios consolidados*, *Posições em aberto* e *Cadastro de instrumentos*, este último para multiplicador, moeda e data de vencimento. Histórico de 21 pregões arquivados. Os indicadores de preço físico vêm da tabela *Indicadores Econômicos e Agropecuários* do mesmo boletim (21 pregões fechados; 1 arquivo(s) de pregão em andamento descartados).
 
