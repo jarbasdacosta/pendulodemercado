@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 17/11/2026 10:56.*
+*Lido do agendamento do próprio servidor em 17/11/2026 19:10.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o
@@ -23,6 +23,7 @@ no seguinte — nenhuma destas rotinas depende de alguém estar olhando.
 | dias úteis, a cada 20 min, das 06h25 às 06h45 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
 | domingos, 06h30 | **Limpeza de arquivos antigos** |
 | todo dia 1 do mês, 07h00 | **Compactação do repositório** — Mensal, com o mercado fechado. |
+| dias úteis, 07h05 | **ticks_b3.py** |
 | dias úteis, 07h15 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
 | sábados, 07h15 | **ofertas_cvm.sh** |
 | sábados, 08h00 | **Setups** — Testa e republica as páginas dos setups. |

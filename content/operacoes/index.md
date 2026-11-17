@@ -12,7 +12,7 @@ Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/20
 _Nenhuma posição aberta agora._
 
 > [!info] 🌊 Contexto do IMA para compras
-> 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 49% em 16/11
+> 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 55% em 17/11
 > Informa, não filtra: veja como as compras se saíram em cada contexto no [🏆 Ranking](operacoes/ranking#contexto-do-ima).
 
 ## Agora
@@ -21,7 +21,7 @@ _Nenhuma posição aberta agora._
 |---|---|---|---|
 | [📈 Tendência MME9 · Diário](operacoes/tendencia) | Diário — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [📈 Tendência MME9 · Semanal](operacoes/tendencia) | Semanal — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
-| [🎯 Diário · Nadaraya](operacoes/entradas) | ⏳ aguardando o gatilho | ✅ passou fora da amostra | 0 de 10 operações ao vivo |
+| [🎯 Diário · Nadaraya](operacoes/entradas) | — sem setup | ✅ passou fora da amostra | 0 de 10 operações ao vivo |
 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | — sem setup | ✅ o ganho vem do setup | 0 de 10 operações ao vivo |
 | [🎯 H4 · Semáforo N2](operacoes/entradas) | — sem setup | 🧪 em teste | 🧪 1 de 10 operações ao vivo · média -0,8% · dentro do esperado |
 | [🎯 Diário · Semáforo N3 após ζ Fundo](operacoes/entradas) | ⏳ aguardando o gatilho | 🧪 em observação | 0 de 10 operações ao vivo |
