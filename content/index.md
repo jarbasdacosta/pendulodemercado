@@ -6,7 +6,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 17/11/2026 15:20 BRT · Intraday 15min*
+*Última atualização: 17/11/2026 15:21 BRT · Intraday 15min*
 
 > [!success] Onde o mercado está agora (17/11 15:00, candles de 15 min): **🟢 Calmo**
 > `Pânico ◀───────────●─────────▶ Euforia`
