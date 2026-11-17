@@ -2,7 +2,7 @@
 title: "🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam"
 date: 2026-11-16
 ---
-*Curvas da B3 de 16/11/2026 · Focus de 13/11/2026 · PTAX de 16/11/2026 · atualizado em 17/11/2026 10:44*
+*Curvas da B3 de 16/11/2026 · Focus de 13/11/2026 · PTAX de 16/11/2026 · atualizado em 17/11/2026 11:19*
 
 
 <!-- NOTAS-INICIO -->
@@ -63,24 +63,32 @@ Esse número não é opinião de analista: é o preço em que as duas pontas fec
 > **2. A implícita é uma média, o Focus é um ano.** A implícita de um contrato de ago/2028 é a média de inflação de **hoje até ago/2028** — pega o resto de 2026, todo o 2027 e dois terços de 2028. O Focus publica um número por ano calendário. Comparar a média com o ano de 2028 isolado infla a diferença. Nesta tabela o caminho do Focus é **composto no mesmo intervalo do contrato** e devolvido como média ao ano, na mesma grandeza. Os anos das pontas entram em fração, repartindo o IPCA do ano de forma uniforme — é a única suposição da conta, e ela só afeta os pedaços das extremidades.
 
 
-| contrato | vencimento | dias úteis | real (DAP) | nominal (DI interpolado) | implícita | Focus no mesmo intervalo | diferença | contratos no dia |
-|---|---|---|---|---|---|---|---|---|
-| DAPZ26 ⚠️ | 15/12/2026 | 20 | 7,697% | 13,690% | **5,565%** | 5,11% | +0,46 p.p. | 0 |
-| DAPF27 ⚠️ | 15/01/2027 | 41 | 5,660% | 13,727% | **7,635%** | 5,08% | +2,55 p.p. | 38 |
-| DAPG27 ⚠️ | 15/02/2027 | 60 | 4,758% | 13,781% | **8,613%** | 5,05% | +3,56 p.p. | 0 |
-| DAPH27 ⚠️ | 15/03/2027 | 80 | 4,105% | 13,855% | **9,365%** | 5,04% | +4,32 p.p. | 0 |
-| DAPJ27 ⚠️ | 15/04/2027 | 102 | 4,083% | 13,932% | **9,463%** | 5,03% | +4,43 p.p. | 0 |
-| DAPK27 ⚠️ | 17/05/2027 | 123 | 4,440% | 14,020% | **9,172%** | 5,03% | +4,15 p.p. | 2.108 |
-| DAPF28 | 17/01/2028 | 293 | 7,373% | 14,584% | **6,716%** | 4,97% | +1,74 p.p. | 0 |
-| DAPQ28 | 15/08/2028 | 438 | 7,410% | 14,888% | **6,962%** | 4,65% | +2,31 p.p. | 20.042 |
-| DAPK29 | 15/05/2029 | 622 | 7,550% | 15,118% | **7,037%** | 4,46% | +2,58 p.p. | 9.574 |
-| DAPQ30 | 15/08/2030 | 936 | 7,790% | 15,233% | **6,905%** | 4,29% | +2,61 p.p. | 4.834 |
-| DAPK31 | 15/05/2031 | 1.122 | 7,800% | 15,264% | **6,924%** | — | — | 19.492 |
-| DAPQ32 | 16/08/2032 | 1.440 | 7,830% | 15,339% | **6,964%** | — | — | 6.700 |
-| DAPK33 | 16/05/2033 | 1.627 | 7,745% | 15,356% | **7,064%** | — | — | 4.781 |
-| DAPK35 | 15/05/2035 | 2.126 | 7,735% | 15,333% | **7,053%** | — | — | 5.556 |
-| DAPK37 | 15/05/2037 | 2.627 | 7,610% | 15,293% | **7,140%** | — | — | 434 |
-| DAPQ40 | 15/08/2040 | 3.445 | 7,470% | 15,229% | **7,220%** | — | — | 2.319 |
+| contrato | vencimento | dias úteis | real (DAP) | nominal (DI interpolado) | implícita | Focus no mesmo intervalo | diferença | contratos no dia | em aberto |
+|---|---|---|---|---|---|---|---|---|---|
+| DAPZ26 ⚠️ | 15/12/2026 | 20 | 7,697% | 13,690% | **5,565%** | 5,11% | +0,46 p.p. | 0 | 407 |
+| DAPF27 ⚠️ | 15/01/2027 | 41 | 5,660% | 13,727% | **7,635%** | 5,08% | +2,55 p.p. | 38 | 39.033 |
+| DAPG27 ⚠️ | 15/02/2027 | 60 | 4,758% | 13,781% | **8,613%** | 5,05% | +3,56 p.p. | 0 | 14 |
+| DAPH27 ⚠️ | 15/03/2027 | 80 | 4,105% | 13,855% | **9,365%** | 5,04% | +4,32 p.p. | 0 | 44 |
+| DAPJ27 ⚠️ | 15/04/2027 | 102 | 4,083% | 13,932% | **9,463%** | 5,03% | +4,43 p.p. | 0 | 40 |
+| DAPK27 ⚠️ | 17/05/2027 | 123 | 4,440% | 14,020% | **9,172%** | 5,03% | +4,15 p.p. | 2.108 | 471.857 |
+| DAPF28 | 17/01/2028 | 293 | 7,373% | 14,584% | **6,716%** | 4,97% | +1,74 p.p. | 0 | 2.876 |
+| DAPQ28 | 15/08/2028 | 438 | 7,410% | 14,888% | **6,962%** | 4,65% | +2,31 p.p. | 20.042 | 493.741 |
+| DAPK29 | 15/05/2029 | 622 | 7,550% | 15,118% | **7,037%** | 4,46% | +2,58 p.p. | 9.574 | 346.784 |
+| DAPQ30 | 15/08/2030 | 936 | 7,790% | 15,233% | **6,905%** | 4,29% | +2,61 p.p. | 4.834 | 452.869 |
+| DAPK31 | 15/05/2031 | 1.122 | 7,800% | 15,264% | **6,924%** | — | — | 19.492 | 158.178 |
+| DAPQ32 | 16/08/2032 | 1.440 | 7,830% | 15,339% | **6,964%** | — | — | 6.700 | 373.171 |
+| DAPK33 | 16/05/2033 | 1.627 | 7,745% | 15,356% | **7,064%** | — | — | 4.781 | 264.652 |
+| DAPK35 | 15/05/2035 | 2.126 | 7,735% | 15,333% | **7,053%** | — | — | 5.556 | 460.389 |
+| DAPK37 | 15/05/2037 | 2.627 | 7,610% | 15,293% | **7,140%** | — | — | 434 | 147.115 |
+| DAPQ40 | 15/08/2040 | 3.445 | 7,470% | 15,229% | **7,220%** | — | — | 2.319 | 175.842 |
+
+
+*As duas últimas colunas medem coisas diferentes e vale separá-las: **contratos no dia** é o que foi negociado hoje, **em aberto** é o que está posicionado. Linha com posição grande e volume zero tem preço de ajuste carregado, não preço formado hoje — é o caso mais traiçoeiro, porque parece cheia. Travessão em *em aberto* quer dizer que a B3 ainda não publicou a posição daquele pregão, e não que ela seja zero.*
+
+> [!warning] Vencimentos sem posição que sustente o preço
+> Estes continuam na tabela, com o número à vista, mas **não entram na média que aparece no topo da página**: **DAPF28** (2.876 em aberto).
+> O corte é relativo ao próprio dia: menos de 10% da mediana de posição em aberto, que hoje é 167.010 contratos. Preço de contrato sem posição é ajuste carregado de pregões anteriores, não preço formado agora — e entrava na conta com o mesmo peso de um vértice com meio milhão de contratos.
+> Eles ficam visíveis de propósito: quem comparar esta tabela com a curva da B3 precisa achar todos os vencimentos aqui, e entender por que alguns não contam, em vez de estranhar uma ausência.
 
 
 > [!danger] ⚠️ Os vencimentos curtos não servem para decidir nada
@@ -99,7 +107,7 @@ Esse número não é opinião de analista: é o preço em que as duas pontas fec
 ### O que fazer com isso
 
 **Medido:** nos vencimentos não contaminados, a diferença entre a implícita e o caminho do
-Focus vai de 1,74 p.p. a 2,61 p.p., e a maior está em **DAPQ30** (15/08/2030), com 2,61 p.p..
+Focus vai de 2,31 p.p. a 2,61 p.p., e a maior está em **DAPQ30** (15/08/2030), com 2,61 p.p..
 
 **Interpretação, e aqui é leitura de risco e não previsão:** uma diferença dessa ordem não
 se explica só por prêmio. Ela diz que o mercado está disposto a pagar caro por proteção
