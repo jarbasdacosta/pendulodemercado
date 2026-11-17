@@ -59,7 +59,7 @@ const menuCelular = Component.Explorer({
                    "tecnico", "calendario", "juros", "inflacao-e-cambio", "operacoes",
                    "sinais-topo-fundo", "estrangeiros",
                    "adr", "ofertas", "posicionamento", "agro", "linha-do-tempo", "historico",
-                   "historico-anterior", "metodologia", "ranking", "tendencia", "entradas",
+                   "historico-anterior", "metodologia", "integridade", "horarios", "ranking", "tendencia", "entradas",
                    "ultimas-operacoes", "historico-por-ano", "todos-os-sinais", "tutorial",
                    "crise", "sinais", "regras-de-operacao", "o-que-nao-passou",
                    "avanco-declinio", "aluguel", "derivativos"]
@@ -227,12 +227,12 @@ const grupos = [
   grupo(
     "8 · Como isso funciona",
     (node) => {
-      const dentro = ["metodologia"]
+      const dentro = ["metodologia", "integridade", "horarios"]
       const s = node.slug ?? ""
       return dentro.some((d) => s === d || s.startsWith(d + "/"))
     },
     (a, b) => {
-      const ordem = ["metodologia", "crise", "sinais", "regras-de-operacao",
+      const ordem = ["metodologia", "integridade", "horarios", "crise", "sinais", "regras-de-operacao",
                      "o-que-nao-passou"]
       const ia = ordem.indexOf(a.slugSegment)
       const ib = ordem.indexOf(b.slugSegment)
