@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 12:45*
+*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 13:01*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -15,56 +15,79 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 
 | o que | situação |
 |---|---|
-| Tabelas do boletim conferidas | **33** de 59 guardadas |
+| Tabelas do boletim conferidas | **54** de 59 guardadas |
 | Tabelas incompletas | **nenhuma** |
-| Tabelas sem alvo publicado pela B3 | 26 — não há como conferir |
+| Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Páginas publicadas | 351 |
-| Página escrita mais recentemente | 17/11 12:45 |
+| Página escrita mais recentemente | 17/11 13:01 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
 
-A B3 publica, no próprio boletim, a lista de tickers de cada tabela. Essa lista é o alvo: baixou certo quando o que chegou bate com o que ela declarou. É a mesma ideia usada nos feriados, onde o alvo é o `WdrwlDays` que ela publica por contrato.
+A B3 publica, no próprio boletim, a lista de tickers de cada tabela. Essa lista é o alvo: baixou certo quando todo ticker declarado aparece no que chegou. É a mesma ideia usada nos feriados, onde o alvo é o `WdrwlDays` que ela publica por contrato.
 
-### Completas (33)
+A conferência é por **conjunto**, não por contagem de linhas: várias tabelas trazem muitas linhas para o mesmo ticker. Ticker faltando é fatia da tabela que nunca chegou — foi assim que a tabela de negócios de ações ficou semanas com 22 mil tickers ausentes sem ninguém notar. O que isto **não** prova é que todas as linhas de cada ticker vieram: com o que a B3 publica, cobertura de conjunto é o teto do que dá para afirmar.
+
+### Completas (54)
 
 Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repetem aqui.
 
-| tabela | linhas | alvo |
-|---|---:|---:|
-| `CNLDistrionCoffeLocation` | 1 | 1 |
-| `CNLHarvestCoffeApprov` | 1 | 1 |
-| `CNLValidLotsSettle` | 1 | 1 |
-| `COEInventory` | 1 | 1 |
-| `COERegistration` | 1 | 1 |
-| `ConsolidatedTradesDerivatives` | 7.630 | 7.630 |
-| `ConsolidatedTradesDerivativesAfter` | 53 | 53 |
-| `ConsolidatedTradesEquities` | 75.185 | 75.185 |
-| `ConsolidatedTradesRVAfter` | 29 | 29 |
-| `DailyAverageDerivatives2` | 9 | 9 |
-| `DailyAverageStocks` | 9 | 9 |
-| `DebenturesBusiness` | 76 | 76 |
-| `DerivativesMtM` | 4 | 4 |
-| `DistrionCoffeLocation` | 18 | 18 |
-| `Forward` | 5 | 5 |
-| `HarvestCoffeApprov` | 2 | 2 |
-| `IOPV` | 70 | 70 |
-| `IbovespaStockBiggestHighs` | 10 | 10 |
-| `IbovespaStockBiggestLow` | 10 | 10 |
-| `InCash` | 5 | 5 |
-| `InCashMarketBiggestHighs` | 10 | 10 |
-| `InCashMarketBiggestLow` | 10 | 10 |
-| `InstrumentsDerivatives` | 9.608 | 9.608 |
-| `OTCInventoryCCP` | 3 | 3 |
-| `OTCInventoryWCCP` | 4 | 4 |
-| `OTCRegistrationCCP` | 3 | 3 |
-| `OTCRegistrationWCCP` | 4 | 4 |
-| `OpenPositionsEquities` | 45.150 | 45.150 |
-| `Register` | 16 | 16 |
-| `SharesInvesVolum` | 5 | 5 |
-| `SharesInvesVolumMonthly` | 5 | 5 |
-| `Stock` | 42 | 42 |
-| `StocksOperationSummary` | 59 | 59 |
+| tabela | linhas | tickers obtidos | declarados pela B3 |
+|---|---:|---:|---:|
+| `BTBLendingOpenPosition` | 2.916 | 1.034 | 1.034 |
+| `BTBLoanBalance` | 4.743 | 1.655 | 1.655 |
+| `BTBTrade` | 45.543 | 525 | 525 |
+| `CNLDistrionCoffeLocation` | 1 | 1 | 1 |
+| `CNLHarvestCoffeApprov` | 1 | 1 | 1 |
+| `CNLValidLotsSettle` | 1 | 1 | 1 |
+| `COEInventory` | 1 | 1 | 1 |
+| `COERegistration` | 1 | 1 | 1 |
+| `ConsolidatedTradesDerivatives` | 7.630 | 7.630 | 7.630 |
+| `ConsolidatedTradesDerivativesAfter` | 53 | 53 | 53 |
+| `ConsolidatedTradesEquities` | 75.185 | 75.185 | 75.185 |
+| `ConsolidatedTradesRVAfter` | 29 | 29 | 29 |
+| `Custody` | 61 | 54 | 54 |
+| `DailyAverageDerivatives2` | 9 | 9 | 9 |
+| `DailyAverageStocks` | 9 | 9 | 9 |
+| `DeadlineDepositSecurities` | 35 | 32 | 32 |
+| `DebenturesBusiness` | 76 | 76 | 76 |
+| `DerivativesMtM` | 4 | 4 | 4 |
+| `DerivativesOperation2` | 104 | 88 | 88 |
+| `DistrionCoffeLocation` | 18 | 18 | 18 |
+| `EconomicIndicators` | 457 | 64 | 64 |
+| `EletronicTerm` | 2 | 1 | 1 |
+| `FlexibleOptions` | 893 | 111 | 111 |
+| `Forward` | 5 | 5 | 5 |
+| `ForwardMarket` | 110 | 66 | 66 |
+| `FugibleCustody` | 7 | 5 | 5 |
+| `HarvestCoffeApprov` | 2 | 2 | 2 |
+| `HistoricalExchange` | 3 | 1 | 1 |
+| `IOPV` | 70 | 70 | 70 |
+| `IbovespaStockBiggestHighs` | 10 | 10 | 10 |
+| `IbovespaStockBiggestLow` | 10 | 10 | 10 |
+| `InCash` | 5 | 5 | 5 |
+| `InCashMarketBiggestHighs` | 10 | 10 | 10 |
+| `InCashMarketBiggestLow` | 10 | 10 | 10 |
+| `InstrumentsDerivatives` | 9.608 | 9.608 | 9.608 |
+| `MarginScenarios` | 134.340 | 7.010 | 7.010 |
+| `NegotiStrategi` | 139 | 28 | 28 |
+| `OTCInventoryCCP` | 3 | 3 | 3 |
+| `OTCInventoryWCCP` | 4 | 4 | 4 |
+| `OTCRegistrationCCP` | 3 | 3 | 3 |
+| `OTCRegistrationWCCP` | 4 | 4 | 4 |
+| `OpenPositionsEquities` | 45.150 | 45.150 | 45.150 |
+| `OptionsPurshase` | 10 | 5 | 5 |
+| `OptionsSelling` | 10 | 5 | 5 |
+| `ProventionCreditVariable` | 233 | 192 | 192 |
+| `Register` | 16 | 16 | 16 |
+| `Renewals` | 3.405 | 67 | 67 |
+| `SaleOff` | 46 | 12 | 12 |
+| `SharesInvesVolum` | 5 | 5 | 5 |
+| `SharesInvesVolumMonthly` | 5 | 5 | 5 |
+| `Stock` | 42 | 42 | 42 |
+| `StocksOperationSummary` | 59 | 59 | 59 |
+| `SwapFlex` | 5 | 1 | 1 |
+| `ValidLotsSettle` | 8 | 1 | 1 |
 
 ## 2 · Páginas publicadas
 
@@ -78,36 +101,15 @@ Nenhuma página gerada ficou mais de 2 dias sem ser reescrita.
 
 A seção mais importante da página. Sem ela, "nenhum problema encontrado" se confunde com "nada foi olhado".
 
-**Tabelas sem alvo publicado pela B3** (26). Vêm sem a lista de tickers, então não existe contagem contra a qual comparar. Elas podem estar completas — só não dá para provar.
+**Tabelas sem alvo publicado pela B3** (5). Vêm sem a lista de tickers, então não existe contagem contra a qual comparar. Elas podem estar completas — só não dá para provar.
 
 | tabela | linhas | por quê |
 |---|---:|---|
 | `AverageChart` | 13 | não achei a coluna do ticker |
-| `BTBLendingOpenPosition` | 2.916 | alvo de tamanho diferente das linhas |
-| `BTBLoanBalance` | 4.743 | alvo de tamanho diferente das linhas |
-| `BTBTrade` | 45.543 | alvo de tamanho diferente das linhas |
-| `Custody` | 61 | alvo de tamanho diferente das linhas |
 | `DIover` | 1 | não achei a coluna do ticker |
-| `DeadlineDepositSecurities` | 35 | alvo de tamanho diferente das linhas |
-| `DerivativesOperation2` | 104 | alvo de tamanho diferente das linhas |
-| `EconomicIndicators` | 457 | alvo de tamanho diferente das linhas |
-| `EletronicTerm` | 2 | alvo de tamanho diferente das linhas |
-| `FlexibleOptions` | 893 | alvo de tamanho diferente das linhas |
-| `ForwardMarket` | 110 | alvo de tamanho diferente das linhas |
-| `FugibleCustody` | 7 | alvo de tamanho diferente das linhas |
-| `HistoricalExchange` | 3 | alvo de tamanho diferente das linhas |
 | `INDEXES` | 0 | sem alvo declarado pela B3 |
-| `MarginScenarios` | 134.340 | alvo de tamanho diferente das linhas |
-| `NegotiStrategi` | 139 | alvo de tamanho diferente das linhas |
-| `OptionsPurshase` | 10 | alvo de tamanho diferente das linhas |
-| `OptionsSelling` | 10 | alvo de tamanho diferente das linhas |
 | `Previa` | 0 | sem alvo declarado pela B3 |
 | `PreviaQuadrimestral` | 0 | sem alvo declarado pela B3 |
-| `ProventionCreditVariable` | 233 | alvo de tamanho diferente das linhas |
-| `Renewals` | 3.405 | alvo de tamanho diferente das linhas |
-| `SaleOff` | 46 | alvo de tamanho diferente das linhas |
-| `SwapFlex` | 5 | alvo de tamanho diferente das linhas |
-| `ValidLotsSettle` | 8 | alvo de tamanho diferente das linhas |
 
 **Páginas sem `date:` no cabeçalho** (8). O mtime mostra que o gerador rodou, mas sem data declarada não dá para saber se o *dado* avançou junto.
 
