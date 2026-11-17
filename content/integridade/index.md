@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 16:45*
+*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 17:00*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -19,7 +19,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas incompletas | **nenhuma** |
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Páginas publicadas | 351 |
-| Página escrita mais recentemente | 17/11 16:45 |
+| Página escrita mais recentemente | 17/11 17:00 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -131,6 +131,29 @@ A seção mais importante da página. Sem ela, "nenhum problema encontrado" se c
 **Páginas estáticas**, fora de qualquer conferência de atualização:
 
 - `calendario.md` — widget do myfxbook, a tabela se atualiza no navegador
+
+## 4 · Acervo de negócios tick a tick
+
+Barras de 1 minuto dos contratos de índice, montadas dos negócios individuais que a B3 publica por pregão. É fonte primária: não depende de feed e não some quando o MetaTrader para.
+
+| o que | situação |
+|---|---|
+| Pregões arquivados | **19**, de 19/10/2026 a 16/11/2026 |
+| Tamanho | 381 KB |
+| Pregões parciais | **3** |
+| Dias úteis sem arquivo na faixa | **1** |
+
+A B3 mantém esses arquivos por cerca de 21 pregões. O acervo só cresce para frente: o que não for guardado a tempo some, e por isso ele começa em 19/10/2026 e não antes.
+
+**Pregões parciais.** O arquivo da B3 veio sem parte do dia. Os dados ficam guardados assim mesmo — meio pregão ainda serve, desde que quem for usar saiba o que está pegando.
+
+| pregão | instrumento | primeira barra | última barra |
+|---|---|---|---|
+| 27/10/2026 | `WINZ26` | 12:36 | 18:31 |
+| 29/10/2026 | `WINZ26` | 12:04 | 18:31 |
+| 05/11/2026 | `WINZ26` | 10:24 | 18:31 |
+
+**Dia útil sem arquivo:** 28/10/2026. Houve pregão nesse dia — ele está no boletim diário —, mas o arquivo de negócios não existe no site da B3. Não é falha de coleta.
 
 ## Como isto é medido
 
