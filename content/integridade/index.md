@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 13:01*
+*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 13:16*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -19,7 +19,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas incompletas | **nenhuma** |
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Páginas publicadas | 351 |
-| Página escrita mais recentemente | 17/11 13:01 |
+| Página escrita mais recentemente | 17/11 13:16 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -101,15 +101,15 @@ Nenhuma página gerada ficou mais de 2 dias sem ser reescrita.
 
 A seção mais importante da página. Sem ela, "nenhum problema encontrado" se confunde com "nada foi olhado".
 
-**Tabelas sem alvo publicado pela B3** (5). Vêm sem a lista de tickers, então não existe contagem contra a qual comparar. Elas podem estar completas — só não dá para provar.
+**Tabelas fora da conferência** (5), com o motivo de cada uma. Nenhuma delas é falha de coleta: parte são agrupadores do catálogo, que não têm dados próprios, e parte são séries ou valores únicos, que não têm ticker a conferir. O motivo vai escrito porque "sem alvo" sozinho insinuaria falta da B3 e esconderia que três delas nem são tabelas de dados.
 
 | tabela | linhas | por quê |
 |---|---:|---|
 | `AverageChart` | 13 | não achei a coluna do ticker |
 | `DIover` | 1 | não achei a coluna do ticker |
-| `INDEXES` | 0 | sem alvo declarado pela B3 |
-| `Previa` | 0 | sem alvo declarado pela B3 |
-| `PreviaQuadrimestral` | 0 | sem alvo declarado pela B3 |
+| `INDEXES` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
+| `Previa` | 0 | agrupador do catálogo (3 item(ns)), não tem dados próprios |
+| `PreviaQuadrimestral` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
 
 **Páginas sem `date:` no cabeçalho** (8). O mtime mostra que o gerador rodou, mas sem data declarada não dá para saber se o *dado* avançou junto.
 
