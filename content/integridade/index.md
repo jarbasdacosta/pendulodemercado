@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 14:31*
+*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 14:46*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -19,7 +19,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas incompletas | **nenhuma** |
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Páginas publicadas | 351 |
-| Página escrita mais recentemente | 17/11 14:31 |
+| Página escrita mais recentemente | 17/11 14:46 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -121,6 +121,12 @@ A seção mais importante da página. Sem ela, "nenhum problema encontrado" se c
 - `por-onde-comecar.md`
 - `posicionamento/index.md`
 - `sinais-topo-fundo/tutorial.md`
+
+**Perdas definitivas** (1). Dias que entraram incompletos no acervo e saíram do ar da B3 antes de poderem ser refeitos: ela mantém só os ~21 pregões mais recentes. O acervo guarda a única cópia que existe desses dias, e ela está incompleta. Não há conserto — está escrito aqui para que quem usar esses pregões num estudo saiba que eles são diferentes dos outros.
+
+| tabela | pregão | obtido | declarado | completude | registrado em |
+|---|---|---:|---:|---:|---|
+| `ConsolidatedTradesEquities` | 15/10/2026 | 57.320 | 81.364 | **70,4%** | 2026-11-17 |
 
 **Páginas estáticas**, fora de qualquer conferência de atualização:
 
