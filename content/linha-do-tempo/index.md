@@ -1,11 +1,11 @@
 ---
 title: "🔔 Linha do tempo"
-date: 2026-11-16
+date: 2026-11-17
 description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais recente para o mais antigo"
 tags: [eventos]
 ---
 
-*Atualizada 16/11/2026 19:09 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 17/11/2026 10:16 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -18,7 +18,11 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 ## Últimos 7 dias
 
-### Hoje · seg, 16/11/2026 · 2 eventos
+### Hoje · ter, 17/11/2026
+
+*Nenhum evento hoje até agora.*
+
+### seg, 16/11/2026 · 2 eventos
 
 | Hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
@@ -38,21 +42,13 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 |---|---|---|---|---|
 | **12:31** | IMA · 15 min | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 99% · LPPL 0% | ✅ |
 
-### ter, 10/11/2026 · 3 eventos
-
-| Hora | Módulo | Evento | Detalhe | 📲 |
-|---|---|---|---|---|
-| **19:06** | IMA · diário | 🌱 Evento: Fundo se desfazendo ⏱️ | ζ Fundo voltou abaixo de 75% depois de passar de 90% · Só contexto: em 2001–2013 subiu em 71% das vezes em 3 meses, mas em 2014–2026 ficou igual a um dia qualquer (60% contra 62%). O pânico passou, sem vantagem para comprar só por isso (revisto em 23/10/2026). | ✅ |
-| **12:01** | IMA · 15 min | 🟢 Zona mudou: AMARELO → VERDE | Risco 30% · ζ Topo 30% · ζ Fundo 2% · LPPL 0% | — |
-| **11:30** | IMA · 15 min | 🟡 Zona mudou: VERMELHO → AMARELO | Risco 74% · ζ Topo 74% · ζ Fundo 1% · LPPL 0% | — |
-
 ## Histórico por ano
 
 Clique no ano; na página do ano, clique no mês e depois no dia.
 
 | Ano | Eventos | 🟢 Compras | ⚪🔴 Vendas e stops | 📌⚠️ Ordens armadas | Sinais |
 |---|---|---|---|---|---|
-| **[2026](linha-do-tempo/2026)** | 222 | 22 | 44 | 33 | 40 |
+| **[2026](linha-do-tempo/2026)** | 217 | 22 | 44 | 33 | 40 |
 | **[2025](linha-do-tempo/2025)** | 113 | 30 | 25 | 43 | 11 |
 | **[2024](linha-do-tempo/2024)** | 156 | 41 | 45 | 57 | 3 |
 | **[2023](linha-do-tempo/2023)** | 99 | 22 | 22 | 53 | 1 |
