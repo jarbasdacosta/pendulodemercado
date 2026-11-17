@@ -1,8 +1,9 @@
 ---
 title: "📉 Juros: o que o mercado paga × o que os economistas esperam"
+date: 2026-11-16
 ---
 
-*Curva da B3 de 16/11/2026 · Focus de 13/11/2026 · atualizado em 17/11/2026 06:27*
+*Curva da B3 de 16/11/2026 · Focus de 13/11/2026 · atualizado em 17/11/2026 10:27*
 
 
 <!-- NOTAS-INICIO -->

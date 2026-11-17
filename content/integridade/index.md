@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 10:16*
+*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 10:31*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -16,25 +16,17 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | o que | situação |
 |---|---|
 | Tabelas do boletim conferidas | **33** de 59 guardadas |
-| Tabelas **incompletas** | **1** — veja abaixo |
+| Tabelas incompletas | **nenhuma** |
 | Tabelas sem alvo publicado pela B3 | 26 — não há como conferir |
 | Páginas publicadas | 350 |
-| Página escrita mais recentemente | 17/11 10:16 |
-| Páginas sem data no cabeçalho | 13 — cegas para a conferência de dado |
+| Página escrita mais recentemente | 17/11 10:31 |
+| Páginas sem data no cabeçalho | 12 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
 
 A B3 publica, no próprio boletim, a lista de tickers de cada tabela. Essa lista é o alvo: baixou certo quando o que chegou bate com o que ela declarou. É a mesma ideia usada nos feriados, onde o alvo é o `WdrwlDays` que ela publica por contrato.
 
-### Incompletas
-
-| tabela | declarado pela B3 | obtido | completude |
-|---|---:|---:|---:|
-| `ConsolidatedTradesEquities` | 75.185 | 53.116 | **70,6%** |
-
-**O que isso significa para quem opera.** Número calculado sobre tabela incompleta é número sobre amostra, não sobre o mercado. Onde a completude estiver abaixo de 100%, trate o que vier dessa tabela como indicativo e confira na fonte antes de decidir. A avaliação é leitura de risco; o risco é de quem opera.
-
-### Completas (32)
+### Completas (33)
 
 Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repetem aqui.
 
@@ -47,6 +39,7 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 | `COERegistration` | 1 | 1 |
 | `ConsolidatedTradesDerivatives` | 7.630 | 7.630 |
 | `ConsolidatedTradesDerivativesAfter` | 53 | 53 |
+| `ConsolidatedTradesEquities` | 75.185 | 75.185 |
 | `ConsolidatedTradesRVAfter` | 29 | 29 |
 | `DailyAverageDerivatives2` | 9 | 9 |
 | `DailyAverageStocks` | 9 | 9 |
@@ -116,7 +109,7 @@ A seção mais importante da página. Sem ela, "nenhum problema encontrado" se c
 | `SwapFlex` | 5 | alvo de tamanho diferente das linhas |
 | `ValidLotsSettle` | 8 | alvo de tamanho diferente das linhas |
 
-**Páginas sem `date:` no cabeçalho** (13). O mtime mostra que o gerador rodou, mas sem data declarada não dá para saber se o *dado* avançou junto.
+**Páginas sem `date:` no cabeçalho** (12). O mtime mostra que o gerador rodou, mas sem data declarada não dá para saber se o *dado* avançou junto.
 
 - `adr/index.md`
 - `agro/index.md`
@@ -125,7 +118,6 @@ A seção mais importante da página. Sem ela, "nenhum problema encontrado" se c
 - `historico.md`
 - `inflacao-e-cambio/index.md`
 - `intraday/index.md`
-- `juros/index.md`
 - `por-onde-comecar.md`
 - `posicionamento/aluguel.md`
 - `posicionamento/derivativos.md`
