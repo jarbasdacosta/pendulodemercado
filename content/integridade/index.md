@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 10:46*
+*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 11:01*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -18,9 +18,9 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas do boletim conferidas | **33** de 59 guardadas |
 | Tabelas incompletas | **nenhuma** |
 | Tabelas sem alvo publicado pela B3 | 26 — não há como conferir |
-| Páginas publicadas | 350 |
-| Página escrita mais recentemente | 17/11 10:46 |
-| Páginas sem data no cabeçalho | 12 — cegas para a conferência de dado |
+| Páginas publicadas | 351 |
+| Página escrita mais recentemente | 17/11 11:01 |
+| Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
 
@@ -109,18 +109,14 @@ A seção mais importante da página. Sem ela, "nenhum problema encontrado" se c
 | `SwapFlex` | 5 | alvo de tamanho diferente das linhas |
 | `ValidLotsSettle` | 8 | alvo de tamanho diferente das linhas |
 
-**Páginas sem `date:` no cabeçalho** (12). O mtime mostra que o gerador rodou, mas sem data declarada não dá para saber se o *dado* avançou junto.
+**Páginas sem `date:` no cabeçalho** (8). O mtime mostra que o gerador rodou, mas sem data declarada não dá para saber se o *dado* avançou junto.
 
-- `adr/index.md`
-- `agro/index.md`
 - `avisos/index.md`
 - `diario/index.md`
 - `historico.md`
-- `inflacao-e-cambio/index.md`
+- `horarios/index.md`
 - `intraday/index.md`
 - `por-onde-comecar.md`
-- `posicionamento/aluguel.md`
-- `posicionamento/derivativos.md`
 - `posicionamento/index.md`
 - `sinais-topo-fundo/tutorial.md`
 

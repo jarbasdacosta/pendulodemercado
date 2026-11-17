@@ -1,8 +1,9 @@
 ---
 title: "🌾 Agro: o que a curva está dizendo"
+date: 2026-11-16
 ---
 
-*Dados da B3 de 16/11/2026 · atualizado em 17/11/2026 06:27*
+*Dados da B3 de 16/11/2026 · atualizado em 17/11/2026 10:48*
 
 
 <!-- NOTAS-INICIO -->
@@ -57,7 +58,7 @@ o ajuste.
 | 29/10/2027 | BGIV27 | 347 | **R\$ 409,85** | +0,22% | 137 | R\$ 135.250 |
 
 
-A curva do boi gordo **sobe 2,2%** ao longo de 11 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
+A curva do boi Gordo **sobe 2,2%** ao longo de 11 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
 
 **Base: R\$ 6,42 (+1,6%)** — o vencimento mais curto está acima do físico (R\$ 394,58, *Cotação de Boi Gordo - Preço de  fechamento*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** boi gordo, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 394,58 (*BOI GORDO - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
 
@@ -65,7 +66,7 @@ A curva do boi gordo **sobe 2,2%** ao longo de 11 meses: a entrega futura vale m
 **R\$ 71,41** no vencimento mais próximo
 (15/01/2027, 60 dias), +0,89% no pregão.
 Posição em aberto somando todos os vencimentos: **149.280 contratos**
-(-0,0% no dia).
+(0,0% no dia).
 
 Cada contrato equivale a **450 unidades**, então um contrato vale hoje
 **R\$ 32.134**. É esse número que dimensiona risco, não
@@ -105,7 +106,7 @@ o ajuste.
 | 22/09/2027 | ICFU27 | 310 | **US\$ 321,85** | +0,37% | 1.565 | US\$ 32.185 |
 
 
-A curva do café arábica 4/5 **desce 7,2%** ao longo de 9 meses: o vencimento curto vale mais que o longo. Mercado paga prêmio por ter a mercadoria agora, o que costuma significar oferta apertada no presente. Para quem produz, é o desenho que favorece vender à vista em vez de travar preço lá na frente; para quem especula, é o que torna caro ficar comprado em vencimento longo esperando convergência.
+A curva do café Arábica 4/5 **desce 7,2%** ao longo de 9 meses: o vencimento curto vale mais que o longo. Mercado paga prêmio por ter a mercadoria agora, o que costuma significar oferta apertada no presente. Para quem produz, é o desenho que favorece vender à vista em vez de travar preço lá na frente; para quem especula, é o que torna caro ficar comprado em vencimento longo esperando convergência.
 
 **Contra ICE (Nova York).** A B3 publica, para cada vencimento do café arábica 4/5, o preço do contrato de café arábica tipo C em ICE — cotado em centavos de dólar por libra-peso. Convertendo para a mesma unidade do contrato daqui:
 
@@ -154,7 +155,7 @@ o ajuste.
 | 31/03/2028 | ETHH28 | 501 | **R\$ 2.769,00** | +1,52% | 105 | R\$ 83.070 |
 
 
-A curva do etanol hidratado **vira em 29/01/2027**: sobe até ali e muda de direção depois. Forma assim quase sempre é calendário de safra — aperto numa janela do ano e folga na seguinte. O ponto de virada é a informação: é onde o mercado está dizendo que a oferta muda.
+A curva do etanol Hidratado **vira em 29/01/2027**: sobe até ali e muda de direção depois. Forma assim quase sempre é calendário de safra — aperto numa janela do ano e folga na seguinte. O ponto de virada é a informação: é onde o mercado está dizendo que a oferta muda.
 
 **Base: R\$ 93,50 (+3,1%)** — o vencimento mais curto está acima do físico (R\$ 3.058,00, *Cotação de Etanol - Preço a vista R\$/m3*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** etanol hidratado, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 3.025,00 (*ETANOL - Média das últimas cinco cotações R\$/m3*), e é contra ele que o contrato é fechado no vencimento.
 
@@ -175,20 +176,20 @@ o ajuste.
 | 29/04/2027 | SJCK27 | 164 | **US\$ 27,31** | -0,44% | 1.742 | US\$ 12.292 |
 
 
-A curva do minicontrato de soja do cme group está **plana** (+0,8% entre a ponta e o fim). Sem aperto nem folga precificados: o mercado não está pagando para ter agora nem para esperar.
+A curva do minicontrato de Soja do CME Group está **plana** (+0,8% entre a ponta e o fim). Sem aperto nem folga precificados: o mercado não está pagando para ter agora nem para esperar.
 
 **Contra CME Group (Chicago).** A B3 publica, para cada vencimento do minicontrato de soja do cme group, o preço do contrato de soja em CME Group — cotado em centavos de dólar por bushel. Convertendo para a mesma unidade do contrato daqui:
 
 
 | Vencimento | Dias | YK lá fora | Convertido | Ajuste na B3 | Diferença |
 |---|---|---|---|---|---|
-| 29/12/2026 | 43 | 1.229,00 | US\$ 27,09 | US\$ 27,09 | -0,00% |
-| 25/02/2027 | 101 | 1.233,00 | US\$ 27,18 | US\$ 27,18 | -0,00% |
-| 29/04/2027 | 164 | 1.239,00 | US\$ 27,32 | US\$ 27,31 | -0,00% |
+| 29/12/2026 | 43 | 1.229,00 | US\$ 27,09 | US\$ 27,09 | 0,00% |
+| 25/02/2027 | 101 | 1.233,00 | US\$ 27,18 | US\$ 27,18 | 0,00% |
+| 29/04/2027 | 164 | 1.239,00 | US\$ 27,32 | US\$ 27,31 | 0,00% |
 
 
 
-Os dois são **o mesmo preço** (diferença média de -0,00% entre todos os vencimentos). Isso não é coincidência nem oportunidade: este contrato da B3 é liquidado pelo preço de lá, e o que se negocia aqui é o preço de CME Group convertido de centavos de dólar por bushel para a unidade brasileira.
+Os dois são **o mesmo preço** (diferença média de 0,00% entre todos os vencimentos). Isso não é coincidência nem oportunidade: este contrato da B3 é liquidado pelo preço de lá, e o que se negocia aqui é o preço de CME Group convertido de centavos de dólar por bushel para a unidade brasileira.
 
 **A vantagem, aqui, não é de preço — é de acesso e de moeda.** Quem opera este contrato está comprando ou vendendo o mercado externo com liquidação em reais, sem conta lá fora e sem remessa. Quem procurar descolamento entre os dois para arbitrar vai achar só o custo da operação. O risco real é o cambial: o resultado vem em reais, e o dólar entra na conta inteiro.
 

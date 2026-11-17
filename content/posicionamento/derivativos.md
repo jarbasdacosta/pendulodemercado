@@ -1,8 +1,9 @@
 ---
 title: "📑 Contratos em aberto"
+date: 2026-11-16
 ---
 
-*Dados da B3 de 16/11/2026 · atualizado em 17/11/2026 06:30*
+*Dados da B3 de 16/11/2026 · atualizado em 17/11/2026 10:48*
 
 **Volume conta quem passou. Posição em aberto conta quem ficou.**
 
@@ -32,7 +33,7 @@ limite. O gráfico é idêntico nos dois casos.
 | **WIN** | Minicontrato de Ibovespa | 170.845,00 | -1,91% | -1,79% | 1.409.758 | **Liquidação** |
 | **WDO** | Minicontrato de Dólar Comercia | 5.806,31 | +2,53% | +9,44% | 1.648.587 | **Dinheiro novo comprando** |
 | **DOL** | Dólar Comercial | 5.806,31 | +2,53% | +2,71% | 974.345 | **Dinheiro novo comprando** |
-| **DI1** | Taxa Média de Depósitos Interf | 98.382,28 | -0,00% | -0,42% | 42.799.518 | **Liquidação** |
+| **DI1** | Taxa Média de Depósitos Interf | 98.382,28 | 0,00% | -0,42% | 42.799.518 | **Liquidação** |
 | **IND** | Ibovespa | 170.845,00 | -1,91% | -0,36% | 201.416 | **Liquidação** |
 | **WSP** | Microcontrato de Índice S&P500 | 7.436,50 | -1,93% | +1,83% | 103.168 | **Dinheiro novo vendendo** |
 | **DAP** | Cupom de IPCA | 88.316,39 | -0,19% | +0,22% | 3.427.715 | **Dinheiro novo vendendo** |
@@ -80,7 +81,7 @@ Leitura dos de maior volume financeiro do pregão. Contratos que dividem o mesmo
 
 **WDO** e **DOL** · Dólar Comercial — O preço subiu +2,53% com posição nova entrando (+9,44%), e é a 3ª vez nos últimos 5 pregões. Aqui ninguém é obrigado a comprar: não há o combustível forçado da recompra, e também não há o limite dela. É o tipo de alta que dura enquanto durar o apetite, o que a torna mais difícil de cronometrar e menos propensa a terminar de uma vez.
 
-**DI1** · Taxa Média de Depósitos Interfinanceiros — Preço -0,00% e posição -0,42%, e hoje é o primeiro pregão assim na janela recente: os dois lados desmontando ao mesmo tempo. Movimento sem convicção nova dos dois lados tende a perder força por falta de combustível, e é o quadrante em que o preço engana mais — parece tendência e é esvaziamento.
+**DI1** · Taxa Média de Depósitos Interfinanceiros — Preço 0,00% e posição -0,42%, e hoje é o primeiro pregão assim na janela recente: os dois lados desmontando ao mesmo tempo. Movimento sem convicção nova dos dois lados tende a perder força por falta de combustível, e é o quadrante em que o preço engana mais — parece tendência e é esvaziamento.
 
 **WSP** · Microcontrato de Índice S&P500 — O preço caiu -1,93% com posição nova entrando (+1,83%), e é a 3ª vez nos últimos 5 pregões. Queda com posição crescendo é gente montando posição contra, não gente saindo. Diferente de liquidação, isso não se esgota sozinho — a posição nova precisa ser desfeita um dia, e é esse desfazer que costuma produzir o repique.
 
@@ -104,7 +105,7 @@ Em **contratos**. A variação no dia é publicada pela B3; a da semana é calcu
 | 3 | **DDI** | Cupom Cambial de DI1 | 4.700.189 | +31.617 | +3,0% | 01/12/2026 |
 | 4 | **DAP** | Cupom de IPCA | 3.427.715 | +11.483 | +1,5% | 15/12/2026 |
 | 5 | **VALEO** | Contrato Futuro de VALE3 | 2.734.700 | +48.900 | +1,8% | 19/11/2026 |
-| 6 | **ENEVO** | Futuro de ENEV3 | 2.366.100 | — | +0,0% | 19/11/2026 |
+| 6 | **ENEVO** | Futuro de ENEV3 | 2.366.100 | — | 0,0% | 19/11/2026 |
 | 7 | **EQTLO** | Futuro de EQTL3 | 2.290.900 | +21.500 | +2,3% | 19/11/2026 |
 | 8 | **WDO** | Minicontrato de Dólar Comercial | 1.648.587 | +142.146 | +54,8% | 01/12/2026 |
 | 9 | **WIN** | Minicontrato de Ibovespa | 1.409.758 | -25.763 | +2,9% | 16/12/2026 |
@@ -247,13 +248,13 @@ virar venda forçada.
 | # | Papel | Posição a termo | Ações | Contratos | Preço médio | Na semana |
 |---|---|---|---|---|---|---|
 | 1 | **VBBR** | **R\$ 687.362.499** | 20.437.300 | 188 | R\$ 33,63 | -7,5% |
-| 2 | **ENGI** | **R\$ 628.645.391** | 12.802.980 | 117 | R\$ 49,10 | +0,0% |
+| 2 | **ENGI** | **R\$ 628.645.391** | 12.802.980 | 117 | R\$ 49,10 | 0,0% |
 | 3 | **BBAS** | **R\$ 359.188.669** | 15.664.038 | 1.771 | R\$ 22,93 | -0,1% |
 | 4 | **AXIA** | **R\$ 341.956.025** | 6.061.086 | 533 | R\$ 56,42 | -39,1% |
 | 5 | **VALE** | **R\$ 250.919.154** | 3.575.499 | 1.290 | R\$ 70,18 | +0,8% |
 | 6 | **ASAI** | **R\$ 207.007.855** | 21.938.051 | 101 | R\$ 9,44 | +39,1% |
 | 7 | **JHSF** | **R\$ 187.826.228** | 17.674.908 | 194 | R\$ 10,63 | -7,4% |
-| 8 | **MRVE** | **R\$ 176.418.468** | 22.825.947 | 269 | R\$ 7,73 | -0,0% |
+| 8 | **MRVE** | **R\$ 176.418.468** | 22.825.947 | 269 | R\$ 7,73 | 0,0% |
 | 9 | **SPXU** | **R\$ 161.401.546** | 8.556.587 | 1.346 | R\$ 18,86 | +11,6% |
 | 10 | **EQTL** | **R\$ 153.644.086** | 3.253.600 | 168 | R\$ 47,22 | -3,3% |
 | 11 | **ITUB** | **R\$ 153.322.434** | 3.565.611 | 422 | R\$ 43,00 | -4,2% |

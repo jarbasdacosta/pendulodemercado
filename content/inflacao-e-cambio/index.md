@@ -1,7 +1,8 @@
 ---
 title: "🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam"
+date: 2026-11-16
 ---
-*Curvas da B3 de 16/11/2026 · Focus de 13/11/2026 · PTAX de 16/11/2026 · atualizado em 17/11/2026 06:27*
+*Curvas da B3 de 16/11/2026 · Focus de 13/11/2026 · PTAX de 16/11/2026 · atualizado em 17/11/2026 10:44*
 
 
 <!-- NOTAS-INICIO -->
@@ -64,24 +65,33 @@ Esse número não é opinião de analista: é o preço em que as duas pontas fec
 
 | contrato | vencimento | dias úteis | real (DAP) | nominal (DI interpolado) | implícita | Focus no mesmo intervalo | diferença | contratos no dia |
 |---|---|---|---|---|---|---|---|---|
-| DAPF27 ⚠️ | 15/01/2027 | 43 | 5,440% | 13,740% | **7,871%** | 5,08% | +2,79 p.p. | 38 |
-| DAPK27 ⚠️ | 17/05/2027 | 125 | 4,350% | 14,009% | **9,257%** | 5,03% | +4,23 p.p. | 2.108 |
-| DAPQ28 | 15/08/2028 | 438 | 7,410% | 14,804% | **6,884%** | 4,65% | +2,23 p.p. | 20.042 |
-| DAPK29 | 15/05/2029 | 622 | 7,550% | 15,035% | **6,960%** | 4,46% | +2,50 p.p. | 9.574 |
-| DAPQ30 | 15/08/2030 | 936 | 7,790% | 15,153% | **6,831%** | 4,29% | +2,54 p.p. | 4.834 |
-| DAPK31 | 15/05/2031 | 1.122 | 7,800% | 15,236% | **6,898%** | — | — | 19.492 |
-| DAPQ32 | 16/08/2032 | 1.435 | 7,860% | 15,266% | **6,866%** | — | — | 6.700 |
-| DAPK33 | 16/05/2033 | 1.627 | 7,745% | 15,294% | **7,007%** | — | — | 4.781 |
-| DAPK35 | 15/05/2035 | 2.126 | 7,735% | 15,282% | **7,005%** | — | — | 5.556 |
-| DAPK37 | 15/05/2037 | 2.627 | 7,610% | 15,255% | **7,104%** | — | — | 434 |
+| DAPZ26 ⚠️ | 15/12/2026 | 20 | 7,697% | 13,690% | **5,565%** | 5,11% | +0,46 p.p. | 0 |
+| DAPF27 ⚠️ | 15/01/2027 | 41 | 5,660% | 13,727% | **7,635%** | 5,08% | +2,55 p.p. | 38 |
+| DAPG27 ⚠️ | 15/02/2027 | 60 | 4,758% | 13,781% | **8,613%** | 5,05% | +3,56 p.p. | 0 |
+| DAPH27 ⚠️ | 15/03/2027 | 80 | 4,105% | 13,855% | **9,365%** | 5,04% | +4,32 p.p. | 0 |
+| DAPJ27 ⚠️ | 15/04/2027 | 102 | 4,083% | 13,932% | **9,463%** | 5,03% | +4,43 p.p. | 0 |
+| DAPK27 ⚠️ | 17/05/2027 | 123 | 4,440% | 14,020% | **9,172%** | 5,03% | +4,15 p.p. | 2.108 |
+| DAPF28 | 17/01/2028 | 293 | 7,373% | 14,584% | **6,716%** | 4,97% | +1,74 p.p. | 0 |
+| DAPQ28 | 15/08/2028 | 438 | 7,410% | 14,888% | **6,962%** | 4,65% | +2,31 p.p. | 20.042 |
+| DAPK29 | 15/05/2029 | 622 | 7,550% | 15,118% | **7,037%** | 4,46% | +2,58 p.p. | 9.574 |
+| DAPQ30 | 15/08/2030 | 936 | 7,790% | 15,233% | **6,905%** | 4,29% | +2,61 p.p. | 4.834 |
+| DAPK31 | 15/05/2031 | 1.122 | 7,800% | 15,264% | **6,924%** | — | — | 19.492 |
+| DAPQ32 | 16/08/2032 | 1.440 | 7,830% | 15,339% | **6,964%** | — | — | 6.700 |
+| DAPK33 | 16/05/2033 | 1.627 | 7,745% | 15,356% | **7,064%** | — | — | 4.781 |
+| DAPK35 | 15/05/2035 | 2.126 | 7,735% | 15,333% | **7,053%** | — | — | 5.556 |
+| DAPK37 | 15/05/2037 | 2.627 | 7,610% | 15,293% | **7,140%** | — | — | 434 |
+| DAPQ40 | 15/08/2040 | 3.445 | 7,470% | 15,229% | **7,220%** | — | — | 2.319 |
 
 
 > [!danger] ⚠️ Os vencimentos curtos não servem para decidir nada
-> Os contratos marcados (**DAPF27, DAPK27**) têm prazo de até 130 dias úteis, e a taxa real deles é contaminada: **parte do IPCA do período já é conhecida**. O índice sai com defasagem, então um DAP curto está negociando um pedaço de inflação que já aconteceu e um pedaço que ainda não — e o juro real que aparece é um resíduo dessa mistura, não um preço de mercado limpo.
+> Os contratos marcados (**DAPZ26, DAPF27, DAPG27, DAPH27, DAPJ27, DAPK27**) têm prazo de até 130 dias úteis, e a taxa real deles é contaminada: **parte do IPCA do período já é conhecida**. O índice sai com defasagem, então um DAP curto está negociando um pedaço de inflação que já aconteceu e um pedaço que ainda não — e o juro real que aparece é um resíduo dessa mistura, não um preço de mercado limpo.
 >
 > É por isso que a implícita curta oscila de 5% para 9% entre vencimentos vizinhos sem que nada tenha mudado no mundo. Eles estão na tabela para mostrar o formato da curva, e ficam **fora de qualquer conclusão** desta página.
 
-- *DAPQ40 ficou sem par: fora das pontas da curva de DI (10 a 2792 dias úteis).*
+- *DAPK45 ficou sem par: fora das pontas da curva de DI (10 a 3538 dias úteis).*
+- *DAPQ50 ficou sem par: fora das pontas da curva de DI (10 a 3538 dias úteis).*
+- *DAPK55 ficou sem par: fora das pontas da curva de DI (10 a 3538 dias úteis).*
+- *DAPQ60 ficou sem par: fora das pontas da curva de DI (10 a 3538 dias úteis).*
 
 *O Focus projeta IPCA até 2030. Vencimentos além disso aparecem com a implícita medida e sem comparação — porque não existe consenso publicado para aquele prazo, e inventar um seria pior que deixar em branco.*
 
@@ -89,7 +99,7 @@ Esse número não é opinião de analista: é o preço em que as duas pontas fec
 ### O que fazer com isso
 
 **Medido:** nos vencimentos não contaminados, a diferença entre a implícita e o caminho do
-Focus vai de 2,23 p.p. a 2,54 p.p., e a maior está em **DAPQ30** (15/08/2030), com 2,54 p.p..
+Focus vai de 1,74 p.p. a 2,61 p.p., e a maior está em **DAPQ30** (15/08/2030), com 2,61 p.p..
 
 **Interpretação, e aqui é leitura de risco e não previsão:** uma diferença dessa ordem não
 se explica só por prêmio. Ela diz que o mercado está disposto a pagar caro por proteção
@@ -125,7 +135,7 @@ não é opinião de ninguém sobre o futuro — é uma conta de arbitragem:
 dólar futuro = dólar à vista × (1 + juro em real) / (1 + juro em dólar)
 ```
 
-A razão é simples. Quem tem reais aplica hoje a 13,648% ao ano no vértice curto do DI. Quem tem
+A razão é simples. Quem tem reais aplica hoje a 13,651% ao ano no vértice curto do DI. Quem tem
 dólares aplica a muito menos no exterior. Se o dólar futuro **não** subisse pela diferença
 entre as duas taxas, daria para pegar reais emprestados, comprar dólar à vista, vender no
 futuro e travar lucro sem risco. Como esse lucro não existe por muito tempo, o futuro sobe
@@ -141,22 +151,22 @@ carregar a posição até o vencimento.
 
 | contrato | vencimento | ajuste (R\$/US\$) | depreciação ao ano desde a âncora | DI do mesmo prazo | juro em dólar a termo | contratos no dia |
 |---|---|---|---|---|---|---|
-| DOLZ26 | 01/12/2026 | R\$ 5,8063 | — | 13,648% | — | 290.710 |
-| DOLF27 | 04/01/2027 | R\$ 5,8391 | 6,24% | 13,709% | 5,95% | 0 |
-| DOLG27 | 01/02/2027 | R\$ 5,8726 | 6,91% | 13,755% | 5,93% | 0 |
-| DOLH27 | 01/03/2027 | R\$ 5,9001 | 6,72% | 13,810% | 5,97% | 0 |
+| DOLZ26 | 01/12/2026 | R\$ 5,8063 | — | 13,651% | — | 290.710 |
+| DOLF27 | 04/01/2027 | R\$ 5,8391 | 6,24% | 13,705% | 5,94% | 0 |
+| DOLG27 | 01/02/2027 | R\$ 5,8726 | 6,91% | 13,744% | 5,92% | 0 |
+| DOLH27 | 01/03/2027 | R\$ 5,9001 | 6,72% | 13,816% | 5,98% | 0 |
 | DOLJ27 | 01/04/2027 | R\$ 5,9381 | 7,00% | 13,890% | 6,00% | 0 |
-| DOLK27 | 03/05/2027 | R\$ 5,9715 | 6,92% | 13,955% | 6,07% | 0 |
-| DOLM27 | 01/06/2027 | R\$ 6,0056 | 7,00% | 14,040% | 6,13% | 0 |
-| DOLN27 | 01/07/2027 | R\$ 6,0466 | 7,23% | 14,130% | 6,17% | 0 |
-| DOLQ27 | 02/08/2027 | R\$ 6,0849 | 7,26% | 14,225% | 6,25% | 0 |
-| DOLU27 | 01/09/2027 | R\$ 6,1266 | 7,42% | 14,290% | 6,28% | 0 |
-| DOLV27 | 01/10/2027 | R\$ 6,1632 | 7,42% | 14,330% | 6,41% | 0 |
-| DOLX27 | 01/11/2027 | R\$ 6,1982 | 7,37% | 14,385% | 6,43% | 0 |
-| DOLF28 | 03/01/2028 | R\$ 6,2789 | 7,44% | 14,485% | 6,47% | 0 |
-| DOLJ28 | 03/04/2028 | R\$ 6,4046 | 7,59% | 14,620% | 6,55% | 0 |
-| DOLN28 | 03/07/2028 | R\$ 6,5285 | 7,66% | 14,760% | 6,61% | 0 |
-| DOLV28 | 02/10/2028 | R\$ 6,6610 | 7,76% | 14,850% | 6,69% | 0 |
+| DOLK27 | 03/05/2027 | R\$ 5,9715 | 6,92% | 13,970% | 6,08% | 0 |
+| DOLM27 | 01/06/2027 | R\$ 6,0056 | 7,00% | 14,062% | 6,15% | 0 |
+| DOLN27 | 01/07/2027 | R\$ 6,0466 | 7,23% | 14,166% | 6,20% | 0 |
+| DOLQ27 | 02/08/2027 | R\$ 6,0849 | 7,26% | 14,248% | 6,27% | 0 |
+| DOLU27 | 01/09/2027 | R\$ 6,1266 | 7,42% | 14,320% | 6,31% | 0 |
+| DOLV27 | 01/10/2027 | R\$ 6,1632 | 7,42% | 14,388% | 6,40% | 0 |
+| DOLX27 | 01/11/2027 | R\$ 6,1982 | 7,37% | 14,445% | 6,43% | 0 |
+| DOLF28 | 03/01/2028 | R\$ 6,2789 | 7,44% | 14,556% | 6,49% | 0 |
+| DOLJ28 | 03/04/2028 | R\$ 6,4046 | 7,59% | 14,706% | 6,55% | 0 |
+| DOLN28 | 03/07/2028 | R\$ 6,5285 | 7,66% | 14,842% | 6,61% | 0 |
+| DOLV28 | 02/10/2028 | R\$ 6,6610 | 7,76% | 14,930% | 6,70% | 0 |
 
 *… e 7 vencimentos mais longos, no arquivo para download.*
 

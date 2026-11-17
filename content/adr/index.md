@@ -1,8 +1,9 @@
 ---
 title: "🗽 Ações que foram para Nova York"
+date: 2026-11-16
 ---
 
-*Dados da B3 de 16/11/2026 · atualizado em 17/11/2026 06:30*
+*Dados da B3 de 16/11/2026 · atualizado em 17/11/2026 10:48*
 
 
 <!-- NOTAS-INICIO -->
@@ -46,9 +47,9 @@ Variação da quantidade depositada ao longo dos pregões guardados. **Só movim
 | 5 | **VBBR3** | Vibra Energia S.A. | ON       | 16,31 | 1,4% | **+8,1%** | -0,7% | 1.226.810 |
 | 6 | **SUZB3** | Suzano S.A. | ON       | 104,69 | 8,3% | **+5,8%** | -0,3% | 5.711.600 |
 | 7 | **BBDC3** | Banco Bradesco S/A | ON       | 8,71 | 0,2% | **+5,8%** | — | 475.000 |
-| 8 | **EQTL3** | Equatorial S.A. | ON       | 0,52 | 0,0% | **+5,3%** | +0,0% | 26.000 |
+| 8 | **EQTL3** | Equatorial S.A. | ON       | 0,52 | 0,0% | **+5,3%** | 0,0% | 26.000 |
 | 9 | **RENT3** | Localiza Rent A Car S/A | ON       | 4,43 | 0,4% | **+4,7%** | -0,5% | 198.200 |
-| 10 | **TIMS3** | Tim S.A. | ON       | 105,50 | 4,4% | **+4,0%** | +0,0% | 4.041.600 |
+| 10 | **TIMS3** | Tim S.A. | ON       | 105,50 | 4,4% | **+4,0%** | 0,0% | 4.041.600 |
 | 11 | **RADL3** | Raia Drogasil S.A. | ON       | 1,18 | 0,1% | **+4,0%** | +2,5% | 45.213 |
 | 12 | **CSNA3** | Cia Siderurgica Nacional | ON | 348,85 | 26,3% | **+3,4%** | +1,2% | 11.550.100 |
 | 13 | **EGIE3** | Engie Brasil Energia S.A | ON       | 12,52 | 0,9% | **+2,9%** | +0,8% | 353.100 |
@@ -70,18 +71,18 @@ Em quantidade absoluta de ações dentro do programa. Empresa grande com ADR ant
 | # | Papel | Empresa | Classe | Ações em ADR (mi) | % da classe | Ações da classe (mi) | No período |
 |---|---|---|---|---|---|---|---|
 | 1 | **PETR3** | Petroleo Brasileiro S/A Pe | ON       | **2.012,53** | **27,0%** | 7.442 | -0,2% |
-| 2 | **SANB11** | Banco Santander (Brasil) S | UNT | **1.290,78** | **89,2%** | 1.447 | -0,0% |
+| 2 | **SANB11** | Banco Santander (Brasil) S | UNT | **1.290,78** | **89,2%** | 1.447 | 0,0% |
 | 3 | **ITUB4** | Itau Unibanco Holding S/A | PN       | **1.264,97** | **23,4%** | 5.409 | +0,2% |
-| 4 | **VALE3** | Vale S.A. | ON       | **1.261,79** | **28,4%** | 4.439 | +0,0% |
+| 4 | **VALE3** | Vale S.A. | ON       | **1.261,79** | **28,4%** | 4.439 | 0,0% |
 | 5 | **BBDC4** | Banco Bradesco S/A | PN       | **1.197,69** | **21,4%** | 5.590 | -0,3% |
 | 6 | **ABEV3** | Ambev S.A. | ON | **902,89** | **5,8%** | 15.485 | -0,2% |
 | 7 | **PETR4** | Petroleo Brasileiro S/A Pe | PN       | **769,37** | **14,1%** | 5.447 | +1,0% |
-| 8 | **GGBR4** | Gerdau S.A. | PN  ED   | **448,21** | **35,5%** | 1.261 | +0,0% |
+| 8 | **GGBR4** | Gerdau S.A. | PN  ED   | **448,21** | **35,5%** | 1.261 | 0,0% |
 | 9 | **AZUL3** | Azul S.A | ON       | **387,92** | **96,8%** | 401 | +8,9% |
 | 10 | **CSNA3** | Cia Siderurgica Nacional | ON | **348,85** | **26,3%** | 1.326 | +3,4% |
-| 11 | **SBSP3** | Companhia De Saneamento Ba | ON  EJ   | **342,02** | **9,7%** | 3.534 | +0,0% |
+| 11 | **SBSP3** | Companhia De Saneamento Ba | ON  EJ   | **342,02** | **9,7%** | 3.534 | 0,0% |
 | 12 | **EMBJ3** | Embraer S.A. | ON       | **337,90** | **45,6%** | 740 | -2,0% |
-| 13 | **CMIG4** | Cia. Energetica De Minas G | PN       | **205,64** | **10,8%** | 1.905 | +0,0% |
+| 13 | **CMIG4** | Cia. Energetica De Minas G | PN       | **205,64** | **10,8%** | 1.905 | 0,0% |
 | 14 | **CSAN3** | Cosan Sa | ON       | **204,99** | **5,2%** | 3.967 | +2,3% |
 | 15 | **BBAS3** | Banco Do Brasil S/A | ON       | **150,64** | **2,6%** | 5.731 | +10,3% |
 
@@ -117,7 +118,7 @@ caso exige ler o fato relevante da empresa — esta página mede a quantidade, n
 | # | Papel | Empresa | Classe | % da classe em ADR | Ações da classe (mi) | Sobra no Brasil (mi) | No período |
 |---|---|---|---|---|---|---|---|
 | 1 | **AZUL3** | Azul S.A | ON       | **96,8%** | 401 | **12,91** | +8,9% |
-| 2 | **SANB11** | Banco Santander (Brasil) | UNT | **89,2%** | 1.447 | **156,29** | -0,0% |
+| 2 | **SANB11** | Banco Santander (Brasil) | UNT | **89,2%** | 1.447 | **156,29** | 0,0% |
 
 
 ## Degraus: o que não é fluxo
