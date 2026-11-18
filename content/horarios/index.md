@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 17/11/2026 19:10.*
+*Lido do agendamento do próprio servidor em 18/11/2026 19:09.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o
@@ -22,7 +22,9 @@ no seguinte — nenhuma destas rotinas depende de alguém estar olhando.
 | dias úteis, 06h10 | **Arquivamento do Boletim Diário** — A B3 mantém só os últimos ~21 pregões no ar. O que não for guardado some. Esta rodada guarda o pregão anterior, já fechado. |
 | dias úteis, a cada 20 min, das 06h25 às 06h45 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
 | domingos, 06h30 | **Limpeza de arquivos antigos** |
+| dias úteis, 06h30 | **bdi_indices.py** |
 | todo dia 1 do mês, 07h00 | **Compactação do repositório** — Mensal, com o mercado fechado. |
+| domingos, 07h00 | **bdi_indices.py** |
 | dias úteis, 07h05 | **ticks_b3.py** |
 | dias úteis, 07h15 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
 | sábados, 07h15 | **ofertas_cvm.sh** |

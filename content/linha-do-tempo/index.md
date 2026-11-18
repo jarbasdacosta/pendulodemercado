@@ -5,7 +5,7 @@ description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais re
 tags: [eventos]
 ---
 
-*Atualizada 18/11/2026 18:31 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 18/11/2026 19:09 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -48,7 +48,7 @@ Clique no ano; na página do ano, clique no mês e depois no dia.
 
 | Ano | Eventos | 🟢 Compras | ⚪🔴 Vendas e stops | 📌⚠️ Ordens armadas | Sinais |
 |---|---|---|---|---|---|
-| **[2026](linha-do-tempo/2026)** | 163 | 10 | 32 | 3 | 40 |
+| **[2026](linha-do-tempo/2026)** | 168 | 10 | 32 | 3 | 40 |
 | **[2025](linha-do-tempo/2025)** | 34 | 11 | 8 | 0 | 11 |
 | **[2024](linha-do-tempo/2024)** | 55 | 20 | 22 | 0 | 3 |
 | **[2023](linha-do-tempo/2023)** | 8 | 3 | 3 | 0 | 1 |
