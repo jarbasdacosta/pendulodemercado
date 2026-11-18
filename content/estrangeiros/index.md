@@ -5,7 +5,7 @@ description: "Compras e vendas dos investidores estrangeiros no mercado à vista
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **16/11/2026** (a B3 publica dois pregões depois) · página atualizada 18/11/2026 05:12. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **16/11/2026** (a B3 publica dois pregões depois) · página atualizada 18/11/2026 06:12. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
 > [!success] 16/11/2026: **+R\$ 241 mi**
 > Primeiro pregão de entrada depois da sequência anterior.
@@ -168,7 +168,7 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 | Mês | Estrangeiros | Institucionais | Pessoas físicas | Inst. financeiras | Outros |
 |---|---|---|---|---|---|
-| nov/2026 | **63,3%** | 22,3% | 12,1% | 1,8% | 0,6% |
+| nov/2026 | **63,1%** | 22,3% | 12,2% | 1,8% | 0,7% |
 | out/2026 | **62,0%** | 25,9% | 9,5% | 2,0% | 0,6% |
 | set/2026 | **61,8%** | 24,2% | 10,5% | 3,0% | 0,5% |
 | ago/2026 | **58,3%** | 26,3% | 10,9% | 3,6% | 0,9% |
@@ -187,9 +187,9 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 | O que | Por aqui | Pela outra fonte | |
 |---|---|---|---|
-| Mês até 13/11: soma dos dias × relatório da B3 | −R\$ 5,6 bi | −R\$ 5,6 bi | ✅ |
-| Ano até 13/11 (bolsa): resumo/gráfico × B3 | +R\$ 30,0 bi | +R\$ 30,0 bi | ✅ |
-| Ano até 13/11 com ofertas: total × B3 (A+C−B) | +R\$ 34,6 bi | +R\$ 34,6 bi | ✅ |
+| Mês até 16/11: soma dos dias × relatório da B3 | −R\$ 5,3 bi | −R\$ 5,3 bi | ✅ |
+| Ano até 16/11 (bolsa): resumo/gráfico × B3 | +R\$ 30,2 bi | +R\$ 30,2 bi | ✅ |
+| Ano até 16/11 com ofertas: total × B3 (A+C−B) | +R\$ 34,9 bi | +R\$ 34,9 bi | ✅ |
 | Meses fechados de 2026: soma dos dias × mês oficial | 10 de 10 batem | — | ✅ |
 | Ano até 13/11: nosso × publicado pelo Pai Rico | +R\$ 30,0 bi | +R\$ 30,0 bi | ✅ |
 | Tabela dos 5 tipos (até 16/11): estrangeiro no ano × série principal na MESMA data | +R\$ 30,2 bi | +R\$ 30,2 bi | ✅ |
@@ -198,7 +198,7 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 > [!info]- Como funciona (fontes e horários)
 > - **B3, direto:** todo dia útil das 5h40 às 8h40 o servidor baixa o relatório *Dados de mercado* da B3 (1 download por tentativa). A B3 publica a movimentação dos estrangeiros em **D+2** — o pregão de segunda sai na quarta de manhã. A diferença entre o relatório de hoje e o anterior é o saldo do pregão novo (compras, vendas e ofertas separados).
 > - **Histórico antes do download diário:** postagens do Clube do Pai Rico (dado da B3 desde 2009) e o arquivo do Dados de Mercado — conferidos dia a dia contra a B3.
-> - Relatórios da B3 guardados: 13 (o mais recente com dado até 13/11/2026).
+> - Relatórios da B3 guardados: 14 (o mais recente com dado até 16/11/2026).
 > - Se a B3 corrigir um mês, o relatório seguinte já traz o valor novo e a conferência mostra.
 
 > [!info]- De onde vêm os 5 tipos de investidor
