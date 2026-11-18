@@ -1,17 +1,18 @@
 ---
 title: Pêndulo de Mercado
-date: 2026-11-17
+date: 2026-11-18
 tags: [home]
 ---
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 17/11/2026 19:10 BRT · Diário D1*
+*Última atualização: 18/11/2026 10:15 BRT · Intraday 15min*
 
-> [!success] Onde o mercado está no fechamento de 17/11: **🟢 Calmo**
-> `Pânico ◀────●────────────────▶ Euforia`
+> [!success] Onde o mercado está agora (18/11 10:00, candles de 15 min): **🟢 Calmo**
+> `Pânico ◀──────────●──────────▶ Euforia`
 >
 > O Ibovespa está dentro da sua faixa normal, sem excesso para cima nem para baixo.
+> No gráfico diário: 🌱 Fundo se desfazendo.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
@@ -19,7 +20,7 @@ tags: [home]
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 0% | [relatório](diario/2026-11-17) |
+| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 1% | [relatório](intraday/2026-11-18) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | ⏳ aguardando: Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
@@ -37,40 +38,33 @@ tags: [home]
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
-> [!note] 🧭 IMA Diário · situação: 🌱 **Fundo se desfazendo**
+> [!note] 🧭 IMA Diário · viés (17/11): 🌱 **Fundo se desfazendo**
 > 📚 só contexto: o pânico passou; sem vantagem estatística confirmada para comprar só por isso
->
-> Eventos recentes: 🌱 10/11 Fundo se desfazendo · 🔪 03/11 Queda forte em curso · 📉 28/10 Esticamento desinflando · 📉 16/09 Esticamento desinflando
 >
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Diário (17/11): 🟢 **VERDE** — Risco 0% · ＝ +0 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (18/11 10:00): 🟢 **VERDE** — Risco 1% · ▲ +1 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Diário (17/11) | Valor |
+> | Indicador — IMA Intraday · 15 min (18/11 10:00) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
-> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 55% |
+> | 🔴 ζ Topo — preço esticado acima da tendência | **1%** |
+> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 169.817 pts |
+> | 📊 Ibovespa | 169.646 pts |
 >
-> **Multi-ativo:** 12% em tensão (1🔴 2🟡 de 26 ativos)
+> **Multi-ativo:** 0% em tensão (0🔴 0🟡 de 27 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [17/11/2026](diario/2026-11-17) | 🟢 VERDE | **0%** | 0% | 55% | 0% |
-> | [16/11/2026](diario/2026-11-16) | 🟢 VERDE | **0%** | 0% | 49% | 0% |
-> | [13/11/2026](diario/2026-11-13) | 🟢 VERDE | **1%** | 1% | 52% | 0% |
-> | [12/11/2026](diario/2026-11-12) | 🟢 VERDE | **1%** | 1% | 51% | 0% |
-> | [11/11/2026](diario/2026-11-11) | 🟢 VERDE | **0%** | 0% | 48% | 0% |
-> | [10/11/2026](diario/2026-11-10) | 🟢 VERDE | **0%** | 0% | 48% | 0% |
-> | [09/11/2026](diario/2026-11-09) | 🟢 VERDE | **0%** | 0% | 🔪 **100%** | 0% |
+> | [18/11/2026](intraday/2026-11-18) | 🟢 VERDE | **1%** | 1% | 0% | 0% |
+> | [17/11/2026](intraday/2026-11-17) | 🟢 VERDE | **0%** | 0% | 0% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
 >
