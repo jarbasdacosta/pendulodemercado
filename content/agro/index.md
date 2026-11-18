@@ -3,7 +3,7 @@ title: "🌾 Agro: o que a curva está dizendo"
 date: 2026-11-16
 ---
 
-*Dados da B3 de 16/11/2026 · atualizado em 17/11/2026 19:07*
+*Dados da B3 de 16/11/2026 · atualizado em 18/11/2026 06:37*
 
 
 <!-- NOTAS-INICIO -->
@@ -260,5 +260,5 @@ safra. Quando a curva vira num mês específico, o mercado está dizendo onde a 
 > [!abstract] Confira a conta você mesmo
 > <a href="agro.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar agro.xlsx</a> — os 36 vencimentos com ajuste, posição e valor do contrato, mais a série pregão a pregão.
 > 
-> Fonte: Boletim Diário do Mercado da B3 — *Negócios consolidados*, *Posições em aberto* e *Cadastro de instrumentos*, este último para multiplicador, moeda e data de vencimento. Histórico de 22 pregões arquivados. Os indicadores de preço físico vêm da tabela *Indicadores Econômicos e Agropecuários* do mesmo boletim (22 pregões fechados; 1 arquivo(s) de pregão em andamento descartados).
+> Fonte: Boletim Diário do Mercado da B3 — *Negócios consolidados*, *Posições em aberto* e *Cadastro de instrumentos*, este último para multiplicador, moeda e data de vencimento. Histórico de 22 pregões arquivados. Os indicadores de preço físico vêm da tabela *Indicadores Econômicos e Agropecuários* do mesmo boletim (22 pregões fechados; 2 arquivo(s) de pregão em andamento descartados).
 

@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 17/11/2026 19:10*
+*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 18/11/2026 06:40*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -19,7 +19,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas incompletas | **nenhuma** |
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Páginas publicadas | 352 |
-| Página escrita mais recentemente | 17/11 19:10 |
+| Página escrita mais recentemente | 18/11 06:40 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -93,7 +93,7 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 
 Duas medidas diferentes, que antes eram confundidas numa só. O **mtime** diz quando o gerador escreveu o arquivo e pega gerador que parou de rodar. A **data declarada** diz a que pregão o conteúdo se refere e pega gerador que roda mas cujo dado não anda — que foi o defeito do agro em 16/11.
 
-Pregão mais recente declarado por alguma página: **17/11/2026**.
+Pregão mais recente declarado por alguma página: **18/11/2026**.
 
 Nenhuma página gerada ficou mais de 2 dias sem ser reescrita.
 
