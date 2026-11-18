@@ -6,7 +6,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 18/11/2026 19:09 BRT · Diário D1*
+*Última atualização: 18/11/2026 20:00 BRT · Diário D1*
 
 > [!success] Onde o mercado está no fechamento de 18/11: **🟢 Calmo**
 > `Pânico ◀────●────────────────▶ Euforia`
@@ -20,7 +20,7 @@ tags: [home]
 | Módulo | Agora | |
 |---|---|---|
 | 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 0% | [relatório](diario/2026-11-18) |
-| 📈 **Tendência MME9** |  | [abrir](operacoes/tendencia) |
+| 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | ⏳ aguardando: Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
 | 🧪 **Placar ao vivo** | 1 operação(ões), 0 com lucro, soma -0,8% | [abrir](operacoes/) |

@@ -5,7 +5,7 @@ description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais re
 tags: [eventos]
 ---
 
-*Atualizada 18/11/2026 19:09 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 18/11/2026 20:00 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -48,32 +48,32 @@ Clique no ano; na página do ano, clique no mês e depois no dia.
 
 | Ano | Eventos | 🟢 Compras | ⚪🔴 Vendas e stops | 📌⚠️ Ordens armadas | Sinais |
 |---|---|---|---|---|---|
-| **[2026](linha-do-tempo/2026)** | 168 | 10 | 32 | 3 | 40 |
-| **[2025](linha-do-tempo/2025)** | 34 | 11 | 8 | 0 | 11 |
-| **[2024](linha-do-tempo/2024)** | 55 | 20 | 22 | 0 | 3 |
-| **[2023](linha-do-tempo/2023)** | 8 | 3 | 3 | 0 | 1 |
-| **[2022](linha-do-tempo/2022)** | 18 | 8 | 7 | 0 | 2 |
-| **[2021](linha-do-tempo/2021)** | 5 | 2 | 3 | 0 | 0 |
-| **[2020](linha-do-tempo/2020)** | 14 | 5 | 3 | 0 | 5 |
-| **[2019](linha-do-tempo/2019)** | 15 | 6 | 8 | 0 | 1 |
-| **[2018](linha-do-tempo/2018)** | 12 | 5 | 4 | 0 | 2 |
-| **[2017](linha-do-tempo/2017)** | 7 | 3 | 3 | 0 | 0 |
-| **[2016](linha-do-tempo/2016)** | 14 | 5 | 5 | 0 | 3 |
-| **[2015](linha-do-tempo/2015)** | 10 | 4 | 3 | 0 | 2 |
-| **[2014](linha-do-tempo/2014)** | 10 | 4 | 4 | 0 | 1 |
-| **[2013](linha-do-tempo/2013)** | 21 | 6 | 7 | 0 | 7 |
-| **[2012](linha-do-tempo/2012)** | 7 | 2 | 2 | 0 | 2 |
-| **[2011](linha-do-tempo/2011)** | 15 | 5 | 6 | 0 | 3 |
-| **[2010](linha-do-tempo/2010)** | 11 | 5 | 5 | 0 | 0 |
-| **[2009](linha-do-tempo/2009)** | 4 | 2 | 1 | 0 | 0 |
-| **[2008](linha-do-tempo/2008)** | 12 | 4 | 4 | 0 | 4 |
-| **[2007](linha-do-tempo/2007)** | 9 | 4 | 4 | 0 | 1 |
-| **[2006](linha-do-tempo/2006)** | 11 | 4 | 4 | 0 | 2 |
-| **[2005](linha-do-tempo/2005)** | 4 | 2 | 2 | 0 | 0 |
-| **[2004](linha-do-tempo/2004)** | 13 | 5 | 5 | 0 | 2 |
-| **[2003](linha-do-tempo/2003)** | 4 | 1 | 2 | 0 | 0 |
-| **[2002](linha-do-tempo/2002)** | 10 | 5 | 4 | 0 | 1 |
-| **[2001](linha-do-tempo/2001)** | 14 | 4 | 5 | 0 | 3 |
-| **[2000](linha-do-tempo/2000)** | 4 | 3 | 1 | 0 | 0 |
+| **[2026](linha-do-tempo/2026)** | 222 | 22 | 44 | 33 | 40 |
+| **[2025](linha-do-tempo/2025)** | 113 | 30 | 25 | 43 | 11 |
+| **[2024](linha-do-tempo/2024)** | 156 | 41 | 45 | 57 | 3 |
+| **[2023](linha-do-tempo/2023)** | 99 | 22 | 22 | 53 | 1 |
+| **[2022](linha-do-tempo/2022)** | 92 | 26 | 24 | 39 | 2 |
+| **[2021](linha-do-tempo/2021)** | 77 | 15 | 17 | 45 | 0 |
+| **[2020](linha-do-tempo/2020)** | 93 | 21 | 19 | 47 | 5 |
+| **[2019](linha-do-tempo/2019)** | 108 | 28 | 28 | 51 | 1 |
+| **[2018](linha-do-tempo/2018)** | 95 | 22 | 23 | 47 | 2 |
+| **[2017](linha-do-tempo/2017)** | 81 | 19 | 18 | 43 | 0 |
+| **[2016](linha-do-tempo/2016)** | 103 | 25 | 24 | 50 | 3 |
+| **[2015](linha-do-tempo/2015)** | 108 | 24 | 24 | 57 | 2 |
+| **[2014](linha-do-tempo/2014)** | 79 | 19 | 19 | 39 | 1 |
+| **[2013](linha-do-tempo/2013)** | 98 | 22 | 24 | 44 | 7 |
+| **[2012](linha-do-tempo/2012)** | 67 | 16 | 15 | 33 | 2 |
+| **[2011](linha-do-tempo/2011)** | 125 | 30 | 31 | 60 | 3 |
+| **[2010](linha-do-tempo/2010)** | 86 | 20 | 21 | 44 | 0 |
+| **[2009](linha-do-tempo/2009)** | 74 | 17 | 15 | 41 | 0 |
+| **[2008](linha-do-tempo/2008)** | 102 | 22 | 23 | 53 | 4 |
+| **[2007](linha-do-tempo/2007)** | 91 | 22 | 22 | 46 | 1 |
+| **[2006](linha-do-tempo/2006)** | 95 | 23 | 23 | 46 | 2 |
+| **[2005](linha-do-tempo/2005)** | 98 | 22 | 22 | 54 | 0 |
+| **[2004](linha-do-tempo/2004)** | 98 | 24 | 24 | 47 | 2 |
+| **[2003](linha-do-tempo/2003)** | 64 | 15 | 15 | 33 | 0 |
+| **[2002](linha-do-tempo/2002)** | 82 | 20 | 20 | 41 | 1 |
+| **[2001](linha-do-tempo/2001)** | 100 | 23 | 24 | 48 | 3 |
+| **[2000](linha-do-tempo/2000)** | 69 | 18 | 14 | 37 | 0 |
 
 *Leitura educacional do método, não é recomendação.*

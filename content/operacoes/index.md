@@ -19,6 +19,8 @@ _Nenhuma posição aberta agora._
 
 | Regra | Situação | Nota | Validação ao vivo |
 |---|---|---|---|
+| [📈 Tendência MME9 · Diário](operacoes/tendencia) | Diário — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
+| [📈 Tendência MME9 · Semanal](operacoes/tendencia) | Semanal — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [🎯 Diário · Nadaraya](operacoes/entradas) | — sem setup | ✅ passou fora da amostra | 0 de 10 operações ao vivo |
 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | — sem setup | ✅ o ganho vem do setup | 0 de 10 operações ao vivo |
 | [🎯 H4 · Semáforo N2](operacoes/entradas) | — sem setup | 🧪 em teste | 🧪 1 de 10 operações ao vivo · média -0,8% · dentro do esperado |
