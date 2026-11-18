@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **17/11/2026**, com 61 tabelas no acervo · página gerada em 18/11/2026 14:31*
+*Pregão conferido: **17/11/2026**, com 61 tabelas no acervo · página gerada em 18/11/2026 14:46*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -22,7 +22,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 353 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 18/11 14:31 |
+| Página escrita mais recentemente | 18/11 14:46 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -123,7 +123,10 @@ Duas medidas diferentes, que antes eram confundidas numa só. O **mtime** diz qu
 
 Pregão mais recente declarado por alguma página: **18/11/2026**.
 
-Nenhuma página gerada ficou mais de 2 dias sem ser reescrita.
+| página | escrita em | dias parada |
+|---|---|---:|
+| `diario/index.md` | 16/11 14:43 | 2.0 |
+| `intraday/index.md` | 16/11 14:43 | 2.0 |
 
 ### As páginas concordam entre si?
 
