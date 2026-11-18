@@ -3,7 +3,7 @@ title: "📑 Contratos em aberto"
 date: 2026-11-17
 ---
 
-*Dados da B3 de 17/11/2026 · atualizado em 18/11/2026 08:29*
+*Dados da B3 de 17/11/2026 · atualizado em 18/11/2026 09:34*
 
 **Volume conta quem passou. Posição em aberto conta quem ficou.**
 

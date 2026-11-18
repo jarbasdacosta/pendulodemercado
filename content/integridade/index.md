@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 08:49*
+*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 09:35*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -21,7 +21,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Pregão com sinal de que aconteceu | sim |
 | Páginas publicadas | 352 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 18/11 08:49 |
+| Página escrita mais recentemente | 18/11 09:35 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -65,7 +65,7 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 | `DerivativesMtM` | 4 | 4 | 4 |
 | `DerivativesOperation2` | 90 | 90 | 90 |
 | `DistrionCoffeLocation` | 18 | 18 | 18 |
-| `EconomicIndicators` | 4 | 3 | 3 |
+| `EconomicIndicators` | 458 | 64 | 64 |
 | `EletronicTerm` | 1 | 1 | 1 |
 | `FlexibleOptions` | 925 | 115 | 115 |
 | `Forward` | 4 | 4 | 4 |
@@ -120,7 +120,7 @@ Nenhuma página gerada ficou mais de 2 dias sem ser reescrita.
 
 Cada página do safecluster é conferida contra as operações do motor. Isso não basta: em 17/11/2026 a página de operações mostrava o pregão do dia e o extrato da carteira parava no dia anterior — **as duas corretas em relação à própria fonte, e contraditórias entre si**. A auditoria passou com "68 certas, 0 erradas" porque ninguém comparava as duas versões do mesmo fato. Desde 18/11/2026 ela também compara.
 
-*Última auditoria: 2026-11-18 às 08:48:42 · 71 conferências, 0 divergência(s).*
+*Última auditoria: 2026-11-18 às 09:27:05 · 71 conferências, 0 divergência(s).*
 
 Nenhuma divergência entre páginas nesta rodada.
 

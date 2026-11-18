@@ -3,7 +3,7 @@ title: "🌾 Agro: o que a curva está dizendo"
 date: 2026-11-17
 ---
 
-*Dados da B3 de 17/11/2026 · atualizado em 18/11/2026 08:27*
+*Dados da B3 de 17/11/2026 · atualizado em 18/11/2026 09:32*
 
 
 <!-- NOTAS-INICIO -->
@@ -60,7 +60,7 @@ o ajuste.
 
 A curva do boi Gordo **sobe 2,4%** ao longo de 11 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
 
-**Base: R\$ 3,92 (+1,0%)** — o vencimento mais curto está acima do físico (R\$ 394,58, *Cotação de Boi Gordo - Preço de  fechamento*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** boi gordo, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 394,58 (*BOI GORDO - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
+**Base: R\$ 2,29 (+0,6%)** — o vencimento mais curto está acima do físico (R\$ 396,21, *Cotação de Boi Gordo - Preço de  fechamento*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** boi gordo, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 395,09 (*BOI GORDO - Média das últimas cinco cotações R\$/@*), e é contra ele que o contrato é fechado no vencimento.
 
 ## Milho · CCM
 **R\$ 71,10** no vencimento mais próximo
@@ -84,9 +84,9 @@ o ajuste.
 
 A curva do milho **sobe 9,0%** ao longo de 10 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
 
-**Base: R\$ 3,92 (+5,8%)** — o vencimento mais curto está acima do físico (R\$ 67,18, *Cotação de Milho - Preço a vista R\$/60kg*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** milho, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 67,27 (*MILHO - Média das últimas três cotações R\$/60kg*), e é contra ele que o contrato é fechado no vencimento.
+**Base: R\$ 3,89 (+5,8%)** — o vencimento mais curto está acima do físico (R\$ 67,21, *Cotação de Milho - Preço a vista R\$/60kg*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** milho, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 67,24 (*MILHO - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
 
-O milho também é publicado em duas formas de pagamento: R\$ 67,18 à vista e R\$ 68,03 a prazo, com prazo médio de **24,8 dias**. A diferença é **+1,27% no período**, o que equivale a **+20,3% ao ano**. Esse é o juro que o mercado físico cobra embutido no preço, e quem vende a prazo está financiando o comprador a essa taxa. Comparar com o custo do próprio dinheiro — CDI, capital de giro, crédito rural — diz de que lado do balcão está a vantagem: quem consegue pagar à vista compra mais barato do que o dinheiro lhe custa, e quem vende a prazo só ganha se esse juro for maior que o que paga para se financiar.
+O milho também é publicado em duas formas de pagamento: R\$ 67,21 à vista e R\$ 68,01 a prazo, com prazo médio de **23,3 dias**. A diferença é **+1,19% no período**, o que equivale a **+20,4% ao ano**. Esse é o juro que o mercado físico cobra embutido no preço, e quem vende a prazo está financiando o comprador a essa taxa. Comparar com o custo do próprio dinheiro — CDI, capital de giro, crédito rural — diz de que lado do balcão está a vantagem: quem consegue pagar à vista compra mais barato do que o dinheiro lhe custa, e quem vende a prazo só ganha se esse juro for maior que o que paga para se financiar.
 
 ## Café Arábica 4/5 · ICF
 **US\$ 347,50** no vencimento mais próximo
@@ -113,18 +113,18 @@ A curva do café Arábica 4/5 **desce 6,1%** ao longo de 9 meses: o vencimento c
 
 | Vencimento | Dias | KC lá fora | Convertido | Ajuste na B3 | Diferença |
 |---|---|---|---|---|---|
-| 18/12/2026 | 31 | 280,70 | US\$ 371,30 | US\$ 347,50 | -6,41% |
-| 22/03/2027 | 125 | 274,90 | US\$ 363,63 | US\$ 350,00 | -3,75% |
-| 20/05/2027 | 184 | 270,55 | US\$ 357,88 | US\$ 347,10 | -3,01% |
-| 22/09/2027 | 309 | 264,25 | US\$ 349,54 | US\$ 326,35 | -6,64% |
+| 18/12/2026 | 31 | 286,60 | US\$ 379,11 | US\$ 347,50 | -8,34% |
+| 22/03/2027 | 125 | 281,40 | US\$ 372,23 | US\$ 350,00 | -5,97% |
+| 20/05/2027 | 184 | 275,35 | US\$ 364,23 | US\$ 347,10 | -4,70% |
+| 22/09/2027 | 309 | 267,65 | US\$ 354,04 | US\$ 326,35 | -7,82% |
 
 
 
-O contrato daqui negocia com **desconto médio de 5,0%** contra a referência externa, e ele **não é uniforme**: o mais largo está em 22/09/2027 (6,6%) e o mais estreito em 20/05/2027 (3,0%).
+O contrato daqui negocia com **desconto médio de 6,7%** contra a referência externa, e ele **não é uniforme**: o mais largo está em 18/12/2026 (8,3%) e o mais estreito em 20/05/2027 (4,7%).
 
 **É aqui que mora a informação.** Esse desconto é o preço que o mercado atribui à diferença entre o produto brasileiro e o padrão negociado lá fora: tipo, qualidade, local de entrega e custo de levar a mercadoria até o comprador internacional. Ele muda devagar, e é justamente por isso que serve de referência: quando se afasta do normal, ou mudou alguma coisa na oferta brasileira, ou alguém está pagando caro demais por um dos dois lados. Quem acompanha esse número ao longo do tempo tem uma régua; quem olha só o preço absoluto não tem.
 
-**Onde olhar primeiro:** 22/09/2027, o vencimento em que o produto daqui está mais barato contra o de fora (6,6% de desconto). Isso não é sinal de compra — o desconto pode ser justo, e normalmente é. Mas é ali que vale perguntar o que o mercado está precificando de diferente naquele mês, porque é a pergunta que o preço absoluto não faz.
+**Onde olhar primeiro:** 18/12/2026, o vencimento em que o produto daqui está mais barato contra o de fora (8,3% de desconto). Isso não é sinal de compra — o desconto pode ser justo, e normalmente é. Mas é ali que vale perguntar o que o mercado está precificando de diferente naquele mês, porque é a pergunta que o preço absoluto não faz.
 
 ## Etanol Hidratado · ETH
 **R\$ 3.141,50** no vencimento mais próximo
@@ -157,7 +157,7 @@ o ajuste.
 
 A curva do etanol Hidratado **vira em 29/01/2027**: sobe até ali e muda de direção depois. Forma assim quase sempre é calendário de safra — aperto numa janela do ano e folga na seguinte. O ponto de virada é a informação: é onde o mercado está dizendo que a oferta muda.
 
-**Base: R\$ 83,50 (+2,7%)** — o vencimento mais curto está acima do físico (R\$ 3.058,00, *Cotação de Etanol - Preço a vista R\$/m3*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** etanol hidratado, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 3.025,00 (*ETANOL - Média das últimas cinco cotações R\$/m3*), e é contra ele que o contrato é fechado no vencimento.
+**Base: R\$ 66,50 (+2,2%)** — o vencimento mais curto está acima do físico (R\$ 3.075,00, *Cotação de Etanol - Preço a vista R\$/m3*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** etanol hidratado, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 3.042,00 (*ETANOL - Média das últimas cinco cotações R\$/m3*), e é contra ele que o contrato é fechado no vencimento.
 
 ## Minicontrato de Soja do CME Group · SJC
 **US\$ 27,02** no vencimento mais próximo
@@ -183,13 +183,13 @@ A curva do minicontrato de Soja do CME Group **sobe 1,1%** ao longo de 4 meses: 
 
 | Vencimento | Dias | YK lá fora | Convertido | Ajuste na B3 | Diferença |
 |---|---|---|---|---|---|
-| 29/12/2026 | 42 | 1.229,00 | US\$ 27,09 | US\$ 27,02 | -0,29% |
-| 25/02/2027 | 100 | 1.233,00 | US\$ 27,18 | US\$ 27,14 | -0,14% |
-| 29/04/2027 | 163 | 1.239,00 | US\$ 27,32 | US\$ 27,31 | -0,02% |
+| 29/12/2026 | 42 | 1.225,50 | US\$ 27,02 | US\$ 27,02 | 0,00% |
+| 25/02/2027 | 100 | 1.231,25 | US\$ 27,14 | US\$ 27,14 | 0,00% |
+| 29/04/2027 | 163 | 1.238,75 | US\$ 27,31 | US\$ 27,31 | 0,00% |
 
 
 
-Os dois são **o mesmo preço** (diferença média de -0,15% entre todos os vencimentos). Isso não é coincidência nem oportunidade: este contrato da B3 é liquidado pelo preço de lá, e o que se negocia aqui é o preço de CME Group convertido de centavos de dólar por bushel para a unidade brasileira.
+Os dois são **o mesmo preço** (diferença média de 0,00% entre todos os vencimentos). Isso não é coincidência nem oportunidade: este contrato da B3 é liquidado pelo preço de lá, e o que se negocia aqui é o preço de CME Group convertido de centavos de dólar por bushel para a unidade brasileira.
 
 **A vantagem, aqui, não é de preço — é de acesso e de moeda.** Quem opera este contrato está comprando ou vendendo o mercado externo com liquidação em reais, sem conta lá fora e sem remessa. Quem procurar descolamento entre os dois para arbitrar vai achar só o custo da operação. O risco real é o cambial: o resultado vem em reais, e o dólar entra na conta inteiro.
 
@@ -203,7 +203,7 @@ A diferença entre os dois chama-se **base**, e é a medida que o produtor usa p
 trava preço na bolsa ou vende no mercado local, e que o especulador usa para saber se o futuro
 está esticado em relação ao que a mercadoria vale de fato.
 
-Os indicadores publicados acima vêm do **próprio boletim diário da B3** (22
+Os indicadores publicados acima vêm do **próprio boletim diário da B3** (23
 pregões fechados no arquivo), na tabela de Indicadores Econômicos e Agropecuários. Não há
 raspagem de site nenhum aqui: é a bolsa divulgando a referência que ela mesma usa para
 liquidar. E a descrição de cada indicador aparece como a B3 a publica, em vez de atribuída por
@@ -260,5 +260,5 @@ safra. Quando a curva vira num mês específico, o mercado está dizendo onde a 
 > [!abstract] Confira a conta você mesmo
 > <a href="agro.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar agro.xlsx</a> — os 36 vencimentos com ajuste, posição e valor do contrato, mais a série pregão a pregão.
 > 
-> Fonte: Boletim Diário do Mercado da B3 — *Negócios consolidados*, *Posições em aberto* e *Cadastro de instrumentos*, este último para multiplicador, moeda e data de vencimento. Histórico de 23 pregões arquivados. Os indicadores de preço físico vêm da tabela *Indicadores Econômicos e Agropecuários* do mesmo boletim (22 pregões fechados; 1 arquivo(s) de pregão em andamento descartados).
+> Fonte: Boletim Diário do Mercado da B3 — *Negócios consolidados*, *Posições em aberto* e *Cadastro de instrumentos*, este último para multiplicador, moeda e data de vencimento. Histórico de 23 pregões arquivados. Os indicadores de preço físico vêm da tabela *Indicadores Econômicos e Agropecuários* do mesmo boletim (23 pregões fechados; 0 arquivo(s) de pregão em andamento descartados).
 
