@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 08:21*
+*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 08:30*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -19,7 +19,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas **incompletas** | **1** — veja abaixo |
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Páginas publicadas | 352 |
-| Página escrita mais recentemente | 18/11 08:21 |
+| Página escrita mais recentemente | 18/11 08:30 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -51,14 +51,14 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 | `CNLValidLotsSettle` | 1 | 1 | 1 |
 | `COEInventory` | 1 | 1 | 1 |
 | `COERegistration` | 1 | 1 | 1 |
-| `ConsolidatedTradesDerivatives` | 6.667 | 6.667 | 6.667 |
+| `ConsolidatedTradesDerivatives` | 7.494 | 7.494 | 7.494 |
 | `ConsolidatedTradesDerivativesAfter` | 52 | 52 | 52 |
 | `ConsolidatedTradesEquities` | 76.851 | 76.851 | 76.851 |
 | `ConsolidatedTradesRVAfter` | 27 | 27 | 27 |
 | `Custody` | 54 | 54 | 54 |
 | `DailyAverageDerivatives2` | 9 | 9 | 9 |
 | `DailyAverageStocks` | 9 | 9 | 9 |
-| `DeadlineDepositSecurities` | 47 | 41 | 41 |
+| `DeadlineDepositSecurities` | 41 | 41 | 41 |
 | `DebenturesBusiness` | 76 | 76 | 76 |
 | `DerivativesMtM` | 4 | 4 | 4 |
 | `DerivativesOperation2` | 90 | 90 | 90 |
@@ -68,7 +68,7 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 | `FlexibleOptions` | 925 | 115 | 115 |
 | `Forward` | 4 | 4 | 4 |
 | `ForwardMarket` | 85 | 85 | 85 |
-| `FugibleCustody` | 7 | 5 | 5 |
+| `FugibleCustody` | 5 | 5 | 5 |
 | `HarvestCoffeApprov` | 2 | 2 | 2 |
 | `HistoricalExchange` | 1 | 1 | 1 |
 | `IOPV` | 70 | 70 | 70 |
@@ -77,7 +77,7 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 | `InCash` | 5 | 5 | 5 |
 | `InCashMarketBiggestHighs` | 10 | 10 | 10 |
 | `InCashMarketBiggestLow` | 10 | 10 | 10 |
-| `InstrumentsDerivatives` | 9.466 | 9.466 | 9.466 |
+| `InstrumentsDerivatives` | 9.481 | 9.481 | 9.481 |
 | `MarginScenarios` | 134.625 | 7.023 | 7.023 |
 | `NegotiStrategi` | 126 | 14 | 14 |
 | `OTCInventoryCCP` | 3 | 3 | 3 |
