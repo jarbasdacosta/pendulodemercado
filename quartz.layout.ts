@@ -56,7 +56,7 @@ const menuCelular = Component.Explorer({
   useSavedState: true,
   sortFn: (a, b) => {
     const ordem = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude", "larry-williams",
-                   "tecnico", "calendario", "juros", "inflacao-e-cambio", "operacoes",
+                   "tecnico", "calendario", "mercados", "juros", "inflacao-e-cambio", "operacoes",
                    "sinais-topo-fundo", "estrangeiros",
                    "adr", "ofertas", "posicionamento", "agro", "linha-do-tempo", "historico",
                    "historico-anterior", "metodologia", "integridade", "horarios", "ranking", "tendencia", "entradas",
