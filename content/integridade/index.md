@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 08:30*
+*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 08:40*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -18,6 +18,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas do boletim conferidas | **55** de 60 guardadas |
 | Tabelas **incompletas** | **1** — veja abaixo |
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
+| Pregão com sinal de que aconteceu | sim |
 | Páginas publicadas | 352 |
 | Página escrita mais recentemente | 18/11 08:30 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
@@ -96,6 +97,15 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 | `StocksOperationSummary` | 58 | 58 | 58 |
 | `SwapFlex` | 1 | 1 | 1 |
 | `ValidLotsSettle` | 1 | 1 | 1 |
+
+### O pregão realmente aconteceu?
+
+A conferência acima compara o arquivo com a lista de tickers que o próprio arquivo traz. Um retrato tirado **antes** do pregão é internamente coerente e passa como íntegro — fecha 100% e não prova nada. Em 18/11/2026 a tabela de negócios de derivativos de 17/11 estava assim: 100% dos tickers declarados e **zero** contratos futuros, porque tinha sido baixada às 06h26 do próprio dia 17. Daí esta segunda pergunta, que usa o mesmo teste do vigia do boletim: as linhas que só existem depois do pregão estão lá?
+
+| tabela | linhas no dia | referência | linhas | piso (70%) | |
+|---|---:|---|---:|---:|---|
+| `OpenPositionsEquities` | 45.951 | 16/11/2026 | 45.150 | 31.604 | ok |
+| `ConsolidatedTradesDerivatives` | 809 | 16/11/2026 | 789 | 552 | ok |
 
 ## 2 · Páginas publicadas
 
