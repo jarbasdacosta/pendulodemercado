@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 09:35*
+*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 09:39*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -19,9 +19,10 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas **incompletas** | **1** — veja abaixo |
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
+| Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 352 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 18/11 09:35 |
+| Página escrita mais recentemente | 18/11 09:39 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -107,6 +108,14 @@ A conferência acima compara o arquivo com a lista de tickers que o próprio arq
 |---|---:|---|---:|---:|---|
 | `OpenPositionsEquities` | 45.951 | 16/11/2026 | 45.150 | 31.604 | ok |
 | `ConsolidatedTradesDerivatives` | 809 | 16/11/2026 | 789 | 552 | ok |
+
+### Alguma tabela veio magra demais?
+
+As duas conferências acima têm pontos cegos: a primeira compara o arquivo com o alvo que ele mesmo traz, a segunda olha só as duas tabelas que decidem quando arquivar. Em 18/11/2026 a `EconomicIndicators` de 17/11 entrou com **4 linhas contra 458** do normal, passou pelas duas, e a página do agro saiu sem boi, milho, etanol e café.
+
+Esta terceira pergunta não precisa saber nada sobre cada tabela: compara o volume do dia com a **mediana dos últimos dez dias dela mesma**, e acusa quem ficou abaixo de metade. Vale para todas, inclusive as que ainda não deram problema.
+
+Nenhuma tabela do pregão conferido ficou abaixo da metade do seu próprio normal.
 
 ## 2 · Páginas publicadas
 
