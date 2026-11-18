@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 10:45*
+*Pregão conferido: **17/11/2026**, com 61 tabelas no acervo · página gerada em 18/11/2026 11:00*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -15,14 +15,14 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 
 | o que | situação |
 |---|---|
-| Tabelas do boletim conferidas | **55** de 60 guardadas |
+| Tabelas do boletim conferidas | **55** de 61 guardadas |
 | Tabelas **incompletas** | **1** — veja abaixo |
-| Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
+| Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 353 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 18/11 10:45 |
+| Página escrita mais recentemente | 18/11 11:00 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -137,13 +137,14 @@ Nenhuma divergência entre páginas nesta rodada.
 
 A seção mais importante da página. Sem ela, "nenhum problema encontrado" se confunde com "nada foi olhado".
 
-**Tabelas fora da conferência** (5), com o motivo de cada uma. Nenhuma delas é falha de coleta: parte são agrupadores do catálogo, que não têm dados próprios, e parte são séries ou valores únicos, que não têm ticker a conferir. O motivo vai escrito porque "sem alvo" sozinho insinuaria falta da B3 e esconderia que três delas nem são tabelas de dados.
+**Tabelas fora da conferência** (6), com o motivo de cada uma. Nenhuma delas é falha de coleta: parte são agrupadores do catálogo, que não têm dados próprios, e parte são séries ou valores únicos, que não têm ticker a conferir. O motivo vai escrito porque "sem alvo" sozinho insinuaria falta da B3 e esconderia que três delas nem são tabelas de dados.
 
 | tabela | linhas | por quê |
 |---|---:|---|
 | `AverageChart` | 12 | não achei a coluna do ticker |
 | `DIover` | 1 | não achei a coluna do ticker |
 | `INDEXES` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
+| `IndicesB3` | 33 | sem lista de tickers — é série ou valor único, não tem ticker a conferir |
 | `Previa` | 0 | agrupador do catálogo (3 item(ns)), não tem dados próprios |
 | `PreviaQuadrimestral` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
 
