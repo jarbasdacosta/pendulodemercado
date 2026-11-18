@@ -5,7 +5,7 @@ description: "Compras e vendas dos investidores estrangeiros no mercado à vista
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **16/11/2026** (a B3 publica dois pregões depois) · página atualizada 18/11/2026 06:12. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **16/11/2026** (a B3 publica dois pregões depois) · página atualizada 18/11/2026 07:12. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
 > [!success] 16/11/2026: **+R\$ 241 mi**
 > Primeiro pregão de entrada depois da sequência anterior.
@@ -191,7 +191,7 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 | Ano até 16/11 (bolsa): resumo/gráfico × B3 | +R\$ 30,2 bi | +R\$ 30,2 bi | ✅ |
 | Ano até 16/11 com ofertas: total × B3 (A+C−B) | +R\$ 34,9 bi | +R\$ 34,9 bi | ✅ |
 | Meses fechados de 2026: soma dos dias × mês oficial | 10 de 10 batem | — | ✅ |
-| Ano até 13/11: nosso × publicado pelo Pai Rico | +R\$ 30,0 bi | +R\$ 30,0 bi | ✅ |
+| Ano até 16/11: nosso × publicado pelo Pai Rico | +R\$ 30,2 bi | +R\$ 30,2 bi | ✅ |
 | Tabela dos 5 tipos (até 16/11): estrangeiro no ano × série principal na MESMA data | +R\$ 30,2 bi | +R\$ 30,2 bi | ✅ |
 | Tabela dos 5 tipos: os 5 saldos de 16/11 somam zero | +R\$ 0 mi | zero | ✅ |
 
