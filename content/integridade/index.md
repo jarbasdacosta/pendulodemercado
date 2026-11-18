@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 08:40*
+*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 08:49*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -20,7 +20,8 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Páginas publicadas | 352 |
-| Página escrita mais recentemente | 18/11 08:30 |
+| Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
+| Página escrita mais recentemente | 18/11 08:49 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -114,6 +115,14 @@ Duas medidas diferentes, que antes eram confundidas numa só. O **mtime** diz qu
 Pregão mais recente declarado por alguma página: **18/11/2026**.
 
 Nenhuma página gerada ficou mais de 2 dias sem ser reescrita.
+
+### As páginas concordam entre si?
+
+Cada página do safecluster é conferida contra as operações do motor. Isso não basta: em 17/11/2026 a página de operações mostrava o pregão do dia e o extrato da carteira parava no dia anterior — **as duas corretas em relação à própria fonte, e contraditórias entre si**. A auditoria passou com "68 certas, 0 erradas" porque ninguém comparava as duas versões do mesmo fato. Desde 18/11/2026 ela também compara.
+
+*Última auditoria: 2026-11-18 às 08:48:42 · 71 conferências, 0 divergência(s).*
+
+Nenhuma divergência entre páginas nesta rodada.
 
 ## 3 · O que **não** está conferido
 
