@@ -3,7 +3,7 @@ title: "🌾 Agro: o que a curva está dizendo"
 date: 2026-11-16
 ---
 
-*Dados da B3 de 16/11/2026 · atualizado em 18/11/2026 06:37*
+*Dados da B3 de 16/11/2026 · atualizado em 18/11/2026 08:18*
 
 
 <!-- NOTAS-INICIO -->

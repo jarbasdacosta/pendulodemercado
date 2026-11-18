@@ -1,11 +1,11 @@
 ---
 title: "🔎 Integridade dos dados"
-date: 2026-11-16
+date: 2026-11-17
 description: "O que foi conferido, contra qual fonte e quando — medido na hora, tabela por tabela e página por página"
 tags: [integridade]
 ---
 
-*Pregão conferido: **16/11/2026**, com 59 tabelas no acervo · página gerada em 18/11/2026 06:40*
+*Pregão conferido: **17/11/2026**, com 60 tabelas no acervo · página gerada em 18/11/2026 08:21*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -15,11 +15,11 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 
 | o que | situação |
 |---|---|
-| Tabelas do boletim conferidas | **54** de 59 guardadas |
-| Tabelas incompletas | **nenhuma** |
+| Tabelas do boletim conferidas | **55** de 60 guardadas |
+| Tabelas **incompletas** | **1** — veja abaixo |
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Páginas publicadas | 352 |
-| Página escrita mais recentemente | 18/11 06:40 |
+| Página escrita mais recentemente | 18/11 08:21 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -28,66 +28,74 @@ A B3 publica, no próprio boletim, a lista de tickers de cada tabela. Essa lista
 
 A conferência é por **conjunto**, não por contagem de linhas: várias tabelas trazem muitas linhas para o mesmo ticker. Ticker faltando é fatia da tabela que nunca chegou — foi assim que a tabela de negócios de ações ficou semanas com 22 mil tickers ausentes sem ninguém notar. O que isto **não** prova é que todas as linhas de cada ticker vieram: com o que a B3 publica, cobertura de conjunto é o teto do que dá para afirmar.
 
+### Incompletas
+
+| tabela | declarado pela B3 | obtido | completude |
+|---|---:|---:|---:|
+| `Renewals` | 691 | 507 | **73,4%** |
+
+**O que isso significa para quem opera.** Número calculado sobre tabela incompleta é número sobre amostra, não sobre o mercado. Onde a completude estiver abaixo de 100%, trate o que vier dessa tabela como indicativo e confira na fonte antes de decidir. A avaliação é leitura de risco; o risco é de quem opera.
+
 ### Completas (54)
 
 Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repetem aqui.
 
 | tabela | linhas | tickers obtidos | declarados pela B3 |
 |---|---:|---:|---:|
-| `BTBLendingOpenPosition` | 2.916 | 1.034 | 1.034 |
+| `AnalyticalFramework2` | 68 | 68 | 68 |
+| `BTBLendingOpenPosition` | 2.904 | 1.027 | 1.027 |
 | `BTBLoanBalance` | 4.743 | 1.655 | 1.655 |
-| `BTBTrade` | 45.543 | 525 | 525 |
+| `BTBTrade` | 57.325 | 546 | 546 |
 | `CNLDistrionCoffeLocation` | 1 | 1 | 1 |
 | `CNLHarvestCoffeApprov` | 1 | 1 | 1 |
 | `CNLValidLotsSettle` | 1 | 1 | 1 |
 | `COEInventory` | 1 | 1 | 1 |
 | `COERegistration` | 1 | 1 | 1 |
-| `ConsolidatedTradesDerivatives` | 7.630 | 7.630 | 7.630 |
-| `ConsolidatedTradesDerivativesAfter` | 53 | 53 | 53 |
-| `ConsolidatedTradesEquities` | 75.185 | 75.185 | 75.185 |
-| `ConsolidatedTradesRVAfter` | 29 | 29 | 29 |
-| `Custody` | 61 | 54 | 54 |
+| `ConsolidatedTradesDerivatives` | 6.667 | 6.667 | 6.667 |
+| `ConsolidatedTradesDerivativesAfter` | 52 | 52 | 52 |
+| `ConsolidatedTradesEquities` | 76.851 | 76.851 | 76.851 |
+| `ConsolidatedTradesRVAfter` | 27 | 27 | 27 |
+| `Custody` | 54 | 54 | 54 |
 | `DailyAverageDerivatives2` | 9 | 9 | 9 |
 | `DailyAverageStocks` | 9 | 9 | 9 |
-| `DeadlineDepositSecurities` | 35 | 32 | 32 |
+| `DeadlineDepositSecurities` | 47 | 41 | 41 |
 | `DebenturesBusiness` | 76 | 76 | 76 |
 | `DerivativesMtM` | 4 | 4 | 4 |
-| `DerivativesOperation2` | 104 | 88 | 88 |
+| `DerivativesOperation2` | 90 | 90 | 90 |
 | `DistrionCoffeLocation` | 18 | 18 | 18 |
-| `EconomicIndicators` | 457 | 64 | 64 |
-| `EletronicTerm` | 2 | 1 | 1 |
-| `FlexibleOptions` | 893 | 111 | 111 |
-| `Forward` | 5 | 5 | 5 |
-| `ForwardMarket` | 110 | 66 | 66 |
+| `EconomicIndicators` | 4 | 3 | 3 |
+| `EletronicTerm` | 1 | 1 | 1 |
+| `FlexibleOptions` | 925 | 115 | 115 |
+| `Forward` | 4 | 4 | 4 |
+| `ForwardMarket` | 85 | 85 | 85 |
 | `FugibleCustody` | 7 | 5 | 5 |
 | `HarvestCoffeApprov` | 2 | 2 | 2 |
-| `HistoricalExchange` | 3 | 1 | 1 |
+| `HistoricalExchange` | 1 | 1 | 1 |
 | `IOPV` | 70 | 70 | 70 |
 | `IbovespaStockBiggestHighs` | 10 | 10 | 10 |
 | `IbovespaStockBiggestLow` | 10 | 10 | 10 |
 | `InCash` | 5 | 5 | 5 |
 | `InCashMarketBiggestHighs` | 10 | 10 | 10 |
 | `InCashMarketBiggestLow` | 10 | 10 | 10 |
-| `InstrumentsDerivatives` | 9.608 | 9.608 | 9.608 |
-| `MarginScenarios` | 134.340 | 7.010 | 7.010 |
-| `NegotiStrategi` | 139 | 28 | 28 |
+| `InstrumentsDerivatives` | 9.466 | 9.466 | 9.466 |
+| `MarginScenarios` | 134.625 | 7.023 | 7.023 |
+| `NegotiStrategi` | 126 | 14 | 14 |
 | `OTCInventoryCCP` | 3 | 3 | 3 |
 | `OTCInventoryWCCP` | 4 | 4 | 4 |
 | `OTCRegistrationCCP` | 3 | 3 | 3 |
 | `OTCRegistrationWCCP` | 4 | 4 | 4 |
-| `OpenPositionsEquities` | 45.150 | 45.150 | 45.150 |
-| `OptionsPurshase` | 10 | 5 | 5 |
-| `OptionsSelling` | 10 | 5 | 5 |
-| `ProventionCreditVariable` | 233 | 192 | 192 |
-| `Register` | 16 | 16 | 16 |
-| `Renewals` | 3.405 | 67 | 67 |
-| `SaleOff` | 46 | 12 | 12 |
+| `OpenPositionsEquities` | 45.951 | 45.951 | 45.951 |
+| `OptionsPurshase` | 5 | 5 | 5 |
+| `OptionsSelling` | 5 | 5 | 5 |
+| `ProventionCreditVariable` | 16 | 16 | 16 |
+| `Register` | 20 | 20 | 20 |
+| `SaleOff` | 12 | 12 | 12 |
 | `SharesInvesVolum` | 5 | 5 | 5 |
 | `SharesInvesVolumMonthly` | 5 | 5 | 5 |
-| `Stock` | 42 | 42 | 42 |
-| `StocksOperationSummary` | 59 | 59 | 59 |
-| `SwapFlex` | 5 | 1 | 1 |
-| `ValidLotsSettle` | 8 | 1 | 1 |
+| `Stock` | 43 | 43 | 43 |
+| `StocksOperationSummary` | 58 | 58 | 58 |
+| `SwapFlex` | 1 | 1 | 1 |
+| `ValidLotsSettle` | 1 | 1 | 1 |
 
 ## 2 · Páginas publicadas
 
@@ -105,7 +113,7 @@ A seção mais importante da página. Sem ela, "nenhum problema encontrado" se c
 
 | tabela | linhas | por quê |
 |---|---:|---|
-| `AverageChart` | 13 | não achei a coluna do ticker |
+| `AverageChart` | 12 | não achei a coluna do ticker |
 | `DIover` | 1 | não achei a coluna do ticker |
 | `INDEXES` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
 | `Previa` | 0 | agrupador do catálogo (3 item(ns)), não tem dados próprios |
@@ -138,8 +146,8 @@ Barras de 1 minuto dos contratos de índice, montadas dos negócios individuais 
 
 | o que | situação |
 |---|---|
-| Pregões arquivados | **19**, de 19/10/2026 a 16/11/2026 |
-| Tamanho | 381 KB |
+| Pregões arquivados | **20**, de 19/10/2026 a 17/11/2026 |
+| Tamanho | 404 KB |
 | Pregões parciais | **3** |
 | Dias úteis sem arquivo na faixa | **1** |
 
