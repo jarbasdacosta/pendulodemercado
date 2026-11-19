@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **18/11/2026**, com 59 tabelas no acervo · página gerada em 19/11/2026 14:30*
+*Pregão conferido: **18/11/2026**, com 59 tabelas no acervo · página gerada em 19/11/2026 14:45*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -20,10 +20,10 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | **1** — veja a seção 1 |
-| Páginas publicadas | 357 |
+| Páginas publicadas | 358 |
 | Conferências cruzadas das páginas | **2 divergência(s)** de 71 — veja a seção 2 |
-| Página escrita mais recentemente | 19/11 14:30 |
-| Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
+| Página escrita mais recentemente | 19/11 14:45 |
+| Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
 
@@ -158,8 +158,9 @@ A seção mais importante da página. Sem ela, "nenhum problema encontrado" se c
 | `Previa` | 0 | agrupador do catálogo (3 item(ns)), não tem dados próprios |
 | `PreviaQuadrimestral` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
 
-**Páginas sem `date:` no cabeçalho** (8). O mtime mostra que o gerador rodou, mas sem data declarada não dá para saber se o *dado* avançou junto.
+**Páginas sem `date:` no cabeçalho** (9). O mtime mostra que o gerador rodou, mas sem data declarada não dá para saber se o *dado* avançou junto.
 
+- `autopsias/index.md`
 - `avisos/index.md`
 - `diario/index.md`
 - `historico.md`
