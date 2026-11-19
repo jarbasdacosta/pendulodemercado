@@ -5,7 +5,7 @@ description: "Compras e vendas dos investidores estrangeiros no mercado à vista
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **17/11/2026** (a B3 publica dois pregões depois) · página atualizada 19/11/2026 06:42. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **17/11/2026** (a B3 publica dois pregões depois) · página atualizada 19/11/2026 19:06. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
 > [!success] 17/11/2026: **+R\$ 322 mi**
 > 2 pregões seguidos de entrada, de 16/11/2026 a 17/11/2026, somando **+R\$ 564 mi** — média de **+R\$ 282 mi** por pregão.

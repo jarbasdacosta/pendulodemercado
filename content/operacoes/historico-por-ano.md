@@ -12,7 +12,13 @@ Todas as operações de cada regra de compra, **simuladas no histórico com as m
 
 ## 🟢 Posições em aberto
 
-_Nenhuma posição aberta agora._
+| Regra | Entrada | Stop | Agora | Candles | Sai quando | |
+|---|---|---|---|---|---|---|
+| [Diário · Semáforo N3 após ζ Fundo](operacoes/entradas) | 19/11/26 a 166.376 | ⚡ 164.447 | **+0,0%** | 0 | ⏱️ no fechamento: quando um topo do semáforo nível 3 ficar fixo | 🧪 ao vivo |
+
+> [!warning] ⚡ = vale **durante o pregão** (ordem stop: deixe a ordem na plataforma; o sistema confere a cada 15 min, avisa 🚨 a 0,5% do nível e avisa quando executar) · ⏱️ = só no **fechamento** do candle
+
+*Resultado até o último fechamento. Posições abertas antes de 23/10/2026 são simuladas no histórico e não entram no placar ao vivo.*
 
 ## Resultado por ano
 

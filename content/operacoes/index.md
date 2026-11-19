@@ -7,9 +7,20 @@ description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23
 
 Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/2026**. Daqui para frente cada operação entra no **placar ao vivo**, o único resultado sem nenhum ajuste ao histórico. Nenhuma regra de venda passou nos testes ([por quê](metodologia/o-que-nao-passou)).
 
+> [!tip] 🎯 Operações — último candle
+> - 🟢 Entradas Diário · Semáforo N3 após ζ Fundo: **entrada** a 166.376
+>
+> [Ver operações](operacoes/)
+
 ## 🟢 Posições em aberto
 
-_Nenhuma posição aberta agora._
+| Regra | Entrada | Stop | Agora | Candles | Sai quando | |
+|---|---|---|---|---|---|---|
+| [Diário · Semáforo N3 após ζ Fundo](operacoes/entradas) | 19/11/26 a 166.376 | ⚡ 164.447 | **+0,0%** | 0 | ⏱️ no fechamento: quando um topo do semáforo nível 3 ficar fixo | 🧪 ao vivo |
+
+> [!warning] ⚡ = vale **durante o pregão** (ordem stop: deixe a ordem na plataforma; o sistema confere a cada 15 min, avisa 🚨 a 0,5% do nível e avisa quando executar) · ⏱️ = só no **fechamento** do candle
+
+*Resultado até o último fechamento. Posições abertas antes de 23/10/2026 são simuladas no histórico e não entram no placar ao vivo.*
 
 > [!info] 🌊 Contexto do IMA para compras
 > 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 61% em 19/11
@@ -24,7 +35,7 @@ _Nenhuma posição aberta agora._
 | [🎯 Diário · Nadaraya](operacoes/entradas) | — sem setup | ✅ passou fora da amostra | 0 de 10 operações ao vivo |
 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | — sem setup | ✅ o ganho vem do setup | 0 de 10 operações ao vivo |
 | [🎯 H4 · Semáforo N2](operacoes/entradas) | — sem setup | 🧪 em teste | 🧪 1 de 10 operações ao vivo · média -0,8% · dentro do esperado |
-| [🎯 Diário · Semáforo N3 após ζ Fundo](operacoes/entradas) | ⏳ aguardando o gatilho | 🧪 em observação | 0 de 10 operações ao vivo |
+| [🎯 Diário · Semáforo N3 após ζ Fundo](operacoes/entradas) | 🟢 comprado desde 19/11 (+0,0%) | 🧪 em observação | 0 de 10 operações ao vivo |
 
 ## 🧪 Placar ao vivo (desde 23/10/2026)
 
