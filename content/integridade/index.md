@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **18/11/2026**, com 59 tabelas no acervo · página gerada em 19/11/2026 10:46*
+*Pregão conferido: **18/11/2026**, com 59 tabelas no acervo · página gerada em 19/11/2026 11:01*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -22,7 +22,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | **1** — veja a seção 1 |
 | Páginas publicadas | 356 |
 | Conferências cruzadas das páginas | **2 divergência(s)** de 71 — veja a seção 2 |
-| Página escrita mais recentemente | 19/11 10:46 |
+| Página escrita mais recentemente | 19/11 11:01 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
