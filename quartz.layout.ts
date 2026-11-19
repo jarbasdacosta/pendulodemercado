@@ -84,14 +84,14 @@ const grupos = [
     (node) => {
       const dentro = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude",
                       "larry-williams", "tecnico", "calendario", "mercados", "juros",
-                      "inflacao-e-cambio"]
+                      "inflacao-e-cambio", "espectro"]
       const s = node.slug ?? ""
       return dentro.some((d) => s === d || s.startsWith(d + "/"))
     },
     (a, b) => {
       const ordem = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude",
                      "larry-williams", "tecnico", "calendario", "mercados", "juros",
-                     "inflacao-e-cambio", "avanco-declinio"]
+                     "inflacao-e-cambio", "espectro", "avanco-declinio"]
       const ia = ordem.indexOf(a.slugSegment)
       const ib = ordem.indexOf(b.slugSegment)
       if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib)

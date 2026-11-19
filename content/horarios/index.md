@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 18/11/2026 19:09.*
+*Lido do agendamento do próprio servidor em 19/11/2026 18:34.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o
@@ -26,6 +26,7 @@ no seguinte — nenhuma destas rotinas depende de alguém estar olhando.
 | todo dia 1 do mês, 07h00 | **Compactação do repositório** — Mensal, com o mercado fechado. |
 | domingos, 07h00 | **bdi_indices.py** |
 | dias úteis, 07h05 | **ticks_b3.py** |
+| domingos, 07h13 | **atualizar_series_longas.sh** |
 | dias úteis, 07h15 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
 | sábados, 07h15 | **ofertas_cvm.sh** |
 | sábados, 08h00 | **Setups** — Testa e republica as páginas dos setups. |
@@ -33,7 +34,8 @@ no seguinte — nenhuma destas rotinas depende de alguém estar olhando.
 | dias úteis, a cada 15 min, das 10h00 às 18h45 | **Vigia do feed de preços** — Confere se o feed está chegando. |
 | dias úteis, a cada 15 min, das 10h02 às 18h47 | **Monitor** — Acompanha o estado do sistema durante o pregão. |
 | dias úteis, 12h10 | **estrangeiros_manha.sh** |
-| segundas, 17h00 | **Espectro wavelet** — A decomposição em frequências, que muda devagar e não precisa de rodada diária. |
+| dias úteis, 13h20 | **PTAX de fechamento** — O Banco Central consulta o mercado em quatro janelas (10h, 11h, 12h e 13h) e divulga a PTAX de fechamento por volta das 13h10. Esta rodada publica o dólar do dia às 13h20, sem esperar a rodada das 19h. Atraso do BC acontece: se a taxa ainda não estiver publicada, o valor do dia entra na rodada diária. |
+| segundas, 17h00 | **Espectro wavelet** — Recalcula a decomposição em frequências dos últimos 504 pregões e refaz a página do espectro. As frequências do mercado se movem devagar: refazer isso todo dia mostraria a mesma figura. |
 | dias úteis, 18h25 | **Fechamento do intradiário** — A última barra do pregão só é entregue completa por volta das 18h20. Esta rodada fecha o dia e dispara o aviso. |
 | dias úteis, 18h50 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
 | dias úteis, 19h00 | **Rodada diária** — Refaz todas as páginas do dia e dispara o aviso diário. Roda às 19h, antes de a B3 publicar o boletim — por isso existe o vigia abaixo. |
