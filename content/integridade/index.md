@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **18/11/2026**, com 59 tabelas no acervo · página gerada em 19/11/2026 13:31*
+*Pregão conferido: **18/11/2026**, com 59 tabelas no acervo · página gerada em 19/11/2026 13:46*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -22,7 +22,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | **1** — veja a seção 1 |
 | Páginas publicadas | 356 |
 | Conferências cruzadas das páginas | **2 divergência(s)** de 71 — veja a seção 2 |
-| Página escrita mais recentemente | 19/11 13:31 |
+| Página escrita mais recentemente | 19/11 13:46 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -125,10 +125,10 @@ Pregão mais recente declarado por alguma página: **19/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `diario/index.md` | 16/11 14:43 | 2.9 |
-| `intraday/index.md` | 16/11 14:43 | 2.9 |
+| `diario/index.md` | 16/11 14:43 | 3.0 |
+| `intraday/index.md` | 16/11 14:43 | 3.0 |
 | `por-onde-comecar.md` | 16/11 15:20 | 2.9 |
-| `ofertas.md` | 16/11 21:56 | 2.6 |
+| `ofertas.md` | 16/11 21:56 | 2.7 |
 
 ### As páginas concordam entre si?
 
