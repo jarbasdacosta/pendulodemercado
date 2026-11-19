@@ -195,19 +195,121 @@ Os 33 índices publicados pela B3 no pregão de 2026-11-18, do que mais subiu ao
 
 <small>A variação do dia é calculada do próprio boletim (fechamento contra abertura do mesmo pregão), e não contra o fechamento anterior — é o que a B3 publica nesta tabela.</small>
 
+## Fluxo: quem subiu, quem caiu e quanto custa ficar vendido
+
+> [!note] De que pregão é cada número deste bloco
+>
+> Rankings e mais negociadas: **nossa base até 17/11**. Oscilação do dia, aluguel, termo e opções: **BDI de 18/11**. Os dois pregões são diferentes de propósito — o BDI sai depois do nosso fechamento.
+>
+> Entram no ranking os 450 papéis com volume mediano acima de R$ 1.000.000 por dia (ação 204 · ETF/FII 162 · BDR 67 · outro 9 · unit 8).
+
+> [!warning] 7 papéis líquidos ficaram de fora dos rankings de período
+>
+> **AZEV4**, **AZUL53**, **BEEF1**, **CHIP11**, **D1EL34**, **M1RN34**, **RCSL4** tiveram desdobramento ou grupamento que a nossa série ainda não absorveu. A variação deles no período seria inventada, não medida.
+>
+> A barreira poupou 45 suspeitas que caíram no pregão de 26/10 — queda de 50% num dia de circuit breaker é indistinguível de um desdobramento 1:2 para quem só olha a razão — e 99 em que o preço voltou depois, o que desdobramento não faz.
+
+### Maiores altas e baixas · ações e units
+
+| período | desde | maiores altas | maiores baixas |
+|---|---|---|---|
+| dia | 16/11 · 211 papéis | **AZEV3** +31,1% · **LJQQ3** +17,5% · **HAPV3** +12,5% | **PMAM3** -12,0% · **ONCO3** -6,5% · **CURY3** -4,2% |
+| mês ⚠️ | 18/10 · 211 papéis | **SUZB3** +28,7% · **EMBJ3** +20,0% · **TIMS3** +18,9% | **MOVI3** -64,1% · **SIMH3** -61,0% · **HBOR3** -61,0% |
+| ano ⚠️ | 01/01 · 203 papéis | **AZEV3** +129,4% · **TASA4** +110,6% · **JSLG3** +96,3% | **AZTE3** -82,7% · **BHIA3** -79,0% · **ONCO3** -73,4% |
+| 360 dias ⚠️ | 22/11/2025 · 201 papéis | **CBAV3** +129,3% · **JSLG3** +117,1% · **TASA4** +113,8% | **AZTE3** -81,8% · **BHIA3** -80,7% · **PMAM3** -73,5% |
+
+### BDRs — separados de propósito
+
+A variação de um BDR é a empresa lá fora multiplicada pelo dólar. É informação boa e responde outra pergunta: misturá-la com ação brasileira faria o ranking da B3 falar sobre Nasdaq.
+
+| período | desde | maiores altas | maiores baixas |
+|---|---|---|---|
+| dia | 16/11 · 67 papéis | **BCPX39** +3,6% · **SPCX34** +2,8% · **BSIL39** +1,8% | **STOC34** -8,4% · **NIKE34** -6,8% · **D1DG34** -6,6% |
+| mês ⚠️ | 18/10 · 66 papéis | **LILY34** +27,5% · **BERK34** +25,3% · **WALM34** +22,3% | **XPBR31** -43,9% · **ITLC34** -30,8% · **D1DG34** -27,8% |
+| ano ⚠️ | 01/01 · 62 papéis | **MUTC34** +153,5% · **A1MD34** +143,3% · **O1KT34** +109,7% | **STOC34** -49,0% · **C2OI34** -47,1% · **NIKE34** -39,2% |
+| 360 dias ⚠️ | 22/11/2025 · 62 papéis | **MUTC34** +258,0% · **A1MD34** +160,6% · **O1KT34** +137,3% | **C2OI34** -47,8% · **STOC34** -47,6% · **BABA34** -39,5% |
+
+### ETFs e FIIs
+
+| período | desde | maiores altas | maiores baixas |
+|---|---|---|---|
+| dia | 16/11 · 156 papéis | **HSLG11** +3,0% · **KORE11** +2,0% · **PCIP11** +2,0% | **BDIF11** -3,2% · **PVBI11** -3,0% · **XBCI11** -3,0% |
+| mês ⚠️ | 18/10 · 154 papéis | **DOLA11** +14,3% · **USDB11** +13,9% · **DOLX11** +13,8% | **TGAR11** -38,2% · **HIGH11** -31,4% · **VGHF11** -30,2% |
+| ano ⚠️ | 01/01 · 143 papéis | **CHIP11** +33,0% · **UTEC11** +18,5% · **SPBZ11** +15,5% | **TGAR11** -67,0% · **VGHF11** -46,6% · **TRXF11** -44,7% |
+| 360 dias ⚠️ | 22/11/2025 · 136 papéis | **UTEC11** +27,1% · **VXXV11** +21,5% · **SPBZ11** +21,5% | **TGAR11** -64,7% · **TRXF11** -46,2% · **VGHF11** -46,1% |
+
+<small>⚠️ marca a janela que atravessa 26/10, o pregão do circuit breaker: dos dois lados dessa data o mercado não é o mesmo, e a variação acumulada mistura os dois.</small>
+
+### Para onde foi o dinheiro no dia
+
+| por volume financeiro | por número de negócios |
+|---|---|
+| **PETR4** <small>ação</small> R$ 1.048.938.654 | **BBAS3** <small>ação</small> 61.229 negócios |
+| **VALE3** <small>ação</small> R$ 1.037.385.239 | **MXRF11** <small>ETF/FII</small> 51.165 negócios |
+| **BBAS3** <small>ação</small> R$ 978.980.690 | **BOVA11** <small>ETF/FII</small> 46.443 negócios |
+| **BOVA11** <small>ETF/FII</small> R$ 693.878.916 | **NVDC34** <small>BDR</small> 45.410 negócios |
+| **B3SA3** <small>ação</small> R$ 628.511.867 | **VALE3** <small>ação</small> 38.776 negócios |
+| **EMBJ3** <small>ação</small> R$ 573.084.586 | **MGLU3** <small>ação</small> 38.027 negócios |
+
+<small>Aqui entra toda classe de ativo. Dinheiro negociado em BDR é fluxo real da B3: escondê-lo seria mentir sobre para onde o dinheiro foi, ainda que o papel acompanhe uma empresa de fora.</small>
+
+### Aluguel: o custo de ficar vendido
+
+| papel | posição em aberto | taxa do tomador | de quando |
+|---|---|---|---|
+| **BOVA11** | R$ 22.378.188.076 | 0,18% a.a. <small>1.027 ctr</small> | 17/11 |
+| **PETR4** | R$ 10.001.144.009 | 0,08% a.a. <small>6.371 ctr</small> | 17/11 |
+| **VALE3** | R$ 9.636.075.475 | 0,04% a.a. <small>1.083 ctr</small> | 17/11 |
+| **BBAS3** | R$ 8.934.758.404 | 0,82% a.a. <small>9.179 ctr</small> | 17/11 |
+| **ITUB4** | R$ 7.458.265.231 | 0,04% a.a. <small>319 ctr</small> | hoje |
+| **PETR3** | R$ 6.768.035.041 | 4,39% a.a. <small>6.646 ctr</small> | 17/11 |
+| **BOVV11** | R$ 5.120.911.274 | 0,10% a.a. <small>632 ctr</small> | 17/11 |
+| **BBSE3** | R$ 4.961.423.093 | 0,13% a.a. <small>494 ctr</small> | hoje |
+
+<small>A taxa é a média dos contratos fechados na sessão, e só aparece com ao menos 20 contratos — abaixo disso é média de quase nada. Quando o dia não tem amostra, vale a última sessão que teve, e a coluna diz qual. O acervo de taxas tem 3 sessões e cresce a cada pregão.</small>
+
+| mais caros de alugar | taxa | posição | movimento no acervo |
+|---|---|---|---|
+| **BHIA3** | 40,97% a.a. | R$ 1.121.310 | estável · 41,0% → 41,0% desde 16/11 |
+| **CSNA3** | 33,47% a.a. | R$ 73.637.637 | subindo · 31,4% → 33,5% desde 16/11 |
+| **INTB3** | 29,80% a.a. | R$ 4.510.029 | subindo · 27,1% → 29,8% desde 16/11 |
+| **BRKM5** | 23,76% a.a. | R$ 5.818.184 | caindo · 24,0% → 23,8% desde 16/11 |
+| **CYRE3** | 21,30% a.a. | R$ 95.822.228 | caindo · 23,5% → 21,3% desde 16/11 |
+| **NVDC34** | 16,15% a.a. | R$ 3.734.155 | caindo · 16,6% → 16,1% desde 16/11 |
+| **BEEF3** | 14,75% a.a. | R$ 16.124.434 | subindo · 3,1% → 14,8% desde 16/11 |
+| **VIVA3** | 11,11% a.a. | R$ 22.384.866 | estável · 11,1% → 11,1% desde 16/11 |
+
+<small>Taxa alta e subindo é o mercado cobrando caro para emprestar o papel. Pode ser demanda de quem quer vender a descoberto, pode ser oferta minguando — a tabela mede o custo, não o motivo.</small>
+
+### Mercado a termo
+
+| papel | empresa | prazos | prazo médio | quantidade |
+|---|---|---|---|---|
+| **CPTS11** <small>ETF/FII</small> | FII CAPI SEC | 2 | 50d | 2.223.000 |
+| **AXIA3** <small>ação</small> | AXIA ENERGIA | 3 | 71d | 1.142.500 |
+| **PCAR3** <small>ação</small> | P.ACUCAR-CBD | 1 | 61d | 625.000 |
+| **BEEF3** <small>ação</small> | MINERVA | 2 | 23d | 623.800 |
+| **ASAI3** <small>ação</small> | ASSAI | 1 | 90d | 500.000 |
+| **PNVL3** <small>ação</small> | DIMED | 1 | 61d | 425.000 |
+| **PGMN3** <small>ação</small> | PAGUE MENOS | 4 | 105d | 417.600 |
+| **LPSB3** <small>ação</small> | LOPES BRASIL | 1 | 61d | 310.000 |
+
+<small>90 papéis em 155 linhas do boletim: a B3 publica uma linha por papel E prazo, então somar sem agregar mostra o mesmo papel várias vezes e nenhuma delas é o tamanho da posição.</small>
+
 ## Anomalias do dia
 
 | ativo | movimento | desvio | onde |
 |---|---|---|---|
-| **Aço laminado** | 5,25% | z 5.853462288559081 | internacional |
-| **Algodão** | 6,18% | z 3.929721452824675 | internacional |
-| **CPER (Cobre)** | volume 3,04× a mediana | True | fluxo de ETF |
-| **DBB (Metais industriais)** | volume 2,30× a mediana | True | fluxo de ETF |
-| **BNO (Petróleo Brent)** | volume 0,37× a mediana | True | fluxo de ETF |
-| **CORN (Milho)** | volume 1,93× a mediana | True | fluxo de ETF |
-| **SOYB (Soja)** | volume 1,90× a mediana | True | fluxo de ETF |
-| **WEAT (Trigo)** | volume 1,83× a mediana | True | fluxo de ETF |
-| **EWZS (Small caps Brasil)** | volume 0,30× a mediana | True | fluxo de ETF |
+| **Aço laminado** | 5,25% | z 5,9 | internacional |
+| **Algodão** | 6,18% | z 3,9 | internacional |
+| **CPER (Cobre)** | volume 3,04× a mediana | acima do normal | fluxo de ETF |
+| **DBB (Metais industriais)** | volume 2,30× a mediana | acima do normal | fluxo de ETF |
+| **BNO (Petróleo Brent)** | volume 0,37× a mediana | abaixo do normal | fluxo de ETF |
+| **CORN (Milho)** | volume 1,93× a mediana | acima do normal | fluxo de ETF |
+| **SOYB (Soja)** | volume 1,90× a mediana | acima do normal | fluxo de ETF |
+| **WEAT (Trigo)** | volume 1,83× a mediana | acima do normal | fluxo de ETF |
+| **EWZS (Small caps Brasil)** | volume 0,30× a mediana | abaixo do normal | fluxo de ETF |
+| **BEEF3 · aluguel** | 3,1% → 14,8% a.a. | 4,7× em 3 pregões | custo de ficar vendido |
 
 <small>O desvio é medido contra a mediana e o MAD dos últimos 252 pregões, não contra o desvio-padrão: um único dia extremo — como 26/10/2026 — infla o desvio-padrão a ponto de nenhum dia normal mais parecer anômalo, e o alerta ficaria cego justamente depois de um susto.</small>
 
@@ -222,6 +324,7 @@ Os 33 índices publicados pela B3 no pregão de 2026-11-18, do que mais subiu ao
 | Dólar | Banco Central · PTAX de venda (série SGS 1) | 19/11 às 08:27 |
 | Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 19/11 às 08:27 |
 | Índices da B3 | B3 · acervo diário de índices | 2026-11-18 |
+| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 19/11 às 15:28 |
 | O lado | medido sobre o painel do próprio site | 19/11 às 08:28 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
