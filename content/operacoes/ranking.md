@@ -1,11 +1,11 @@
 ---
 title: "🏆 Ranking das operações"
-date: 2026-11-18
+date: 2026-11-19
 tags: [operacoes]
 description: "As regras de compra do site ordenadas pelo resultado, com treino, teste e placar ao vivo"
 ---
 
-*Atualizado 18/11/2026 20:00 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
+*Atualizado 19/11/2026 10:16 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
 
 As regras de compra do site, **da que mais rendeu para a que menos rendeu**. O resultado é por operação, no índice à vista, sem custos e sem juros compostos (a soma é só a soma das operações). **Treino** = entradas de 2001 a 2013 e **teste** = 2014 em diante: uma regra só é confiável se ganhou nos dois. O único resultado sem nenhum ajuste ao histórico é o **placar ao vivo**.
 
@@ -13,7 +13,7 @@ As regras de compra do site, **da que mais rendeu para a que menos rendeu**. O r
 
 | # | Regra | Desde | Operações | Média por operação | Acerto | Soma | **Por ano** | Treino × teste | Melhor · pior | Ao vivo |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 🥇 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | 2000 | 29 (1,1/ano) | +15,8% | 48% | +459,5% | **+17,8%** | +18,4% × +13,4% ✅ | +122,6% · -16,5% | — |
+| 🥇 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | 2000 | 29 (1,1/ano) | +15,8% | 48% | +459,5% | **+17,7%** | +18,4% × +13,4% ✅ | +122,6% · -16,5% | — |
 | 🥈 | [📈 Tendência MME9 · Diário](operacoes/tendencia) | 2000 | 380 (14,3/ano) | +1,0% | 40% | +391,2% | **+14,7%** | +1,2% × +0,8% ✅ | +22,4% · -10,0% | — |
 | 🥉 | [📈 Tendência MME9 · Semanal](operacoes/tendencia) | 2000 | 90 (3,4/ano) | +3,0% | 48% | +265,7% | **+10,0%** | +4,1% × +1,9% ✅ | +60,2% · -10,0% | — |
 | 4 | [🎯 Diário · Nadaraya](operacoes/entradas) | 2000 | 81 (3,1/ano) | +3,2% | 46% | +259,9% | **+9,8%** | +3,9% × +2,6% ✅ | +36,6% · -11,2% | — |
