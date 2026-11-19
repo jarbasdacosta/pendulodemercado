@@ -5,15 +5,9 @@ tags: [mercados]
 description: "O que mandou no dia: internacional, Brasil, a sincronia entre Ibovespa, dólar e juro, os índices da B3 e onde está — ou não está — a vantagem"
 ---
 
-> [!warning] Divergência entre números desta página
->
-> O fechamento do Ibovespa é de **2026-11-18**, mas as variações de dia, mês, ano e 360 dias são calculadas sobre a série que termina em **2026-11-17**. Os dois números são corretos, só não são do mesmo pregão — não os compare entre si.
->
-> Isto é um defeito, não uma característica — está dito aqui porque esconder seria pior.
-
 > [!note] A que pregão se refere cada bloco
 >
-> **Internacional**: 2026-11-19 · **Ibovespa (fechamento oficial)**: 2026-11-18 · **Ibovespa (série das variações)**: 2026-11-17 · **Dólar (PTAX)**: 2026-11-18 · **Curva de juros**: 2026-11-18 · **O lado (painel de vantagem)**: 2026-11-17
+> **Internacional**: 2026-11-19 · **Ibovespa (fechamento oficial)**: 2026-11-18 · **Dólar (PTAX)**: 2026-11-18 · **Curva de juros**: 2026-11-18 · **O lado (painel de vantagem)**: 2026-11-18
 >
 > Blocos com datas diferentes é o normal: as bolsas lá fora negociam enquanto a B3 ainda não publicou o boletim do dia, e a PTAX sai no meio da tarde. O que não vale é comparar número de um com número de outro.
 
@@ -21,7 +15,7 @@ description: "O que mandou no dia: internacional, Brasil, a sincronia entre Ibov
 
 > [!example] ⚪ nenhum sinal passou da trava hoje — sem vantagem medível, ficar de fora é a posição
 >
-> Medido em 1022 pregões (2022-10-13 a 2026-11-17), 4 sinais testados.
+> Medido em 1023 pregões (2022-10-13 a 2026-11-18), 4 sinais testados.
 >
 > **Por que a régua é dura:** testando 4 sinais a 0.05, a chance de um passar por sorte seria ~19%. Por isso a exigência de cada sinal é p < 0.0125, e não os 5% de costume. Sem essa correção o site viraria uma máquina de achar padrão onde não tem.
 >
@@ -29,23 +23,24 @@ description: "O que mandou no dia: internacional, Brasil, a sincronia entre Ibov
 
 | sinal | situação | lado | base medida | o que NÃO fazer |
 |---|---|---|---|---|
-| configuração do dia (bolsa, dólar, juro) | bolsa sobe com dolar em alta e juro em queda · Ibovespa +0.31%, dólar +0.92%, juro -14 p.b | FORA | 105 casos · subiu em 50,5% (± 4,9 p.p.) · p=0,922 | operar a configuração como se ela mandasse: o teste mede o dia seguinte, não a semana |
+| configuração do dia (bolsa, dólar, juro) | risco saindo · Ibovespa -1.34%, dólar +0.43%, juro +18 p.b. | FORA | 221 casos · subiu em 55,2% (± 3,4 p.p.) · p=0,122 | operar a configuração como se ela mandasse: o teste mede o dia seguinte, não a semana |
 | tendência (preço contra as médias de 21 e 63 dias) | abaixo da média de 21 dias · média de 21 abaixo da de 63 | FORA | 210 casos · subiu em 50,5% (± 3,5 p.p.) · p=0,890 | usar isso para o intradia: a medida é de 5 pregões |
-| o dólar ainda informa a bolsa? (últimos 126 pregões) | nos últimos 126 pregões, depois de o dólar subir o Ibovespa ficou em -0.064% no dia seguin | FORA | 126 casos · subiu em 43,7% (± 4,5 p.p.) · p=0,154 | tratar o dólar como termômetro da bolsa quando esta medida não passar — o elo clássico nem sempre está ligado |
-| o juro informa a bolsa? (últimos 126 pregões) | juro de hoje -14 p.b. | FORA | 126 casos · subiu em 42,9% (± 4,5 p.p.) · p=0,109 | inverter a leitura num dia de Copom ou de leilão do Tesouro: ali o juro reage a evento, não a risco |
-| tamanho do dia (volatilidade) | movimento de 0.31% contra 0.86% típicos de 21 dias — abaixo do normal | NÃO DÁ LADO · DIMENSIONA | razão 0.36 contra a mediana de 21 dias | dia parado costuma anteceder dia grande; não confundir calma com segurança |
+| o dólar ainda informa a bolsa? (últimos 126 pregões) | nos últimos 126 pregões, depois de o dólar subir o Ibovespa ficou em -0.077% no dia seguin | FORA | 126 casos · subiu em 44,4% (± 4,5 p.p.) · p=0,212 | tratar o dólar como termômetro da bolsa quando esta medida não passar — o elo clássico nem sempre está ligado |
+| o juro informa a bolsa? (últimos 126 pregões) | juro de hoje +18 p.b. | FORA | 126 casos · subiu em 42,9% (± 4,5 p.p.) · p=0,109 | inverter a leitura num dia de Copom ou de leilão do Tesouro: ali o juro reage a evento, não a risco |
+| tamanho do dia (volatilidade) | movimento de 1.34% contra 1.06% típicos de 21 dias — dentro do normal | NÃO DÁ LADO · DIMENSIONA | razão 1.26 contra a mediana de 21 dias | nada a ajustar por volatilidade |
 
 ## Brasil
 
 **Ibovespa** · fechamento oficial da B3 em 2026-11-18: **167.537** pontos
 
-| | dia | mês | ano | 360 dias |
-|---|---|---|---|---|
-| Ibovespa 🟢 | 0,31% | 1,13% | 5,39% | 9,72% |
-| Dólar (PTAX) 🟢 | 0,43% | 7,18% | 5,59% | 7,79% |
-| DI 2030 🔴 | -14 p.b. | -18 p.b. | 186 p.b. | 217 p.b. |
+| | último | dia | mês | ano | 360 dias |
+|---|---|---|---|---|---|
+| Ibovespa 🔴 | 167.538 pts | -1,34% | -0,23% | 3,98% | 8,25% |
+| Dólar (PTAX) 🟢 | R$ 5,8102 | 0,43% | 7,18% | 5,59% | 7,79% |
+| DI 2030 🟢 | 15,210% | 18 p.b. | 0 p.b. | 203 p.b. | 234 p.b. |
+| Dólar futuro (WDOZ26) | 5.897,00 | — | — | — | — |
 
-<small>Ibovespa e DI pela série do MT5 (fecha em 2026-11-17); dólar pela PTAX do Banco Central em 2026-11-18, que é a taxa oficial e não tem salto de rolagem como o futuro contínuo. Juro em pontos-base, não em porcentagem de si mesmo: de 14,00% para 15,00% são 100 p.b., não “+7%”.</small>
+<small>Ibovespa e DI pela série do MT5 (fecha em 2026-11-18); dólar pela PTAX do Banco Central em 2026-11-18, que é a taxa oficial e não tem salto de rolagem como o futuro contínuo. Juro em pontos-base, não em porcentagem de si mesmo: de 14,00% para 15,00% são 100 p.b., não “+7%”.</small>
 
 **Curva de juros** · 43 vencimentos negociados em 2026-11-18
 
@@ -63,20 +58,20 @@ description: "O que mandou no dia: internacional, Brasil, a sincronia entre Ibov
 
 ## Sincronia: Ibovespa, dólar e juro andam juntos?
 
-> [!example] 🟡 **bolsa sobe com dolar em alta e juro em queda** em 2026-11-17
+> [!example] 🟢 **risco saindo** em 2026-11-18
 >
-> Ibovespa +0,31% · dólar +0,92% · juro -14 p.b.
+> Ibovespa -1,34% · dólar +0,43% · juro +18 p.b.
 >
-> Nos últimos 21 pregões, **13 de 21** dias tiveram os três em configuração coerente.
+> Nos últimos 21 pregões, **14 de 21** dias tiveram os três em configuração coerente.
 
 | par | correlação (postos) | percentil histórico | Pearson | sem o dia mais influente |
 |---|---|---|---|---|
-| Ibovespa × dólar | **-0.421** | 59 | -0.864 | -0.198 ⚠️ |
-| Ibovespa × juro | **-0.686** | 26 | -0.948 | -0.545 ⚠️ |
+| Ibovespa × dólar | **-0.409** | 63 | -0.864 | -0.204 ⚠️ |
+| Ibovespa × juro | **-0.694** | 24 | -0.948 | -0.568 ⚠️ |
 
 <small>⚠️ marca o par em que **um único dia carrega o número**: tirando aquele dia da janela, a correlação muda de patamar. Por isso o valor principal é o de postos (Spearman), que resiste a um ponto fora da curva, e o percentil é calculado contra ele. Vender “sincronia histórica” que na verdade é um pregão isolado seria estatística com cara de manchete.</small>
 
-> [!note] Desde 2026-10-26 (15 pregões): Ibovespa × dólar **-0.122** · Ibovespa × juro **-0.535**.
+> [!note] Desde 2026-10-26 (16 pregões): Ibovespa × dólar **-0.124** · Ibovespa × juro **-0.559**.
 > 
 > reeleicao: Ibovespa -13,88%, dolar +8,8%, curva de DI +~260 p.b. em um dia, com circuit breaker.
 > 
@@ -223,11 +218,11 @@ Os 33 índices publicados pela B3 no pregão de 2026-11-18, do que mais subiu ao
 | bloco | fonte | coletado |
 |---|---|---|
 | Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 19/11 às 06:30 |
-| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 19/11 às 06:31 |
-| Dólar | Banco Central · PTAX de venda (série SGS 1) | 19/11 às 06:31 |
-| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 19/11 às 06:31 |
+| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 19/11 às 08:27 |
+| Dólar | Banco Central · PTAX de venda (série SGS 1) | 19/11 às 08:27 |
+| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 19/11 às 08:27 |
 | Índices da B3 | B3 · acervo diário de índices | 2026-11-18 |
-| O lado | medido sobre o painel do próprio site | 19/11 às 06:32 |
+| O lado | medido sobre o painel do próprio site | 19/11 às 08:28 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
 
