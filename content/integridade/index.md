@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **18/11/2026**, com 59 tabelas no acervo · página gerada em 19/11/2026 14:16*
+*Pregão conferido: **18/11/2026**, com 59 tabelas no acervo · página gerada em 19/11/2026 14:30*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -20,9 +20,9 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | **1** — veja a seção 1 |
-| Páginas publicadas | 356 |
+| Páginas publicadas | 357 |
 | Conferências cruzadas das páginas | **2 divergência(s)** de 71 — veja a seção 2 |
-| Página escrita mais recentemente | 19/11 14:16 |
+| Página escrita mais recentemente | 19/11 14:30 |
 | Páginas sem data no cabeçalho | 8 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
