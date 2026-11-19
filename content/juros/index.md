@@ -3,21 +3,7 @@ title: "📉 Juros: o que o mercado paga × o que os economistas esperam"
 date: 2026-11-18
 ---
 
-*Curva da B3 de 18/11/2026 · Focus de 13/11/2026 · atualizado em 19/11/2026 06:27*
-
-
-<!-- NOTAS-INICIO -->
-> [!danger]- 4 pontos de atenção nesta página
-> **⛔ A comparação é média contra média, com uma suposição** — A taxa de um DI é a **média** do CDI esperado até o vencimento; o Focus publica o **nível** da Selic em cada reunião. Aqui os dois são comparados por ano-calendário, entre grandezas iguais, supondo que as reuniões do Copom estão espalhadas de forma regular pelo ano. Para decisão de verdade, refaça a conta com as datas exatas do calendário do Copom.
->
-> **⛔ Prêmio não é previsão** — Prêmio alto não quer dizer que a Selic não vai subir. Quer dizer que o mercado está pagando bem para quem aceitar o risco de ela não subir. Confundir as duas coisas é a forma mais rápida de perder dinheiro em juro.
->
-> **⚠️ O Focus só projeta Selic por reunião para cerca de dois anos** — Nos anos seguintes a tabela mostra apenas o que o mercado paga, sem consenso para comparar. A ausência de comparação não significa que o prêmio seja zero — significa que não há com o que compará-lo.
->
-> **ℹ️ O CDI roda um pouco abaixo da Selic meta** — A diferença é de cerca de 0,10 ponto percentual e **não está descontada** nos números desta página. Em comparações de 3 pontos ela é irrelevante; em comparações de 0,2, não.
->
-> *Todos os pontos de atenção do site estão juntos em [Avisos](/avisos/).*
-<!-- NOTAS-FIM -->
+*Curva da B3 de 18/11/2026 · Focus de 13/11/2026 · atualizado em 19/11/2026 16:44*
 
 Existem duas respostas para "quanto vai ser a Selic", e elas quase nunca são iguais.
 
@@ -88,14 +74,14 @@ Cada linha é um vencimento. A taxa é a média de CDI que o mercado aceita de h
 | 03/04/2028 | DI1J28 | 344 | 14,659% | 82.966,57 | -10,0 | 627.517 |
 | 03/07/2028 | DI1N28 | 405 | 14,772% | 80.137,37 | -12,9 | 983.607 |
 | 02/10/2028 | DI1V28 | 469 | 14,857% | 77.275,22 | -15,2 | 668.888 |
-| 01/11/2028 | DI1X28 | 490 | 14,880% | 76.358,62 | -16,5 | 45.306 |
-| 01/12/2028 | DI1Z28 | 509 | 14,905% | 75.530,95 | -17,7 | 45.517 |
+| 01/11/2028 | DI1X28 | 490 | 14,880% | 76.358,62 | -16,5 | 45.306 ⚠️ |
+| 01/12/2028 | DI1Z28 | 509 | 14,905% | 75.530,95 | -17,7 | 45.517 ⚠️ |
 | 02/01/2029 | DI1F29 | 529 | 14,930% | 74.668,57 | -18,6 | 3.833.672 |
 | 02/04/2029 | DI1J29 | 590 | 15,002% | 72.089,55 | -21,3 | 228.932 |
 | 02/07/2029 | DI1N29 | 653 | 15,054% | 69.532,40 | -23,2 | 2.410.882 |
 | 01/10/2029 | DI1V29 | 717 | 15,081% | 67.054,84 | -25,7 | 157.844 |
-| 01/11/2029 | DI1X29 | 739 | 15,082% | 66.235,89 | -27,0 | 15.938 |
-| 03/12/2029 | DI1Z29 | 758 | 15,091% | 65.522,65 | -28,5 | 16.378 |
+| 01/11/2029 | DI1X29 | 739 | 15,082% | 66.235,89 | -27,0 | 15.938 ⚠️ |
+| 03/12/2029 | DI1Z29 | 758 | 15,091% | 65.522,65 | -28,5 | 16.378 ⚠️ |
 | 02/01/2030 | DI1F30 | 778 | 15,105% | 64.771,48 | -29,8 | 1.868.117 |
 | 01/04/2030 | DI1J30 | 839 | 15,114% | 62.586,71 | -32,8 | 101.273 |
 | 01/07/2030 | DI1N30 | 901 | 15,136% | 60.415,15 | -38,0 | 152.685 |
@@ -103,7 +89,7 @@ Cada linha é um vencimento. A taxa é a média de CDI que o mercado aceita de h
 | 02/01/2031 | DI1F31 | 1.030 | 15,159% | 56.163,87 | -41,3 | 2.939.638 |
 | 01/04/2031 | DI1J31 | 1.091 | 15,170% | 54.254,96 | -45,7 | 91.799 |
 | 01/07/2031 | DI1N31 | 1.152 | 15,186% | 52.398,12 | -46,6 | 73.444 |
-| 01/10/2031 | DI1V31 | 1.218 | 15,195% | 50.474,36 | -47,2 | 39.955 |
+| 01/10/2031 | DI1V31 | 1.218 | 15,195% | 50.474,36 | -47,2 | 39.955 ⚠️ |
 | 02/01/2032 | DI1F32 | 1.282 | 15,224% | 48.630,92 | -49,7 | 1.339.669 |
 | 03/01/2033 | DI1F33 | 1.534 | 15,257% | 42.132,04 | -56,4 | 784.673 |
 | 02/01/2034 | DI1F34 | 1.785 | 15,259% | 36.570,97 | -62,0 | 344.981 |
@@ -113,13 +99,13 @@ Cada linha é um vencimento. A taxa é a média de CDI que o mercado aceita de h
 | 04/01/2038 | DI1F38 | 2.784 | 15,167% | 21.012,18 | -84,6 | 55.082 |
 | 03/01/2039 | DI1F39 | 3.035 | 15,137% | 18.312,56 | -92,2 | 45.800 |
 | 02/01/2040 | DI1F40 | 3.286 | 15,119% | 15.946,39 | -99,9 | 48.734 |
-| 02/01/2041 | DI1F41 | 3.536 | 15,110% | 13.882,80 | -107,5 | 24.622 |
+| 02/01/2041 | DI1F41 | 3.536 | 15,110% | 13.882,80 | -107,5 | 24.622 ⚠️ |
 
 
 **Onde o mercado está, de fato.** A coluna *Em aberto* é o número de contratos em posição no fim do pregão. Ela importa porque os vencimentos da tabela não têm o mesmo peso: preço de contrato com posição pequena é preço que quase ninguém sustentou com dinheiro.
-**Medido hoje.** A posição se concentra em DI1F27 (8.247.358), DI1F28 (5.103.973), DI1F29 (3.833.672), que juntos somam **40,2%** dos 42.796.624 contratos em aberto na curva. Outros 25 vencimento(s) têm menos de 1% do total cada um.
+**Medido hoje.** A posição se concentra em DI1F27 (8.247.358), DI1F28 (5.103.973), DI1F29 (3.833.672), que juntos somam **40,2%** dos 42.796.624 contratos em aberto na curva. Os 6 vencimento(s) com posição abaixo de 45.786 contratos (20% da mediana da curva) estão marcados com ⚠️ na coluna *Em aberto*: **DI1X28**, **DI1Z28**, **DI1X29**, **DI1Z29**, **DI1V31**, **DI1F41**.
 **Leitura.** Concentração assim é normal no DI: a liquidez se junta em poucos vértices, e os demais vencimentos existem mais para fechar a curva do que para negociar. Na prática, um movimento de taxa num vencimento magro diz menos sobre expectativa do que o mesmo movimento num vértice cheio, e interpolar entre dois pontos magros é interpolar entre dois preços frouxos. Isto é leitura de risco, não recomendação: o risco é de quem opera.
-*Travessão na coluna quer dizer que a B3 ainda não publicou a posição daquele dia — ela sai só na manhã seguinte ao pregão —, e não que a posição seja zero.*
+*⚠️ na coluna **Em aberto** marca vencimento com posição muito abaixo da mediana da curva: a taxa dele existe e está medida, mas foi formada por pouca gente com dinheiro em risco. O corte é relativo ao próprio dia, e não a um número fixo, porque a liquidez do DI muda de lugar conforme o vencimento se aproxima. Travessão quer dizer que a B3 ainda não publicou a posição daquele dia — ela sai só na manhã seguinte ao pregão —, e não que a posição seja zero.*
 
 ## O caminho que o Focus projeta
 A Selic esperada em cada reunião do Copom, pela mediana das instituições.

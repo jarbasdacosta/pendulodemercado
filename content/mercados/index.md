@@ -324,7 +324,7 @@ A variação de um BDR é a empresa lá fora multiplicada pelo dólar. É inform
 | Dólar | Banco Central · PTAX de venda (série SGS 1) | 19/11 às 08:27 |
 | Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 19/11 às 08:27 |
 | Índices da B3 | B3 · acervo diário de índices | 2026-11-18 |
-| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 19/11 às 16:14 |
+| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 19/11 às 16:44 |
 | O lado | medido sobre o painel do próprio site | 19/11 às 08:28 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
