@@ -5,6 +5,20 @@ date: 2026-11-18
 
 *Curva da B3 de 18/11/2026 · Focus de 13/11/2026 · atualizado em 19/11/2026 16:44*
 
+
+<!-- NOTAS-INICIO -->
+> [!danger]- 4 pontos de atenção nesta página
+> **⛔ A comparação é média contra média, com uma suposição** — A taxa de um DI é a **média** do CDI esperado até o vencimento; o Focus publica o **nível** da Selic em cada reunião. Aqui os dois são comparados por ano-calendário, entre grandezas iguais, supondo que as reuniões do Copom estão espalhadas de forma regular pelo ano. Para decisão de verdade, refaça a conta com as datas exatas do calendário do Copom.
+>
+> **⛔ Prêmio não é previsão** — Prêmio alto não quer dizer que a Selic não vai subir. Quer dizer que o mercado está pagando bem para quem aceitar o risco de ela não subir. Confundir as duas coisas é a forma mais rápida de perder dinheiro em juro.
+>
+> **⚠️ O Focus só projeta Selic por reunião para cerca de dois anos** — Nos anos seguintes a tabela mostra apenas o que o mercado paga, sem consenso para comparar. A ausência de comparação não significa que o prêmio seja zero — significa que não há com o que compará-lo.
+>
+> **ℹ️ O CDI roda um pouco abaixo da Selic meta** — A diferença é de cerca de 0,10 ponto percentual e **não está descontada** nos números desta página. Em comparações de 3 pontos ela é irrelevante; em comparações de 0,2, não.
+>
+> *Todos os pontos de atenção do site estão juntos em [Avisos](/avisos/).*
+<!-- NOTAS-FIM -->
+
 Existem duas respostas para "quanto vai ser a Selic", e elas quase nunca são iguais.
 
 O **Boletim Focus** reúne o que mais de cem instituições **projetam**. É opinião informada,
