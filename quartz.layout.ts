@@ -201,14 +201,14 @@ const grupos = [
   grupo(
     "7 · O que já aconteceu",
     (node) => {
-      const dentro = ["linha-do-tempo", "historico", "historico-anterior"]
+      const dentro = ["linha-do-tempo", "autopsias", "historico", "historico-anterior"]
       const s = node.slug ?? ""
       return dentro.some((d) => s === d || s.startsWith(d + "/"))
     },
     (a, b) => {
       // sem os anos (2000..2026) na lista, de propósito: é a ausência deles que os faz
       // cair no localeCompare invertido e sair do mais recente para o mais antigo
-      const ordem = ["linha-do-tempo", "historico", "historico-anterior"]
+      const ordem = ["linha-do-tempo", "autopsias", "historico", "historico-anterior"]
       const ia = ordem.indexOf(a.slugSegment)
       const ib = ordem.indexOf(b.slugSegment)
       if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib)
