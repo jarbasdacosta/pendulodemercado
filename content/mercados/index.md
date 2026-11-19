@@ -203,9 +203,9 @@ Os 33 índices publicados pela B3 no pregão de 2026-11-18, do que mais subiu ao
 >
 > Entram no ranking os 450 papéis com volume mediano acima de R$ 1.000.000 por dia (ação 204 · ETF/FII 162 · BDR 67 · outro 9 · unit 8).
 
-> [!warning] 7 papéis líquidos ficaram de fora dos rankings de período
+> [!warning] 4 papéis líquidos ficaram de fora dos rankings de período
 >
-> **AZEV4**, **AZUL53**, **BEEF1**, **CHIP11**, **D1EL34**, **M1RN34**, **RCSL4** tiveram desdobramento ou grupamento que a nossa série ainda não absorveu. A variação deles no período seria inventada, não medida.
+> **AZUL53**, **BEEF1**, **M1RN34**, **RCSL4** tiveram desdobramento ou grupamento que a nossa série ainda não absorveu. A variação deles no período seria inventada, não medida.
 >
 > A barreira poupou 45 suspeitas que caíram no pregão de 26/10 — queda de 50% num dia de circuit breaker é indistinguível de um desdobramento 1:2 para quem só olha a razão — e 99 em que o preço voltou depois, o que desdobramento não faz.
 
@@ -215,8 +215,8 @@ Os 33 índices publicados pela B3 no pregão de 2026-11-18, do que mais subiu ao
 |---|---|---|---|
 | dia | 16/11 · 211 papéis | **AZEV3** +31,1% · **LJQQ3** +17,5% · **HAPV3** +12,5% | **PMAM3** -12,0% · **ONCO3** -6,5% · **CURY3** -4,2% |
 | mês ⚠️ | 18/10 · 211 papéis | **SUZB3** +28,7% · **EMBJ3** +20,0% · **TIMS3** +18,9% | **MOVI3** -64,1% · **SIMH3** -61,0% · **HBOR3** -61,0% |
-| ano ⚠️ | 01/01 · 203 papéis | **AZEV3** +129,4% · **TASA4** +110,6% · **JSLG3** +96,3% | **AZTE3** -82,7% · **BHIA3** -79,0% · **ONCO3** -73,4% |
-| 360 dias ⚠️ | 22/11/2025 · 201 papéis | **CBAV3** +129,3% · **JSLG3** +117,1% · **TASA4** +113,8% | **AZTE3** -81,8% · **BHIA3** -80,7% · **PMAM3** -73,5% |
+| ano ⚠️ | 01/01 · 204 papéis | **AZEV3** +129,4% · **TASA4** +110,6% · **JSLG3** +96,3% | **AZTE3** -82,7% · **AZEV4** -82,1% · **BHIA3** -79,0% |
+| 360 dias ⚠️ | 22/11/2025 · 202 papéis | **CBAV3** +129,3% · **JSLG3** +117,1% · **TASA4** +113,8% | **AZEV4** -85,0% · **AZTE3** -81,8% · **BHIA3** -80,7% |
 
 ### BDRs — separados de propósito
 
@@ -226,8 +226,8 @@ A variação de um BDR é a empresa lá fora multiplicada pelo dólar. É inform
 |---|---|---|---|
 | dia | 16/11 · 67 papéis | **BCPX39** +3,6% · **SPCX34** +2,8% · **BSIL39** +1,8% | **STOC34** -8,4% · **NIKE34** -6,8% · **D1DG34** -6,6% |
 | mês ⚠️ | 18/10 · 66 papéis | **LILY34** +27,5% · **BERK34** +25,3% · **WALM34** +22,3% | **XPBR31** -43,9% · **ITLC34** -30,8% · **D1DG34** -27,8% |
-| ano ⚠️ | 01/01 · 62 papéis | **MUTC34** +153,5% · **A1MD34** +143,3% · **O1KT34** +109,7% | **STOC34** -49,0% · **C2OI34** -47,1% · **NIKE34** -39,2% |
-| 360 dias ⚠️ | 22/11/2025 · 62 papéis | **MUTC34** +258,0% · **A1MD34** +160,6% · **O1KT34** +137,3% | **C2OI34** -47,8% · **STOC34** -47,6% · **BABA34** -39,5% |
+| ano ⚠️ | 01/01 · 63 papéis | **D1EL34** +165,6% · **MUTC34** +153,5% · **A1MD34** +143,3% | **STOC34** -49,0% · **C2OI34** -47,1% · **NIKE34** -39,2% |
+| 360 dias ⚠️ | 22/11/2025 · 63 papéis | **MUTC34** +258,0% · **D1EL34** +179,0% · **A1MD34** +160,6% | **C2OI34** -47,8% · **STOC34** -47,6% · **BABA34** -39,5% |
 
 ### ETFs e FIIs
 
@@ -236,7 +236,7 @@ A variação de um BDR é a empresa lá fora multiplicada pelo dólar. É inform
 | dia | 16/11 · 156 papéis | **HSLG11** +3,0% · **KORE11** +2,0% · **PCIP11** +2,0% | **BDIF11** -3,2% · **PVBI11** -3,0% · **XBCI11** -3,0% |
 | mês ⚠️ | 18/10 · 154 papéis | **DOLA11** +14,3% · **USDB11** +13,9% · **DOLX11** +13,8% | **TGAR11** -38,2% · **HIGH11** -31,4% · **VGHF11** -30,2% |
 | ano ⚠️ | 01/01 · 143 papéis | **CHIP11** +33,0% · **UTEC11** +18,5% · **SPBZ11** +15,5% | **TGAR11** -67,0% · **VGHF11** -46,6% · **TRXF11** -44,7% |
-| 360 dias ⚠️ | 22/11/2025 · 136 papéis | **UTEC11** +27,1% · **VXXV11** +21,5% · **SPBZ11** +21,5% | **TGAR11** -64,7% · **TRXF11** -46,2% · **VGHF11** -46,1% |
+| 360 dias ⚠️ | 22/11/2025 · 137 papéis | **CHIP11** +50,5% · **UTEC11** +27,1% · **VXXV11** +21,5% | **TGAR11** -64,7% · **TRXF11** -46,2% · **VGHF11** -46,1% |
 
 <small>⚠️ marca a janela que atravessa 26/10, o pregão do circuit breaker: dos dois lados dessa data o mercado não é o mesmo, e a variação acumulada mistura os dois.</small>
 
@@ -324,7 +324,7 @@ A variação de um BDR é a empresa lá fora multiplicada pelo dólar. É inform
 | Dólar | Banco Central · PTAX de venda (série SGS 1) | 19/11 às 08:27 |
 | Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 19/11 às 08:27 |
 | Índices da B3 | B3 · acervo diário de índices | 2026-11-18 |
-| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 19/11 às 15:28 |
+| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 19/11 às 16:14 |
 | O lado | medido sobre o painel do próprio site | 19/11 às 08:28 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
