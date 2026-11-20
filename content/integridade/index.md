@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 47 tabelas no acervo · página gerada em 20/11/2026 06:54*
+*Pregão conferido: **19/11/2026**, com 47 tabelas no acervo · página gerada em 20/11/2026 13:25*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -22,7 +22,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 360 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 20/11 06:54 |
+| Página escrita mais recentemente | 20/11 13:25 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -108,14 +108,14 @@ Nenhuma tabela do pregão conferido ficou abaixo da metade do seu próprio norma
 
 Duas medidas diferentes, que antes eram confundidas numa só. O **mtime** diz quando o gerador escreveu o arquivo e pega gerador que parou de rodar. A **data declarada** diz a que pregão o conteúdo se refere e pega gerador que roda mas cujo dado não anda — que foi o defeito do agro em 16/11.
 
-Pregão mais recente declarado por alguma página: **19/11/2026**.
+Pregão mais recente declarado por alguma página: **20/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `diario/index.md` | 16/11 14:43 | 3.7 |
-| `intraday/index.md` | 16/11 14:43 | 3.7 |
-| `por-onde-comecar.md` | 16/11 15:20 | 3.6 |
-| `ofertas.md` | 16/11 21:56 | 3.4 |
+| `diario/index.md` | 16/11 14:43 | 3.9 |
+| `intraday/index.md` | 16/11 14:43 | 3.9 |
+| `por-onde-comecar.md` | 16/11 15:20 | 3.9 |
+| `ofertas.md` | 16/11 21:56 | 3.6 |
 
 ### As páginas concordam entre si?
 
@@ -167,8 +167,8 @@ Barras de 1 minuto dos contratos de índice, montadas dos negócios individuais 
 
 | o que | situação |
 |---|---|
-| Pregões arquivados | **21**, de 19/10/2026 a 18/11/2026 |
-| Tamanho | 427 KB |
+| Pregões arquivados | **22**, de 19/10/2026 a 19/11/2026 |
+| Tamanho | 449 KB |
 | Pregões parciais | **3** |
 | Dias úteis sem arquivo na faixa | **1** |
 

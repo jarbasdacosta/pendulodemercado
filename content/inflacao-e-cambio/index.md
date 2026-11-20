@@ -2,7 +2,7 @@
 title: "🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam"
 date: 2026-11-19
 ---
-*Curvas da B3 de 19/11/2026 · Focus de 13/11/2026 · PTAX de 19/11/2026 · atualizado em 20/11/2026 06:51*
+*Curvas da B3 de 19/11/2026 · Focus de 13/11/2026 · PTAX de 19/11/2026 · atualizado em 20/11/2026 13:22*
 
 
 <!-- NOTAS-INICIO -->
