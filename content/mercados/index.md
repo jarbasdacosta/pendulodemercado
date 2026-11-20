@@ -296,6 +296,51 @@ A variação de um BDR é a empresa lá fora multiplicada pelo dólar. É inform
 
 <small>90 papéis em 155 linhas do boletim: a B3 publica uma linha por papel E prazo, então somar sem agregar mostra o mesmo papel várias vezes e nenhuma delas é o tamanho da posição.</small>
 
+## O que o dólar futuro cobra
+
+*Boletim da B3 de 2026-11-19.*
+
+O futuro de dólar é sempre mais caro que o à vista, e isso **não é opinião do mercado sobre o dólar** — é juro. Quem vende dólar para a frente fica com reais rendendo CDI e abre mão de dólares rendendo juro americano; a diferença entra no preço. Esse pedaço se chama carrego, e dá para medir exatamente.
+
+### O carrego, medido entre dois vencimentos
+
+| | vencimento | ajuste | dias úteis | contratos |
+|---|---|---|---|---|
+| curto | `WDOZ26` | 5.924,052 | 7 | 4.998.267 |
+| longo | `WDOF27` | 5.957,353 | 29 | 19.010 |
+
+Entre os dois vão **22 dias úteis**, e o mercado cobra **+0,562%** para atravessar esse pedaço — **+0,0256% por dia útil**, ou **+6,63% ao ano**.
+
+Os dois ajustes saem do mesmo boletim, no mesmo instante, então essa inclinação é carrego limpo: não tem hora do relógio dentro.
+
+### A conferência que o número tem de passar
+
+A curva de DI diz que o juro em reais nessa mesma janela é **+13,75% ao ano**. Tirando o carrego, sobra o juro em dólar implícito: **+6,67% ao ano**.
+
+A B3 publica o cupom cambial dela nos vencimentos longos: `DDIX27` +4,57% · `DDIZ27` +4,76% · `DDIF28` +4,95%. São duas curvas que não se falam — uma deduzida do dólar com o DI, outra negociada direto — e elas ficam a **1,9 ponto percentual** uma da outra, dentro da tolerância de 3 pontos que este bloco usa. Não é o mesmo número, e nem deveria ser: os vértices do DDI são de prazo bem maior que a janela medida aqui. O que a conferência garante é que não há erro de ordem de grandeza — se um dia elas se afastarem muito, o bloco avisa em vez de publicar.
+
+Repare no vencimento mais curto do cupom cambial, o `DDIZ26`: **-47,18% ao ano**, negativo. Juro negativo em dólar não existe. Ele fica assim porque é calculado contra a PTAX da véspera e carrega a defasagem dela.
+
+A série inteira mostra a distorção se diluindo conforme o prazo cresce: **-47,2% → -8,0% → -2,7% → -0,3% → +1,2%**, até estabilizar nos vértices de um ano em diante. É o mesmo artefato explicado abaixo, impresso pela própria bolsa — e é a razão de este bloco medir o carrego entre dois vencimentos de dólar em vez de comparar futuro com PTAX.
+
+### Por que a diferença entre o futuro e a PTAX engana
+
+| ajuste do `WDOZ26` contra a PTAX | **+0,597%** |
+|---|---|
+| carrego de verdade, nos 7 dias úteis que faltam para o vencimento | +0,179% |
+| **sobra, que não é carrego** | **+0,418%** |
+
+A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volta das 13h; o ajuste do futuro sai no fechamento. São cinco horas de pregão entre uma medida e outra, e tudo que o dólar andou nesse intervalo aparece como se fosse prêmio.
+
+### Onde pode estar a vantagem, e o que não fazer
+
+- **O carrego é previsível; o resto não.** Quem opera dólar futuro comprado paga esse carrego todo dia, chova ou faça sol. Num carrego de +0,0256% ao dia útil, uma posição parada por um mês já começa com essa conta contra. Posição comprada em dólar precisa de movimento maior que o carrego só para empatar.
+- **Carrego subindo é juro mudando, não dólar mudando.** Se esta inclinação se abrir sem que a curva de DI se mexa, a conta não fecha e vale desconfiar do dado antes de desconfiar do mercado.
+- **Não leia a diferença entre futuro e PTAX como sinal.** É quase toda relógio, como a tabela acima mostra. Quem conclui “o mercado está apostando no dólar” a partir daqueles dois números está lendo o calendário.
+- **Não compare número de dias corridos com dias úteis.** O carrego corre em dias úteis (252), o juro americano em dias corridos (360). Misturar os dois erra por vários por cento ao ano.
+
+<small>Leitura de risco a partir de dado público da B3, não recomendação. Quem monta a posição carrega o risco.</small>
+
 ## Anomalias do dia
 
 | ativo | movimento | desvio | onde |
