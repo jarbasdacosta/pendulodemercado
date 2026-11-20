@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 47 tabelas no acervo · página gerada em 20/11/2026 19:15*
+*Pregão conferido: **19/11/2026**, com 47 tabelas no acervo · página gerada em 20/11/2026 19:21*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -23,7 +23,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 360 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 20/11 19:15 |
+| Página escrita mais recentemente | 20/11 19:19 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -118,13 +118,7 @@ Pregão mais recente declarado por alguma página: **19/11/2026**.
 | `por-onde-comecar.md` | 16/11 15:20 | 4.2 |
 | `ofertas.md` | 16/11 21:56 | 3.9 |
 
-### Página sem data de dado declarada
-
-São 1. Elas declaram `date:`, que é quando a página foi gerada, mas não declaram `pregao:`, que é a data do dado. Por isso ficam fora da conta do pregão mais recente declarado: o `date:` é o relógio da máquina na maioria dos geradores, e nenhum leitor distingue relógio de dado olhando o mesmo campo. Esta lista é a fila de migração, publicada em vez de ficar na cabeça de alguém.
-
-- `espectro/index.md`
-
-Outras 6 estão **dispensadas** de declarar `pregao:` por não se referirem a pregão nenhum — texto de método, e dado de fonte que não é a B3. O motivo de cada uma está no `SEM_PREGAO` do `integridade.py`, escrito à mão de propósito: adivinhar isso por heurística já tirou desta conferência duas páginas que eram geradas todo dia.
+**6** páginas estão **dispensadas** de declarar `pregao:` por não se referirem a pregão nenhum — texto de método, e dado de fonte que não é a B3. O motivo de cada uma está no `SEM_PREGAO` do `integridade.py`, escrito à mão de propósito: adivinhar isso por heurística já tirou desta conferência duas páginas que eram geradas todo dia.
 
 ### As páginas concordam entre si?
 
