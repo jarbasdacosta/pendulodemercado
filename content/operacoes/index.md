@@ -1,6 +1,7 @@
 ---
 title: "🎯 Operações"
 date: 2026-11-20
+pregao: 2026-11-19
 tags: [operacoes]
 description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23/10/2026"
 ---
