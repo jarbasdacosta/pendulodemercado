@@ -1,11 +1,11 @@
 ---
 title: "🔔 Linha do tempo"
-date: 2026-11-19
+date: 2026-11-20
 description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais recente para o mais antigo"
 tags: [eventos]
 ---
 
-*Atualizada 19/11/2026 19:10 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 20/11/2026 19:09 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -18,7 +18,11 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 ## Últimos 7 dias
 
-### Hoje · qui, 19/11/2026 · 2 eventos
+### Hoje · sex, 20/11/2026
+
+*Nenhum evento hoje até agora.*
+
+### qui, 19/11/2026 · 2 eventos
 
 | Hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
@@ -31,13 +35,6 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 |---|---|---|---|---|
 | **16:16** | IMA · 15 min | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 91% · LPPL 0% | ✅ |
 | **13:31** | IMA · 15 min | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 62% · LPPL 0% | ✅ |
-
-### sex, 13/11/2026 · 2 eventos
-
-| Hora | Módulo | Evento | Detalhe | 📲 |
-|---|---|---|---|---|
-| **19:00** | Tendência · Diário | 📌 Ordem de compra armada (candle fechou acima da MME9) ⚡ | compra se passar de 172.715 em até 3 pregões · stop se entrar 155.444 | ✅ |
-| **10:31** | IMA · 15 min | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 62% · LPPL 0% | ✅ |
 
 ## Histórico por ano
 

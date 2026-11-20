@@ -6,7 +6,7 @@ description: "Os três prazos de Larry Williams lidos no Ibovespa: estrutura, Mo
 tags: [estudos, amplitude]
 ---
 
-*Atualizado 20/11/2026 15:44 · fechamento de 19/11/2026.*
+*Atualizado 20/11/2026 19:03 · fechamento de 19/11/2026.*
 
 > [!warning] Só informação
 > Leitura diária das ferramentas de **Larry Williams** (livros *The Secret of Selecting Stocks* e *Long-Term Secrets to Short-Term Trading*). **No teste no Ibovespa quase nada funcionou** (tabela abaixo) — nada aqui é regra do site nem manda alerta. O único gatilho que passou no índice, o **rompimento de 40%**, **não se confirmou no WIN**.

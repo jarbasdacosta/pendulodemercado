@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 19/11/2026 19:10.*
+*Lido do agendamento do próprio servidor em 20/11/2026 19:09.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o

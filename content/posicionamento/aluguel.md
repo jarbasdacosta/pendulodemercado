@@ -4,7 +4,7 @@ date: 2026-11-20
 pregao: 2026-11-19
 ---
 
-*Dados da B3 de 19/11/2026 · atualizado em 20/11/2026 15:40*
+*Dados da B3 de 19/11/2026 · atualizado em 20/11/2026 19:09*
 
 Quem aposta que uma ação vai cair precisa vendê-la sem tê-la. Para isso, **aluga o papel de
 quem o tem**, vende no mercado, e mais adiante recompra para devolver. Se o preço caiu, ganha

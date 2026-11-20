@@ -1,12 +1,12 @@
 ---
 title: Pêndulo de Mercado
-date: 2026-11-19
+date: 2026-11-20
 tags: [home]
 ---
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 19/11/2026 19:10 BRT · Diário D1*
+*Última atualização: 20/11/2026 19:09 BRT · Diário D1*
 
 > [!info] Onde o mercado está no fechamento de 19/11: **🔵 Esticado para baixo**
 > `Pânico ◀────●────────────────▶ Euforia`
