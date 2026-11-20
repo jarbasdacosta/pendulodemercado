@@ -3,7 +3,7 @@ title: "🌍 Mercados"
 date: 2026-11-20
 tags: [mercados]
 description: "O que mandou no dia: internacional, Brasil, a sincronia entre Ibovespa, dólar e juro, os índices da B3 e onde está — ou não está — a vantagem"
-pregao: 2026-11-19
+pregao: 2026-11-18
 ---
 
 > [!note] A que pregão se refere cada bloco
