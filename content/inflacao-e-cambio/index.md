@@ -5,6 +5,20 @@ pregao: 2026-11-19
 ---
 *Curvas da B3 de 19/11/2026 · Focus de 13/11/2026 · PTAX de 19/11/2026 · atualizado em 20/11/2026 15:09*
 
+
+<!-- NOTAS-INICIO -->
+> [!danger]- 4 pontos de atenção nesta página
+> **⛔ A inflação implícita não é expectativa de inflação** — Ela soma três coisas: a inflação esperada, o **prêmio de risco inflacionário** e diferenças de liquidez entre o mercado de DI e o de DAP. Uma implícita de 7% com consenso em 4% não quer dizer que o mercado projeta 7% de IPCA — quer dizer que ele cobra 3 pontos para carregar o risco em torno do cenário do consenso. Nem o Banco Central separa as duas parcelas com precisão.
+>
+> **⛔ O dólar futuro não é previsão de ninguém** — Ele é o preço à vista multiplicado pelo diferencial de juros entre real e dólar. Subiria do mesmo jeito se todo o mercado achasse que o dólar vai cair. Ler a curva como projeção — *"o mercado espera dólar a R\$ 7,00"* — é o erro mais caro que se comete lendo manchete de mercado.
+>
+> **⚠️ Os vencimentos curtos de DAP não decidem nada** — Parte do IPCA do período já é conhecida, porque o índice sai com defasagem. O juro real curto é o resíduo dessa mistura, não um preço limpo — por isso a implícita curta pula de 5% para 9% entre vencimentos vizinhos sem que nada tenha mudado. Esses contratos aparecem marcados na tabela e ficam fora de toda conclusão da página.
+>
+> **ℹ️ Duas aproximações estão embutidas na comparação** — O caminho do Focus é composto no intervalo exato de cada contrato, repartindo o IPCA de cada ano de forma **uniforme** para recortar os anos das pontas. E o Focus só projeta IPCA e câmbio para cerca de cinco anos: além disso a página mostra o número medido e deixa a comparação em branco, em vez de inventar um consenso.
+>
+> *Todos os pontos de atenção do site estão juntos em [Avisos](/avisos/).*
+<!-- NOTAS-FIM -->
+
 A [página de juros](/juros/) compara o juro que o mercado paga com o juro
 que os economistas projetam. Esta faz o mesmo com as outras duas pontas do mesmo
 problema: **a inflação** e **o dólar**. São as três variáveis que, juntas, decidem o preço

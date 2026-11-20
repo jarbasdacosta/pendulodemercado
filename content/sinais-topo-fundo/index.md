@@ -1,8 +1,9 @@
 ---
 title: 📍 Sinais
-date: 2026-11-19
+date: 2026-11-20
 tags: [sinais]
 description: Candles de Oliver Velez + RSI, CCI, MACD-V e Bollinger no Ibovespa
+pregao: 2026-11-19
 ---
 
 Candles de Oliver Velez + RSI, CCI, MACD-V e Bollinger — só os sinais que tiveram vantagem estatística no Ibovespa (2000–2026), em cada tempo gráfico. É um módulo **separado** do Sinal IMA (IMA + LPPL). Clique no código de um sinal para vê-lo marcado no gráfico. Baseado no trabalho de Oliver Velez (candles), J. Welles Wilder (RSI), Donald Lambert (CCI), John Bollinger (Bandas) e Alex Spiroglou (MACD-V), adaptado e testado no Ibovespa por Jarbas Daniel da Costa.
@@ -77,7 +78,7 @@ Os moderados ficam em [Todos os sinais](sinais-topo-fundo/todos-os-sinais).
 | Diário | **BT+RSI** (73%), **BT+CCI** (57%), **FD+RSI** (71%) | — |
 | H4 | — | — |
 
-*Atualizado em 19/11/2026 19:00 BRT (último pregão fechado: 19/11/2026). Dados: Yahoo (^BVSP); semanal e mensal reamostrados do diário; H4 do 60 min.*
+*Atualizado em 20/11/2026 15:45 BRT (último pregão fechado: 19/11/2026). Dados: Yahoo (^BVSP); semanal e mensal reamostrados do diário; H4 do 60 min.*
 
 > [!quote]- Aviso
 > Estudo estatístico. Não constitui recomendação de investimento.

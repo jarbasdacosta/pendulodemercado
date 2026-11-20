@@ -1,9 +1,10 @@
 ---
 title: "🌾 Agro: o que a curva está dizendo"
-date: 2026-11-19
+date: 2026-11-20
+pregao: 2026-11-19
 ---
 
-*Dados da B3 de 19/11/2026 · atualizado em 20/11/2026 06:51*
+*Dados da B3 de 19/11/2026 · atualizado em 20/11/2026 15:40*
 
 
 <!-- NOTAS-INICIO -->

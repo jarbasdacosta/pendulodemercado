@@ -1,11 +1,12 @@
 ---
 title: "🌎 Capital estrangeiro"
-date: 2026-11-19
+date: 2026-11-20
+pregao: 2026-11-17
 description: "Compras e vendas dos investidores estrangeiros no mercado à vista da B3"
 tags: [estrangeiros]
 ---
 
-*Dado da B3 até **17/11/2026** (a B3 publica dois pregões depois) · página atualizada 19/11/2026 19:06. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
+*Dado da B3 até **17/11/2026** (a B3 publica dois pregões depois) · página atualizada 20/11/2026 15:44. Atualiza sozinha nos dias úteis de manhã (5h40 a 8h40), assim que a B3 publica.*
 
 > [!success] 17/11/2026: **+R\$ 322 mi**
 > 2 pregões seguidos de entrada, de 16/11/2026 a 17/11/2026, somando **+R\$ 564 mi** — média de **+R\$ 282 mi** por pregão.
@@ -21,18 +22,18 @@ tags: [estrangeiros]
 
 *Semana = desde segunda-feira · 12 meses = o mês até o dia + os 11 anteriores · ¹ Geral = bolsa desde 05/02/2009; ofertas desde 2016 (quando a B3 começou a somar). **Bolsa** é o número que a B3 divulga todo dia (e os sites publicam de manhã); **ofertas** são os IPOs e follow-ons que a B3 soma no total do mês; **total** = os dois (o total mensal oficial da B3). Dia e semana das ofertas só aparecem a partir do download diário (antes disso a B3 só dá o mês).*
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_ano.html?v=20261119" title="Capital estrangeiro — acumulado do ano" loading="lazy" style="width:100%;height:520px;border:0;border-radius:8px"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_ano.html?v=20261120" title="Capital estrangeiro — acumulado do ano" loading="lazy" style="width:100%;height:520px;border:0;border-radius:8px"></iframe>
 
-*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_ano.html?v=20261119" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_ano.html?v=20261120" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática
 > ![Acumulado do ano, pregão a pregão](graficos/estrangeirosano_20261117.png)
 
 ## Dia a dia
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_dia.html?v=20261119" title="Capital estrangeiro — dia a dia" loading="lazy" style="width:100%;height:460px;border:0;border-radius:8px"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_dia.html?v=20261120" title="Capital estrangeiro — dia a dia" loading="lazy" style="width:100%;height:460px;border:0;border-radius:8px"></iframe>
 
-*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_dia.html?v=20261119" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_dia.html?v=20261120" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática
 > ![Capital estrangeiro dia a dia](graficos/estrangeirosdia_20261117.png)
@@ -63,9 +64,9 @@ tags: [estrangeiros]
 
 Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **quem está do outro lado** dos estrangeiros (saldo negociado na bolsa, sem ofertas).
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261119" title="Saldo acumulado por tipo de investidor" loading="lazy" style="width:100%;height:480px;border:0;border-radius:8px"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261120" title="Saldo acumulado por tipo de investidor" loading="lazy" style="width:100%;height:480px;border:0;border-radius:8px"></iframe>
 
-*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261119" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_tipos.html?v=20261120" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática
 > ![Saldo acumulado por tipo de investidor](graficos/investidores_20261117.png)
@@ -103,9 +104,9 @@ Para cada comprador há um vendedor: os 5 saldos de um dia somam zero. Mostra **
 
 ## Mês a mês
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_mes.html?v=20261119" title="Capital estrangeiro — mês a mês" loading="lazy" style="width:100%;height:520px;border:0;border-radius:8px"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_mes.html?v=20261120" title="Capital estrangeiro — mês a mês" loading="lazy" style="width:100%;height:520px;border:0;border-radius:8px"></iframe>
 
-*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_mes.html?v=20261119" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Passe o cursor para ler data e valor · arraste ou use a rodinha para dar zoom · clique na legenda para ligar e desligar séries. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/estrangeiros_mes.html?v=20261120" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática
 > ![Capital estrangeiro na B3 — mensal](graficos/estrangeiros_20261117.png)

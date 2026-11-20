@@ -1,11 +1,12 @@
 ---
 title: "🧭 Larry Williams"
-date: 2026-11-19
+date: 2026-11-20
+pregao: 2026-11-19
 description: "Os três prazos de Larry Williams lidos no Ibovespa: estrutura, Momentum Index, Trading Index e o rompimento de volatilidade — com o resultado honesto dos testes"
 tags: [estudos, amplitude]
 ---
 
-*Atualizado 19/11/2026 19:04 · fechamento de 19/11/2026.*
+*Atualizado 20/11/2026 15:44 · fechamento de 19/11/2026.*
 
 > [!warning] Só informação
 > Leitura diária das ferramentas de **Larry Williams** (livros *The Secret of Selecting Stocks* e *Long-Term Secrets to Short-Term Trading*). **No teste no Ibovespa quase nada funcionou** (tabela abaixo) — nada aqui é regra do site nem manda alerta. O único gatilho que passou no índice, o **rompimento de 40%**, **não se confirmou no WIN**.
@@ -24,7 +25,7 @@ tags: [estudos, amplitude]
 | **Curto** | "Espero duas coisas" | 🔴 **as duas condições de VENDA** (esticado + Momentum virando para baixo) | esticado nos últimos 10 pregões + Momentum 2 dias na mesma direção |
 
 > [!example] Rompimento de 40% para o próximo pregão — só leitura (não é regra)
-> Compra se o Ibovespa subir **1.066 pontos acima da abertura** (0,4 × o intervalo de hoje, 2.665 pontos) · stop **2.721 pontos** abaixo da entrada (1 × o intervalo médio de 10 dias) · sai na **primeira abertura com lucro** ou no fechamento do 5º pregão.
+> Compra se o Ibovespa subir **1.066 pontos acima da abertura** (0,4 × o intervalo de hoje, 2.665 pontos) · stop **2.720 pontos** abaixo da entrada (1 × o intervalo médio de 10 dias) · sai na **primeira abertura com lucro** ou no fechamento do 5º pregão.
 > **No WIN não se confirmou:** executando no mini, no mesmo minuto do sinal (2021–hoje, 370 operações), deu +99 pontos por contrato por operação com custo real, mas **igual ao acaso** (24%; 1ª metade +22, 2ª +176). Metade da vantagem do índice some no WIN — a abertura do índice fica parada nos primeiros minutos e engorda o resultado no papel.
 
 ![Larry Williams no Ibovespa](graficos/larry_20261119.png)

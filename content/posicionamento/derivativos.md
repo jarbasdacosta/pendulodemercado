@@ -1,9 +1,10 @@
 ---
 title: "📑 Contratos em aberto"
-date: 2026-11-19
+date: 2026-11-20
+pregao: 2026-11-19
 ---
 
-*Dados da B3 de 19/11/2026 · atualizado em 20/11/2026 06:54*
+*Dados da B3 de 19/11/2026 · atualizado em 20/11/2026 15:40*
 
 **Volume conta quem passou. Posição em aberto conta quem ficou.**
 

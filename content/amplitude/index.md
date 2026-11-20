@@ -1,20 +1,21 @@
 ---
 title: "📊 Amplitude (Market Breadth)"
-date: 2026-11-19
+date: 2026-11-20
+pregao: 2026-11-19
 description: "Porcentagem das ações do Ibovespa acima das médias de 20, 50 e 200 pregões"
 tags: [amplitude]
 ---
 
-*Atualizado 19/11/2026 19:04 · fechamento de 19/11/2026.*
+*Atualizado 20/11/2026 15:43 · fechamento de 19/11/2026.*
 
 A **amplitude** mostra quantas ações do Ibovespa estão acompanhando o movimento do índice: a porcentagem das ações da carteira que estão **acima das suas médias** de 20, 50 e 200 pregões. O **sentimento** é a média das três. **Abaixo de 20**: quase todas as ações caindo — exaustão vendedora, região de fundos. **Acima de 80**: quase todas subindo — força generalizada (no teste, **não** aumentou o risco de queda).
 
 > [!note] Sentimento **25%** ▲ · neutra
 > Acima da MM 20: **34%** · MM 50: **16%** · MM 200: **25%** <small>(76 de 76 ações com dados)</small>
 
-<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html?v=20261119" title="Amplitude do Ibovespa — interativo" style="width:100%;height:640px;border:0;border-radius:8px" loading="lazy"></iframe>
+<iframe src="https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html?v=20261120" title="Amplitude do Ibovespa — interativo" style="width:100%;height:640px;border:0;border-radius:8px" loading="lazy"></iframe>
 
-*Gráfico interativo: clique na legenda para ligar/desligar cada linha, arraste ou use a rodinha para zoom, botões 3m · 6m · 1a · 3a · 5a · tudo. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html?v=20261119" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
+*Gráfico interativo: clique na legenda para ligar/desligar cada linha, arraste ou use a rodinha para zoom, botões 3m · 6m · 1a · 3a · 5a · tudo. <a href="https://jarbasdacosta.github.io/pendulodemercado/static/amplitude_grafico.html?v=20261120" target="_blank" rel="noopener" data-router-ignore>Abrir em tela cheia ↗</a>*
 
 > [!note]- Imagem estática (últimos 3 anos)
 > ![Amplitude do Ibovespa](graficos/amplitude_20261119.png)

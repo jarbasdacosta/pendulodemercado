@@ -1,6 +1,7 @@
 ---
 title: 📈 Gráficos
-date: 2026-11-19
+date: 2026-11-20
+pregao: 2026-11-19
 tags: [tecnico]
 description: Ibovespa no mensal, semanal e diário com médias, Bollinger, MACD-V, CCI e RSI
 ---
@@ -46,7 +47,7 @@ Ibovespa com **MME(9)**, **MMA(20)**, **MMA(50)**, **MMA(200)** e **Bollinger(20
 | MME(9) | 179.162 | 🔴 preço abaixo (−7,1%) | ↘ caindo |
 | MMA(20) | 180.889 | 🔴 preço abaixo (−8,0%) | ↘ caindo |
 | MMA(50) | 178.744 | 🔴 preço abaixo (−6,9%) | ↗ subindo |
-| MMA(200) | 139.507 | 🟢 preço acima (+19,3%) | ↗ subindo |
+| MMA(200) | 139.506 | 🟢 preço acima (+19,3%) | ↗ subindo |
 | Bollinger(20,2) | 155.199 – 206.578 | dentro das bandas (%B 22%) | ↔ abrindo |
 | MACD-V | 4,0 (média 52,7) | 🔴 abaixo da média (sinal) | 🟥 ↘ caindo |
 | CCI(20) | -91,6 (MME9 10,7) | 🔴 abaixo da MME9 · abaixo de zero | ↘ caindo |
@@ -124,4 +125,4 @@ Ibovespa com **MME(9)**, **MMA(20)**, **MMA(50)**, **MMA(200)** e **Bollinger(20
 
 <small>Direção = valor de hoje comparado com o do candle anterior (no semanal e no mensal, com o candle em formação). MACD-V: 🟩 verde subindo · 🟢 verde sem brilho · 🔴 vermelho sem brilho · 🟥 vermelho caindo. CCI: aqua subindo · magenta caindo · azul ≥ +200 · vermelho ≤ −200 · linha amarela = MME9 do CCI.</small>
 
-*Atualizado em 19/11/2026 19:10 BRT. Dados: Yahoo (^BVSP); semanal e mensal montados do diário.*
+*Atualizado em 20/11/2026 15:44 BRT. Dados: Yahoo (^BVSP); semanal e mensal montados do diário.*
