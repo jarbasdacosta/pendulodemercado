@@ -1,9 +1,9 @@
 ---
 title: "📑 Contratos em aberto"
-date: 2026-11-18
+date: 2026-11-19
 ---
 
-*Dados da B3 de 18/11/2026 · atualizado em 19/11/2026 19:10*
+*Dados da B3 de 19/11/2026 · atualizado em 20/11/2026 06:54*
 
 **Volume conta quem passou. Posição em aberto conta quem ficou.**
 
@@ -30,20 +30,20 @@ limite. O gráfico é idêntico nos dois casos.
 
 | Contrato | O que é | Ajuste | Preço | Posição | Em aberto | Leitura de hoje |
 |---|---|---|---|---|---|---|
-| **WIN** | Minicontrato de Ibovespa | 168.854,00 | -1,52% | +2,52% | 1.442.193 | **Dinheiro novo vendendo** |
-| **WDO** | Minicontrato de Dólar Comercia | 5.864,28 | +1,35% | +9,30% | 1.825.008 | **Dinheiro novo comprando** |
-| **DOL** | Dólar Comercial | 5.864,28 | +1,35% | +1,78% | 1.023.516 | **Dinheiro novo comprando** |
-| **DI1** | Taxa Média de Depósitos Interf | 98.483,44 | 0,00% | -0,01% | 42.796.624 | **Sem direção** |
-| **IND** | Ibovespa | 168.854,00 | -1,52% | -1,38% | 201.411 | **Liquidação** |
-| **DAP** | Cupom de IPCA | 88.580,43 | +0,03% | +0,54% | 3.461.832 | **Dinheiro novo comprando** |
-| **WSP** | Microcontrato de Índice S&P500 | 7.342,25 | -0,21% | -0,74% | 104.792 | **Liquidação** |
-| **ISP** | BVMF de Índice S&P500 | 7.342,25 | -0,21% | +0,24% | 10.509 | **Dinheiro novo vendendo** |
-| **T10** | US Treasury Note de 10 Anos | 105,78 | +0,16% | +1,63% | 4.373 | **Dinheiro novo comprando** |
-| **BIT** | Futuro de Bitcoin | 368.322,35 | -0,47% | -11,27% | 22.646 | **Sem direção** |
-| **BGI** | Boi Gordo | 400,20 | +0,43% | +0,50% | 54.607 | **Dinheiro novo comprando** |
-| **CCM** | Milho | 71,21 | +0,15% | +0,61% | 151.113 | **Dinheiro novo comprando** |
-| **DDI** | Cupom Cambial de DI1 | 100.398,47 | +1,35% | +0,99% | 4.790.679 | **Dinheiro novo comprando** |
-| **ICF** | Café Arábica 4/5 | 343,20 | -1,94% | -3,17% | 7.670 | **Liquidação** |
+| **WIN** | Minicontrato de Ibovespa | 167.666,00 | -0,70% | +3,46% | 1.492.061 | **Dinheiro novo vendendo** |
+| **WDO** | Minicontrato de Dólar Comercia | 5.924,05 | +1,02% | +10,00% | 2.007.477 | **Dinheiro novo comprando** |
+| **DI1** | Taxa Média de Depósitos Interf | 98.530,93 | 0,00% | +0,72% | 43.103.249 | **Dinheiro novo vendendo** |
+| **DOL** | Dólar Comercial | 5.924,05 | +1,02% | +2,59% | 1.049.982 | **Dinheiro novo comprando** |
+| **IND** | Ibovespa | 167.666,00 | -0,70% | +1,19% | 203.801 | **Dinheiro novo vendendo** |
+| **WSP** | Microcontrato de Índice S&P500 | 7.198,50 | -1,96% | +0,66% | 105.480 | **Dinheiro novo vendendo** |
+| **DAP** | Cupom de IPCA | 88.363,18 | -0,28% | +0,05% | 3.463.666 | **Sem direção** |
+| **ISP** | BVMF de Índice S&P500 | 7.198,50 | -1,96% | +0,36% | 10.547 | **Dinheiro novo vendendo** |
+| **BIT** | Futuro de Bitcoin | 369.858,95 | +0,42% | -5,13% | 21.485 | **Vendido recomprando** |
+| **DDI** | Cupom Cambial de DI1 | 101.026,39 | +1,01% | +0,56% | 4.817.714 | **Dinheiro novo comprando** |
+| **PETRP** | Contrato Futuro de PETR4 | 43,10 | -1,21% | -33,72% | 12.651.300 | **Liquidação** |
+| **BGI** | Boi Gordo | 399,05 | -0,29% | +0,53% | 54.895 | **Dinheiro novo vendendo** |
+| **T10** | US Treasury Note de 10 Anos | 105,88 | +0,09% | +0,48% | 4.394 | **Sem direção** |
+| **CCM** | Milho | 71,48 | +0,38% | +0,95% | 152.556 | **Dinheiro novo comprando** |
 
 O **ajuste** é o preço contra o qual a posição é marcada, e a variação sai
 de dentro do contrato de maior posição em aberto do dia — o mesmo contrato comparado consigo
@@ -52,40 +52,40 @@ soma todos os vencimentos do ativo.
 
 ### O padrão se manteve ou virou?
 
-Quantos dos 24 pregões guardados caíram em cada leitura. Um contrato que repete
+Quantos dos 25 pregões guardados caíram em cada leitura. Um contrato que repete
 a mesma leitura semanas a fio está num regime; um que alterna não está.
 
 | Contrato | Dinheiro novo comprando | Vendido recomprando | Dinheiro novo vendendo | Liquidação | Sem direção | Hoje |
 |---|---|---|---|---|---|---|
-| **WIN** | 5 | 1 | 8 | 3 | 6 | Dinheiro novo vendendo |
-| **WDO** | 9 | 2 | 4 | 1 | 7 | Dinheiro novo comprando |
-| **DOL** | 10 | 2 | 5 | 1 | 5 | Dinheiro novo comprando |
-| **DI1** | 1 | 4 | 2 | 3 | 13 | Sem direção |
-| **IND** | 9 | 0 | 5 | 5 | 4 | Liquidação |
-| **DAP** | 11 | 0 | 6 | 2 | 4 | Dinheiro novo comprando |
-| **WSP** | 4 | 4 | 9 | 3 | 3 | Liquidação |
-| **ISP** | 1 | 9 | 7 | 5 | 1 | Dinheiro novo vendendo |
-| **T10** | 5 | 2 | 3 | 6 | 7 | Dinheiro novo comprando |
-| **BIT** | 2 | 3 | 6 | 2 | 10 | Sem direção |
-| **BGI** | 5 | 2 | 8 | 1 | 7 | Dinheiro novo comprando |
-| **CCM** | 3 | 3 | 10 | 0 | 7 | Dinheiro novo comprando |
-| **DDI** | 9 | 1 | 5 | 1 | 7 | Dinheiro novo comprando |
-| **ICF** | 4 | 3 | 3 | 9 | 4 | Liquidação |
+| **WIN** | 4 | 1 | 9 | 3 | 7 | Dinheiro novo vendendo |
+| **WDO** | 9 | 1 | 3 | 0 | 11 | Dinheiro novo comprando |
+| **DI1** | 1 | 4 | 3 | 3 | 13 | Dinheiro novo vendendo |
+| **DOL** | 11 | 2 | 5 | 1 | 5 | Dinheiro novo comprando |
+| **IND** | 9 | 0 | 6 | 5 | 4 | Dinheiro novo vendendo |
+| **WSP** | 4 | 4 | 10 | 3 | 3 | Dinheiro novo vendendo |
+| **DAP** | 11 | 0 | 6 | 2 | 5 | Sem direção |
+| **ISP** | 1 | 9 | 8 | 5 | 1 | Dinheiro novo vendendo |
+| **BIT** | 2 | 4 | 6 | 3 | 9 | Vendido recomprando |
+| **DDI** | 10 | 1 | 5 | 1 | 7 | Dinheiro novo comprando |
+| **PETRP** | 3 | 2 | 7 | 2 | 10 | Liquidação |
+| **BGI** | 5 | 2 | 10 | 1 | 6 | Dinheiro novo vendendo |
+| **T10** | 5 | 2 | 3 | 6 | 8 | Sem direção |
+| **CCM** | 4 | 4 | 10 | 0 | 6 | Dinheiro novo comprando |
 
 A coluna **Sem direção** está aí para as contas fecharem: são os pregões em que o preço ou a posição andaram menos que o normal daquele contrato. O corte é calibrado por contrato, não é um número fixo — com limiar único, o DI ficaria mudo (o PU dele anda centésimos por cento) e o índice classificaria ruído como regime.
 
 ### O que isso sugere, contrato a contrato
 Leitura dos de maior volume financeiro do pregão. Contratos que dividem o mesmo ativo-objeto — mini e cheio — aparecem juntos, porque são o mesmo movimento. É análise do que o movimento tem de sustentação, não indicação de operação.
 
-**WIN** · Minicontrato de Ibovespa — O preço caiu -1,52% com posição nova entrando (+2,52%), e é a 2ª vez nos últimos 5 pregões. Queda com posição crescendo é gente montando posição contra, não gente saindo. Diferente de liquidação, isso não se esgota sozinho — a posição nova precisa ser desfeita um dia, e é esse desfazer que costuma produzir o repique.
+**WIN** e **IND** · Ibovespa — O preço caiu -0,70% com posição nova entrando (+3,46%), e é a 2ª vez nos últimos 5 pregões. Queda com posição crescendo é gente montando posição contra, não gente saindo. Diferente de liquidação, isso não se esgota sozinho — a posição nova precisa ser desfeita um dia, e é esse desfazer que costuma produzir o repique.
 
-**WDO** e **DOL** · Dólar Comercial — O preço subiu +1,35% com posição nova entrando (+9,30%), e é a 3ª vez nos últimos 5 pregões. Aqui ninguém é obrigado a comprar: não há o combustível forçado da recompra, e também não há o limite dela. É o tipo de alta que dura enquanto durar o apetite, o que a torna mais difícil de cronometrar e menos propensa a terminar de uma vez.
+**WDO** e **DOL** · Dólar Comercial — O preço subiu +1,02% com posição nova entrando (+10,00%), e é a 3ª vez nos últimos 5 pregões. Aqui ninguém é obrigado a comprar: não há o combustível forçado da recompra, e também não há o limite dela. É o tipo de alta que dura enquanto durar o apetite, o que a torna mais difícil de cronometrar e menos propensa a terminar de uma vez.
 
-**IND** · Ibovespa — Preço -1,52% e posição -1,38%, e é a 2ª vez nos últimos 5 pregões: os dois lados desmontando ao mesmo tempo. Movimento sem convicção nova dos dois lados tende a perder força por falta de combustível, e é o quadrante em que o preço engana mais — parece tendência e é esvaziamento.
+**DI1** · Taxa Média de Depósitos Interfinanceiros — O preço caiu 0,00% com posição nova entrando (+0,72%), e hoje é o primeiro pregão assim na janela recente. Queda com posição crescendo é gente montando posição contra, não gente saindo. Diferente de liquidação, isso não se esgota sozinho — a posição nova precisa ser desfeita um dia, e é esse desfazer que costuma produzir o repique.
 
-**DAP** · Cupom de IPCA — O preço subiu +0,03% com posição nova entrando (+0,54%), e é a 3ª vez nos últimos 5 pregões. Aqui ninguém é obrigado a comprar: não há o combustível forçado da recompra, e também não há o limite dela. É o tipo de alta que dura enquanto durar o apetite, o que a torna mais difícil de cronometrar e menos propensa a terminar de uma vez.
+**WSP** e **ISP** · Índice S&P500 — O preço caiu -1,96% com posição nova entrando (+0,66%), e é a 4ª vez nos últimos 5 pregões. Queda com posição crescendo é gente montando posição contra, não gente saindo. Diferente de liquidação, isso não se esgota sozinho — a posição nova precisa ser desfeita um dia, e é esse desfazer que costuma produzir o repique.
 
-**WSP** · Microcontrato de Índice S&P500 — Preço -0,21% e posição -0,74%, e é a 2ª vez nos últimos 5 pregões: os dois lados desmontando ao mesmo tempo. Movimento sem convicção nova dos dois lados tende a perder força por falta de combustível, e é o quadrante em que o preço engana mais — parece tendência e é esvaziamento.
+**BIT** · Futuro de Bitcoin — O preço subiu +0,42% com a posição caindo -5,13%, e hoje é o primeiro pregão assim na janela recente. Alta paga por quem estava vendido tem munição contável: termina quando os vendidos terminarem. Quem entra comprado no meio dela está apostando que ainda sobrou vendido para recomprar — e isso é uma aposta sobre o estoque alheio, não sobre a empresa nem sobre a economia.
 
 > [!warning] O que o quadrante não diz
 > **Não diz quem está comprado.** Posição em aberto é o total de contratos vivos, e todo contrato tem os dois lados. 'Dinheiro novo comprando' significa que entraram pares novos num dia de alta — quem apostou na direção foi quem aceitou o preço, e isso o dado não nomeia.
@@ -98,56 +98,55 @@ Em **contratos**. A variação no dia é publicada pela B3; a da semana é calcu
 
 | # | Contrato | O que é | Em aberto | No dia | Na semana | Vencimento mais próximo |
 |---|---|---|---|---|---|---|
-| 1 | **DI1** | Taxa Média de Depósitos Interfinanceir | 42.796.624 | -6.034 | +0,1% | 01/12/2026 |
-| 2 | **PETRP** | Contrato Futuro de PETR4 | 19.087.900 | +1.000 | +1,3% | 19/11/2026 |
-| 3 | **DDI** | Cupom Cambial de DI1 | 4.790.679 | +46.974 | +4,1% | 01/12/2026 |
-| 4 | **DAP** | Cupom de IPCA | 3.461.832 | +18.727 | +2,1% | 15/12/2026 |
-| 5 | **VALEO** | Contrato Futuro de VALE3 | 2.775.500 | +4.100 | +6,8% | 19/11/2026 |
-| 6 | **ENEVO** | Futuro de ENEV3 | 2.366.100 | — | 0,0% | 19/11/2026 |
-| 7 | **EQTLO** | Futuro de EQTL3 | 2.294.500 | +700 | +2,1% | 19/11/2026 |
-| 8 | **WDO** | Minicontrato de Dólar Comercial | 1.825.008 | +155.290 | +40,7% | 01/12/2026 |
-| 9 | **WIN** | Minicontrato de Ibovespa | 1.442.193 | +35.472 | +3,0% | 16/12/2026 |
-| 10 | **DOL** | Dólar Comercial | 1.023.516 | +17.893 | +15,0% | 01/12/2026 |
-| 11 | **ABEVO** | FUTURO DE ABEV3 | 991.100 | — | +5,8% | 19/11/2026 |
-| 12 | **BBASO** | Contrato Futuro de BBAS3 | 906.400 | -1.100 | +14,1% | 19/11/2026 |
-| 13 | **SBSPO** | FUTURO DE SBSP3 | 766.800 | -400 | -0,3% | 19/11/2026 |
-| 14 | **LRENO** | Contrato Futuro de LREN3 | 449.700 | -6.300 | +47,1% | 19/11/2026 |
-| 15 | **SUZBO** | Contrato Futuro de SUZB3 | 435.900 | +30.300 | +64,7% | 19/11/2026 |
-| 16 | **AXIAO** | Contrato Futuro de AXIA3 | 426.800 | +1.000 | +3,7% | 19/11/2026 |
-| 17 | **VIVTO** | FUTURO DE VIVT3 | 418.700 | +4.100 | +0,4% | 19/11/2026 |
-| 18 | **BBDCP** | Contrato Futuro de BBDC4 | 397.400 | +900 | +0,2% | 19/11/2026 |
+| 1 | **DI1** | Taxa Média de Depósitos Interfinanceir | 43.103.249 | +306.625 | +0,2% | 01/12/2026 |
+| 2 | **PETRP** | Contrato Futuro de PETR4 | 12.651.300 | +5.000.200 | -33,1% | 18/12/2026 |
+| 3 | **DDI** | Cupom Cambial de DI1 | 4.817.714 | +27.035 | +4,3% | 01/12/2026 |
+| 4 | **DAP** | Cupom de IPCA | 3.463.666 | +1.834 | +1,7% | 15/12/2026 |
+| 5 | **ENEVO** | Futuro de ENEV3 | 2.365.600 | — | 0,0% | 18/12/2026 |
+| 6 | **EQTLO** | Futuro de EQTL3 | 2.156.900 | +5.400 | -4,7% | 18/12/2026 |
+| 7 | **WDO** | Minicontrato de Dólar Comercial | 2.007.477 | +182.469 | +41,0% | 01/12/2026 |
+| 8 | **VALEO** | Contrato Futuro de VALE3 | 1.850.000 | +1.200 | -29,5% | 18/12/2026 |
+| 9 | **WIN** | Minicontrato de Ibovespa | 1.492.061 | +49.868 | +4,3% | 16/12/2026 |
+| 10 | **DOL** | Dólar Comercial | 1.049.982 | +26.466 | +14,9% | 01/12/2026 |
+| 11 | **ABEVO** | FUTURO DE ABEV3 | 447.300 | +600 | -52,6% | 18/12/2026 |
+| 12 | **BBDCP** | Contrato Futuro de BBDC4 | 342.300 | +38.700 | -13,5% | 18/12/2026 |
+| 13 | **VIVTO** | FUTURO DE VIVT3 | 330.600 | +25.200 | -21,4% | 18/12/2026 |
+| 14 | **LRENO** | Contrato Futuro de LREN3 | 328.800 | — | -6,0% | 18/12/2026 |
+| 15 | **BBASO** | Contrato Futuro de BBAS3 | 292.500 | +3.800 | -64,8% | 18/12/2026 |
+| 16 | **IND** | Ibovespa | 203.801 | +2.390 | +1,5% | 16/12/2026 |
+| 17 | **SUZBO** | Contrato Futuro de SUZB3 | 173.000 | +36.200 | -46,0% | 18/12/2026 |
+| 18 | **CCM** | Milho | 152.556 | +1.443 | -16,5% | 15/01/2027 |
 
 
 ### Abrindo posição hoje
 
 | Contrato | O que é | Contratos novos | Em aberto | Na semana |
 |---|---|---|---|---|
-| **WDO** | Minicontrato de Dólar Comercial | **+155.290** | 1.825.008 | +40,7% |
-| **DDI** | Cupom Cambial de DI1 | **+46.974** | 4.790.679 | +4,1% |
-| **WIN** | Minicontrato de Ibovespa | **+35.472** | 1.442.193 | +3,0% |
-| **SUZBO** | Contrato Futuro de SUZB3 | **+30.300** | 435.900 | +64,7% |
-| **GGBRP** | Contrato Futuro de GGBR4 | **+23.900** | 212.200 | +14,5% |
-| **DAP** | Cupom de IPCA | **+18.727** | 3.461.832 | +2,1% |
-| **DOL** | Dólar Comercial | **+17.893** | 1.023.516 | +15,0% |
-| **NATUO** | Contrato Futuro de NATU3 | **+8.600** | 67.100 | +22,2% |
-| **EMBJO** | FUTURO DE EMBJ3 | **+7.900** | 101.500 | -7,1% |
-| **VALEO** | Contrato Futuro de VALE3 | **+4.100** | 2.775.500 | +6,8% |
+| **PETRP** | Contrato Futuro de PETR4 | **+5.000.200** | 12.651.300 | -33,1% |
+| **DI1** | Taxa Média de Depósitos Interfinan | **+306.625** | 43.103.249 | +0,2% |
+| **WDO** | Minicontrato de Dólar Comercial | **+182.469** | 2.007.477 | +41,0% |
+| **WIN** | Minicontrato de Ibovespa | **+49.868** | 1.492.061 | +4,3% |
+| **ITUBP** | FUTURO DE ITUB4 | **+39.100** | 135.900 | -22,2% |
+| **BBDCP** | Contrato Futuro de BBDC4 | **+38.700** | 342.300 | -13,5% |
+| **SUZBO** | Contrato Futuro de SUZB3 | **+36.200** | 173.000 | -46,0% |
+| **DDI** | Cupom Cambial de DI1 | **+27.035** | 4.817.714 | +4,3% |
+| **DOL** | Dólar Comercial | **+26.466** | 1.049.982 | +14,9% |
+| **VIVTO** | FUTURO DE VIVT3 | **+25.200** | 330.600 | -21,4% |
 
 
 ### Fechando posição hoje
 
 | Contrato | O que é | Contratos desfeitos | Em aberto | Na semana |
 |---|---|---|---|---|
-| **LRENO** | Contrato Futuro de LREN3 | **-6.300** | 449.700 | +47,1% |
-| **DI1** | Taxa Média de Depósitos Interfinan | **-6.034** | 42.796.624 | +0,1% |
-| **RAILO** | Contrato Futuro de RAIL3 | **-4.000** | 85.400 | +4,7% |
-| **BIT** | Futuro de Bitcoin | **-2.875** | 22.646 | -6,0% |
-| **IND** | Ibovespa | **-2.822** | 201.411 | +0,3% |
-| **BBASO** | Contrato Futuro de BBAS3 | **-1.100** | 906.400 | +14,1% |
-| **WSP** | Microcontrato de Índice S&P500 | **-780** | 104.792 | +4,7% |
-| **HYPEO** | Contrato Futuro de HYPE3 | **-600** | 14.200 | +6,8% |
-| **ITSAP** | Contrato Futuro de ITSA4 | **-500** | 74.800 | +12,7% |
-| **SBSPO** | FUTURO DE SBSP3 | **-400** | 766.800 | -0,3% |
+| **VBBRO** | Contrato Futuro de VBBR3 | **-3.700** | 19.000 | -45,1% |
+| **B3SAO** | FUTURO DE B3SA3 | **-3.500** | 31.000 | -82,6% |
+| **GGBRP** | Contrato Futuro de GGBR4 | **-3.100** | 30.400 | -83,5% |
+| **EMBJO** | FUTURO DE EMBJ3 | **-2.200** | 34.800 | -67,1% |
+| **BIT** | Futuro de Bitcoin | **-1.161** | 21.485 | -21,0% |
+| **MGLUO** | Contrato Futuro de MGLU3 | **-700** | 13.200 | -66,0% |
+| **AXIAO** | Contrato Futuro de AXIA3 | **-400** | 30.800 | -92,6% |
+| **GLD** | FUTURO OURO FINO | **-208** | 132.225 | -2,5% |
+| **RDORO** | FUTURO DE RDOR3 | **-100** | 9.400 | -90,8% |
 
 
 ## Não são futuros, embora pareçam
@@ -157,41 +156,41 @@ apareceriam no topo por tamanho, e seria opção disfarçada de futuro. Ficam se
 
 | Contrato | O que é | Mercado | Em aberto | No dia |
 |---|---|---|---|---|
-| **IDI** | Opções sobre IDI | OPTIONS ON SPOT | 47.224.506 | +1.212.724 |
-| **CPM** | COPOM | OPTIONS ON SPOT | 12.708.524 | -29.955 |
+| **IDI** | Opções sobre IDI | OPTIONS ON SPOT | 47.319.506 | +95.000 |
+| **CPM** | COPOM | OPTIONS ON SPOT | 12.746.085 | +37.561 |
 | **SCS** | Swap Cambial de OC1 | FORWARD | 1.805.000 | — |
-| **DOL** | Dólar Comercial | OPTIONS ON SPOT | 870.389 | +2.745 |
-| **CCM** | Milho | OPTIONS ON FUTURE | 226.455 | +3.884 |
-| **BGI** | Boi Gordo | OPTIONS ON FUTURE | 65.374 | -28 |
+| **DOL** | Dólar Comercial | OPTIONS ON SPOT | 872.266 | +1.877 |
+| **CCM** | Milho | OPTIONS ON FUTURE | 227.394 | +939 |
+| **BGI** | Boi Gordo | OPTIONS ON FUTURE | 65.710 | +336 |
 | **D17** | Opções sobre Futuro de D17 | OPTIONS ON FUTURE | 10.000 | — |
-| **ISP** | BVMF de Índice S&P500 | OPTIONS ON FUTURE | 2.085 | -200 |
+| **ISP** | BVMF de Índice S&P500 | OPTIONS ON FUTURE | 2.135 | +50 |
 
 
 ## Opções de ações
 Aqui a unidade muda e **não se soma com a de cima**: futuro se conta em
 contratos, opção de ação se conta em posições, que é número de ativos. No fechamento havia
-**5.420 milhões em call** e **4.565 milhões em put** abertas.
+**2.659 milhões em call** e **2.490 milhões em put** abertas.
 
 A B3 não publica variação diária para opção; a da semana abaixo é calculada diferenciando os
 pregões guardados aqui.
 
 | # | Ativo | Posições abertas (mi) | Call (mi) | Put (mi) | Put ÷ Call | Descoberta | Séries | Na semana |
 |---|---|---|---|---|---|---|---|---|
-| 1 | **BBAS** | **923,1** | 472,9 | 450,3 | 0,95 | 38% | 1.408 | +14,5% |
-| 2 | **PETR** | **892,2** | 450,5 | 441,6 | 0,98 | 45% | 2.251 | +3,6% |
-| 3 | **BOVA** | **805,3** | 407,1 | 398,1 | 0,98 | 43% | 2.058 | +4,6% |
-| 4 | **BBDC** | **711,2** | 394,3 | 316,9 | 0,80 | 37% | 1.329 | +6,0% |
-| 5 | **ITUB** | **449,5** | 253,9 | 195,6 | 0,77 | 34% | 1.244 | +6,8% |
-| 6 | **VALE** | **408,4** | 241,9 | 166,5 | 0,69 | 50% | 1.554 | +11,3% |
-| 7 | **B3SA** | **311,3** | 140,9 | 170,3 | 1,21 | 30% | 673 | +6,7% |
-| 8 | **SMAL** | **292,4** | 210,7 | 81,7 | 0,39 | 28% | 621 | +4,8% |
-| 9 | **ABEV** | **240,4** | 99,5 | 140,8 | 1,42 | 49% | 380 | +6,9% |
-| 10 | **ITSA** | **227,5** | 124,6 | 103,0 | 0,83 | 59% | 539 | +17,6% |
-| 11 | **MGLU** | **210,2** | 137,5 | 72,6 | 0,53 | 51% | 755 | +8,0% |
-| 12 | **COGN** | **194,1** | 132,6 | 61,5 | 0,46 | 58% | 416 | -1,6% |
-| 13 | **CSAN** | **190,9** | 122,7 | 68,3 | 0,56 | 45% | 609 | +8,2% |
-| 14 | **BEEF** | **151,2** | 86,9 | 64,3 | 0,74 | 47% | 414 | +3,2% |
-| 15 | **SBSP** | **143,4** | 83,8 | 59,6 | 0,71 | 44% | 477 | +5,2% |
+| 1 | **PETR** | **518,6** | 222,8 | 295,8 | 1,33 | 51% | 1.798 | -40,1% |
+| 2 | **BOVA** | **454,8** | 215,2 | 239,7 | 1,11 | 48% | 1.766 | -41,4% |
+| 3 | **BBAS** | **446,0** | 209,9 | 236,1 | 1,12 | 46% | 1.191 | -46,9% |
+| 4 | **BBDC** | **300,6** | 172,2 | 128,4 | 0,75 | 47% | 1.096 | -55,5% |
+| 5 | **VALE** | **282,8** | 152,2 | 130,6 | 0,86 | 54% | 1.321 | -23,3% |
+| 6 | **ITUB** | **202,4** | 115,4 | 87,1 | 0,75 | 53% | 1.014 | -52,0% |
+| 7 | **B3SA** | **131,2** | 46,5 | 84,7 | 1,82 | 27% | 577 | -57,1% |
+| 8 | **ABEV** | **119,5** | 62,4 | 57,1 | 0,91 | 59% | 320 | -47,1% |
+| 9 | **SMAL** | **109,0** | 84,0 | 25,0 | 0,30 | 49% | 453 | -61,2% |
+| 10 | **CSAN** | **101,4** | 70,5 | 30,9 | 0,44 | 56% | 513 | -43,8% |
+| 11 | **ISAE** | **98,6** | 49,3 | 49,3 | 1,00 | 92% | 199 | -6,1% |
+| 12 | **CPLE** | **93,9** | 41,7 | 52,2 | 1,25 | 82% | 171 | +61,7% |
+| 13 | **MGLU** | **92,5** | 60,7 | 31,7 | 0,52 | 56% | 598 | -53,2% |
+| 14 | **ITSA** | **91,9** | 54,7 | 37,2 | 0,68 | 71% | 418 | -52,5% |
+| 15 | **COGN** | **85,7** | 50,0 | 35,7 | 0,71 | 66% | 332 | -55,5% |
 
 
 ### Onde há mais put que call
@@ -199,22 +198,22 @@ A razão **put ÷ call por posição em aberto** — não por volume. Volume med
 
 | Ativo | Put ÷ Call | Call (mi) | Put (mi) | Posições (mi) |
 |---|---|---|---|---|
-| **BRKM** | **3,22** | 5,2 | 16,9 | 22,1 |
-| **LJQQ** | **2,88** | 3,8 | 10,9 | 14,7 |
-| **DIRR** | **1,51** | 16,9 | 25,5 | 42,4 |
-| **MBRF** | **1,48** | 18,5 | 27,5 | 46,0 |
-| **ENGI** | **1,47** | 9,5 | 13,9 | 23,4 |
-| **AZZA** | **1,44** | 9,1 | 13,1 | 22,3 |
-| **EQTL** | **1,43** | 45,1 | 64,7 | 109,8 |
-| **ABEV** | **1,42** | 99,5 | 140,8 | 240,4 |
-| **SANB** | **1,36** | 5,8 | 7,9 | 13,7 |
-| **MULT** | **1,35** | 9,9 | 13,4 | 23,3 |
+| **LJQQ** | **4,95** | 2,0 | 9,7 | 11,6 |
+| **BRKM** | **2,87** | 3,3 | 9,6 | 12,9 |
+| **MBRF** | **2,83** | 6,1 | 17,1 | 23,2 |
+| **AZZA** | **2,47** | 3,0 | 7,3 | 10,3 |
+| **DIRR** | **2,21** | 7,6 | 16,8 | 24,4 |
+| **RADL** | **1,83** | 9,5 | 17,4 | 26,9 |
+| **B3SA** | **1,82** | 46,5 | 84,7 | 131,2 |
+| **CYRE** | **1,76** | 12,0 | 21,1 | 33,0 |
+| **LREN** | **1,51** | 15,9 | 23,9 | 39,8 |
+| **EQTL** | **1,47** | 16,9 | 24,8 | 41,7 |
 
 
 ### Quanto está descoberto
 Posição **descoberta** é a de quem vendeu a opção sem ter o ativo nem garantia
 depositada em ativo — a B3 separa isso das posições cobertas e das bloqueadas. No mercado
-inteiro, 48% das posições
+inteiro, 57% das posições
 abertas em opção de ação estão descobertas.
 
 É uma medida de fragilidade, não de direção: quem está descoberto é quem precisa fazer alguma
@@ -222,22 +221,22 @@ coisa se o preço andar contra.
 
 | Ativo | Descoberta | Posições (mi) | Descobertas (mi) | Put ÷ Call |
 |---|---|---|---|---|
-| **PASS** | **100%** | 13,8 | 13,8 | 1,00 |
-| **BMGB** | **97%** | 32,7 | 31,6 | 0,96 |
-| **BOVV** | **97%** | 27,9 | 26,9 | 0,91 |
-| **CXSE** | **95%** | 125,4 | 118,6 | 0,93 |
-| **SAUD** | **92%** | 10,1 | 9,3 | 0,89 |
-| **GOAU** | **91%** | 111,3 | 101,6 | 0,93 |
-| **ISAE** | **90%** | 105,4 | 95,2 | 0,92 |
-| **PCAR** | **86%** | 17,4 | 15,0 | 0,09 |
-| **BRKM** | **81%** | 22,1 | 18,0 | 3,22 |
-| **LEVE** | **80%** | 15,3 | 12,2 | 0,94 |
+| **BOVV** | **98%** | 26,9 | 26,5 | 0,95 |
+| **BMGB** | **97%** | 33,7 | 32,8 | 0,98 |
+| **CXSE** | **94%** | 65,6 | 61,6 | 0,89 |
+| **ISAE** | **92%** | 98,6 | 90,6 | 1,00 |
+| **FLRY** | **91%** | 20,3 | 18,4 | 0,96 |
+| **UGPA** | **87%** | 28,4 | 24,6 | 0,75 |
+| **BRKM** | **85%** | 12,9 | 10,9 | 2,87 |
+| **MOVI** | **84%** | 33,2 | 27,8 | 0,97 |
+| **CPLE** | **82%** | 93,9 | 76,9 | 1,25 |
+| **MBRF** | **81%** | 23,2 | 18,9 | 2,83 |
 
 
 ## Termo de ações
 No termo, o comprador leva a ação agora e paga depois, numa data combinada
 — é compra alavancada com prazo. Quem financia é quem vende a termo. A posição em aberto é o
-que ainda não venceu: **R\$ 5,87 bilhões** no fechamento.
+que ainda não venceu: **R\$ 5,73 bilhões** no fechamento.
 
 Papel muito termado é papel que está sendo comprado com dinheiro emprestado. Isso amplifica os
 dois lados: se o preço sobe, o retorno do comprador é maior; se cai, a garantia aperta e pode
@@ -245,21 +244,21 @@ virar venda forçada.
 
 | # | Papel | Posição a termo | Ações | Contratos | Preço médio | Na semana |
 |---|---|---|---|---|---|---|
-| 1 | **VBBR** | **R\$ 659.020.652** | 19.669.900 | 194 | R\$ 33,50 | -11,4% |
-| 2 | **ENGI** | **R\$ 628.645.391** | 12.802.980 | 117 | R\$ 49,10 | -0,3% |
-| 3 | **AXIA** | **R\$ 407.032.772** | 7.407.946 | 565 | R\$ 54,95 | -12,3% |
-| 4 | **BBAS** | **R\$ 358.314.525** | 15.643.972 | 1.750 | R\$ 22,90 | -0,1% |
-| 5 | **VALE** | **R\$ 260.816.531** | 3.736.469 | 1.302 | R\$ 69,80 | +6,1% |
-| 6 | **ASAI** | **R\$ 220.868.238** | 23.348.051 | 107 | R\$ 9,46 | +38,6% |
-| 7 | **JHSF** | **R\$ 187.963.893** | 17.688.908 | 196 | R\$ 10,63 | -7,4% |
-| 8 | **MRVE** | **R\$ 177.198.519** | 23.413.747 | 268 | R\$ 7,57 | +0,5% |
-| 9 | **SPXU** | **R\$ 165.408.442** | 8.754.008 | 1.372 | R\$ 18,90 | +5,8% |
-| 10 | **EQTL** | **R\$ 153.734.589** | 3.256.400 | 170 | R\$ 47,21 | -4,1% |
-| 11 | **ITUB** | **R\$ 153.495.639** | 3.569.811 | 420 | R\$ 43,00 | -3,8% |
-| 12 | **RENT** | **R\$ 148.445.320** | 2.952.114 | 118 | R\$ 50,28 | 0,0% |
-| 13 | **WEGE** | **R\$ 141.213.017** | 3.145.328 | 104 | R\$ 44,90 | -0,1% |
-| 14 | **GOLX** | **R\$ 132.280.487** | 2.341.576 | 2.215 | R\$ 56,49 | -3,4% |
-| 15 | **TEND** | **R\$ 113.264.708** | 4.493.500 | 117 | R\$ 25,21 | -17,5% |
+| 1 | **VBBR** | **R\$ 632.825.746** | 18.969.900 | 188 | R\$ 33,36 | -11,3% |
+| 2 | **ENGI** | **R\$ 628.645.391** | 12.802.980 | 117 | R\$ 49,10 | 0,0% |
+| 3 | **AXIA** | **R\$ 368.899.351** | 6.769.587 | 505 | R\$ 54,49 | +3,5% |
+| 4 | **BBAS** | **R\$ 354.158.287** | 15.473.947 | 1.760 | R\$ 22,89 | -1,5% |
+| 5 | **VALE** | **R\$ 266.108.444** | 3.844.069 | 1.326 | R\$ 69,23 | +10,9% |
+| 6 | **ASAI** | **R\$ 226.232.288** | 23.948.051 | 107 | R\$ 9,45 | +19,8% |
+| 7 | **JHSF** | **R\$ 187.643.279** | 17.654.908 | 188 | R\$ 10,63 | -7,9% |
+| 8 | **MRVE** | **R\$ 170.862.647** | 22.758.347 | 266 | R\$ 7,51 | -3,2% |
+| 9 | **SPXU** | **R\$ 165.829.163** | 8.774.776 | 1.380 | R\$ 18,90 | +4,6% |
+| 10 | **ITUB** | **R\$ 154.066.315** | 3.584.011 | 426 | R\$ 42,99 | +0,3% |
+| 11 | **EQTL** | **R\$ 153.890.160** | 3.261.000 | 180 | R\$ 47,19 | -3,0% |
+| 12 | **RENT** | **R\$ 148.475.524** | 2.953.814 | 118 | R\$ 50,27 | -0,9% |
+| 13 | **WEGE** | **R\$ 140.030.479** | 3.119.428 | 98 | R\$ 44,89 | -0,9% |
+| 14 | **GOLX** | **R\$ 130.888.183** | 2.317.401 | 2.203 | R\$ 56,48 | -4,4% |
+| 15 | **TEND** | **R\$ 112.952.097** | 4.480.500 | 113 | R\$ 25,21 | +5,3% |
 
 
 ## Como usar esta página
@@ -302,12 +301,12 @@ sustentada por recompra de vendido tem munição finita e acaba quando acabarem 
 com posição nova entrando não tem esse limite. Quem só olha preço não distingue as duas, e a
 diferença aparece justamente no que vem depois.
 
-Hoje o contrato que mais abriu posição foi o **WDO**
-(Minicontrato de Dólar Comercial), com +155.290 contratos novos num único pregão.
+Hoje o contrato que mais abriu posição foi o **PETRP**
+(Contrato Futuro de PETR4), com +5.000.200 contratos novos num único pregão.
 
 ### O número que mede fragilidade, não direção
 
-**48% das posições abertas em opção de ação estão descobertas** — vendidas
+**57% das posições abertas em opção de ação estão descobertas** — vendidas
 por quem não tem o ativo nem garantia depositada em ativo. Quem está descoberto é quem
 **precisa fazer alguma coisa** se o preço andar contra, e cobrir uma venda de call significa
 comprar o papel.
@@ -318,7 +317,7 @@ comprar por cima — e obrigação é mais previsível que opinião.
 ### A hipótese, que ainda não está testada
 
 Se posição descoberta alta num papel amplifica o movimento quando ele começa, é plausível pelo
-mecanismo e **não está medido aqui**. São 24 pregões de histórico. O arquivo
+mecanismo e **não está medido aqui**. São 25 pregões de histórico. O arquivo
 cresce todo dia útil; com alguns meses dá para comparar o retorno depois de descoberta alta
 contra o de um dia qualquer, com casos suficientes para a diferença significar algo.
 
@@ -344,7 +343,7 @@ informação: é o cruzamento que distingue dinheiro novo de recompra, não a po
 > opera, e o risco também.
 
 > [!abstract] Confira a conta você mesmo
-> <a href="derivativos.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar derivativos.xlsx</a> — os 74 contratos e 193 ativos com opção, mais a série pregão a pregão.
+> <a href="derivativos.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar derivativos.xlsx</a> — os 73 contratos e 189 ativos com opção, mais a série pregão a pregão.
 > 
-> Fonte: Boletim Diário do Mercado da B3, tabelas *Posições em aberto* e *Cadastro de instrumentos* — é do cadastro que vem o nome de cada contrato e a separação entre futuro e opção. Histórico de 24 pregões arquivados.
+> Fonte: Boletim Diário do Mercado da B3, tabelas *Posições em aberto* e *Cadastro de instrumentos* — é do cadastro que vem o nome de cada contrato e a separação entre futuro e opção. Histórico de 25 pregões arquivados.
 

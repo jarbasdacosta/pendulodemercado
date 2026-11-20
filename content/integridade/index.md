@@ -1,11 +1,11 @@
 ---
 title: "🔎 Integridade dos dados"
-date: 2026-11-18
+date: 2026-11-19
 description: "O que foi conferido, contra qual fonte e quando — medido na hora, tabela por tabela e página por página"
 tags: [integridade]
 ---
 
-*Pregão conferido: **18/11/2026**, com 59 tabelas no acervo · página gerada em 19/11/2026 19:10*
+*Pregão conferido: **19/11/2026**, com 47 tabelas no acervo · página gerada em 20/11/2026 06:54*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -15,14 +15,14 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 
 | o que | situação |
 |---|---|
-| Tabelas do boletim conferidas | **53** de 59 guardadas |
-| Tabelas **incompletas** | **1** — veja abaixo |
-| Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
+| Tabelas do boletim conferidas | **42** de 47 guardadas |
+| Tabelas **incompletas** | **2** — veja abaixo |
+| Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
-| Tabelas com conteúdo fora da curva | **1** — veja a seção 1 |
+| Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 360 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 19/11 19:10 |
+| Página escrita mais recentemente | 20/11 06:54 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -35,67 +35,56 @@ A conferência é por **conjunto**, não por contagem de linhas: várias tabelas
 
 | tabela | declarado pela B3 | obtido | completude |
 |---|---:|---:|---:|
-| `Renewals` | 437 | 243 | **55,6%** |
+| `Renewals` | 494 | 350 | **70,9%** |
+| `ConsolidatedTradesEquities` | 79.186 | 79.138 | **99,9%** |
 
 **O que isso significa para quem opera.** Número calculado sobre tabela incompleta é número sobre amostra, não sobre o mercado. Onde a completude estiver abaixo de 100%, trate o que vier dessa tabela como indicativo e confira na fonte antes de decidir. A avaliação é leitura de risco; o risco é de quem opera.
 
-### Completas (52)
+### Completas (40)
 
 Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repetem aqui.
 
 | tabela | linhas | tickers obtidos | declarados pela B3 |
 |---|---:|---:|---:|
-| `BTBLendingOpenPosition` | 2.894 | 1.024 | 1.024 |
+| `BTBLendingOpenPosition` | 2.910 | 1.031 | 1.031 |
 | `BTBLoanBalance` | 4.743 | 1.655 | 1.655 |
-| `BTBTrade` | 48.820 | 569 | 569 |
-| `CNLDistrionCoffeLocation` | 1 | 1 | 1 |
-| `CNLHarvestCoffeApprov` | 1 | 1 | 1 |
-| `CNLValidLotsSettle` | 1 | 1 | 1 |
+| `BTBTrade` | 58.333 | 548 | 548 |
 | `COEInventory` | 1 | 1 | 1 |
 | `COERegistration` | 1 | 1 | 1 |
-| `ConsolidatedTradesDerivatives` | 7.480 | 7.480 | 7.480 |
+| `ConsolidatedTradesDerivatives` | 7.546 | 7.546 | 7.546 |
 | `ConsolidatedTradesDerivativesAfter` | 52 | 52 | 52 |
-| `ConsolidatedTradesEquities` | 77.384 | 77.384 | 77.384 |
-| `ConsolidatedTradesRVAfter` | 30 | 30 | 30 |
+| `ConsolidatedTradesRVAfter` | 451 | 451 | 451 |
 | `Custody` | 57 | 57 | 57 |
 | `DailyAverageDerivatives2` | 9 | 9 | 9 |
-| `DailyAverageStocks` | 9 | 9 | 9 |
-| `DeadlineDepositSecurities` | 49 | 49 | 49 |
-| `DebenturesBusiness` | 76 | 76 | 76 |
+| `DeadlineDepositSecurities` | 18 | 18 | 18 |
 | `DerivativesMtM` | 4 | 4 | 4 |
-| `DerivativesOperation2` | 78 | 78 | 78 |
+| `DerivativesOperation2` | 82 | 82 | 82 |
 | `DistrionCoffeLocation` | 18 | 18 | 18 |
-| `EconomicIndicators` | 456 | 64 | 64 |
-| `EletronicTerm` | 1 | 1 | 1 |
-| `FlexibleOptions` | 1.008 | 112 | 112 |
-| `Forward` | 4 | 4 | 4 |
-| `ForwardMarket` | 155 | 90 | 90 |
-| `FugibleCustody` | 4 | 4 | 4 |
+| `EconomicIndicators` | 457 | 64 | 64 |
+| `Forward` | 5 | 5 | 5 |
+| `FugibleCustody` | 6 | 6 | 6 |
 | `HarvestCoffeApprov` | 2 | 2 | 2 |
 | `HistoricalExchange` | 1 | 1 | 1 |
-| `IOPV` | 70 | 70 | 70 |
+| `IOPV` | 71 | 71 | 71 |
 | `IbovespaStockBiggestHighs` | 10 | 10 | 10 |
 | `IbovespaStockBiggestLow` | 10 | 10 | 10 |
 | `InCash` | 5 | 5 | 5 |
 | `InCashMarketBiggestHighs` | 10 | 10 | 10 |
 | `InCashMarketBiggestLow` | 10 | 10 | 10 |
-| `InstrumentsDerivatives` | 9.445 | 9.445 | 9.445 |
-| `NegotiStrategi` | 304 | 23 | 23 |
+| `InstrumentsDerivatives` | 9.494 | 9.494 | 9.494 |
+| `MarginScenarios` | 135.921 | 7.038 | 7.038 |
+| `NegotiStrategi` | 63 | 9 | 9 |
 | `OTCInventoryCCP` | 3 | 3 | 3 |
 | `OTCInventoryWCCP` | 4 | 4 | 4 |
 | `OTCRegistrationCCP` | 3 | 3 | 3 |
 | `OTCRegistrationWCCP` | 4 | 4 | 4 |
-| `OpenPositionsEquities` | 46.564 | 46.564 | 46.564 |
+| `OpenPositionsEquities` | 35.380 | 35.380 | 35.380 |
 | `OptionsPurshase` | 5 | 5 | 5 |
 | `OptionsSelling` | 5 | 5 | 5 |
-| `ProventionCreditVariable` | 19 | 19 | 19 |
-| `Register` | 17 | 17 | 17 |
+| `ProventionCreditVariable` | 30 | 30 | 30 |
+| `Register` | 18 | 18 | 18 |
 | `SaleOff` | 12 | 12 | 12 |
 | `SharesInvesVolum` | 5 | 5 | 5 |
-| `SharesInvesVolumMonthly` | 5 | 5 | 5 |
-| `Stock` | 43 | 43 | 43 |
-| `StocksOperationSummary` | 57 | 57 | 57 |
-| `SwapFlex` | 1 | 1 | 1 |
 | `ValidLotsSettle` | 1 | 1 | 1 |
 
 ### O pregão realmente aconteceu?
@@ -104,8 +93,8 @@ A conferência acima compara o arquivo com a lista de tickers que o próprio arq
 
 | tabela | linhas no dia | referência | linhas | piso (70%) | |
 |---|---:|---|---:|---:|---|
-| `OpenPositionsEquities` | 46.564 | 17/11/2026 | 45.951 | 32.165 | ok |
-| `ConsolidatedTradesDerivatives` | 783 | 17/11/2026 | 809 | 566 | ok |
+| `OpenPositionsEquities` | 35.380 | 18/11/2026 | 46.564 | 32.594 | ok |
+| `ConsolidatedTradesDerivatives` | 801 | 18/11/2026 | 783 | 548 | ok |
 
 ### Alguma tabela veio magra demais?
 
@@ -113,9 +102,7 @@ As duas conferências acima têm pontos cegos: a primeira compara o arquivo com 
 
 Esta terceira pergunta não precisa saber nada sobre cada tabela: compara o volume do dia com a **mediana dos últimos dez dias dela mesma**, e acusa quem ficou abaixo de metade. Vale para todas, inclusive as que ainda não deram problema.
 
-| tabela | linhas no dia | linhas no pregão anterior | do normal |
-|---|---:|---:|---:|
-| `Renewals` | 39.028 | 158.383 | 44% |
+Nenhuma tabela do pregão conferido ficou abaixo da metade do seu próprio normal.
 
 ## 2 · Páginas publicadas
 
@@ -125,16 +112,16 @@ Pregão mais recente declarado por alguma página: **19/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `diario/index.md` | 16/11 14:43 | 3.2 |
-| `intraday/index.md` | 16/11 14:43 | 3.2 |
-| `por-onde-comecar.md` | 16/11 15:20 | 3.2 |
-| `ofertas.md` | 16/11 21:56 | 2.9 |
+| `diario/index.md` | 16/11 14:43 | 3.7 |
+| `intraday/index.md` | 16/11 14:43 | 3.7 |
+| `por-onde-comecar.md` | 16/11 15:20 | 3.6 |
+| `ofertas.md` | 16/11 21:56 | 3.4 |
 
 ### As páginas concordam entre si?
 
 Cada página do safecluster é conferida contra as operações do motor. Isso não basta: em 17/11/2026 a página de operações mostrava o pregão do dia e o extrato da carteira parava no dia anterior — **as duas corretas em relação à própria fonte, e contraditórias entre si**. A auditoria passou com "68 certas, 0 erradas" porque ninguém comparava as duas versões do mesmo fato. Desde 18/11/2026 ela também compara.
 
-*Última auditoria: 2026-11-19 às 16:37:37 · 71 conferências, 0 divergência(s).*
+*Última auditoria: 2026-11-19 às 20:12:24 · 71 conferências, 0 divergência(s).*
 
 Nenhuma divergência entre páginas nesta rodada.
 
@@ -142,14 +129,13 @@ Nenhuma divergência entre páginas nesta rodada.
 
 A seção mais importante da página. Sem ela, "nenhum problema encontrado" se confunde com "nada foi olhado".
 
-**Tabelas fora da conferência** (6), com o motivo de cada uma. Nenhuma delas é falha de coleta: parte são agrupadores do catálogo, que não têm dados próprios, e parte são séries ou valores únicos, que não têm ticker a conferir. O motivo vai escrito porque "sem alvo" sozinho insinuaria falta da B3 e esconderia que três delas nem são tabelas de dados.
+**Tabelas fora da conferência** (5), com o motivo de cada uma. Nenhuma delas é falha de coleta: parte são agrupadores do catálogo, que não têm dados próprios, e parte são séries ou valores únicos, que não têm ticker a conferir. O motivo vai escrito porque "sem alvo" sozinho insinuaria falta da B3 e esconderia que três delas nem são tabelas de dados.
 
 | tabela | linhas | por quê |
 |---|---:|---|
-| `AverageChart` | 13 | não achei a coluna do ticker |
+| `AverageChart` | 12 | não achei a coluna do ticker |
 | `DIover` | 1 | não achei a coluna do ticker |
 | `INDEXES` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
-| `IndicesB3` | 33 | sem lista de tickers — é série ou valor único, não tem ticker a conferir |
 | `Previa` | 0 | agrupador do catálogo (3 item(ns)), não tem dados próprios |
 | `PreviaQuadrimestral` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
 
