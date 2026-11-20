@@ -90,8 +90,8 @@ pregao: 2026-11-18
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Ouro 🔴 | 3.538,40 US$/oz | -3,99% | -9,25% | -18,49% | -14,53% |
-| Cobre 🔴 | 5,47 US$/lb | -2,84% | -15,38% | -2,92% | 9,32% |
+| Ouro 🔴 | 3.539,00 US$/oz | -3,98% | -9,23% | -18,48% | -14,52% |
+| Cobre 🔴 | 5,47 US$/lb | -2,84% | -15,38% | -2,93% | 9,31% |
 | Petróleo Brent 🔴 | 89,87 US$/bbl | -2,29% | -23,61% | 47,69% | 43,84% |
 | Dollar Index 🔴 | 103,84 pontos | -0,06% | 1,92% | 5,66% | 4,19% |
 | Juro EUA 10 anos 🔴 | 4,91 % a.a. | -14 p.b. | -2 p.b. | 75 p.b. | 91 p.b. |
@@ -104,17 +104,17 @@ pregao: 2026-11-18
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Prata 🔴 | 41,08 US$/oz | -7,32% | -16,34% | -41,43% | -19,36% |
-| Platina 🔴 | 1.285,60 US$/oz | -4,60% | -10,60% | -36,81% | -17,43% |
-| Ouro 🔴 | 3.538,40 US$/oz | -3,99% | -9,25% | -18,49% | -14,53% |
-| Paládio 🔴 | 892,00 US$/oz | -2,69% | -9,40% | -45,25% | -36,39% |
+| Prata 🔴 | 41,08 US$/oz | -7,31% | -16,33% | -41,43% | -19,35% |
+| Platina 🔴 | 1.286,00 US$/oz | -4,57% | -10,57% | -36,79% | -17,40% |
+| Ouro 🔴 | 3.539,00 US$/oz | -3,98% | -9,23% | -18,48% | -14,52% |
+| Paládio 🔴 | 893,00 US$/oz | -2,59% | -9,30% | -45,19% | -36,31% |
 
 ### Metais industriais
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
 | Aço laminado 🟢 | 1.401,00 US$/t | 3,62% | 4,01% | 49,84% | 64,05% |
-| Cobre 🔴 | 5,47 US$/lb | -2,84% | -15,38% | -2,92% | 9,32% |
+| Cobre 🔴 | 5,47 US$/lb | -2,84% | -15,38% | -2,93% | 9,31% |
 | Alumínio 🔴 | 2.796,25 US$/t | -1,52% | -15,53% | -3,78% | 2,61% |
 | Minério de ferro 🟢 | 90,86 US$/t | 0,15% | 0,17% | -15,19% | -12,99% |
 
@@ -124,9 +124,9 @@ pregao: 2026-11-18
 |---|---|---|---|---|---|
 | Gás natural 🟢 | 3,79 US$/MMBtu | 16,00% | 30,81% | 2,85% | -14,31% |
 | Petróleo Brent 🔴 | 89,87 US$/bbl | -2,29% | -23,61% | 47,69% | 43,84% |
-| Óleo de aquecimento 🔴 | 3,87 US$/gal | -2,18% | -19,32% | 82,27% | 64,21% |
-| Gasolina 🔴 | 2,48 US$/gal | -0,58% | -25,10% | 45,46% | 33,57% |
-| Petróleo WTI 🟢 | 83,60 US$/bbl | 0,47% | -19,71% | 45,59% | 44,26% |
+| Óleo de aquecimento 🔴 | 3,87 US$/gal | -2,14% | -19,28% | 82,34% | 64,28% |
+| Gasolina 🔴 | 2,48 US$/gal | -0,55% | -25,08% | 45,50% | 33,60% |
+| Petróleo WTI 🟢 | 83,62 US$/bbl | 0,49% | -19,69% | 45,63% | 44,30% |
 
 ### Grãos
 
@@ -385,13 +385,13 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 
 | bloco | fonte | coletado |
 |---|---|---|
-| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 20/11 às 19:09 |
-| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 20/11 às 19:10 |
-| Dólar | Banco Central · PTAX de venda (série SGS 1) | 20/11 às 19:10 |
-| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 20/11 às 19:10 |
+| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 20/11 às 19:37 |
+| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 20/11 às 19:38 |
+| Dólar | Banco Central · PTAX de venda (série SGS 1) | 20/11 às 19:38 |
+| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 20/11 às 19:38 |
 | Índices da B3 | B3 · acervo diário de índices | 2026-11-18 |
 | Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 20/11 às 19:11 |
-| O lado | medido sobre o painel do próprio site | 20/11 às 19:11 |
+| O lado | medido sobre o painel do próprio site | 20/11 às 19:39 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
 
