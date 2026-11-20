@@ -5,7 +5,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 47 tabelas no acervo · página gerada em 20/11/2026 14:34*
+*Pregão conferido: **19/11/2026**, com 47 tabelas no acervo · página gerada em 20/11/2026 15:00*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -22,7 +22,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 360 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 20/11 14:30 |
+| Página escrita mais recentemente | 20/11 15:00 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -117,13 +117,38 @@ Pregão mais recente declarado por alguma página: **19/11/2026**.
 | `por-onde-comecar.md` | 16/11 15:20 | 4.0 |
 | `ofertas.md` | 16/11 21:56 | 3.7 |
 
-### Página declarando data sem pregão
+### Página sem data de dado declarada
 
-Medida diferente da tabela acima: ali o problema é mtime velho, aqui é data declarada num dia em que a B3 não negociou. O campo `date:` do front matter é, na maioria dos geradores, o relógio da máquina e não a data do dado, então em feriado ou fim de semana a página passa a declarar um pregão que não existiu. Estas ficaram fora da conta do pregão mais recente declarado:
+São 28. Elas declaram `date:`, que é quando a página foi gerada, mas não declaram `pregao:`, que é a data do dado. Por isso ficam fora da conta do pregão mais recente declarado: o `date:` é o relógio da máquina na maioria dos geradores, e nenhum leitor distingue relógio de dado olhando o mesmo campo. Esta lista é a fila de migração, publicada em vez de ficar na cabeça de alguém.
 
-| página | data declarada |
-|---|---|
-| `mercados/index.md` | 20/11/2026 |
+- `adr/index.md`
+- `agro/index.md`
+- `amplitude/avanco-declinio.md`
+- `amplitude/index.md`
+- `espectro/index.md`
+- `estrangeiros/index.md`
+- `index.md`
+- `inflacao-e-cambio/index.md`
+- `integridade/index.md`
+- `juros/index.md`
+- `larry-williams/index.md`
+- `metodologia/crise.md`
+- `metodologia/index.md`
+- `metodologia/o-que-nao-passou.md`
+- `metodologia/regras-de-operacao.md`
+- `metodologia/sinais.md`
+- `ofertas.md`
+- `operacoes/entradas.md`
+- `operacoes/historico-por-ano.md`
+- `operacoes/index.md`
+- `operacoes/ranking.md`
+- `operacoes/tendencia.md`
+- `operacoes/ultimas-operacoes.md`
+- `posicionamento/aluguel.md`
+- `posicionamento/derivativos.md`
+- `sinais-topo-fundo/index.md`
+- `sinais-topo-fundo/todos-os-sinais.md`
+- `tecnico/index.md`
 
 ### As páginas concordam entre si?
 
