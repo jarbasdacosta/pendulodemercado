@@ -5,7 +5,7 @@ description: "O escalograma wavelet de cada grande virada do Ibovespa, com o dia
 tags: [espectro]
 ---
 
-*Página refeita em 22/11/2026 17:23 · medição de 22/11/2026 às 16:45.*
+*Página refeita em 22/11/2026 17:30 · medição de 22/11/2026 às 17:28.*
 
 Cada figura é o **mesmo escalograma** da [página do espectro](./), com a mesma wavelet e a mesma escala, apontado para uma janela do passado — e com **o dia marcado**: o extremo em vermelho, e o dia em que cada sinal ligou na cor dele. A distância entre a linha vermelha e a colorida é, visualmente, o que o aviso valeu.
 
@@ -23,6 +23,8 @@ Quedas de 40% ou mais a partir do topo. São poucos: cabem nos dedos de uma mão
 
 Topo em **20/05/2008**, e daí até o fundo o Ibovespa fez **-60,0%**.
 
+**topo de alta longa** — o índice tinha subido 37% desde a mínima dos 120 pregões anteriores.
+
 ![Escalograma do Ibovespa, topo de 2008](../graficos/espectro_topo_2008.png)
 
 | | o que fez neste episódio |
@@ -35,6 +37,8 @@ Topo em **20/05/2008**, e daí até o fundo o Ibovespa fez **-60,0%**.
 ## 2020 — a pandemia
 
 Topo em **23/01/2020**, e daí até o fundo o Ibovespa fez **-46,8%**.
+
+**topo de alta longa** — o índice tinha subido 24% desde a mínima dos 120 pregões anteriores.
 
 ![Escalograma do Ibovespa, topo de 2020](../graficos/espectro_topo_2020.png)
 
@@ -49,6 +53,8 @@ Topo em **23/01/2020**, e daí até o fundo o Ibovespa fez **-46,8%**.
 
 Topo em **26/01/2001**, e daí até o fundo o Ibovespa fez **-44,1%**.
 
+**topo de alta longa** — o índice tinha subido 35% desde a mínima dos 120 pregões anteriores.
+
 ![Escalograma do Ibovespa, topo de 2001](../graficos/espectro_topo_2001.png)
 
 | | o que fez neste episódio |
@@ -61,6 +67,8 @@ Topo em **26/01/2001**, e daí até o fundo o Ibovespa fez **-44,1%**.
 ## 2002 — a eleição e o risco-país
 
 Topo em **04/03/2002**, e daí até o fundo o Ibovespa fez **-42,1%**.
+
+**topo de alta longa** — o índice tinha subido 45% desde a mínima dos 120 pregões anteriores.
 
 ![Escalograma do Ibovespa, topo de 2002](../graficos/espectro_topo_2002.png)
 
@@ -79,6 +87,8 @@ Altas de 40% ou mais a partir do fundo. São **muito mais comuns** que os tombos
 
 Fundo em **26/02/2003**, e daí até o pico o Ibovespa fez **143,6%**.
 
+**capitulação** — veio de uma queda de 18% nos 120 pregões anteriores.
+
 ![Escalograma do Ibovespa, fundo de 2003](../graficos/espectro_fundo_2003.png)
 
 | | o que fez neste episódio |
@@ -91,6 +101,8 @@ Fundo em **26/02/2003**, e daí até o pico o Ibovespa fez **143,6%**.
 ## 2008 — o fundo pós-Lehman
 
 Fundo em **27/10/2008**, e daí até o pico o Ibovespa fez **128,4%**.
+
+**capitulação** — veio de uma queda de 60% nos 120 pregões anteriores.
 
 ![Escalograma do Ibovespa, fundo de 2008](../graficos/espectro_fundo_2008.png)
 
@@ -105,6 +117,8 @@ Fundo em **27/10/2008**, e daí até o pico o Ibovespa fez **128,4%**.
 
 Fundo em **23/03/2020**, e daí até o pico o Ibovespa fez **96,8%**.
 
+**capitulação** — veio de uma queda de 47% nos 120 pregões anteriores.
+
 ![Escalograma do Ibovespa, fundo de 2020](../graficos/espectro_fundo_2020.png)
 
 | | o que fez neste episódio |
@@ -117,6 +131,8 @@ Fundo em **23/03/2020**, e daí até o pico o Ibovespa fez **96,8%**.
 ## 2006
 
 Fundo em **22/09/2006**, e daí até o pico o Ibovespa fez **79,1%**.
+
+**capitulação** — veio de uma queda de 17% nos 120 pregões anteriores.
 
 ![Escalograma do Ibovespa, fundo de 2006](../graficos/espectro_fundo_2006.png)
 
