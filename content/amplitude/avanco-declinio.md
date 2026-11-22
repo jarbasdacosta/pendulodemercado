@@ -1,12 +1,12 @@
 ---
 title: "📈 Avanço e declínio"
-date: 2026-11-20
+date: 2026-11-22
 pregao: 2026-11-19
 description: "Linha de avanço e declínio do Ibovespa: ações que subiram menos as que caíram, acumulado"
 tags: [amplitude]
 ---
 
-*Atualizado 20/11/2026 19:03 · fechamento de 19/11/2026.*
+*Atualizado 22/11/2026 16:04 · fechamento de 19/11/2026.*
 
 Em cada pregão, conta quantas ações da carteira do Ibovespa **subiram** e quantas **caíram**. O saldo do dia (subiram − caíram) é somado dia após dia: essa é a **linha de avanço e declínio**. Ela mostra se a alta do índice é de muitas ações ou só de algumas grandes. **Divergência:** o Ibovespa faz um **topo maior** que o topo anterior e a linha, nesse topo, fica **abaixo** do pico que tinha no topo anterior — a alta está ficando estreita.
 
@@ -76,12 +76,21 @@ Carteiras reconstruídas por liquidez, 2001–2026, treino 2001–2013 × teste 
 
 | Leitura | O que aconteceu depois | Confiança |
 |---|---|---|
-| ⚠ **Topo a topo** (topo maior no Ibovespa, linha abaixo do pico do topo anterior) | 60 pregões depois **−1,1%** e **−2,3%** × **+7,4%** e **+1,4%** quando a linha confirmou; queda de 10%+ em 60 pregões em **50%** e **38%** × 27% e 17% | 🟡 **indício**: as 10 medidas na mesma direção nos dois períodos, mas só 14 casos (acaso 8% no treino, 14–34% no teste) |
+| ⚠ **Topo a topo** (topo maior no Ibovespa, linha abaixo do pico do topo anterior) | 60 pregões depois **−1,1%** e **−2,3%** × **+7,4%** e **+1,4%** quando a linha confirmou; queda de 10%+ em 60 pregões em **50%** e **38%** × 27% e 17% | 🟡 **indício**: as 10 medidas na mesma direção nos dois períodos, mas só **14 casos** no teste de 23/10/2026 (acaso 8% no treino, 14–34% no teste) |
 | Dia de máxima (Ibovespa na máxima de 3, 6 ou 12 meses e a linha não, no mesmo dia) | igual aos outros dias de máxima | ❌ — pega muito atraso de poucos dias no meio da alta |
 | Grandes topos (queda de 20%+) | a linha virou antes em metade (2008: em out/2007; 2021: em jul/2020) | — |
-| Divergência de alta nos fundos | não ajudou | ❌ |
+| **Divergência de alta nos fundos** (Ibovespa na mínima de 63 pregões e a linha **não**) — 20 casos no treino, 19 no teste | 60 pregões depois: **−3,3%** no treino × **+7,5%** no teste; 20 pregões: −2,7% × +2,9% | ❌ **o sinal inverteu entre os períodos** — dizia uma coisa até 2013 e o contrário depois |
+| ⚠ **Fundo confirmado pela linha** (Ibovespa na mínima de 126 pregões **e a linha também**) — 13 e 18 casos | 60 pregões depois: **−6,5%** e **+8,7%**, contra −0,0% e +13,0% da média dos dias de mínima · acaso **9%** e **4%** | 🟡 **o único resultado dos fundos que passou nos dois períodos — e no sentido desfavorável** |
 
-**Aviso no Telegram** quando uma divergência é **confirmada** (o Ibovespa fecha 5% abaixo do topo), marcado como indício. Topos são raros — o sinal também é (14 vezes em 25 anos).
+> [!warning] O que isto diz para quem está procurando fundo
+>
+> O único sinal de fundo que sobreviveu ao teste é **desfavorável**. Quando o Ibovespa faz mínima de 126 pregões **e a linha de avanço e declínio também está na mínima** — a queda é larga, a maioria das ações caindo junto — os 60 pregões seguintes renderam **menos** que a média dos outros fundos, nos dois períodos, com acaso de 9% e 4%. No período bom isso foi +8,7% contra +13,0%; no ruim, −6,5% contra 0,0%.
+>
+> **Queda larga não marcou fundo: marcou continuação.** O que isto sugere **não** fazer é tratar "todo mundo caindo junto" como capitulação e ponto de entrada — é justamente a configuração que rendeu menos. O que sugere observar é o oposto da teoria clássica: historicamente o melhor fundo foi aquele em que a amplitude **não** acompanhou o índice até o fim.
+>
+> São 13 e 18 casos, e a comparação é contra a média dos dias de mínima — não contra a divergência. É **indício, não lei**, e o risco é de quem opera.
+
+**Aviso no Telegram** quando uma divergência é **confirmada** (o Ibovespa fecha 5% abaixo do topo), marcado como indício. Topos são raros — o sinal também é: **15 vezes** em **42** topos maiores desde 2001.
 
 ## Os grandes topos (Ibovespa caiu 20% ou mais depois)
 
