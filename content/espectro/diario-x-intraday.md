@@ -5,7 +5,7 @@ description: "As 13 vezes em 5 anos em que os dois IMAs apontaram topo ao mesmo 
 tags: [espectro]
 ---
 
-*Página refeita em 22/11/2026 20:35 · medição de 22/11/2026 às 20:35 · **dados do ζ até 19/11/2026 17:30**.*
+*Página refeita em 22/11/2026 20:39 · medição de 22/11/2026 às 20:39 · **dados do ζ até 19/11/2026 17:30**.*
 
 > [!info] O dado não vai até hoje
 > 
@@ -15,7 +15,7 @@ tags: [espectro]
 
 O sistema calcula o ζ em duas frequências: no **diário**, com janela de 252 pregões, e no **intraday**, em velas de 15 minutos. Os dois nunca tinham sido cruzados. A pergunta é direta: *houve momentos em que os dois apontaram topo ao mesmo tempo? E fundo? O que veio depois?*
 
-Resposta: sim, e é raro. No período de **12/11/2021 a 19/11/2026** (1.253 pregões, 18.346 leituras de 30 em 30 minutos), os dois concordaram em **13 episódios de topo** e **7 de fundo** — menos de 1% do tempo.
+Resposta: sim, e é raro. No período de **12/11/2021 a 19/11/2026** (1.253 pregões, 18.346 leituras de 30 em 30 minutos), os dois concordaram em **13 episódios de topo** e **8 de fundo** — menos de 1% do tempo.
 
 > [!warning] O que esta página NÃO diz
 > 
@@ -115,14 +115,14 @@ No cruzamento das duas listas: **6 coincidem**, **7 só a concordância enxerga*
 
 ## Lado do fundo: não serve
 
-**Episódios de fundo** — 7 episódios
+**Episódios de fundo** — 8 episódios
 
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
-| 1 pregão | **3 de 7** (43%) | 49% | +0,01% | +0,03% | 0,760 |
-| 5 pregões | **3 de 7** (43%) | 48% | +0,66% | +0,14% | 0,736 |
-| 20 pregões | **2 de 7** (29%) | 44% | +2,29% | +0,98% | 0,892 |
-| 60 pregões | **3 de 7** (43%) | 42% | +1,39% | +2,25% | 0,619 |
+| 1 pregão | **3 de 8** (38%) | 49% | +0,17% | +0,03% | 0,845 |
+| 5 pregões | **4 de 8** (50%) | 48% | -0,24% | +0,14% | 0,589 |
+| 20 pregões | **3 de 8** (38%) | 44% | +1,50% | +0,98% | 0,770 |
+| 60 pregões | **4 de 8** (50%) | 42% | +0,67% | +2,25% | 0,449 |
 
 Nenhum horizonte se distingue da taxa base, nem na primeira metade nem na segunda. **Os dois ζ apontando fundo ao mesmo tempo não diz nada sobre o que vem depois** — e esta página registra isso com a mesma clareza com que registra o resultado do topo. Medição que só publica o que deu certo não é medição.
 
