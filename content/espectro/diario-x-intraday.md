@@ -5,7 +5,7 @@ description: "As 13 vezes em 5 anos em que os dois IMAs apontaram topo ao mesmo 
 tags: [espectro]
 ---
 
-*Página refeita em 22/11/2026 20:39 · medição de 22/11/2026 às 20:39 · **dados do ζ até 19/11/2026 17:30**.*
+*Página refeita em 22/11/2026 20:52 · medição de 22/11/2026 às 20:40 · **dados do ζ até 19/11/2026 17:30**.*
 
 > [!info] O dado não vai até hoje
 > 
@@ -125,6 +125,12 @@ No cruzamento das duas listas: **6 coincidem**, **7 só a concordância enxerga*
 | 60 pregões | **4 de 8** (50%) | 42% | +0,67% | +2,25% | 0,449 |
 
 Nenhum horizonte se distingue da taxa base, nem na primeira metade nem na segunda. **Os dois ζ apontando fundo ao mesmo tempo não diz nada sobre o que vem depois** — e esta página registra isso com a mesma clareza com que registra o resultado do topo. Medição que só publica o que deu certo não é medição.
+
+> [!tip] Por que o lado do fundo não funciona
+> 
+> Há uma medição separada, com **26 anos** e os eventos de cauda dentro (2001, 2008, 2020), que mostra o motivo: o ζ Fundo no teto da escala marca o **começo** de uma queda forte, não o fim dela. Quem comprasse no primeiro sinal de 2008 estaria 32% abaixo três meses depois.
+> 
+> [O ζ no teto da escala — o que realmente acontece depois](zeta-no-teto)
 
 ## O que fazer com isso
 

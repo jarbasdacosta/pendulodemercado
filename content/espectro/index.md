@@ -6,7 +6,7 @@ description: "Em que frequências o Ibovespa está vibrando — escalograma de 5
 tags: [espectro]
 ---
 
-*Figura de **16/11/2026 às 17:00** · página refeita em 22/11/2026 17:00.*
+*Figura de **16/11/2026 às 17:00** · página refeita em 22/11/2026 20:53.*
 
 > [!info] Esta página é **semanal**, não diária
 > O espectro é recalculado **toda segunda-feira às 17h BRT** e só então esta página muda. As frequências do mercado se movem devagar: refazer isso todo dia gastaria máquina para mostrar a mesma figura. Todos os horários de atualização do site estão em [horários](../horarios/).
@@ -57,6 +57,12 @@ Quedas de **40% ou mais**. Na coluna de cada sinal: quando ele ligou e quanto da
 
 **[🌪️ Veja o espectro de cada um destes tombos](grandes-tombos)** — o mesmo escalograma desta página, apontado para cada janela, com o que cada sinal fez em cada uma. Inclusive a que o wavelet não viu.
 
+
+### Outros estudos deste sinal
+
+- **[⚠ O ζ no teto da escala](zeta-no-teto)** — o que acontece depois que o ζ marca o máximo da escala. São 26 anos, com 2001, 2008 e 2020 dentro: ele marca o **começo** da queda forte, não o fim. Quem comprasse no primeiro sinal de 2008 estaria 32% abaixo em três meses.
+- **[🔀 O ζ diário e o ζ intraday](diario-x-intraday)** — as 13 vezes em cinco anos em que os dois apontaram topo ao mesmo tempo, o que veio depois, e por que no lado do fundo não há nada.
+
 ### Cobertura e preço
 
 | | ζ wavelet | preço longe da média |
@@ -67,7 +73,7 @@ Quedas de **40% ou mais**. Na coluna de cada sinal: quando ele ligou e quanto da
 | quanto da alta ainda faltava | 82% | 46% |
 | falsos alarmes por ano | **1,0** | 1,6 |
 
-<small>Limiar 0,75. Cobertura = em quantos movimentos o sinal estava ligado na janela de 120 pregões antes a 40 depois do extremo. A janela olha para os dois lados de propósito: o ζ de fundo mede pânico, e pânico é máximo **na** capitulação — exigir aviso antes do fundo é pedir o impossível. Medição de 22/11/2026 às 16:45.</small>
+<small>Limiar 0,75. Cobertura = em quantos movimentos o sinal estava ligado na janela de 120 pregões antes a 40 depois do extremo. A janela olha para os dois lados de propósito: o ζ de fundo mede pânico, e pânico é máximo **na** capitulação — exigir aviso antes do fundo é pedir o impossível. Medição de 22/11/2026 às 17:28.</small>
 
 <small>**Nos grandes topos, os dois empatam.** O wavelet não enxerga mais topos que a régua simples do preço longe da média: enxerga **os mesmos**. A diferença está no **preço**: 1,0 falsos alarmes por ano contra 1,6 da régua simples — os mesmos achados, por menos ruído. **Nos fundos a diferença é grande e favorece o wavelet**, em cobertura e no quanto da alta ainda restava quando o sinal ligou. A tabela dos tombos, acima, mostra caso a caso onde cada um acertou e onde falhou.</small>
 
