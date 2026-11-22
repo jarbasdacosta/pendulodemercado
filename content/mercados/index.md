@@ -1,6 +1,6 @@
 ---
 title: "🌍 Mercados"
-date: 2026-11-20
+date: 2026-11-22
 tags: [mercados]
 description: "O que mandou no dia: internacional, Brasil, a sincronia entre Ibovespa, dólar e juro, os índices da B3 e onde está — ou não está — a vantagem"
 pregao: 2026-11-18
@@ -162,45 +162,45 @@ pregao: 2026-11-18
 
 ## Índices da B3
 
-Os 33 índices publicados pela B3 no pregão de 2026-11-18, do que mais subiu ao que mais caiu no dia.
+Os índices publicados pela B3 no pregão de **18/11/2026**, na ordem do que mais subiu ao que mais caiu no dia. Boletim coletado no acervo em **19/11/2026 06:26** · 33 índices.
 
-| índice | fechamento | no dia | mínimo | máximo |
-|---|---|---|---|---|
-| BDRX 🟢 | 29.429 | 1,44% | 28.979 | 29.622 |
-| IMATBASICOS 🟢 | 6.243 | 0,66% | 6.196 | 6.297 |
-| INDX 🟢 | 31.288 | 0,44% | 31.130 | 31.622 |
-| ICONSUMO 🔴 | 2.660 | -0,15% | 2.653 | 2.695 |
-| IVBX2 🔴 | 17.683 | -0,62% | 17.619 | 17.891 |
-| IBHB 🔴 | 1.607 | -0,62% | 1.603 | 1.644 |
-| IFIL 🔴 | 1.552 | -0,77% | 1.548 | 1.565 |
-| SMALL CAP 🔴 | 2.004 | -0,79% | 2.000 | 2.034 |
-| IFIX 🔴 | 3.513 | -0,82% | 3.506 | 3.543 |
-| IBLV 🔴 | 1.315 | -0,83% | 1.309 | 1.331 |
-| IBEW 🔴 | 1.411 | -0,84% | 1.406 | 1.430 |
-| AGFS 🔴 | 1.391 | -0,86% | 1.386 | 1.412 |
-| GPTW 🔴 | 1.249 | -0,95% | 1.247 | 1.268 |
-| IBOV SD TR 🔴 | 1.915 | -0,98% | 1.915 | 1.942 |
-| IDIVERSA B3 🔴 | 1.408 | -1,05% | 1.404 | 1.429 |
-| ISE 🔴 | 4.017 | -1,11% | 4.011 | 4.078 |
-| IEE 🔴 | 121.934 | -1,18% | 121.425 | 123.384 |
-| ICO2 🔴 | 2.943 | -1,18% | 2.929 | 2.992 |
-| IBEP 🔴 | 1.652 | -1,20% | 1.650 | 1.676 |
-| I DIVIDENDOS 🔴 | 11.778 | -1,20% | 11.759 | 11.958 |
-| UTILITIES 🔴 | 17.614 | -1,29% | 17.582 | 17.844 |
-| IBOVESPA 🔴 | 167.537 | -1,32% | 167.099 | 170.259 |
-| IBRASIL 🔴 | 6.559 | -1,35% | 6.542 | 6.665 |
-| IBRX100 🔴 | 70.601 | -1,37% | 70.411 | 71.749 |
-| IBRX50 🔴 | 28.321 | -1,38% | 28.232 | 28.785 |
-| IGNM 🔴 | 4.361 | -1,38% | 4.350 | 4.428 |
-| MIDLARGE CAP 🔴 | 3.486 | -1,41% | 3.475 | 3.543 |
-| IGC TRADE 🔴 | 7.440 | -1,42% | 7.419 | 7.565 |
-| IGC 🔴 | 25.826 | -1,43% | 25.750 | 26.253 |
-| ITAG 🔴 | 36.069 | -1,44% | 35.970 | 36.679 |
-| IBEE 🔴 | 4.701 | -1,57% | 4.680 | 4.788 |
-| IMOBILIARIO 🔴 | 1.102 | -1,87% | 1.099 | 1.125 |
-| IFINANCEIRO 🔴 | 16.334 | -2,43% | 16.303 | 16.763 |
+| índice | fechamento | no dia | intradiário | mínimo | máximo |
+|---|---|---|---|---|---|
+| BDRX 🟢 | 29.429 | 1,92% | 1,44% | 28.979 | 29.622 |
+| IMATBASICOS 🟢 | 6.243 | 0,66% | 0,66% | 6.196 | 6.297 |
+| INDX 🟢 | 31.288 | 0,43% | 0,44% | 31.130 | 31.622 |
+| ICONSUMO 🔴 | 2.660 | -0,15% | -0,15% | 2.653 | 2.695 |
+| IVBX2 🔴 | 17.683 | -0,67% | -0,62% | 17.619 | 17.891 |
+| IBHB 🔴 | 1.607 | -0,74% | -0,62% | 1.603 | 1.644 |
+| IBLV 🔴 | 1.315 | -0,75% | -0,83% | 1.309 | 1.331 |
+| IFIL 🔴 | 1.552 | -0,77% | -0,77% | 1.548 | 1.565 |
+| SMALL CAP 🔴 | 2.004 | -0,79% | -0,79% | 2.000 | 2.034 |
+| IFIX 🔴 | 3.513 | -0,82% | -0,82% | 3.506 | 3.543 |
+| IBEW 🔴 | 1.411 | -0,84% | -0,84% | 1.406 | 1.430 |
+| AGFS 🔴 | 1.391 | -0,86% | -0,86% | 1.386 | 1.412 |
+| GPTW 🔴 | 1.249 | -0,95% | -0,95% | 1.247 | 1.268 |
+| IBOV SD TR 🔴 | 1.915 | -1,03% | -0,98% | 1.915 | 1.942 |
+| ISE 🔴 | 4.017 | -1,11% | -1,11% | 4.011 | 4.078 |
+| IDIVERSA B3 🔴 | 1.408 | -1,12% | -1,05% | 1.404 | 1.429 |
+| IEE 🔴 | 121.934 | -1,18% | -1,18% | 121.425 | 123.384 |
+| ICO2 🔴 | 2.943 | -1,18% | -1,18% | 2.929 | 2.992 |
+| IBEP 🔴 | 1.652 | -1,20% | -1,20% | 1.650 | 1.676 |
+| I DIVIDENDOS 🔴 | 11.778 | -1,21% | -1,20% | 11.759 | 11.958 |
+| UTILITIES 🔴 | 17.614 | -1,29% | -1,29% | 17.582 | 17.844 |
+| IBOVESPA 🔴 | 167.537 | -1,34% | -1,32% | 167.099 | 170.259 |
+| IBRASIL 🔴 | 6.559 | -1,37% | -1,35% | 6.542 | 6.665 |
+| IBRX100 🔴 | 70.601 | -1,37% | -1,37% | 70.411 | 71.749 |
+| IGNM 🔴 | 4.361 | -1,38% | -1,38% | 4.350 | 4.428 |
+| IBRX50 🔴 | 28.321 | -1,39% | -1,38% | 28.232 | 28.785 |
+| MIDLARGE CAP 🔴 | 3.486 | -1,41% | -1,41% | 3.475 | 3.543 |
+| IGC TRADE 🔴 | 7.440 | -1,42% | -1,42% | 7.419 | 7.565 |
+| IGC 🔴 | 25.826 | -1,43% | -1,43% | 25.750 | 26.253 |
+| ITAG 🔴 | 36.069 | -1,44% | -1,44% | 35.970 | 36.679 |
+| IBEE 🔴 | 4.701 | -1,61% | -1,57% | 4.680 | 4.788 |
+| IMOBILIARIO 🔴 | 1.102 | -1,87% | -1,87% | 1.099 | 1.125 |
+| IFINANCEIRO 🔴 | 16.334 | -2,44% | -2,43% | 16.303 | 16.763 |
 
-<small>A variação do dia é calculada do próprio boletim (fechamento contra abertura do mesmo pregão), e não contra o fechamento anterior — é o que a B3 publica nesta tabela.</small>
+<small><b>no dia</b> é o fechamento contra o fechamento do pregão anterior (17/11/2026) — a convenção de mercado, e a conta com que qualquer outra fonte vai ser comparada. <b>intradiário</b> é o fechamento contra a abertura do próprio pregão, que é a conta que o boletim da B3 permite direto e que <b>descarta o gap de abertura</b>. As duas aparecem porque a diferença entre elas é o gap, e gap é informação.</small>
 
 ## Fluxo: quem subiu, quem caiu e quanto custa ficar vendido
 
@@ -389,8 +389,8 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 | Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 20/11 às 19:38 |
 | Dólar | Banco Central · PTAX de venda (série SGS 1) | 20/11 às 19:38 |
 | Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 20/11 às 19:38 |
-| Índices da B3 | B3 · acervo diário de índices | 2026-11-18 |
-| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 20/11 às 19:11 |
+| Índices da B3 | B3 · acervo diário de índices | 19/11/2026 06:26 |
+| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 21/11 às 10:43 |
 | O lado | medido sobre o painel do próprio site | 20/11 às 19:39 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
