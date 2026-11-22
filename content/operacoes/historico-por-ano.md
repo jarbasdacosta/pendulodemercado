@@ -1,10 +1,60 @@
 ---
 title: "📅 Histórico por ano"
-date: 2026-11-20
+date: 2026-11-22
 pregao: 2026-11-19
 tags: [operacoes]
 description: "Todas as operações de cada regra, ano a ano, desde 2000"
 ---
+
+> [!info] Como ler os números desta tabela
+> 
+> Cada célula é **operações · quantas deram lucro (✓) · soma dos resultados**. Em `14 op · 6 ✓ · +12,1%`, foram 14 operações, 6 ganharam e 8 perderam — e o **+12,1% já é o saldo**: as perdedoras entram subtraindo, e o custo de **0,05% por operação** já está descontado.
+> 
+> A operação conta no ano em que **saiu**, não no que entrou.
+> 
+> **A coluna Total soma as colunas da linha — e isso não é o retorno de uma carteira.** Somar +54% de uma regra com +38% de outra suporia ter o capital inteiro nas duas ao mesmo tempo. As regras podem estar posicionadas simultaneamente, e nenhuma divisão de capital entre elas está embutida aqui. Use o Total para comparar anos entre si, não como resultado que alguém teria tido.
+> 
+> Os percentuais são do **índice à vista**, sem juros compostos e sem impostos. Operando WIN, o comprado ainda paga o carrego dos juros.
+
+> [!info]- 📖 O que é cada regra (clique para abrir)
+>
+> Os nomes que aparecem nas colunas e nas tabelas desta página:
+>
+> | Nome | O que precisa acontecer para comprar | Onde fica o stop | O que faz sair |
+> |---|---|---|---|
+> | **📈 Tendência MME9** (diário e semanal) | um candle **fecha acima da MME9** → compra se o preço passar da máxima dele em até 3 candles | 10% abaixo da entrada | um candle fecha abaixo da MME9 → sai na mínima dele |
+> | **🎯 Diário · Nadaraya** | depois de um sinal de fundo, a linha do kernel **vira para cima** | menor mínima dos 5 pregões antes da entrada | a linha rápida cruza para baixo, ou 60 pregões |
+> | **🎯 Semanal · Semáforo N2** | depois de um sinal de fundo, um **fundo do semáforo nível 2 fica fixo** | mínima desse fundo | um topo do semáforo nível 3 fica fixo, ou 60 candles |
+> | **🎯 H4 · Semáforo N2** | igual ao semanal, em candles de 4 horas | igual | igual |
+> | **🎯 Diário · Semáforo N3 após ζ** | **ζ Fundo ≥ 60%** nos últimos 10 pregões, depois um fundo do nível 3 fica fixo | igual | igual |
+>
+> **O vocabulário, em uma linha cada:**
+>
+> - **MME9** — média móvel exponencial de 9 períodos. A linha que separa "o preço
+>   está acima da média recente" de "abaixo dela".
+> - **Semáforo** — marcador de topos e fundos em três níveis, como no MT5. O
+>   **nível 2** (13/8/5) é mais sensível e marca viradas menores; o **nível 3**
+>   (34/21/12) é mais lento e marca as maiores.
+> - **"fica fixo"** — o ponto não muda mais (5 candles sem mínima menor, no nível
+>   2). Importa porque o indicador original **repinta**: o fundo que ele desenha
+>   hoje pode sumir amanhã. Só o ponto fixo é operável, e é por isso que a entrada
+>   vem depois da virada, nunca nela.
+> - **Nadaraya** — regressão por kernel (Nadaraya-Watson, Rational Quadratic): uma
+>   linha suave que acompanha o preço. Aqui na versão **sem repintura** — o
+>   envelope padrão usa candles futuros e, sem eles, não funcionou.
+> - **ζ Fundo** — a medida do IMA: o preço está esticado **abaixo** da tendência.
+>   Nas Entradas ele é pré-condição, não gatilho.
+> - **sinal de fundo** — nenhuma destas regras compra a qualquer momento: todas
+>   exigem que algo tenha marcado fundo antes. É o que as diferencia de "comprar
+>   porque subiu".
+>
+> Detalhe completo de cada uma, com os testes: [metodologia/regras-de-operacao](metodologia/regras-de-operacao).
+
+> [!warning] Simulado não é o mesmo que ao vivo
+> 
+> Operação **sem 🧪** foi simulada no histórico com as regras de hoje, aplicadas para trás. As regras foram escolhidas olhando esse mesmo histórico, então esses números carregam viés de escolha — eles mostram o que a regra teria feito, não o que ela vai fazer.
+> 
+> Operação **com 🧪** começou depois de **23/10/2026**, com as regras congeladas. É o único resultado sem nenhum ajuste ao passado, e é por ele que cada regra está sendo julgada.
 
 Todas as operações de cada regra de compra, **simuladas no histórico com as mesmas regras** (antes de 23/10/2026) e do teste ao vivo (🧪, desde 23/10/2026). Cada operação conta no ano em que **saiu**. Cada célula: operações · com lucro (✓) · soma dos % das operações.
 

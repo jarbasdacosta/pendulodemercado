@@ -1,11 +1,11 @@
 ---
 title: "🔔 Linha do tempo"
-date: 2026-11-20
+date: 2026-11-22
 description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais recente para o mais antigo"
 tags: [eventos]
 ---
 
-*Atualizada 20/11/2026 19:15 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 22/11/2026 20:16 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -18,7 +18,7 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 
 ## Últimos 7 dias
 
-### Hoje · sex, 20/11/2026
+### Hoje · dom, 22/11/2026
 
 *Nenhum evento hoje até agora.*
 
