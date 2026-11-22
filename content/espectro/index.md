@@ -6,7 +6,7 @@ description: "Em que frequências o Ibovespa está vibrando — escalograma de 5
 tags: [espectro]
 ---
 
-*Figura de **16/11/2026 às 17:00** · página refeita em 22/11/2026 16:48.*
+*Figura de **16/11/2026 às 17:00** · página refeita em 22/11/2026 17:00.*
 
 > [!info] Esta página é **semanal**, não diária
 > O espectro é recalculado **toda segunda-feira às 17h BRT** e só então esta página muda. As frequências do mercado se movem devagar: refazer isso todo dia gastaria máquina para mostrar a mesma figura. Todos os horários de atualização do site estão em [horários](../horarios/).
@@ -54,6 +54,8 @@ Quedas de **40% ou mais**. Na coluna de cada sinal: quando ele ligou e quanto da
 | 04/03/2002 | -42,1% | 37 pregões antes · restava 99% | **não viu** |
 | 20/05/2008 | -60,0% | **não viu** | 114 pregões antes · restava 87% |
 | 23/01/2020 | -46,8% | 13 pregões antes · restava 97% | 114 pregões antes · restava 83% |
+
+**[🌪️ Veja o espectro de cada um destes tombos](grandes-tombos)** — o mesmo escalograma desta página, apontado para cada janela, com o que cada sinal fez em cada uma. Inclusive a que o wavelet não viu.
 
 ### Cobertura e preço
 
