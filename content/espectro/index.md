@@ -1,12 +1,12 @@
 ---
 title: "🌊 Espectro wavelet"
-date: 2026-11-20
+date: 2026-11-22
 pregao: 2026-11-19
 description: "Em que frequências o Ibovespa está vibrando — escalograma de 504 pregões, com 1929 como régua de comparação"
 tags: [espectro]
 ---
 
-*Figura de **16/11/2026 às 17:00** · página refeita em 20/11/2026 19:19.*
+*Figura de **16/11/2026 às 17:00** · página refeita em 22/11/2026 16:48.*
 
 > [!info] Esta página é **semanal**, não diária
 > O espectro é recalculado **toda segunda-feira às 17h BRT** e só então esta página muda. As frequências do mercado se movem devagar: refazer isso todo dia gastaria máquina para mostrar a mesma figura. Todos os horários de atualização do site estão em [horários](../horarios/).
@@ -37,6 +37,49 @@ A figura abaixo é o mesmo tipo de decomposição aplicada ao crash de 1929 — 
 <small>Gerado uma única vez pelo `gerar_espectro_1929.py`, em 31/10/2026. Não é refeito: 1929 não muda.</small>
 
 Um colapso de verdade tem assinatura: a energia **se concentra** numa faixa de frequências, depois **explode por todas as escalas ao mesmo tempo** — o mercado deixa de ter uma duração de ciclo dominante e passa a se mover em todas de uma vez. Tendo isso à vista, a figura de cima fica mais fácil de ler: dá para ver que ela **não** se parece com isso, e saber o que seria preciso ver para que se parecesse.
+
+## O que este sinal acerta, e o que ele perde
+
+A figura mostra o espectro. Esta seção responde outra coisa: **quando houve um grande topo, este sinal estava ligado?** É uma pergunta diferente de "o sinal dá lucro" — e é a que importa para quem quer estar atento a um evento raro.
+
+Medido sobre **6.644 pregões** (03/01/2000 a 23/10/2026), com o ζ disponível de 05/01/2001 a 22/10/2026. Um **movimento** é o conjunto de pivôs que leva ao mesmo extremo — o crash de 2008 tem 14 pivôs e conta como **um**, senão o mesmo aviso seria contado catorze vezes.
+
+### Os maiores tombos, um a um
+
+Quedas de **40% ou mais**. Na coluna de cada sinal: quando ele ligou e quanto da queda ainda faltava nesse dia — é isso que o aviso valeu.
+
+| topo | queda | ζ wavelet | preço longe da média |
+|---|---|---|---|
+| 26/01/2001 | -44,1% | no dia · restava 100% | **não viu** |
+| 04/03/2002 | -42,1% | 37 pregões antes · restava 99% | **não viu** |
+| 20/05/2008 | -60,0% | **não viu** | 114 pregões antes · restava 87% |
+| 23/01/2020 | -46,8% | 13 pregões antes · restava 97% | 114 pregões antes · restava 83% |
+
+### Cobertura e preço
+
+| | ζ wavelet | preço longe da média |
+|---|---|---|
+| grandes topos | 71% dos movimentos | 71% |
+| quanto do tombo ainda faltava | 82% | 83% |
+| grandes fundos | 80% | 59% |
+| quanto da alta ainda faltava | 82% | 46% |
+| falsos alarmes por ano | **1,0** | 1,6 |
+
+<small>Limiar 0,75. Cobertura = em quantos movimentos o sinal estava ligado na janela de 120 pregões antes a 40 depois do extremo. A janela olha para os dois lados de propósito: o ζ de fundo mede pânico, e pânico é máximo **na** capitulação — exigir aviso antes do fundo é pedir o impossível. Medição de 22/11/2026 às 16:45.</small>
+
+<small>**Nos grandes topos, os dois empatam.** O wavelet não enxerga mais topos que a régua simples do preço longe da média: enxerga **os mesmos**. A diferença está no **preço**: 1,0 falsos alarmes por ano contra 1,6 da régua simples — os mesmos achados, por menos ruído. **Nos fundos a diferença é grande e favorece o wavelet**, em cobertura e no quanto da alta ainda restava quando o sinal ligou. A tabela dos tombos, acima, mostra caso a caso onde cada um acertou e onde falhou.</small>
+
+### O que isso diz, e o que não diz
+
+**Os dois sinais são complementares, e nenhum é suficiente.** O wavelet enxerga **ruptura** — mudança abrupta de regime. Quando um topo se forma devagar e a queda é longa, há pouca descontinuidade para ele ver, e quem percebe é a régua trivial do preço esticado. Quando a virada é brusca, o inverso. Olhar só um dos dois deixa um buraco que a tabela acima mostra com nome e data.
+
+> [!warning] O que NÃO fazer com estes números
+>
+> **Não leia cobertura como lucro.** Cobertura diz que o sinal estava ligado, não que operar nele daria dinheiro. Testado à parte, o ζ como veto de entrada nas regras do site **não** melhorou nenhuma delas nos dois períodos.
+>
+> **Não trate o aviso como ordem.** Ao preço de cerca de um falso alarme por ano, este sinal paga se a reação for barata — olhar o gráfico, reduzir tamanho, apertar o stop. Se a reação for zerar posição, cada falso alarme custa a alta inteira, e aí a conta vira contra.
+>
+> **Não conclua a partir de meia dúzia de casos.** São os tombos de 40% ou mais em mais de vinte anos, e dá para contar nos dedos. Serve para calibrar o olho e para saber onde o sinal já falhou; não é amostra para estatística.
 
 ## Onde pode estar a vantagem
 
