@@ -56,7 +56,7 @@ description: "Operações recentes de todas as regras de compra"
 > 
 > Operação **com 🧪** começou depois de **23/10/2026**, com as regras congeladas. É o único resultado sem nenhum ajuste ao passado, e é por ele que cada regra está sendo julgada.
 
-Operações recentes de todas as regras. 🧪 = operação do teste ao vivo (desde 23/10/2026); as demais são simuladas no histórico com as mesmas regras.
+Operações recentes de todas as regras. 🧪 = operação do teste ao vivo (desde 23/10/2026) — mas nem toda 🧪 entra no placar: as regras que não avisam no Telegram contam à parte, no bloco "Em observação" da página de Operações. As demais são simuladas no histórico com as mesmas regras.
 
 | Regra | Entrada | Saída | Resultado | Motivo |
 |---|---|---|---|---|

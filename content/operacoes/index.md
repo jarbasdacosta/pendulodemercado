@@ -89,10 +89,21 @@ _Nenhuma posição aberta agora._
 | H4 · Semáforo N2 | 28/10/26 a 170.947 | 29/10/26 a 169.516 | **-0,8%** |
 
 **Total:** 1 operação(ões), 0 com lucro, soma -0,8%
+
+### Em observação (sem aviso no Telegram)
+
+Regras que o sistema acompanha mas que **não avisam no Telegram** — não dava para operá-las na hora. Por isso contam à parte, e **nunca** entram no placar acima.
+
+| Regra | Entrada | Saída | Resultado |
+|---|---|---|---|
+| Diário · Semáforo N3 após ζ Fundo | 19/11/26 a 166.376 | 23/11/26 a 164.447 | **-1,2%** |
+
+**Total em observação:** 1 operação(ões), 0 com lucro, soma -1,2%
 > [!note]- 📘 Como ler esta página (posições, placar e stops)
 > - **🟢 Posições em aberto:** cada compra que está aberta agora, com preço de entrada, stop, resultado até o último fechamento, há quantos candles está aberta e **quando sai**. *Simulada* = começou antes de 23/10/2026 (mesmas regras, mas não conta no placar); **🧪 ao vivo** = começou depois.
 > - **Agora:** a situação de cada regra — comprada, aguardando o gatilho (já houve o setup) ou sem setup.
-> - **🧪 Placar ao vivo:** só operações encerradas que começaram a partir de 23/10/2026, com as regras congeladas. É o único resultado sem nenhum ajuste ao histórico.
+> - **🧪 Placar ao vivo:** só operações encerradas que começaram a partir de 23/10/2026, com as regras congeladas, e **só das regras que avisam no Telegram** — as que dava para operar na hora. É o único resultado sem nenhum ajuste ao histórico.
+> - **Em observação:** mesmas datas e mesmas regras congeladas, mas de regras que o sistema acompanha **sem avisar**. Contam à parte, com total próprio, e nunca são somadas ao placar.
 > - **📅 Histórico por ano:** todas as operações simuladas desde 2000 e as ao vivo, ano a ano, por regra.
 > - **Validação ao vivo** (critério definido em 23/10/2026, antes de qualquer resultado): com **10 operações ao vivo**, média positiva e resultado fora dos 25% piores que o histórico da regra permitiria → ✅ validada. A partir de 5 operações, se cair entre os 5% piores → ⚠️ abaixo do esperado; com 10, se continuar lá (ou a sequência de perdas for pior que a pior do histórico) → ❌ suspensão sugerida. **Nada é desligado sozinho:** chega um aviso no Telegram e a decisão é sua.
 >
