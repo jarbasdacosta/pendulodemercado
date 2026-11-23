@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 23/11/2026 10:06.*
+*Lido do agendamento do próprio servidor em 23/11/2026 13:24.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o
@@ -85,7 +85,7 @@ Cálculos que se movem devagar: refazer todo dia mostraria a mesma figura. Três
 | domingos, 07h13 | **Séries longas ajustadas** — Reconstrói o ajuste por proventos da série histórica da B3, na ordem obrigatória dos seis passos — trocar a ordem faz os ajustes contarem duas vezes. |
 | sábados, 07h15 | **Ofertas na CVM** — Atualiza a página de ofertas públicas com os registros da CVM e publica só quando algo mudou. |
 | sábados, 08h00 | **Setups** — Testa e republica as páginas dos setups. |
-| segundas, 17h00 | **Espectro wavelet** — Recalcula a decomposição em frequências dos últimos 504 pregões e refaz a página do espectro. As frequências do mercado se movem devagar: refazer isso todo dia mostraria a mesma figura. |
+| sextas, 21h10 | **Espectro wavelet** — Recalcula a decomposição em frequências dos últimos 504 pregões e refaz a página do espectro. Roda na sexta à noite, bem depois do fechamento, para a figura estar pronta antes do fim de semana. Só uma vez por semana porque as frequências do mercado se movem devagar: refazer isso todo dia mostraria a mesma figura. |
 
 
 ## Uma vez por mês
