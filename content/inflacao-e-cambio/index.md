@@ -1,9 +1,9 @@
 ---
 title: "🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam"
-date: 2026-11-20
+date: 2026-11-23
 pregao: 2026-11-19
 ---
-*Curvas da B3 de 19/11/2026 · Focus de 13/11/2026 · PTAX de 19/11/2026 · atualizado em 20/11/2026 19:39*
+*Curvas da B3 de 19/11/2026 · Focus de 19/11/2026 · PTAX de 19/11/2026 · atualizado em 23/11/2026 13:20*
 
 
 <!-- NOTAS-INICIO -->
@@ -66,16 +66,16 @@ Esse número não é opinião de analista: é o preço em que as duas pontas fec
 
 | contrato | vencimento | dias úteis | real (DAP) | nominal (DI interpolado) | implícita | Focus no mesmo intervalo | diferença | contratos no dia | em aberto |
 |---|---|---|---|---|---|---|---|---|---|
-| DAPZ26 ⚠️ | 15/12/2026 | 17 | 7,545% | 13,706% | **5,729%** | 5,11% | +0,62 p.p. | 13 | 443 |
-| DAPF27 ⚠️ | 15/01/2027 | 38 | 5,355% | 13,754% | **7,972%** | 5,08% | +2,89 p.p. | 1.374 | 39.423 |
-| DAPG27 ⚠️ | 15/02/2027 | 57 | 4,366% | 13,839% | **9,076%** | 5,05% | +4,02 p.p. | 400 | 414 |
-| DAPH27 ⚠️ | 15/03/2027 | 77 | 3,640% | 13,961% | **9,958%** | 5,04% | +4,92 p.p. | 23 | 44 |
-| DAPJ27 ⚠️ | 15/04/2027 | 99 | 4,090% | 14,075% | **9,593%** | 5,03% | +4,56 p.p. | 12 | 40 |
-| DAPK27 ⚠️ | 17/05/2027 | 120 | 4,250% | 14,194% | **9,539%** | 5,03% | +4,51 p.p. | 5.377 | 471.508 |
-| DAPF28 | 17/01/2028 | 290 | 7,205% | 14,857% | **7,138%** | 4,97% | +2,17 p.p. | 1.067 | 3.963 |
-| DAPQ28 | 15/08/2028 | 435 | 7,430% | 15,176% | **7,210%** | 4,65% | +2,56 p.p. | 29.792 | 519.970 |
-| DAPK29 | 15/05/2029 | 619 | 7,590% | 15,391% | **7,250%** | 4,45% | +2,80 p.p. | 13.611 | 350.182 |
-| DAPQ30 | 15/08/2030 | 933 | 7,820% | 15,468% | **7,093%** | 4,29% | +2,80 p.p. | 13.263 | 453.113 |
+| DAPZ26 ⚠️ | 15/12/2026 | 17 | 7,545% | 13,706% | **5,729%** | 5,15% | +0,58 p.p. | 13 | 443 |
+| DAPF27 ⚠️ | 15/01/2027 | 38 | 5,355% | 13,754% | **7,972%** | 5,14% | +2,83 p.p. | 1.374 | 39.423 |
+| DAPG27 ⚠️ | 15/02/2027 | 57 | 4,366% | 13,839% | **9,076%** | 5,14% | +3,94 p.p. | 400 | 414 |
+| DAPH27 ⚠️ | 15/03/2027 | 77 | 3,640% | 13,961% | **9,958%** | 5,13% | +4,83 p.p. | 23 | 44 |
+| DAPJ27 ⚠️ | 15/04/2027 | 99 | 4,090% | 14,075% | **9,593%** | 5,13% | +4,46 p.p. | 12 | 40 |
+| DAPK27 ⚠️ | 17/05/2027 | 120 | 4,250% | 14,194% | **9,539%** | 5,13% | +4,41 p.p. | 5.377 | 471.508 |
+| DAPF28 | 17/01/2028 | 290 | 7,205% | 14,857% | **7,138%** | 5,08% | +2,06 p.p. | 1.067 | 3.963 |
+| DAPQ28 | 15/08/2028 | 435 | 7,430% | 15,176% | **7,210%** | 4,72% | +2,49 p.p. | 29.792 | 519.970 |
+| DAPK29 | 15/05/2029 | 619 | 7,590% | 15,391% | **7,250%** | 4,50% | +2,75 p.p. | 13.611 | 350.182 |
+| DAPQ30 | 15/08/2030 | 933 | 7,820% | 15,468% | **7,093%** | 4,33% | +2,77 p.p. | 13.263 | 453.113 |
 | DAPK31 | 15/05/2031 | 1.119 | 7,845% | 15,491% | **7,090%** | — | — | 19.404 | 158.043 |
 | DAPQ32 | 16/08/2032 | 1.437 | 7,930% | 15,522% | **7,034%** | — | — | 4.742 | 375.934 |
 | DAPK33 | 16/05/2033 | 1.624 | 7,890% | 15,524% | **7,076%** | — | — | 9.102 | 267.695 |
@@ -108,7 +108,7 @@ Esse número não é opinião de analista: é o preço em que as duas pontas fec
 ### O que fazer com isso
 
 **Medido:** nos vencimentos não contaminados, a diferença entre a implícita e o caminho do
-Focus vai de 2,56 p.p. a 2,80 p.p., e a maior está em **DAPQ30** (15/08/2030), com 2,80 p.p..
+Focus vai de 2,49 p.p. a 2,77 p.p., e a maior está em **DAPQ30** (15/08/2030), com 2,77 p.p..
 
 **Interpretação, e aqui é leitura de risco e não previsão:** uma diferença dessa ordem não
 se explica só por prêmio. Ela diz que o mercado está disposto a pagar caro por proteção
@@ -195,18 +195,18 @@ que erraria um mês inteiro de carrego.
 
 | ano | contrato | futuro | Focus (30 dias) | Focus (5 dias) | futuro − Focus | ganho no período se o Focus acertar | o mesmo ao ano |
 |---|---|---|---|---|---|---|---|
-| 2026 | DOLF27 | R\$ 5,9574 | R\$ 5,4000 | R\$ 5,5000 | +R\$ 0,5574 | +10,3% | +118,0% |
-| 2027 | DOLF28 | R\$ 6,4132 | R\$ 5,4500 | R\$ 5,4000 | +R\$ 0,9632 | +17,7% | +15,6% |
-| 2028 | DOLF29 | R\$ 6,9346 | R\$ 5,4821 | R\$ 5,3800 | +R\$ 1,4525 | +26,5% | +11,7% |
-| 2029 | DOLF30 | R\$ 7,5147 | R\$ 5,5000 | R\$ 5,4500 | +R\$ 2,0147 | +36,6% | +10,5% |
-| 2030 | DOLF31 | R\$ 8,1661 | R\$ 5,5500 | R\$ 5,4500 | +R\$ 2,6161 | +47,1% | +9,8% |
+| 2026 | DOLF27 | R\$ 5,9574 | R\$ 5,5500 | R\$ 5,6500 | +R\$ 0,4074 | +7,3% | +75,4% |
+| 2027 | DOLF28 | R\$ 6,4132 | R\$ 5,5000 | R\$ 5,5247 | +R\$ 0,9132 | +16,6% | +14,7% |
+| 2028 | DOLF29 | R\$ 6,9346 | R\$ 5,5000 | R\$ 5,6000 | +R\$ 1,4346 | +26,1% | +11,5% |
+| 2029 | DOLF30 | R\$ 7,5147 | R\$ 5,5469 | R\$ 5,6000 | +R\$ 1,9678 | +35,5% | +10,2% |
+| 2030 | DOLF31 | R\$ 8,1661 | R\$ 5,6000 | R\$ 5,6000 | +R\$ 2,5661 | +45,8% | +9,6% |
 
 
 ### O que fazer com isso
 
 **Medido:** a curva de dólar embute depreciação de **7,86% ao ano** nos vencimentos longos. O
-Focus projeta o dólar saindo de R\$ 5,40 em 2026 para R\$ 5,55 em 2030, o que equivale a **0,69% ao ano**.
-As duas coisas discordam em torno de 7,17 p.p. ao ano.
+Focus projeta o dólar saindo de R\$ 5,55 em 2026 para R\$ 5,60 em 2030, o que equivale a **0,22% ao ano**.
+As duas coisas discordam em torno de 7,63 p.p. ao ano.
 
 **O que isso NÃO é:** não é o mercado discordando do Focus sobre o dólar. O futuro é
 aritmética do diferencial de juros — ele subiria do mesmo jeito se todo mundo no mercado
@@ -218,8 +218,8 @@ desvalorização" é ler carrego como previsão.
 *carry trade*, a operação mais clássica e mais lucrativa do Brasil em períodos calmos — e
 a que mais destrói capital nos outros.
 
-A conta é essa: vendendo o contrato **DOLF31** a R\$ 8,17, se o dólar terminar 2030 nos R\$ 5,55 que o Focus
-projeta, o ganho é de **47,1% no período** — cerca de 9,8% ao ano. Enquanto nada acontece,
+A conta é essa: vendendo o contrato **DOLF31** a R\$ 8,17, se o dólar terminar 2030 nos R\$ 5,60 que o Focus
+projeta, o ganho é de **45,8% no período** — cerca de 9,6% ao ano. Enquanto nada acontece,
 recebe-se o carrego todo mês. É dinheiro parecendo fácil, e é exatamente aí que está o
 problema.
 
