@@ -1,12 +1,12 @@
 ---
 title: "🌊 Espectro wavelet"
 date: 2026-11-23
-pregao: 2026-11-23 13:00
+pregao: 2026-11-23 13:15
 description: "Em que frequências o Ibovespa está vibrando — escalograma de 504 pregões, com 1929 como régua de comparação"
 tags: [espectro]
 ---
 
-*Figura de **23/11/2026 às 13:51** · página refeita em 23/11/2026 13:51.*
+*Figura de **23/11/2026 às 14:06** · página refeita em 23/11/2026 14:06.*
 
 > [!info] Esta página é **semanal**, não diária
 > O espectro é recalculado **toda segunda-feira às 17h BRT** e só então esta página muda. As frequências do mercado se movem devagar: refazer isso todo dia gastaria máquina para mostrar a mesma figura. Todos os horários de atualização do site estão em [horários](../horarios/).
@@ -19,9 +19,9 @@ Serve para uma pergunta que o preço não responde: **em que escala o mercado es
 
 ![Espectro wavelet do Ibovespa, 504 pregões](../graficos/espectro_wavelet.png)
 
-<small>Escalograma por transformada wavelet contínua (wavelet Chapéu Mexicano) sobre 504 pregões do ^BVSP, com o IMA Crash e o IMA Entrada calculados na mesma série. Gerado em 23/11/2026 às 13:51 pelo `gerar_espectro_wavelet.py`.</small>
+<small>Escalograma por transformada wavelet contínua (wavelet Chapéu Mexicano) sobre 504 pregões do ^BVSP, com o IMA Crash e o IMA Entrada calculados na mesma série. Gerado em 23/11/2026 às 14:06 pelo `gerar_espectro_wavelet.py`.</small>
 
-> [!note] O sinal em 23/11/2026 13:00 BRT
+> [!note] O sinal em 23/11/2026 13:15 BRT
 > **⚪ Neutro** · zona **VERDE** · risco **0,000** (amarelo em 0,60 · vermelho em 0,90)
 > 
 > sem diferença estatística em relação a um dia qualquer.
@@ -64,6 +64,7 @@ Quedas de **40% ou mais**. Na coluna de cada sinal: quando ele ligou e quanto da
 
 - **[⚠ O ζ no teto da escala](zeta-no-teto)** — o que acontece depois que o ζ marca o máximo da escala. São 26 anos, com 2001, 2008 e 2020 dentro: ele marca o **começo** da queda forte, não o fim. Quem comprasse no primeiro sinal de 2008 estaria 32% abaixo em três meses.
 - **[🔀 O ζ diário e o ζ intraday](diario-x-intraday)** — as 13 vezes em cinco anos em que os dois apontaram topo ao mesmo tempo, o que veio depois, e por que no lado do fundo não há nada.
+- **[🎯 O sinal avisou antes de 26/10/2026?](aviso-2026-10-26)** — o caso do circuit breaker de outubro de 2026, dia a dia: o ζ de topo cruzou o limiar **sete pregões antes**, com quase todo o tombo ainda pela frente. E, na mesma página, por que um acerto não vira regra.
 
 ### Cobertura e preço
 
