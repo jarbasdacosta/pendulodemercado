@@ -1,6 +1,6 @@
 ---
 title: "🎯 Operações"
-date: 2026-11-22
+date: 2026-11-23
 pregao: 2026-11-19
 tags: [operacoes]
 description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23/10/2026"
@@ -59,7 +59,7 @@ description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23
 Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/2026**. Daqui para frente cada operação entra no **placar ao vivo**, o único resultado sem nenhum ajuste ao histórico. Nenhuma regra de venda passou nos testes ([por quê](metodologia/o-que-nao-passou)).
 
 > [!tip] 🎯 Operações — último candle
-> - 🟢 Entradas Diário · Semáforo N3 após ζ Fundo: **entrada** a 166.376
+> - 🔴 Entradas Diário · Semáforo N3 após ζ Fundo: **stop** (164.447)
 >
 > [Ver operações](operacoes/)
 

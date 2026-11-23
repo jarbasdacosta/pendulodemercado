@@ -1,12 +1,12 @@
 ---
 title: "🔎 Integridade dos dados"
-date: 2026-11-20
+date: 2026-11-23
 pregao: 2026-11-19
 description: "O que foi conferido, contra qual fonte e quando — medido na hora, tabela por tabela e página por página"
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 47 tabelas no acervo · página gerada em 20/11/2026 19:42*
+*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 10:15*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -16,14 +16,14 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 
 | o que | situação |
 |---|---|
-| Tabelas do boletim conferidas | **42** de 47 guardadas |
+| Tabelas do boletim conferidas | **49** de 54 guardadas |
 | Tabelas **incompletas** | **2** — veja abaixo |
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | nenhuma |
-| Páginas publicadas | 360 |
+| Páginas publicadas | 364 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 20/11 19:42 |
+| Página escrita mais recentemente | 23/11 10:15 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -41,17 +41,19 @@ A conferência é por **conjunto**, não por contagem de linhas: várias tabelas
 
 **O que isso significa para quem opera.** Número calculado sobre tabela incompleta é número sobre amostra, não sobre o mercado. Onde a completude estiver abaixo de 100%, trate o que vier dessa tabela como indicativo e confira na fonte antes de decidir. A avaliação é leitura de risco; o risco é de quem opera.
 
-### Completas (40)
+### Completas (47)
 
 Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repetem aqui.
 
 | tabela | linhas | tickers obtidos | declarados pela B3 |
 |---|---:|---:|---:|
+| `AnalyticalFramework2` | 68 | 68 | 68 |
 | `BTBLendingOpenPosition` | 2.910 | 1.031 | 1.031 |
 | `BTBLoanBalance` | 4.743 | 1.655 | 1.655 |
 | `BTBTrade` | 58.333 | 548 | 548 |
 | `COEInventory` | 1 | 1 | 1 |
 | `COERegistration` | 1 | 1 | 1 |
+| `ConsolidatedRecords` | 352.141 | 352.141 | 352.141 |
 | `ConsolidatedTradesDerivatives` | 7.546 | 7.546 | 7.546 |
 | `ConsolidatedTradesDerivativesAfter` | 52 | 52 | 52 |
 | `ConsolidatedTradesRVAfter` | 451 | 451 | 451 |
@@ -72,7 +74,9 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 | `InCash` | 5 | 5 | 5 |
 | `InCashMarketBiggestHighs` | 10 | 10 | 10 |
 | `InCashMarketBiggestLow` | 10 | 10 | 10 |
+| `InstrumentRegistration` | 271.667 | 271.667 | 271.667 |
 | `InstrumentsDerivatives` | 9.494 | 9.494 | 9.494 |
+| `InstrumentsEquities` | 89.241 | 89.241 | 89.241 |
 | `MarginScenarios` | 135.921 | 7.038 | 7.038 |
 | `NegotiStrategi` | 63 | 9 | 9 |
 | `OTCInventoryCCP` | 3 | 3 | 3 |
@@ -84,8 +88,11 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 | `OptionsSelling` | 5 | 5 | 5 |
 | `ProventionCreditVariable` | 30 | 30 | 30 |
 | `Register` | 18 | 18 | 18 |
+| `Repodebenture` | 3.344 | 1.049 | 1.049 |
 | `SaleOff` | 12 | 12 | 12 |
 | `SharesInvesVolum` | 5 | 5 | 5 |
+| `Stock` | 43 | 43 | 43 |
+| `Trade` | 32.564 | 2.190 | 2.190 |
 | `ValidLotsSettle` | 1 | 1 | 1 |
 
 ### O pregão realmente aconteceu?
@@ -113,18 +120,53 @@ Pregão mais recente declarado por alguma página: **19/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `diario/index.md` | 16/11 14:43 | 4.2 |
-| `intraday/index.md` | 16/11 14:43 | 4.2 |
-| `por-onde-comecar.md` | 16/11 15:20 | 4.2 |
-| `ofertas.md` | 16/11 21:56 | 3.9 |
+| `diario/index.md` | 16/11 14:43 | 6.8 |
+| `intraday/index.md` | 16/11 14:43 | 6.8 |
+| `por-onde-comecar.md` | 16/11 15:20 | 6.8 |
+| `autopsias/index.md` | 19/11 14:39 | 3.8 |
+| `sinais-topo-fundo/index.md` | 20/11 19:00 | 2.6 |
+| `sinais-topo-fundo/todos-os-sinais.md` | 20/11 19:00 | 2.6 |
+| `sinais-topo-fundo/tutorial.md` | 20/11 19:00 | 2.6 |
+| `amplitude/index.md` | 20/11 19:03 | 2.6 |
+| `larry-williams/index.md` | 20/11 19:03 | 2.6 |
+| `posicionamento/derivativos.md` | 20/11 19:08 | 2.6 |
+| `posicionamento/aluguel.md` | 20/11 19:09 | 2.6 |
+| `tecnico/index.md` | 20/11 19:09 | 2.6 |
+| `adr/index.md` | 20/11 19:09 | 2.6 |
+| `agro/index.md` | 20/11 19:09 | 2.6 |
+| `juros/index.md` | 20/11 19:09 | 2.6 |
+| `posicionamento/index.md` | 20/11 19:09 | 2.6 |
+| `inflacao-e-cambio/index.md` | 20/11 19:42 | 2.6 |
+| `integridade/index.md` | 20/11 19:42 | 2.6 |
+| `ofertas.md` | 21/11 07:15 | 2.1 |
 
-**6** páginas estão **dispensadas** de declarar `pregao:` por não se referirem a pregão nenhum — texto de método, e dado de fonte que não é a B3. O motivo de cada uma está no `SEM_PREGAO` do `integridade.py`, escrito à mão de propósito: adivinhar isso por heurística já tirou desta conferência duas páginas que eram geradas todo dia.
+### Página declarando data sem pregão
+
+Medida diferente da tabela acima: ali o problema é mtime velho, aqui é data declarada num dia em que a B3 não negociou. O campo `date:` do front matter é, na maioria dos geradores, o relógio da máquina e não a data do dado, então em feriado ou fim de semana a página passa a declarar um pregão que não existiu. Estas ficaram fora da conta do pregão mais recente declarado:
+
+| página | data declarada |
+|---|---|
+| `espectro/diario-x-intraday.md` | 22/11/2026 |
+| `espectro/grandes-tombos.md` | 22/11/2026 |
+| `espectro/zeta-no-teto.md` | 22/11/2026 |
+
+### Página sem data de dado declarada
+
+**3** páginas na fila: declaram `date:`, que é quando a página foi gerada, mas não `pregao:`, que é a data do dado.
+
+Quem não declara `pregao:` fica fora da conta do pregão mais recente declarado: o `date:` é o relógio da máquina na maioria dos geradores, e nenhum leitor distingue relógio de dado olhando o mesmo campo. Esta lista é a fila de migração, publicada em vez de ficar na cabeça de alguém.
+
+- `espectro/diario-x-intraday.md`
+- `espectro/grandes-tombos.md`
+- `espectro/zeta-no-teto.md`
+
+Outras **6** estão **dispensadas** de declarar `pregao:` por não se referirem a pregão nenhum — texto de método, e dado de fonte que não é a B3. O motivo de cada uma está no `SEM_PREGAO` do `integridade.py`, escrito à mão de propósito: adivinhar isso por heurística já tirou desta conferência duas páginas que eram geradas todo dia.
 
 ### As páginas concordam entre si?
 
 Cada página do safecluster é conferida contra as operações do motor. Isso não basta: em 17/11/2026 a página de operações mostrava o pregão do dia e o extrato da carteira parava no dia anterior — **as duas corretas em relação à própria fonte, e contraditórias entre si**. A auditoria passou com "68 certas, 0 erradas" porque ninguém comparava as duas versões do mesmo fato. Desde 18/11/2026 ela também compara.
 
-*Última auditoria: 2026-11-19 às 20:12:24 · 71 conferências, 0 divergência(s).*
+*Última auditoria: 2026-11-21 às 08:20:55 · 71 conferências, 0 divergência(s).*
 
 Nenhuma divergência entre páginas nesta rodada.
 
