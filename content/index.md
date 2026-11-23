@@ -7,12 +7,12 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 23/11/2026 15:15 BRT · Intraday 15min*
+*Última atualização: 23/11/2026 15:30 BRT · Intraday 15min*
 
-> [!success] Onde o mercado está agora (23/11 14:30, candles de 15 min): **🟢 Calmo**
+> [!success] Onde o mercado está agora (23/11 14:45, candles de 15 min): **🟢 Calmo**
 > `Pânico ◀───────●─────────────▶ Euforia`
 >
-> **O Ibovespa cai 1,89% agora, aos 164.376 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
+> **O Ibovespa cai 1,89% agora, aos 164.372 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
 > No gráfico diário: 🌱 Fundo se desfazendo.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
@@ -50,20 +50,20 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (23/11 14:30): 🟢 **VERDE** — Risco 1% · ▲ +1 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (23/11 14:45): 🟢 **VERDE** — Risco 1% · ＝ +0 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (23/11 14:30) | Valor |
+> | Indicador — IMA Intraday · 15 min (23/11 14:45) | Valor |
 > |---|---|
 > | 🔴 ζ Topo — preço esticado acima da tendência | **1%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 27% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 164.376 pts |
+> | 📊 Ibovespa | 164.372 pts |
 >
-> **Multi-ativo:** 0% em tensão (0🔴 1🟡 de 27 ativos)
+> **Multi-ativo:** 0% em tensão (0🔴 0🟡 de 27 ativos)
 >
 > **Últimos 7 pregões**
 >
