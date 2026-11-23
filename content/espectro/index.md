@@ -1,12 +1,12 @@
 ---
 title: "🌊 Espectro wavelet"
 date: 2026-11-23
-pregao: 2026-11-23 12:45
+pregao: 2026-11-23 13:00
 description: "Em que frequências o Ibovespa está vibrando — escalograma de 504 pregões, com 1929 como régua de comparação"
 tags: [espectro]
 ---
 
-*Figura de **23/11/2026 às 13:41** · página refeita em 23/11/2026 13:41.*
+*Figura de **23/11/2026 às 13:51** · página refeita em 23/11/2026 13:51.*
 
 > [!info] Esta página é **semanal**, não diária
 > O espectro é recalculado **toda segunda-feira às 17h BRT** e só então esta página muda. As frequências do mercado se movem devagar: refazer isso todo dia gastaria máquina para mostrar a mesma figura. Todos os horários de atualização do site estão em [horários](../horarios/).
@@ -19,9 +19,9 @@ Serve para uma pergunta que o preço não responde: **em que escala o mercado es
 
 ![Espectro wavelet do Ibovespa, 504 pregões](../graficos/espectro_wavelet.png)
 
-<small>Escalograma por transformada wavelet contínua (wavelet Chapéu Mexicano) sobre 504 pregões do ^BVSP, com o IMA Crash e o IMA Entrada calculados na mesma série. Gerado em 23/11/2026 às 13:41 pelo `gerar_espectro_wavelet.py`.</small>
+<small>Escalograma por transformada wavelet contínua (wavelet Chapéu Mexicano) sobre 504 pregões do ^BVSP, com o IMA Crash e o IMA Entrada calculados na mesma série. Gerado em 23/11/2026 às 13:51 pelo `gerar_espectro_wavelet.py`.</small>
 
-> [!note] O sinal em 23/11/2026 12:45 BRT
+> [!note] O sinal em 23/11/2026 13:00 BRT
 > **⚪ Neutro** · zona **VERDE** · risco **0,000** (amarelo em 0,60 · vermelho em 0,90)
 > 
 > sem diferença estatística em relação a um dia qualquer.
@@ -44,7 +44,7 @@ Um colapso de verdade tem assinatura: a energia **se concentra** numa faixa de f
 
 A figura mostra o espectro. Esta seção responde outra coisa: **quando houve um grande topo, este sinal estava ligado?** É uma pergunta diferente de "o sinal dá lucro" — e é a que importa para quem quer estar atento a um evento raro.
 
-Medido sobre **6.644 pregões** (03/01/2000 a 23/10/2026), com o ζ disponível de 05/01/2001 a 22/10/2026. Um **movimento** é o conjunto de pivôs que leva ao mesmo extremo — o crash de 2008 tem 14 pivôs e conta como **um**, senão o mesmo aviso seria contado catorze vezes.
+Medido sobre **6.662 pregões** (03/01/2000 a 19/11/2026), com o ζ disponível de 05/01/2001 a 19/11/2026. Um **movimento** é o conjunto de pivôs que leva ao mesmo extremo — o crash de 2008 tem 14 pivôs e conta como **um**, senão o mesmo aviso seria contado catorze vezes.
 
 ### Os maiores tombos, um a um
 
@@ -69,15 +69,15 @@ Quedas de **40% ou mais**. Na coluna de cada sinal: quando ele ligou e quanto da
 
 | | ζ wavelet | preço longe da média |
 |---|---|---|
-| grandes topos | 71% dos movimentos | 71% |
-| quanto do tombo ainda faltava | 82% | 83% |
+| grandes topos | 72% dos movimentos | 72% |
+| quanto do tombo ainda faltava | 86% | 83% |
 | grandes fundos | 80% | 59% |
 | quanto da alta ainda faltava | 82% | 46% |
-| falsos alarmes por ano | **1,0** | 1,6 |
+| falsos alarmes por ano | **0,9** | 1,5 |
 
-<small>Limiar 0,75. Cobertura = em quantos movimentos o sinal estava ligado na janela de 120 pregões antes a 40 depois do extremo. A janela olha para os dois lados de propósito: o ζ de fundo mede pânico, e pânico é máximo **na** capitulação — exigir aviso antes do fundo é pedir o impossível. Medição de 22/11/2026 às 17:28.</small>
+<small>Limiar 0,75. Cobertura = em quantos movimentos o sinal estava ligado na janela de 120 pregões antes a 40 depois do extremo. A janela olha para os dois lados de propósito: o ζ de fundo mede pânico, e pânico é máximo **na** capitulação — exigir aviso antes do fundo é pedir o impossível. Medição de 23/11/2026 às 13:49.</small>
 
-<small>**Nos grandes topos, os dois empatam.** O wavelet não enxerga mais topos que a régua simples do preço longe da média: enxerga **os mesmos**. A diferença está no **preço**: 1,0 falsos alarmes por ano contra 1,6 da régua simples — os mesmos achados, por menos ruído. **Nos fundos a diferença é grande e favorece o wavelet**, em cobertura e no quanto da alta ainda restava quando o sinal ligou. A tabela dos tombos, acima, mostra caso a caso onde cada um acertou e onde falhou.</small>
+<small>**Nos grandes topos, os dois empatam.** O wavelet não enxerga mais topos que a régua simples do preço longe da média: enxerga **os mesmos**. A diferença está no **preço**: 0,9 falsos alarmes por ano contra 1,5 da régua simples — os mesmos achados, por menos ruído. **Nos fundos a diferença é grande e favorece o wavelet**, em cobertura e no quanto da alta ainda restava quando o sinal ligou. A tabela dos tombos, acima, mostra caso a caso onde cada um acertou e onde falhou.</small>
 
 ### O que isso diz, e o que não diz
 
