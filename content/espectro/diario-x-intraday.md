@@ -5,7 +5,7 @@ description: "As 13 vezes em 5 anos em que os dois IMAs apontaram topo ao mesmo 
 tags: [espectro]
 ---
 
-*Página refeita em 22/11/2026 20:52 · medição de 22/11/2026 às 20:40 · **dados do ζ até 19/11/2026 17:30**.*
+*Página refeita em 22/11/2026 20:56 · medição de 22/11/2026 às 20:56 · **dados do ζ até 19/11/2026 17:30**.*
 
 > [!info] O dado não vai até hoje
 > 

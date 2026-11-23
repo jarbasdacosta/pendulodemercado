@@ -5,7 +5,7 @@ description: "O ζ Fundo no máximo não marca o fundo: marca o começo da queda
 tags: [espectro]
 ---
 
-*Página refeita em 22/11/2026 20:49 · medição de 22/11/2026 às 20:49 · **dados de 03/01/2000 a 19/11/2026**.*
+*Página refeita em 22/11/2026 20:56 · medição de 22/11/2026 às 20:56 · **dados de 03/01/2000 a 19/11/2026**.*
 
 ## O que aconteceu em novembro
 

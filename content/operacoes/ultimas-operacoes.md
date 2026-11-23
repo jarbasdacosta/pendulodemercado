@@ -12,11 +12,12 @@ description: "Operações recentes de todas as regras de compra"
 >
 > | Nome | O que precisa acontecer para comprar | Onde fica o stop | O que faz sair |
 > |---|---|---|---|
-> | **📈 Tendência MME9** (diário e semanal) | um candle **fecha acima da MME9** → compra se o preço passar da máxima dele em até 3 candles | 10% abaixo da entrada | um candle fecha abaixo da MME9 → sai na mínima dele |
-> | **🎯 Diário · Nadaraya** | depois de um sinal de fundo, a linha do kernel **vira para cima** | menor mínima dos 5 pregões antes da entrada | a linha rápida cruza para baixo, ou 60 pregões |
-> | **🎯 Semanal · Semáforo N2** | depois de um sinal de fundo, um **fundo do semáforo nível 2 fica fixo** | mínima desse fundo | um topo do semáforo nível 3 fica fixo, ou 60 candles |
-> | **🎯 H4 · Semáforo N2** | igual ao semanal, em candles de 4 horas | igual | igual |
-> | **🎯 Diário · Semáforo N3 após ζ** | **ζ Fundo ≥ 60%** nos últimos 10 pregões, depois um fundo do nível 3 fica fixo | igual | igual |
+> | **📈 Tendência MME9 · Diário** | um candle **fecha acima da MME9** → compra se o preço passar da **máxima** dele em até 3 pregões | **10% abaixo da entrada**, e não se move | um candle fecha abaixo da MME9 → sai se o preço passar da **mínima** dele em até 3 pregões |
+> | **📈 Tendência MME9 · Semanal** | a mesma regra em candles semanais: o sinal só conta com a **semana fechada**, mas a ordem pode executar em qualquer dia | **10% abaixo da entrada**, e não se move | uma semana fecha abaixo da MME9 → sai se o preço passar da mínima dela em até 3 semanas |
+> | **🎯 Diário · Nadaraya** | um **sinal de fundo** nos últimos 10 pregões, e depois a linha do kernel **vira para cima** | **menor mínima dos 5 pregões** antes da entrada, e não se move | a **linha rápida cruza para baixo**, ou 60 pregões sem sair |
+> | **🎯 Semanal · Semáforo N2** | um **sinal de fundo** nas últimas 10 semanas, e depois um **fundo do nível 2 fica fixo** — 5 semanas sem nenhuma mínima menor | **mínima desse fundo**; vai para o preço de entrada quando o lucro iguala o risco | um **topo do nível 3** fica fixo, ou 60 semanas sem sair |
+> | **🎯 H4 · Semáforo N2** | um **sinal de fundo** nos últimos 10 candles de 4 horas, e depois um **fundo do nível 2 fica fixo** — 5 candles de 4h sem nenhuma mínima menor | **mínima desse fundo**; vai para o preço de entrada quando o lucro iguala o risco | um **topo do nível 3** fica fixo, ou 60 candles de 4h sem sair |
+> | **🎯 Diário · Semáforo N3 após ζ** | **ζ Fundo ≥ 60%** nos últimos 10 pregões, e depois um **fundo do nível 3 fica fixo** — 12 pregões sem nenhuma mínima menor | **mínima desse fundo**; vai para o preço de entrada quando o lucro iguala o risco | um **topo do nível 3** fica fixo, ou 60 pregões sem sair |
 >
 > **O vocabulário, em uma linha cada:**
 >
@@ -37,6 +38,15 @@ description: "Operações recentes de todas as regras de compra"
 > - **sinal de fundo** — nenhuma destas regras compra a qualquer momento: todas
 >   exigem que algo tenha marcado fundo antes. É o que as diferencia de "comprar
 >   porque subiu".
+> - **"vai para o preço de entrada"** — o stop móvel (breakeven): assim que o
+>   lucro aberto iguala o que estava sendo arriscado, o stop sobe para o preço em
+>   que você entrou. Dali em diante a operação não devolve prejuízo, só lucro.
+>   Nas regras de semáforo ele existe; na Tendência e no Nadaraya **não** — ali o
+>   stop fica parado e quem protege o ganho é a regra de saída, porque stops mais
+>   apertados pioraram o resultado nos testes.
+> - **60 candles** — toda operação tem prazo: se nada mandou sair até lá, sai
+>   assim mesmo. São 60 pregões no diário, 60 semanas no semanal, 60 candles de
+>   4 horas no H4.
 >
 > Detalhe completo de cada uma, com os testes: [metodologia/regras-de-operacao](metodologia/regras-de-operacao).
 
