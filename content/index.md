@@ -7,12 +7,12 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 23/11/2026 11:30 BRT · Intraday 15min*
+*Última atualização: 23/11/2026 11:45 BRT · Intraday 15min*
 
-> [!success] Onde o mercado está agora (23/11 10:45, candles de 15 min): **🟢 Calmo**
+> [!success] Onde o mercado está agora (23/11 11:00, candles de 15 min): **🟢 Calmo**
 > `Pânico ◀──────●──────────────▶ Euforia`
 >
-> **O Ibovespa cai 1,40% agora, aos 165.193 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
+> **O Ibovespa cai 1,26% agora, aos 165.433 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
 > No gráfico diário: 🌱 Fundo se desfazendo.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
@@ -50,18 +50,18 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (23/11 10:45): 🟢 **VERDE** — Risco 0% · ▼ -2 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (23/11 11:00): 🟢 **VERDE** — Risco 0% · ＝ +0 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░`
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (23/11 10:45) | Valor |
+> | Indicador — IMA Intraday · 15 min (23/11 11:00) | Valor |
 > |---|---|
 > | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 38% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 165.193 pts |
+> | 📊 Ibovespa | 165.433 pts |
 >
 > **Multi-ativo:** 4% em tensão (0🔴 1🟡 de 27 ativos)
 >
