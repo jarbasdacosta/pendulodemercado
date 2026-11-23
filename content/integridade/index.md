@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 13:30*
+*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 13:41*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -23,7 +23,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 364 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 23/11 13:30 |
+| Página escrita mais recentemente | 23/11 13:41 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -116,12 +116,12 @@ Nenhuma tabela do pregão conferido ficou abaixo da metade do seu próprio norma
 
 Duas medidas diferentes, que antes eram confundidas numa só. O **mtime** diz quando o gerador escreveu o arquivo e pega gerador que parou de rodar. A **data declarada** diz a que pregão o conteúdo se refere e pega gerador que roda mas cujo dado não anda — que foi o defeito do agro em 16/11.
 
-Pregão mais recente declarado por alguma página: **19/11/2026**.
+Pregão mais recente declarado por alguma página: **23/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `diario/index.md` | 16/11 14:43 | 6.9 |
-| `intraday/index.md` | 16/11 14:43 | 6.9 |
+| `diario/index.md` | 16/11 14:43 | 7.0 |
+| `intraday/index.md` | 16/11 14:43 | 7.0 |
 | `por-onde-comecar.md` | 16/11 15:20 | 6.9 |
 | `autopsias/index.md` | 19/11 14:39 | 4.0 |
 | `sinais-topo-fundo/index.md` | 20/11 19:00 | 2.8 |

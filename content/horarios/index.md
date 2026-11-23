@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 23/11/2026 13:24.*
+*Lido do agendamento do próprio servidor em 23/11/2026 13:40.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o
@@ -35,6 +35,7 @@ O que acontece em todo dia útil, sempre no mesmo horário. É daqui que vem o n
 | dias úteis, 19h00 | **Rodada diária** — Refaz todas as páginas do dia e dispara o aviso diário. Roda às 19h, antes de a B3 publicar o boletim — por isso existe o vigia abaixo. |
 | dias úteis, 19h30 | **Resumo do dia** — Fecha o resumo e envia. |
 | dias úteis, 19h40 | **Setups** — Testa e republica as páginas dos setups. |
+| dias úteis, 19h50 | **Série do Ibovespa** — Estende a série diária do Ibovespa com o pregão que acabou de fechar, vindo da corretora. É a série que os estudos leem. Confere antes se as duas fontes ainda batem e não grava nada se divergirem: série contaminada não se percebe, série atrasada sim. |
 
 
 ## Ao longo do pregão, de poucos em poucos minutos

@@ -1,12 +1,12 @@
 ---
 title: "🌊 Espectro wavelet"
-date: 2026-11-22
-pregao: 2026-11-19
+date: 2026-11-23
+pregao: 2026-11-23 12:45
 description: "Em que frequências o Ibovespa está vibrando — escalograma de 504 pregões, com 1929 como régua de comparação"
 tags: [espectro]
 ---
 
-*Figura de **16/11/2026 às 17:00** · página refeita em 22/11/2026 20:53.*
+*Figura de **23/11/2026 às 13:41** · página refeita em 23/11/2026 13:41.*
 
 > [!info] Esta página é **semanal**, não diária
 > O espectro é recalculado **toda segunda-feira às 17h BRT** e só então esta página muda. As frequências do mercado se movem devagar: refazer isso todo dia gastaria máquina para mostrar a mesma figura. Todos os horários de atualização do site estão em [horários](../horarios/).
@@ -19,12 +19,14 @@ Serve para uma pergunta que o preço não responde: **em que escala o mercado es
 
 ![Espectro wavelet do Ibovespa, 504 pregões](../graficos/espectro_wavelet.png)
 
-<small>Escalograma por transformada wavelet contínua (wavelet Chapéu Mexicano) sobre 504 pregões do ^BVSP, com o IMA Crash e o IMA Entrada calculados na mesma série. Gerado em 16/11/2026 às 17:00 pelo `gerar_espectro_wavelet.py`.</small>
+<small>Escalograma por transformada wavelet contínua (wavelet Chapéu Mexicano) sobre 504 pregões do ^BVSP, com o IMA Crash e o IMA Entrada calculados na mesma série. Gerado em 23/11/2026 às 13:41 pelo `gerar_espectro_wavelet.py`.</small>
 
-> [!note] O sinal em 19/11/2026
-> **🌱 Fundo se desfazendo** · zona **VERDE** · risco **0,000** (amarelo em 0,60 · vermelho em 0,90)
+> [!note] O sinal em 23/11/2026 12:45 BRT
+> **⚪ Neutro** · zona **VERDE** · risco **0,000** (amarelo em 0,60 · vermelho em 0,90)
 > 
-> só contexto: o pânico passou; sem vantagem estatística confirmada para comprar só por isso.
+> sem diferença estatística em relação a um dia qualquer.
+> 
+> No diário de 19/11/2026: **🌱 Fundo se desfazendo** — só contexto: o pânico passou; sem vantagem estatística confirmada para comprar só por isso.
 
 <small>O risco acima é a componente **IMA** (peso 1,0). A componente **LPPL** está com peso 0,0 no momento, isto é, desligada — o número não contém ajuste log-periódico. Isso é medição, não opinião: está escrito no próprio arquivo do sinal.</small>
 
