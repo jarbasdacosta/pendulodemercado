@@ -1,7 +1,7 @@
 ---
 title: "🎯 Entradas do método"
 date: 2026-11-23
-pregao: 2026-11-19
+pregao: 2026-11-23
 tags: [operacoes]
 description: "Compra depois de um sinal de fundo: Nadaraya no diário, semáforo no semanal e H4"
 ---
@@ -58,23 +58,24 @@ description: "Compra depois de um sinal de fundo: Nadaraya no diário, semáforo
 
 > [!tip] 🎯 Entradas do método — 🧪 em teste ao vivo desde 23/10/2026 (só compra)
 >
-> 🌊 **Contexto do IMA para compras:** 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 61% em 19/11 · *informa, não filtra*
+> 🌊 **Contexto do IMA para compras:** 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 63% em 23/11 · *informa, não filtra*
 >
 > **Placar ao vivo** (só as regras que avisam no Telegram): 1 operação(ões), 0 com lucro, média -0,8%, soma -0,8%
 >
-> **Último candle:** 🔴 **stop atingido** Diário · Semáforo N3 após ζ Fundo (164.447)
+> **Último candle:** ⚪ **saída** Diário · Semáforo N3 após ζ Fundo: -1,2% (stop)
 >
 > | Regra | Situação | Detalhes | Nota |
 > |---|---|---|---|
 > | [Diário · Nadaraya](tecnico/#diário) | — sem setup | espera um sinal de fundo | ✅ passou fora da amostra |
 > | [Semanal · Semáforo N2](tecnico/#semanal) | — sem setup | espera um sinal de fundo | ✅ o ganho vem do setup |
 > | [H4 · Semáforo N2](sinais-topo-fundo/todos-os-sinais#h4) | — sem setup | espera um sinal de fundo | 🧪 em teste |
-> | [Diário · Semáforo N3 após ζ Fundo](tecnico/#diário) | 🟢 **comprado** desde 19/11 a 166.376 | ⚡ stop 164.447 (durante o pregão) · agora +0,0% em 0 pregões · ⏱️ sai quando um topo do semáforo nível 3 ficar fixo (no fechamento) · setup ζ Fundo 61% | 🧪 em observação |
+> | [Diário · Semáforo N3 após ζ Fundo](tecnico/#diário) | ⏳ **aguardando** | setup ζ Fundo 63% (23/11) · entra quando fundo candidato em 23/11 (164.129): vira entrada se não houver mínima menor em 12 pregões · vale por mais 10 pregões | 🧪 em observação |
 >
 > **Últimas operações** (as anteriores ao teste ao vivo são simuladas no histórico)
 >
 > | Regra | Entrada | Saída | Resultado | Motivo |
 > |---|---|---|---|---|
+> | Diário · Semáforo N3 após ζ Fundo 🧪 | 19/11/26 a 166.376 | 23/11/26 a 164.447 | **-1,2%** | stop |
 > | H4 · Semáforo N2 🧪 | 28/10/26 14h a 170.947 | 29/10/26 10h a 169.516 | **-0,8%** | stop |
 > | Diário · Nadaraya | 25/08/26 a 174.577 | 29/10/26 a 169.186 | **-3,1%** | saída do método (linha rápida cruzou para baixo) |
 > | H4 · Semáforo N2 | 01/10/26 14h a 187.243 | 20/10/26 10h a 208.658 | **+11,4%** | saída do método (topo fixo do semáforo nível 3) |
@@ -82,9 +83,8 @@ description: "Compra depois de um sinal de fundo: Nadaraya no diário, semáforo
 > | Diário · Semáforo N3 após ζ Fundo | 01/09/26 a 179.723 | 24/09/26 a 183.966 | **+2,4%** | saída do método (topo fixo do semáforo nível 3) |
 > | H4 · Semáforo N2 | 19/08/26 10h a 168.034 | 16/09/26 10h a 185.896 | **+10,6%** | saída do método (topo fixo do semáforo nível 3) |
 > | Diário · Semáforo N3 após ζ Fundo | 07/07/26 a 172.021 | 10/08/26 a 172.021 | **+0,0%** | stop no preço de entrada |
-> | H4 · Semáforo N2 | 12/06/26 14h a 171.134 | 15/06/26 14h a 171.134 | **+0,0%** | stop no preço de entrada |
 >
-> <small>Atualizado 20/11 19:00 · checado no pregão às 18:15. Nota: ✅ passou no teste fora da amostra (walk-forward 2008–2026) · 🧪 em teste (H4, com aviso no Telegram) ou em observação (ζ, sem aviso) · 🧪 na tabela = operação do teste ao vivo.</small>
+> <small>Atualizado 23/11 19:00. Nota: ✅ passou no teste fora da amostra (walk-forward 2008–2026) · 🧪 em teste (H4, com aviso no Telegram) ou em observação (ζ, sem aviso) · 🧪 na tabela = operação do teste ao vivo.</small>
 >
 > *Regras: depois de um sinal de fundo, o Diário entra quando o Nadaraya vira para cima; o Semanal e o H4 entram quando um fundo do semáforo fica fixo. Stop e saída de cada regra na [metodologia](metodologia/regras-de-operacao#entradas-do-método). Nenhuma regra de venda passou no teste. Os números do histórico têm viés de escolha (overfitting); o placar ao vivo é o que vale. Leitura educacional do método, não recomendação.*
 

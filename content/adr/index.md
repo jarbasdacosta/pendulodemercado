@@ -1,10 +1,10 @@
 ---
 title: "🗽 Ações que foram para Nova York"
-date: 2026-11-20
+date: 2026-11-23
 pregao: 2026-11-19
 ---
 
-*Dados da B3 de 19/11/2026 · atualizado em 20/11/2026 19:08*
+*Dados da B3 de 19/11/2026 · atualizado em 23/11/2026 19:05*
 
 
 <!-- NOTAS-INICIO -->
@@ -74,7 +74,7 @@ Em quantidade absoluta de ações dentro do programa. Empresa grande com ADR ant
 | 5 | **ABEV3** | Ambev S.A. | ON | **902,89** | **5,8%** | 15.485 | -0,2% |
 | 6 | **PETR4** | Petroleo Brasileiro S/A Pe | PN       | **769,37** | **14,1%** | 5.447 | +1,0% |
 | 7 | **GGBR4** | Gerdau S.A. | PN  ED   | **448,21** | **35,5%** | 1.261 | 0,0% |
-| 8 | **AZUL3** | Azul S.A | ON       | **387,91** | **96,8%** | 401 | +8,9% |
+| 8 | **AZUL3** | Azul S.A | ON       | **387,91** | **96,4%** | 402 | +8,9% |
 | 9 | **CSNA3** | Cia Siderurgica Nacional | ON | **348,85** | **26,3%** | 1.326 | +3,4% |
 | 10 | **SBSP3** | Companhia De Saneamento Ba | ON  EJ   | **342,02** | **9,7%** | 3.534 | 0,0% |
 | 11 | **EMBJ3** | Embraer S.A. | ON       | **337,90** | **45,6%** | 740 | -2,0% |
@@ -114,7 +114,7 @@ caso exige ler o fato relevante da empresa — esta página mede a quantidade, n
 
 | # | Papel | Empresa | Classe | % da classe em ADR | Ações da classe (mi) | Sobra no Brasil (mi) | No período |
 |---|---|---|---|---|---|---|---|
-| 1 | **AZUL3** | Azul S.A | ON       | **96,8%** | 401 | **12,92** | +8,9% |
+| 1 | **AZUL3** | Azul S.A | ON       | **96,4%** | 402 | **14,36** | +8,9% |
 | 2 | **SANB11** | Banco Santander (Brasil) | UNT | **89,2%** | 1.447 | **156,29** | 0,0% |
 
 
@@ -183,7 +183,7 @@ sendo atendida por conversão daqui, repetidamente.
 ações restam negociando aqui. Não é modelo nem previsão — é subtração, e vale hoje.
 
 O caso mais extremo deste pregão é a **AZUL3**, com
-**12,92 milhões de ações** fora do programa. Quem dimensionar posição pelo
+**14,36 milhões de ações** fora do programa. Quem dimensionar posição pelo
 valor de mercado da empresa vai descobrir o tamanho real do livro na hora de sair — que é a
 pior hora possível para descobrir. Quem olhar este número antes dimensiona pelo que existe.
 

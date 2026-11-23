@@ -1,7 +1,7 @@
 ---
 title: "📅 Histórico por ano"
 date: 2026-11-23
-pregao: 2026-11-19
+pregao: 2026-11-23
 tags: [operacoes]
 description: "Todas as operações de cada regra, ano a ano, desde 2000"
 ---
@@ -73,19 +73,13 @@ Todas as operações de cada regra de compra, **simuladas no histórico com as m
 
 ## 🟢 Posições em aberto
 
-| Regra | Entrada | Stop | Agora | Candles | Sai quando | |
-|---|---|---|---|---|---|---|
-| [Diário · Semáforo N3 após ζ Fundo](operacoes/entradas) | 19/11/26 a 166.376 | ⚡ 164.447 | **+0,0%** | 0 | ⏱️ no fechamento: quando um topo do semáforo nível 3 ficar fixo | 🧪 ao vivo |
-
-> [!warning] ⚡ = vale **durante o pregão** (ordem stop: deixe a ordem na plataforma; o sistema confere a cada 15 min, avisa 🚨 a 0,5% do nível e avisa quando executar) · ⏱️ = só no **fechamento** do candle
-
-*Resultado até o último fechamento. Posições abertas antes de 23/10/2026 são simuladas no histórico e não entram no placar ao vivo.*
+_Nenhuma posição aberta agora._
 
 ## Resultado por ano
 
 | Ano | Tendência Diário | Tendência Semanal | Diário · Nadaraya | Semanal · Semáforo N2 | H4 · Semáforo N2 | Diário · Semáforo N3 após ζ Fundo | Total |
 |---|---|---|---|---|---|---|---|
-| **2026** | **9 op · 5 ✓ · +17,3%** | **5 op · 1 ✓ · +16,8%** | **2 op · 1 ✓ · +11,0%** | **1 op · 1 ✓ · +54,0%** | **8 op · 4 ✓ · +38,0%** | **2 op · 1 ✓ · +2,4%** | **27 op · 13 ✓ · +139,5%** |
+| **2026** | **9 op · 5 ✓ · +17,3%** | **5 op · 1 ✓ · +16,8%** | **2 op · 1 ✓ · +11,0%** | **1 op · 1 ✓ · +54,0%** | **8 op · 4 ✓ · +38,0%** | **3 op · 1 ✓ · +1,2%** | **28 op · 13 ✓ · +138,3%** |
 | **2025** | **14 op · 6 ✓ · +12,1%** | **3 op · 2 ✓ · +0,9%** | **2 op · 1 ✓ · +3,0%** | — | **5 op · 2 ✓ · +15,9%** | 1 op · 0 ✓ · -1,5% | **25 op · 11 ✓ · +30,4%** |
 | **2024** | 16 op · 5 ✓ · -0,4% | 7 op · 3 ✓ · -2,0% | **7 op · 3 ✓ · +8,8%** | **3 op · 1 ✓ · +4,6%** | **11 op · 3 ✓ · +11,6%** | **1 op · 1 ✓ · +0,2%** | **45 op · 16 ✓ · +22,7%** |
 | **2023** | **18 op · 6 ✓ · +6,3%** | 1 op · 0 ✓ · -1,6% | 2 op · 1 ✓ · -1,0% | **1 op · 1 ✓ · +3,8%** | — | — | **22 op · 8 ✓ · +7,5%** |
@@ -112,7 +106,7 @@ Todas as operações de cada regra de compra, **simuladas no histórico com as m
 | **2002** | **13 op · 8 ✓ · +9,5%** | 3 op · 0 ✓ · -2,8% | 2 op · 1 ✓ · -6,3% | 2 op · 1 ✓ · -2,7% | — | — | 20 op · 10 ✓ · -2,3% |
 | **2001** | **15 op · 4 ✓ · +21,7%** | 4 op · 1 ✓ · -12,9% | **3 op · 1 ✓ · +13,2%** | 2 op · 0 ✓ · -9,9% | — | — | **24 op · 6 ✓ · +12,0%** |
 | **2000** | **11 op · 3 ✓ · +3,4%** | 2 op · 1 ✓ · -1,2% | **1 op · 1 ✓ · +7,9%** | — | — | — | **14 op · 5 ✓ · +10,1%** |
-| **Total** | **380 op · 153 ✓ · +391,2%** | **90 op · 43 ✓ · +265,7%** | **81 op · 37 ✓ · +259,9%** | **29 op · 14 ✓ · +459,5%** | **24 op · 9 ✓ · +65,6%** | **4 op · 2 ✓ · +1,0%** | **608 op · 258 ✓ · +1442,8%** |
+| **Total** | **380 op · 153 ✓ · +391,2%** | **90 op · 43 ✓ · +265,7%** | **81 op · 37 ✓ · +259,9%** | **29 op · 14 ✓ · +459,5%** | **24 op · 9 ✓ · +65,6%** | 5 op · 2 ✓ · -0,1% | **609 op · 258 ✓ · +1441,7%** |
 
 *A soma dos % é só um resumo: as regras podem estar posicionadas ao mesmo tempo e não formam uma carteira. Índice à vista, custo de 0,05% por operação.*
 
@@ -125,11 +119,11 @@ Todas as operações de cada regra de compra, **simuladas no histórico com as m
 | Diário · Nadaraya | 81 | 3.0 | 46% | +3,2% | +36,6% | -11,2% | 19 de 27 |
 | Semanal · Semáforo N2 | 29 | 1.1 | 48% | +15,8% | +122,6% | -16,5% | 11 de 20 |
 | H4 · Semáforo N2 | 24 | 8.0 | 38% | +2,7% | +14,9% | -1,9% | 3 de 3 |
-| Diário · Semáforo N3 após ζ Fundo | 4 | 1.3 | 50% | +0,3% | +2,4% | -1,5% | 2 de 3 |
+| Diário · Semáforo N3 após ζ Fundo | 5 | 1.7 | 40% | -0,0% | +2,4% | -1,5% | 2 de 3 |
 
 ## Todas as operações, ano a ano
 
-<details><summary><b>2026</b> — 27 operações, soma +139,5%</summary>
+<details><summary><b>2026</b> — 28 operações, soma +138,3%</summary>
 
 | Regra | Entrada | Saída | Resultado | Motivo |
 |---|---|---|---|---|
@@ -160,6 +154,7 @@ Todas as operações de cada regra de compra, **simuladas no histórico com as m
 | H4 · Semáforo N2 | 01/10/26 14h a 187.243 | 20/10/26 10h a 208.658 | **+11,4%** | saída do método (topo fixo do semáforo nível 3) |
 | Tendência Diário | 02/10/26 a 187.835 | 29/10/26 a 169.052 | **-10,0%** | stop de segurança (−10%) |
 | H4 · Semáforo N2 🧪 | 28/10/26 14h a 170.947 | 29/10/26 10h a 169.516 | **-0,8%** | stop |
+| Diário · Semáforo N3 após ζ Fundo 🧪 | 19/11/26 a 166.376 | 23/11/26 a 164.447 | **-1,2%** | stop |
 
 </details>
 

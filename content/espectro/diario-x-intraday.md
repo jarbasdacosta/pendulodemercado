@@ -1,21 +1,21 @@
 ---
 title: "🔀 O ζ diário e o ζ intraday concordam — e daí?"
-date: 2026-11-22
+date: 2026-11-23
 description: "As 13 vezes em 5 anos em que os dois IMAs apontaram topo ao mesmo tempo, o que veio depois, e por que no lado do fundo não há nada"
 tags: [espectro]
 ---
 
-*Página refeita em 22/11/2026 20:56 · medição de 22/11/2026 às 20:56 · **dados do ζ até 19/11/2026 17:30**.*
+*Página refeita em 23/11/2026 18:45 · medição de 23/11/2026 às 18:45 · **dados do ζ até 23/11/2026 17:15**.*
 
 > [!info] O dado não vai até hoje
 > 
-> Os caches de ζ usados aqui terminam em **19/11/2026**. O que aconteceu no mercado depois dessa data não está nesta página. Quando os caches forem recalculados, ela se refaz sozinha.
+> Os caches de ζ usados aqui terminam em **23/11/2026**. O que aconteceu no mercado depois dessa data não está nesta página. Quando os caches forem recalculados, ela se refaz sozinha.
 
 ## A pergunta
 
 O sistema calcula o ζ em duas frequências: no **diário**, com janela de 252 pregões, e no **intraday**, em velas de 15 minutos. Os dois nunca tinham sido cruzados. A pergunta é direta: *houve momentos em que os dois apontaram topo ao mesmo tempo? E fundo? O que veio depois?*
 
-Resposta: sim, e é raro. No período de **12/11/2021 a 19/11/2026** (1.253 pregões, 18.346 leituras de 30 em 30 minutos), os dois concordaram em **13 episódios de topo** e **8 de fundo** — menos de 1% do tempo.
+Resposta: sim, e é raro. No período de **12/11/2021 a 23/11/2026** (1.254 pregões, 18.362 leituras de 30 em 30 minutos), os dois concordaram em **13 episódios de topo** e **8 de fundo** — menos de 1% do tempo.
 
 > [!warning] O que esta página NÃO diz
 > 
@@ -29,10 +29,10 @@ Resposta: sim, e é raro. No período de **12/11/2021 a 19/11/2026** (1.253 preg
 
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
-| 1 pregão | **9 de 13** (69%) | 49% | -0,80% | +0,03% | 0,121 |
-| 5 pregões | **11 de 13** (85%) | 48% | -1,04% | +0,14% | 0,007 |
-| 20 pregões | **9 de 13** (69%) | 44% | -1,64% | +0,98% | 0,065 |
-| 60 pregões | **9 de 13** (69%) | 42% | -3,23% | +2,25% | 0,043 |
+| 1 pregão | **9 de 13** (69%) | 49% | -0,80% | +0,03% | 0,122 |
+| 5 pregões | **11 de 13** (85%) | 48% | -1,04% | +0,13% | 0,007 |
+| 20 pregões | **9 de 13** (69%) | 44% | -1,64% | +0,97% | 0,065 |
+| 60 pregões | **9 de 13** (69%) | 42% | -3,23% | +2,21% | 0,044 |
 
 A coluna *o normal seria* é a taxa base: de todos os pregões do período, quantos teriam dado negativo naquele horizonte. O Ibovespa sobe mais do que cai, então essa taxa **não é 50%** — comparar com 50% inflaria o resultado a favor do sinal.
 
@@ -44,25 +44,25 @@ O corte que define "ζ alto" saiu do quantil 0,90 medido **só na primeira metad
 
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
-| 1 pregão | **3 de 6** (50%) | 49% | -0,16% | +0,03% | 0,641 |
-| 5 pregões | **5 de 6** (83%) | 48% | -1,02% | +0,14% | 0,090 |
-| 20 pregões | **3 de 6** (50%) | 44% | -0,88% | +0,98% | 0,547 |
-| 60 pregões | **4 de 6** (67%) | 42% | -1,74% | +2,25% | 0,205 |
+| 1 pregão | **3 de 6** (50%) | 49% | -0,16% | +0,03% | 0,642 |
+| 5 pregões | **5 de 6** (83%) | 48% | -1,02% | +0,13% | 0,091 |
+| 20 pregões | **3 de 6** (50%) | 44% | -0,88% | +0,97% | 0,548 |
+| 60 pregões | **4 de 6** (67%) | 42% | -1,74% | +2,21% | 0,206 |
 
 **Segunda metade (fora da amostra)** — 7 episódios
 
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
-| 1 pregão | **6 de 7** (86%) | 49% | -1,00% | +0,03% | 0,057 |
-| 5 pregões | **6 de 7** (86%) | 48% | -1,05% | +0,14% | 0,050 |
-| 20 pregões | **6 de 7** (86%) | 44% | -1,64% | +0,98% | 0,033 |
-| 60 pregões | **5 de 7** (71%) | 42% | -3,45% | +2,25% | 0,115 |
+| 1 pregão | **6 de 7** (86%) | 49% | -1,00% | +0,03% | 0,058 |
+| 5 pregões | **6 de 7** (86%) | 48% | -1,05% | +0,13% | 0,050 |
+| 20 pregões | **6 de 7** (86%) | 44% | -1,64% | +0,97% | 0,034 |
+| 60 pregões | **5 de 7** (71%) | 42% | -3,45% | +2,21% | 0,116 |
 
 A segunda metade saiu **igual ou mais forte** que a primeira. Sinal que melhora fora da amostra onde foi calibrado não tem cara de ajuste forçado. Mas são seis e sete episódios: a consistência entre as duas metades vale mais do que qualquer um dos números isolados.
 
 ### E o quanto disso é sorte
 
-Foram testados quatro horizontes em dois lados: **oito combinações**. Anunciar a melhor sem descontar a procura é atirar na parede e desenhar o alvo depois. Corrigido por Holm-Bonferroni, o melhor resultado (topo em 5 pregões) vai de **p = 0,007** para **p = 0,059**.
+Foram testados quatro horizontes em dois lados: **oito combinações**. Anunciar a melhor sem descontar a procura é atirar na parede e desenhar o alvo depois. Corrigido por Holm-Bonferroni, o melhor resultado (topo em 5 pregões) vai de **p = 0,007** para **p = 0,060**.
 
 Ou seja: fica **logo acima** do limiar convencional de 0,05. É um indício que merece atenção, não um fato estabelecido. A página diz isso de propósito — o número bonito sem a correção seria mais vendável e menos verdadeiro.
 
@@ -75,9 +75,9 @@ Todo sinal precisa bater uma régua boba antes de valer alguma coisa. A régua a
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
 | 1 pregão | **5 de 5** (100%) | 49% | -0,89% | +0,03% | 0,029 |
-| 5 pregões | **5 de 5** (100%) | 48% | -2,58% | +0,14% | 0,025 |
-| 20 pregões | **5 de 5** (100%) | 44% | -4,02% | +0,98% | 0,017 |
-| 60 pregões | **4 de 5** (80%) | 42% | -5,29% | +2,25% | 0,102 |
+| 5 pregões | **5 de 5** (100%) | 48% | -2,58% | +0,13% | 0,025 |
+| 20 pregões | **5 de 5** (100%) | 44% | -4,02% | +0,97% | 0,017 |
+| 60 pregões | **4 de 5** (80%) | 42% | -5,29% | +2,21% | 0,102 |
 
 Olhando só essa tabela, a régua boba parece melhor: cai mais fundo e erra menos. Mas ela e a concordância **não são a mesma coisa**, e a diferença só aparece quando se olha o calendário:
 
@@ -111,7 +111,7 @@ No cruzamento das duas listas: **6 coincidem**, **7 só a concordância enxerga*
 | 26/11/2025 a 04/12/2025 | 3 | -4,23% | -3,03% | -1,40% | +8,86% |
 | 03/02/2026 a 11/02/2026 | 2 | -1,00% | +0,27% | -6,61% | -6,80% |
 | 04/03/2026 a 05/03/2026 | 2 | -0,86% | -0,67% | +4,05% | -3,45% |
-| 27/10/2026 | 1 | -2,71% | -4,66% | -5,42% | -5,42% |
+| 27/10/2026 | 1 | -2,71% | -4,66% | -6,11% | -6,11% |
 
 ## Lado do fundo: não serve
 
@@ -120,9 +120,9 @@ No cruzamento das duas listas: **6 coincidem**, **7 só a concordância enxerga*
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
 | 1 pregão | **3 de 8** (38%) | 49% | +0,17% | +0,03% | 0,845 |
-| 5 pregões | **4 de 8** (50%) | 48% | -0,24% | +0,14% | 0,589 |
-| 20 pregões | **3 de 8** (38%) | 44% | +1,50% | +0,98% | 0,770 |
-| 60 pregões | **4 de 8** (50%) | 42% | +0,67% | +2,25% | 0,449 |
+| 5 pregões | **4 de 8** (50%) | 48% | -0,24% | +0,13% | 0,589 |
+| 20 pregões | **3 de 8** (38%) | 44% | +1,50% | +0,97% | 0,771 |
+| 60 pregões | **4 de 8** (50%) | 42% | +0,67% | +2,21% | 0,450 |
 
 Nenhum horizonte se distingue da taxa base, nem na primeira metade nem na segunda. **Os dois ζ apontando fundo ao mesmo tempo não diz nada sobre o que vem depois** — e esta página registra isso com a mesma clareza com que registra o resultado do topo. Medição que só publica o que deu certo não é medição.
 
@@ -142,7 +142,7 @@ Nenhum horizonte se distingue da taxa base, nem na primeira metade nem na segund
 
 > [!danger] O que não fazer
 > 
-> **Não trate como gatilho de venda.** Com p corrigido em 0,059 e treze casos, isto não suporta uma regra mecânica.
+> **Não trate como gatilho de venda.** Com p corrigido em 0,060 e treze casos, isto não suporta uma regra mecânica.
 > 
 > **Não use no lado do fundo.** Ali não há sinal nenhum.
 > 
@@ -159,5 +159,5 @@ Nenhum horizonte se distingue da taxa base, nem na primeira metade nem na segund
 - **Taxa base** calculada sobre todos os pregões do mesmo período.
 - **Correção de múltiplos testes:** Holm-Bonferroni sobre as oito combinações.
 
-Fonte: `concordancia_zeta.py`, sobre os caches de ζ de 12/11/2021 a 19/11/2026. [Metodologia da Sinal IMA](../metodologia/crise) · [Espectro wavelet](./) · [Grandes tombos](grandes-tombos)
+Fonte: `concordancia_zeta.py`, sobre os caches de ζ de 12/11/2021 a 23/11/2026. [Metodologia da Sinal IMA](../metodologia/crise) · [Espectro wavelet](./) · [Grandes tombos](grandes-tombos)
 

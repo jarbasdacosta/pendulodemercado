@@ -1,7 +1,7 @@
 ---
 title: "📋 Últimas operações"
 date: 2026-11-23
-pregao: 2026-11-19
+pregao: 2026-11-23
 tags: [operacoes]
 description: "Operações recentes de todas as regras de compra"
 ---
@@ -60,6 +60,7 @@ Operações recentes de todas as regras. 🧪 = operação do teste ao vivo (des
 
 | Regra | Entrada | Saída | Resultado | Motivo |
 |---|---|---|---|---|
+| Diário · Semáforo N3 após ζ Fundo 🧪 | 19/11/26 a 166.376 | 23/11/26 a 164.447 | **-1,2%** | stop |
 | Tendência MME9 · Semanal | 31/08/26 a 176.421 | 03/11/26 a 167.008 | **-5,3%** | rompeu a mínima do candle que fechou abaixo da MME9 |
 | H4 · Semáforo N2 🧪 | 28/10/26 14h a 170.947 | 29/10/26 10h a 169.516 | **-0,8%** | stop |
 | Tendência MME9 · Diário | 02/10/26 a 187.835 | 29/10/26 a 169.052 | **-10,0%** | stop de segurança (−10%) |

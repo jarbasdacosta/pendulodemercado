@@ -1,34 +1,36 @@
 ---
 title: Pêndulo de Mercado
 date: 2026-11-23
-pregao: 2026-11-19
+pregao: 2026-11-23
 tags: [home]
 ---
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 23/11/2026 18:31 BRT · Intraday 15min*
+*Última atualização: 23/11/2026 19:05 BRT · Diário D1*
 
-> [!success] Onde o mercado está agora (23/11 18:00, candles de 15 min): **🟢 Calmo**
-> `Pânico ◀──────────●──────────▶ Euforia`
+> [!info] Onde o mercado está no fechamento de 23/11: **🔵 Esticado para baixo**
+> `Pânico ◀────●────────────────▶ Euforia`
 >
-> **O Ibovespa cai 1,64% agora, aos 164.796 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
-> No gráfico diário: 🌱 Fundo se desfazendo.
+> **O Ibovespa caiu 1,64% hoje, aos 164.796 pontos.** O preço caiu mais rápido que o normal e está abaixo da sua faixa habitual.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
+
+> [!warning] ⚠️ Nível alto agora — IMA Diário (23/11)
+> - 🔵 **ζ Fundo 63%** — preço esticado abaixo da tendência
 
 ## Agora
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 3% | [relatório](intraday/2026-11-23) |
+| 🌊 **Sinal IMA** | 🟢 VERDE · 🔵 esticado para baixo · ζ Topo 0% | [relatório](diario/2026-11-23) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
-| 🎯 **Entradas do método** | 🟢 comprado: Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
+| 🎯 **Entradas do método** | ⏳ aguardando: Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
 | 🧪 **Placar ao vivo** | 1 operação(ões), 0 com lucro, soma -0,8% | [abrir](operacoes/) |
 
 > [!tip] 🎯 Operações — último candle
-> - 🔴 Entradas Diário · Semáforo N3 após ζ Fundo: **stop** (164.447)
+> - ⚪ Entradas Diário · Semáforo N3 após ζ Fundo: **saída** (-1,2%)
 >
 > [Ver operações](operacoes/)
 
@@ -44,32 +46,40 @@ tags: [home]
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
-> [!note] 🧭 IMA Diário · viés (19/11): 🌱 **Fundo se desfazendo**
+> [!note] 🧭 IMA Diário · situação: 🌱 **Fundo se desfazendo**
 > 📚 só contexto: o pânico passou; sem vantagem estatística confirmada para comprar só por isso
+>
+> Eventos recentes: 🌱 10/11 Fundo se desfazendo · 🔪 03/11 Queda forte em curso · 📉 28/10 Esticamento desinflando · 📉 16/09 Esticamento desinflando
 >
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (23/11 18:00): 🟢 **VERDE** — Risco 3% · ▼ -1 p.p. vs leitura anterior
-> > `█░░░░░░░░░░░░░░░░░░░`
-> > Preço na faixa normal em torno da tendência.
+> > [!info] IMA Diário (23/11): 🔵 **ESTICADO P/ BAIXO** — ζ Fundo 63% · risco de topo 0% · ＝ +0 p.p. vs leitura anterior
+> > `█████████████░░░░░░░`
+> > Atenção — preço esticado abaixo da tendência. Medido por episódio, esta faixa não teve retorno melhor que um dia qualquer: +0,18% em 60 pregões contra +3,34% da base.
 >
 >
-> | Indicador — IMA Intraday · 15 min (23/11 18:00) | Valor |
+> | Indicador — IMA Diário (23/11) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | **3%** |
-> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
+> | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
+> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔵 **63%** |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
 > | 📊 Ibovespa | 164.796 pts |
 >
-> **Multi-ativo:** 0% em tensão (0🔴 0🟡 de 27 ativos)
+> **Multi-ativo:** 11% em tensão (1🔴 2🟡 de 27 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [23/11/2026](intraday/2026-11-23) | 🟢 VERDE | **3%** | 3% | 0% | 0% |
+> | [23/11/2026](diario/2026-11-23) | 🟢 VERDE | **0%** | 0% | 🔵 **63%** | 0% |
+> | [19/11/2026](diario/2026-11-19) | 🟢 VERDE | **0%** | 0% | 🔵 **61%** | 0% |
+> | [18/11/2026](diario/2026-11-18) | 🟢 VERDE | **0%** | 0% | 58% | 0% |
+> | [17/11/2026](diario/2026-11-17) | 🟢 VERDE | **0%** | 0% | 55% | 0% |
+> | [16/11/2026](diario/2026-11-16) | 🟢 VERDE | **0%** | 0% | 49% | 0% |
+> | [13/11/2026](diario/2026-11-13) | 🟢 VERDE | **1%** | 1% | 52% | 0% |
+> | [12/11/2026](diario/2026-11-12) | 🟢 VERDE | **1%** | 1% | 51% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
 >

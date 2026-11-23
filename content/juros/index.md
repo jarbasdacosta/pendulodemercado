@@ -1,10 +1,10 @@
 ---
 title: "📉 Juros: o que o mercado paga × o que os economistas esperam"
-date: 2026-11-20
+date: 2026-11-23
 pregao: 2026-11-19
 ---
 
-*Curva da B3 de 19/11/2026 · Focus de 13/11/2026 · atualizado em 20/11/2026 19:05*
+*Curva da B3 de 19/11/2026 · Focus de 19/11/2026 · atualizado em 23/11/2026 19:04*
 
 
 <!-- NOTAS-INICIO -->
@@ -45,8 +45,8 @@ diferença e mostra onde ela está maior.
 
 | Ano | Mercado (DI a termo) | Focus mediana 30d | Focus média 30d | Focus mediana 5du | Focus média 5du | Mercado − mediana | Reuniões |
 |---|---|---|---|---|---|---|---|
-| **2027** | 14,96% | 13,44% | 13,28% | 13,56% | 13,47% | +1,52 p.p. | 8 |
-| **2028** | 15,84% | 11,93% | 11,99% | 12,14% | 12,28% | +3,91 p.p. | 7 |
+| **2027** | 14,96% | 13,47% | 13,36% | 13,56% | 13,48% | +1,49 p.p. | 8 |
+| **2028** | 15,84% | 12,09% | 12,08% | 12,21% | 12,20% | +3,75 p.p. | 7 |
 | **2029** | 15,77% | — | — | — | — | — | 0 |
 | **2030** | 15,57% | — | — | — | — | — | 0 |
 | **2031** | 15,64% | — | — | — | — | — | 0 |
@@ -63,9 +63,9 @@ diferença e mostra onde ela está maior.
 *O Focus projeta Selic por reunião só até 2028 — nos anos seguintes (2029, 2030, 2031, 2032, 2033, 2034, 2035, 2036, 2037, 2038, 2039, 2040) resta o que o mercado paga, sem consenso para comparar. A taxa a termo deles continua informando: é a média de CDI que o mercado aceita para aquele ano.*
 *As duas bases do Focus: a de **30 dias** é a que a imprensa divulga; a de **5 dias úteis** usa só as respostas mais recentes e vira antes. Quando as duas se afastam, o consenso está mudando de ideia — e a de 5 dias é a que conta primeiro.*
 
-**2027**: mercado em **14,96%** contra 13,44% do consenso, **1,52 p.p. acima** — prêmio relevante: o mercado está cobrando caro para aceitar o cenário do consenso.
+**2027**: mercado em **14,96%** contra 13,47% do consenso, **1,49 p.p. acima** — prêmio modesto, dentro do que costuma aparecer em ano próximo, onde sobra pouco a descobrir.
 
-**2028**: mercado em **15,84%** contra 11,93% do consenso, **3,91 p.p. acima** — prêmio grande. O mercado precifica 133% do juro que os economistas projetam, e isso é outro cenário, não outro número. Diferença desse tamanho costuma falar mais de risco fiscal e cambial do que de política monetária.
+**2028**: mercado em **15,84%** contra 12,09% do consenso, **3,75 p.p. acima** — prêmio grande. O mercado precifica 131% do juro que os economistas projetam, e isso é outro cenário, não outro número. Diferença desse tamanho costuma falar mais de risco fiscal e cambial do que de política monetária.
 
 ## A curva de DI de hoje
 Cada linha é um vencimento. A taxa é a média de CDI que o mercado aceita de hoje até aquela data — não é a Selic prevista para aquele dia.
@@ -128,8 +128,8 @@ A Selic esperada em cada reunião do Copom, pela mediana das instituições.
 | Ano | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 |
 |---|---|---|---|---|---|---|---|---|
 | **2026** | — | — | — | — | — | — | — | 13,75% |
-| **2027** | 13,75% | 13,75% | 13,75% | 13,75% | 13,50% | 13,25% | 13,00% | 12,75% |
-| **2028** | 12,50% | 12,25% | 12,00% | 12,00% | 11,75% | 11,50% | 11,50% | — |
+| **2027** | 13,75% | 13,75% | 13,75% | 13,75% | 13,50% | 13,25% | 13,00% | 13,00% |
+| **2028** | 12,75% | 12,50% | 12,25% | 12,00% | 12,00% | 11,62% | 11,50% | — |
 
 
 ## Onde pode estar a vantagem
@@ -143,8 +143,8 @@ dizer que o mercado está pagando bem para quem aceitar o risco de ela não subi
 diferentes, e confundi-las é a forma mais rápida de perder dinheiro em juro.
 
 **Onde olhar primeiro:** **2028** é o ano com a maior diferença — o mercado
-precifica 15,84% contra 11,93% da mediana do Focus,
-3,91 p.p. de distância. É ali que o prêmio está mais gordo, e também onde o erro dói
+precifica 15,84% contra 12,09% da mediana do Focus,
+3,75 p.p. de distância. É ali que o prêmio está mais gordo, e também onde o erro dói
 mais se o consenso estiver certo e você estiver do lado contrário.
 
 **O que acompanhar, semana a semana.** Esta diferença muda toda segunda, quando sai o Focus,
@@ -178,7 +178,7 @@ inflação e o dólar têm a mesma estrutura, e os três números se movem junto
 
 *Fontes: curva de DI do **Boletim Diário do Mercado da B3** (43 vencimentos no pregão
 de 19/11/2026) e **API de Expectativas do Banco Central**
-(olinda.bcb.gov.br, licença ODbL), pesquisa de 13/11/2026.
+(olinda.bcb.gov.br, licença ODbL), pesquisa de 19/11/2026.
 Os dias úteis de cada vencimento são extraídos do próprio PU publicado pela B3
 (`du = 252·ln(100000/PU)/ln(1+taxa)`), e não de um calendário externo — o calendário local
 serve só para conferir.

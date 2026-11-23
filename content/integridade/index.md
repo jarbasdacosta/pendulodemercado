@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 18:31*
+*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 19:05*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -21,9 +21,9 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | nenhuma |
-| Páginas publicadas | 365 |
+| Páginas publicadas | 366 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 23/11 18:31 |
+| Página escrita mais recentemente | 23/11 19:05 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -122,20 +122,8 @@ Pregão mais recente declarado por alguma página: **23/11/2026**.
 |---|---|---:|
 | `diario/index.md` | 16/11 14:43 | 7.2 |
 | `intraday/index.md` | 16/11 14:43 | 7.2 |
-| `por-onde-comecar.md` | 16/11 15:20 | 7.1 |
+| `por-onde-comecar.md` | 16/11 15:20 | 7.2 |
 | `autopsias/index.md` | 19/11 14:39 | 4.2 |
-| `sinais-topo-fundo/index.md` | 20/11 19:00 | 3.0 |
-| `sinais-topo-fundo/todos-os-sinais.md` | 20/11 19:00 | 3.0 |
-| `sinais-topo-fundo/tutorial.md` | 20/11 19:00 | 3.0 |
-| `amplitude/index.md` | 20/11 19:03 | 3.0 |
-| `larry-williams/index.md` | 20/11 19:03 | 3.0 |
-| `posicionamento/derivativos.md` | 20/11 19:08 | 3.0 |
-| `posicionamento/aluguel.md` | 20/11 19:09 | 3.0 |
-| `tecnico/index.md` | 20/11 19:09 | 3.0 |
-| `adr/index.md` | 20/11 19:09 | 3.0 |
-| `agro/index.md` | 20/11 19:09 | 3.0 |
-| `juros/index.md` | 20/11 19:09 | 3.0 |
-| `posicionamento/index.md` | 20/11 19:09 | 3.0 |
 | `ofertas.md` | 21/11 07:15 | 2.5 |
 
 ### Página declarando data sem pregão
@@ -144,9 +132,7 @@ Medida diferente da tabela acima: ali o problema é mtime velho, aqui é data de
 
 | página | data declarada |
 |---|---|
-| `espectro/diario-x-intraday.md` | 22/11/2026 |
 | `espectro/grandes-tombos.md` | 22/11/2026 |
-| `espectro/zeta-no-teto.md` | 22/11/2026 |
 
 ### Página sem data de dado declarada
 

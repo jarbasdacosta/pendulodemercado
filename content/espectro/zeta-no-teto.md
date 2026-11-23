@@ -1,11 +1,11 @@
 ---
 title: "⚠ O ζ no teto da escala — o que realmente acontece depois"
-date: 2026-11-22
+date: 2026-11-23
 description: "O ζ Fundo no máximo não marca o fundo: marca o começo da queda. 26 anos, com 2008 e 2020 dentro"
 tags: [espectro]
 ---
 
-*Página refeita em 22/11/2026 20:56 · medição de 22/11/2026 às 20:56 · **dados de 03/01/2000 a 19/11/2026**.*
+*Página refeita em 23/11/2026 18:45 · medição de 23/11/2026 às 18:45 · **dados de 03/01/2000 a 23/11/2026**.*
 
 ## O que aconteceu em novembro
 
@@ -33,11 +33,11 @@ Diferente de outros estudos do site, **aqui os eventos de cauda estão dentro**:
 
 | horizonte | episódios no positivo | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
-| 5 pregões | **12 de 20** (60%) | 54% | +1,92% | +0,33% | 0,396 |
+| 5 pregões | **12 de 20** (60%) | 54% | +1,92% | +0,33% | 0,395 |
 | 20 pregões | **10 de 19** (53%) | 56% | +0,97% | +1,07% | 0,697 |
 | 60 pregões | **11 de 19** (58%) | 60% | +2,19% | +3,18% | 0,659 |
 | 120 pregões | **15 de 19** (79%) | 62% | +6,94% | +5,35% | 0,098 |
-| 250 pregões | **11 de 18** (61%) | 64% | +17,18% | +9,46% | 0,698 |
+| 250 pregões | **11 de 18** (61%) | 64% | +17,18% | +9,46% | 0,699 |
 
 A coluna *o normal seria* é a taxa base: de todas as janelas do período, quantas foram positivas. O Ibovespa sobe mais do que cai, então ela não é 50% — e comparar com 50% faria qualquer sinal parecer bom.
 
@@ -91,8 +91,8 @@ Foram testados cinco horizontes em dois lados: dez combinações. Corrigido por 
 | 30/06/2021 a 11/10/2021 | 72 | +0,2% | -0,9% | -10,7% | -17,0% | -22,0% |
 | 23/01/2024 a 24/01/2024 | 2 | -0,7% | +1,5% | -2,5% | +0,7% | -4,1% |
 | 07/01/2025 a 15/01/2025 | 7 | -1,5% | +3,3% | +8,2% | +14,8% | +33,7% |
-| 25/05/2026 a 24/06/2026 ⏳ | 22 | -2,9% | -3,4% | -6,2% | -2,8% | -6,2% |
-| 04/11/2026 a 09/11/2026 ⏳ | 4 | +2,7% | -0,7% | -0,7% | -0,7% | -0,7% |
+| 25/05/2026 a 24/06/2026 ⏳ | 22 | -2,9% | -3,4% | -6,2% | -2,8% | -7,1% |
+| 04/11/2026 a 09/11/2026 ⏳ | 4 | +2,7% | -1,6% | -1,6% | -1,6% | -1,6% |
 
 ⏳ = episódio recente, ainda sem os 250 pregões completos.
 
@@ -122,5 +122,5 @@ Foram testados cinco horizontes em dois lados: dez combinações. Corrigido por 
 - **Régua boba** (distância da média de 252 pregões) medida na mesma unidade, e também não se separa do acaso.
 - **Holm-Bonferroni** sobre as dez combinações testadas.
 
-Fonte: `extremo_zeta.py` sobre o ζ diário de 03/01/2000 a 19/11/2026. [O ζ diário e o intraday](diario-x-intraday) · [Grandes tombos](grandes-tombos) · [Espectro](./)
+Fonte: `extremo_zeta.py` sobre o ζ diário de 03/01/2000 a 23/11/2026. [O ζ diário e o intraday](diario-x-intraday) · [Grandes tombos](grandes-tombos) · [Espectro](./)
 
