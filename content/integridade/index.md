@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 17:45*
+*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 18:00*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -23,7 +23,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 365 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 23/11 17:45 |
+| Página escrita mais recentemente | 23/11 18:00 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -124,18 +124,18 @@ Pregão mais recente declarado por alguma página: **23/11/2026**.
 | `intraday/index.md` | 16/11 14:43 | 7.1 |
 | `por-onde-comecar.md` | 16/11 15:20 | 7.1 |
 | `autopsias/index.md` | 19/11 14:39 | 4.1 |
-| `sinais-topo-fundo/index.md` | 20/11 19:00 | 2.9 |
-| `sinais-topo-fundo/todos-os-sinais.md` | 20/11 19:00 | 2.9 |
-| `sinais-topo-fundo/tutorial.md` | 20/11 19:00 | 2.9 |
-| `amplitude/index.md` | 20/11 19:03 | 2.9 |
-| `larry-williams/index.md` | 20/11 19:03 | 2.9 |
-| `posicionamento/derivativos.md` | 20/11 19:08 | 2.9 |
-| `posicionamento/aluguel.md` | 20/11 19:09 | 2.9 |
-| `tecnico/index.md` | 20/11 19:09 | 2.9 |
-| `adr/index.md` | 20/11 19:09 | 2.9 |
-| `agro/index.md` | 20/11 19:09 | 2.9 |
-| `juros/index.md` | 20/11 19:09 | 2.9 |
-| `posicionamento/index.md` | 20/11 19:09 | 2.9 |
+| `sinais-topo-fundo/index.md` | 20/11 19:00 | 3.0 |
+| `sinais-topo-fundo/todos-os-sinais.md` | 20/11 19:00 | 3.0 |
+| `sinais-topo-fundo/tutorial.md` | 20/11 19:00 | 3.0 |
+| `amplitude/index.md` | 20/11 19:03 | 3.0 |
+| `larry-williams/index.md` | 20/11 19:03 | 3.0 |
+| `posicionamento/derivativos.md` | 20/11 19:08 | 3.0 |
+| `posicionamento/aluguel.md` | 20/11 19:09 | 3.0 |
+| `tecnico/index.md` | 20/11 19:09 | 3.0 |
+| `adr/index.md` | 20/11 19:09 | 3.0 |
+| `agro/index.md` | 20/11 19:09 | 3.0 |
+| `juros/index.md` | 20/11 19:09 | 3.0 |
+| `posicionamento/index.md` | 20/11 19:09 | 3.0 |
 | `ofertas.md` | 21/11 07:15 | 2.4 |
 
 ### Página declarando data sem pregão
