@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 10:30*
+*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 10:46*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -23,7 +23,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 364 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 23/11 10:30 |
+| Página escrita mais recentemente | 23/11 10:46 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -124,18 +124,18 @@ Pregão mais recente declarado por alguma página: **19/11/2026**.
 | `intraday/index.md` | 16/11 14:43 | 6.8 |
 | `por-onde-comecar.md` | 16/11 15:20 | 6.8 |
 | `autopsias/index.md` | 19/11 14:39 | 3.8 |
-| `sinais-topo-fundo/index.md` | 20/11 19:00 | 2.6 |
-| `sinais-topo-fundo/todos-os-sinais.md` | 20/11 19:00 | 2.6 |
-| `sinais-topo-fundo/tutorial.md` | 20/11 19:00 | 2.6 |
-| `amplitude/index.md` | 20/11 19:03 | 2.6 |
-| `larry-williams/index.md` | 20/11 19:03 | 2.6 |
-| `posicionamento/derivativos.md` | 20/11 19:08 | 2.6 |
-| `posicionamento/aluguel.md` | 20/11 19:09 | 2.6 |
-| `tecnico/index.md` | 20/11 19:09 | 2.6 |
-| `adr/index.md` | 20/11 19:09 | 2.6 |
-| `agro/index.md` | 20/11 19:09 | 2.6 |
-| `juros/index.md` | 20/11 19:09 | 2.6 |
-| `posicionamento/index.md` | 20/11 19:09 | 2.6 |
+| `sinais-topo-fundo/index.md` | 20/11 19:00 | 2.7 |
+| `sinais-topo-fundo/todos-os-sinais.md` | 20/11 19:00 | 2.7 |
+| `sinais-topo-fundo/tutorial.md` | 20/11 19:00 | 2.7 |
+| `amplitude/index.md` | 20/11 19:03 | 2.7 |
+| `larry-williams/index.md` | 20/11 19:03 | 2.7 |
+| `posicionamento/derivativos.md` | 20/11 19:08 | 2.7 |
+| `posicionamento/aluguel.md` | 20/11 19:09 | 2.7 |
+| `tecnico/index.md` | 20/11 19:09 | 2.7 |
+| `adr/index.md` | 20/11 19:09 | 2.7 |
+| `agro/index.md` | 20/11 19:09 | 2.7 |
+| `juros/index.md` | 20/11 19:09 | 2.7 |
+| `posicionamento/index.md` | 20/11 19:09 | 2.7 |
 | `inflacao-e-cambio/index.md` | 20/11 19:42 | 2.6 |
 | `ofertas.md` | 21/11 07:15 | 2.1 |
 
