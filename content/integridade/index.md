@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 11:15*
+*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 23/11/2026 11:30*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -23,7 +23,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 364 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 23/11 11:15 |
+| Página escrita mais recentemente | 23/11 11:30 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -136,7 +136,7 @@ Pregão mais recente declarado por alguma página: **19/11/2026**.
 | `agro/index.md` | 20/11 19:09 | 2.7 |
 | `juros/index.md` | 20/11 19:09 | 2.7 |
 | `posicionamento/index.md` | 20/11 19:09 | 2.7 |
-| `inflacao-e-cambio/index.md` | 20/11 19:42 | 2.6 |
+| `inflacao-e-cambio/index.md` | 20/11 19:42 | 2.7 |
 | `ofertas.md` | 21/11 07:15 | 2.2 |
 
 ### Página declarando data sem pregão
