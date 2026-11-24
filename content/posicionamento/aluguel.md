@@ -1,10 +1,10 @@
 ---
 title: "Aluguel de ações"
-date: 2026-11-23
-pregao: 2026-11-19
+date: 2026-11-24
+pregao: 2026-11-23
 ---
 
-*Dados da B3 de 19/11/2026 · atualizado em 23/11/2026 19:05*
+*Dados da B3 de 23/11/2026 · atualizado em 24/11/2026 06:26*
 
 Quem aposta que uma ação vai cair precisa vendê-la sem tê-la. Para isso, **aluga o papel de
 quem o tem**, vende no mercado, e mais adiante recompra para devolver. Se o preço caiu, ganha
@@ -19,11 +19,11 @@ posicionado para o que vem — e posição grande em papel sem liquidez é exata
 em que movimentos violentos acontecem.
 
 > [!abstract] O mercado de aluguel hoje
-> **1.031 papéis** com posição em aberto, somando **R\$ 181,7 bilhões**.
+> **1.018 papéis** com posição em aberto, somando **R\$ 184,4 bilhões**.
 > 
-> Desses, **330 são ações** (R\$ 140,5 bilhões) e 701 são fundos e BDRs. Os rankings abaixo usam só as ações — a razão está explicada na seção dos fundos.
+> Desses, **327 são ações** (R\$ 142,3 bilhões) e 691 são fundos e BDRs. Os rankings abaixo usam só as ações — a razão está explicada na seção dos fundos.
 > 
-> Histórico acumulado até agora: 25 pregões. As medidas de tendência (custo subindo, saldo crescendo) ficam mais confiáveis a cada dia que passa.
+> Histórico acumulado até agora: 26 pregões. As medidas de tendência (custo subindo, saldo crescendo) ficam mais confiáveis a cada dia que passa.
 
 
 ## As ações mais alugadas
@@ -32,26 +32,26 @@ Onde está o dinheiro apostado contra. Saldo é a posição **em aberto** — o 
 
 | # | Papel | Empresa | Saldo | Ações | Preço médio | Custo ao ano | No dia |
 |---|---|---|---|---|---|---|---|
-| 1 | **VALE3** | VALE S.A. | R\$ 9.968.702.695 | 159.084.749 | R\$ 62,66 | 0,04% | +3,9% |
-| 2 | **PETR4** | PETROLEO BRASILEIRO S.A. PET | R\$ 9.768.844.342 | 208.086.492 | R\$ 46,95 | 0,10% | -1,2% |
-| 3 | **BBAS3** | BCO BRASIL S.A. | R\$ 8.717.546.306 | 540.927.094 | R\$ 16,12 | 0,70% | -1,5% |
-| 4 | **ITUB4** | ITAU UNIBANCO HOLDING S.A. | R\$ 7.285.867.155 | 177.322.706 | R\$ 41,09 | 0,04% | -1,8% |
-| 5 | **PETR3** | PETROLEO BRASILEIRO S.A. PET | R\$ 6.794.550.194 | 126.670.333 | R\$ 53,64 | 3,84% | +1,8% |
-| 6 | **BBSE3** | BB SEGURIDADE PARTICIPAÇÕES  | R\$ 4.873.438.008 | 123.938.058 | R\$ 39,32 | 0,13% | -1,3% |
-| 7 | **WEGE3** | WEG S.A. | R\$ 4.153.156.619 | 84.111.976 | R\$ 49,38 | 0,15% | +9,6% |
-| 8 | **ABEV3** | AMBEV S.A. | R\$ 4.033.047.633 | 258.749.624 | R\$ 15,59 | 0,24% | -0,5% |
-| 9 | **BBDC4** | BCO BRADESCO S.A. | R\$ 3.410.461.516 | 228.746.303 | R\$ 14,91 | 0,06% | +0,9% |
-| 10 | **SUZB3** | SUZANO S.A. | R\$ 3.294.614.374 | 62.482.002 | R\$ 52,73 | 3,82% | -1,2% |
-| 11 | **AXIA3** | AXIA ENERGIA S.A. | R\$ 3.061.530.856 | 63.205.846 | R\$ 48,44 | 0,05% | -0,1% |
-| 12 | **SBSP3** | CIA SANEAMENTO BASICO EST SA | R\$ 2.874.157.323 | 107.531.496 | R\$ 26,73 | 0,26% | -2,5% |
-| 13 | **B3SA3** | B3 S.A. - BRASIL, BOLSA, BAL | R\$ 2.683.419.736 | 182.852.788 | R\$ 14,68 | 0,07% | +2,1% |
-| 14 | **ITUB3** | ITAU UNIBANCO HOLDING S.A. | R\$ 2.644.974.579 | 58.285.799 | R\$ 45,38 | 2,23% | +1,6% |
-| 15 | **CXSE3** | CAIXA SEGURIDADE PARTICIPAÇÕ | R\$ 2.438.094.458 | 115.743.510 | R\$ 21,06 | 0,17% | -0,8% |
-| 16 | **CSMG3** | CIA SANEAMENTO DE MINAS GERA | R\$ 2.385.534.765 | 44.725.854 | R\$ 53,34 | 0,46% | +0,4% |
-| 17 | **GGBR4** | GERDAU S.A. | R\$ 2.315.258.344 | 93.112.597 | R\$ 24,87 | 0,24% | +1,8% |
-| 18 | **CPLE3** | CIA PARANAENSE DE ENERGIA -  | R\$ 2.280.247.957 | 151.026.066 | R\$ 15,10 | 0,09% | +66,4% |
-| 19 | **ENEV3** | ENEVA S.A | R\$ 2.194.906.183 | 82.432.147 | R\$ 26,63 | 0,13% | +5,7% |
-| 20 | **EMBJ3** | EMBRAER S.A. | R\$ 2.167.439.874 | 20.661.681 | R\$ 104,90 | 0,14% | +2,6% |
+| 1 | **VALE3** | VALE S.A. | R\$ 10.178.271.950 | 162.841.893 | R\$ 62,50 | 0,04% | +2,4% |
+| 2 | **PETR4** | PETROLEO BRASILEIRO S.A. PET | R\$ 9.773.492.192 | 209.934.684 | R\$ 46,55 | 0,09% | +0,9% |
+| 3 | **BBAS3** | BCO BRASIL S.A. | R\$ 8.814.933.625 | 550.255.620 | R\$ 16,02 | 0,70% | +1,7% |
+| 4 | **ITUB4** | ITAU UNIBANCO HOLDING S.A. | R\$ 7.606.162.095 | 185.489.202 | R\$ 41,01 | 0,04% | +4,6% |
+| 5 | **PETR3** | PETROLEO BRASILEIRO S.A. PET | R\$ 7.118.024.468 | 134.064.991 | R\$ 53,09 | 3,79% | +5,8% |
+| 6 | **BBSE3** | BB SEGURIDADE PARTICIPAÇÕES  | R\$ 4.938.754.181 | 125.867.921 | R\$ 39,24 | 0,13% | +1,6% |
+| 7 | **WEGE3** | WEG S.A. | R\$ 4.225.329.988 | 85.383.546 | R\$ 49,49 | 0,15% | +1,5% |
+| 8 | **ABEV3** | AMBEV S.A. | R\$ 4.032.155.514 | 258.508.942 | R\$ 15,60 | 0,24% | -0,1% |
+| 9 | **BBDC4** | BCO BRADESCO S.A. | R\$ 3.491.590.883 | 235.702.441 | R\$ 14,81 | 0,06% | +3,0% |
+| 10 | **SUZB3** | SUZANO S.A. | R\$ 3.461.311.903 | 65.457.667 | R\$ 52,88 | 3,73% | +4,8% |
+| 11 | **SBSP3** | CIA SANEAMENTO BASICO EST SA | R\$ 2.879.539.183 | 107.577.145 | R\$ 26,77 | 0,21% | 0,0% |
+| 12 | **AXIA3** | AXIA ENERGIA S.A. | R\$ 2.860.045.557 | 59.169.145 | R\$ 48,34 | 0,05% | -6,4% |
+| 13 | **ITUB3** | ITAU UNIBANCO HOLDING S.A. | R\$ 2.657.821.460 | 58.611.154 | R\$ 45,35 | 2,25% | +0,6% |
+| 14 | **B3SA3** | B3 S.A. - BRASIL, BOLSA, BAL | R\$ 2.641.698.318 | 180.232.041 | R\$ 14,66 | 0,07% | -1,4% |
+| 15 | **CXSE3** | CAIXA SEGURIDADE PARTICIPAÇÕ | R\$ 2.435.436.929 | 115.830.749 | R\$ 21,03 | 0,10% | +0,1% |
+| 16 | **CSMG3** | CIA SANEAMENTO DE MINAS GERA | R\$ 2.332.497.218 | 43.617.020 | R\$ 53,48 | 1,34% | -2,5% |
+| 17 | **GGBR4** | GERDAU S.A. | R\$ 2.306.722.060 | 92.692.896 | R\$ 24,89 | 0,24% | -0,5% |
+| 18 | **EMBJ3** | EMBRAER S.A. | R\$ 2.281.736.932 | 21.662.697 | R\$ 105,33 | 0,13% | +4,8% |
+| 19 | **CPLE3** | CIA PARANAENSE DE ENERGIA -  | R\$ 2.253.374.062 | 148.856.229 | R\$ 15,14 | 0,10% | -1,4% |
+| 20 | **ENEV3** | ENEVA S.A | R\$ 2.185.773.873 | 82.144.251 | R\$ 26,61 | 0,13% | -0,3% |
 
 
 **Para que serve o preço médio.** Comparado com a cotação de hoje, ele diz de que lado está quem apostou contra: posição marcada **acima** do preço atual é posição que, em média, está no lucro — o papel caiu desde que foi alugado. Marcada **abaixo**, o papel subiu e os vendidos estão perdendo, que é a condição em que uma recompra forçada começa.
@@ -71,16 +71,16 @@ Por isso eles aparecem aqui, à parte e contados, em vez de misturados com as a�
 
 | Papel | Nome | Classe | Saldo | Custo ao ano | No dia |
 |---|---|---|---|---|---|
-| **BOVA11** | ISHARES IBOVESPA FUNDO DE  | Fundo | R\$ 22.818.653.455 | 0,18% | +2,4% |
-| **BOVV11** | IT NOW IBOVESPA FUNDO DE Í | Fundo | R\$ 4.993.801.633 | 0,20% | -2,1% |
-| **SMAL11** | ISHARES BMFBOVESPA SMALL C | Fundo | R\$ 2.214.276.146 | 4,95% | +0,2% |
-| **IVVB11** | ISHARES S&P 500 FUNDO DE Í | Fundo | R\$ 1.571.953.835 | 0,60% | -0,3% |
-| **NVDC34** | NVIDIA CORP | BDR | R\$ 844.639.592 | 16,11% | -6,4% |
-| **GOLD11** | TREND ETF LBMA OURO FDO. Í | Fundo | R\$ 678.870.508 | 0,09% | -0,8% |
-| **ROXO34** | NU HOLDINGS LTD. | BDR | R\$ 512.845.931 | 5,89% | -1,1% |
-| **GOGL34** | ALPHABET INC. | BDR | R\$ 507.907.745 | 0,18% | +0,4% |
-| **JBSS32** | JBS N.V. | BDR | R\$ 380.642.000 | 0,09% | +1,2% |
-| **M1TA34** | META PLATFORMS, INC. | BDR | R\$ 367.969.095 | 0,51% | -2,7% |
+| **BOVA11** | ISHARES IBOVESPA FUNDO DE  | Fundo | R\$ 23.194.283.259 | 0,47% | +2,0% |
+| **BOVV11** | IT NOW IBOVESPA FUNDO DE Í | Fundo | R\$ 5.039.373.712 | 0,20% | +0,9% |
+| **SMAL11** | ISHARES BMFBOVESPA SMALL C | Fundo | R\$ 2.468.264.442 | 5,56% | +11,5% |
+| **IVVB11** | ISHARES S&P 500 FUNDO DE Í | Fundo | R\$ 1.604.586.000 | 0,59% | +2,0% |
+| **NVDC34** | NVIDIA CORP | BDR | R\$ 813.574.229 | 15,99% | -3,3% |
+| **GOLD11** | TREND ETF LBMA OURO FDO. Í | Fundo | R\$ 666.585.259 | 0,08% | -1,8% |
+| **ROXO34** | NU HOLDINGS LTD. | BDR | R\$ 543.333.352 | 5,89% | +5,5% |
+| **GOGL34** | ALPHABET INC. | BDR | R\$ 514.423.140 | 0,46% | +1,1% |
+| **JBSS32** | JBS N.V. | BDR | R\$ 396.510.419 | 0,09% | +4,1% |
+| **M1TA34** | META PLATFORMS, INC. | BDR | R\$ 390.157.723 | 0,51% | +5,6% |
 
 A classe vem do **ISIN**, não do final do código. `SANB11` e `TAEE11` terminam em 11 e são ação (unit); `BOVA11` termina igual e é ETF. Só o ISIN distingue.
 
@@ -89,26 +89,26 @@ A taxa que o **tomador** paga, ao ano, para alugar o papel. Quanto mais caro, ma
 
 | # | Papel | Custo ao ano | Máxima do dia | Saldo | Dias p/ recomprar |
 |---|---|---|---|---|---|
-| 1 | **CMIN3** | **48,70%** | 70,00% | R\$ 574.988.292 | 15,2 |
-| 2 | **BHIA3** | **40,97%** | 75,00% | R\$ 43.962.620 | 7,5 |
-| 3 | **AZUL3** | **38,00%** | 38,00% | R\$ 607.663 | 0,2 |
-| 4 | **OPCT3** | **37,07%** | 37,07% | R\$ 9.823.470 | 0,6 |
-| 5 | **CSNA3** | **32,72%** | 100,00% | R\$ 546.821.945 | 5,6 |
-| 6 | **HBRE3** | **32,56%** | 32,56% | R\$ 8.583.453 | 2,3 |
-| 7 | **INTB3** | **30,99%** | 64,00% | R\$ 186.880.274 | 8,8 |
-| 8 | **BRKM5** | **23,76%** | 23,76% | R\$ 89.293.284 | 5,1 |
-| 9 | **YDUQ3** | **21,34%** | 21,47% | R\$ 235.857.734 | 5,4 |
-| 10 | **FRAS3** | **20,11%** | 21,02% | R\$ 115.553.328 | 15,9 |
-| 11 | **CYRE3** | **19,91%** | 21,30% | R\$ 715.396.564 | 3,6 |
-| 12 | **ORVR3** | **18,58%** | 19,21% | R\$ 375.257.196 | 5,6 |
-| 13 | **BEEF3** | **17,56%** | 100,00% | R\$ 468.507.713 | 5,9 |
-| 14 | **MBRF3** | **16,18%** | 30,00% | R\$ 1.851.769.200 | 19,1 |
-| 15 | **PFRM3** | **13,20%** | 13,20% | R\$ 1.113.993 | 0,8 |
-| 16 | **GGPS3** | **13,17%** | 13,30% | R\$ 373.636.326 | 4,7 |
-| 17 | **AZEV4** | **12,16%** | 12,16% | R\$ 1.843.513 | 0,9 |
-| 18 | **BMEB4** | **11,47%** | 11,47% | R\$ 1.839.941 | 1,1 |
-| 19 | **VIVA3** | **10,93%** | 11,11% | R\$ 252.361.022 | 3,4 |
-| 20 | **AZEV3** | **10,28%** | 10,28% | R\$ 4.170.052 | 0,7 |
+| 1 | **CSNA3** | **48,17%** | 67,00% | R\$ 538.108.327 | 5,1 |
+| 2 | **CMIN3** | **47,98%** | 48,70% | R\$ 570.699.997 | 15,1 |
+| 3 | **BHIA3** | **40,97%** | 54,67% | R\$ 43.694.960 | 7,5 |
+| 4 | **AZUL3** | **38,00%** | 38,00% | R\$ 563.256 | 0,2 |
+| 5 | **BEEF3** | **36,45%** | 100,00% | R\$ 491.570.831 | 6,1 |
+| 6 | **OPCT3** | **35,96%** | 37,07% | R\$ 11.364.922 | 0,7 |
+| 7 | **HBRE3** | **32,01%** | 32,56% | R\$ 5.132.412 | 1,5 |
+| 8 | **INTB3** | **30,45%** | 30,99% | R\$ 186.268.533 | 8,8 |
+| 9 | **PCAR3** | **24,55%** | 40,00% | R\$ 107.772.716 | 6,0 |
+| 10 | **BRKM5** | **23,76%** | 23,76% | R\$ 101.512.891 | 5,4 |
+| 11 | **MBRF3** | **20,21%** | 50,00% | R\$ 1.831.935.635 | 18,9 |
+| 12 | **YDUQ3** | **20,11%** | 21,34% | R\$ 207.778.905 | 4,8 |
+| 13 | **FRAS3** | **19,60%** | 25,00% | R\$ 118.356.633 | 16,7 |
+| 14 | **ORVR3** | **18,42%** | 18,58% | R\$ 367.310.673 | 5,2 |
+| 15 | **CYRE3** | **17,46%** | 19,91% | R\$ 751.226.787 | 3,8 |
+| 16 | **PFRM3** | **13,20%** | 13,20% | R\$ 1.255.826 | 0,8 |
+| 17 | **GGPS3** | **13,03%** | 13,17% | R\$ 364.862.491 | 5,2 |
+| 18 | **AZEV4** | **12,16%** | 12,16% | R\$ 1.798.630 | 0,9 |
+| 19 | **BMEB4** | **11,47%** | 11,47% | R\$ 1.730.274 | 1,2 |
+| 20 | **VIVA3** | **10,88%** | 15,00% | R\$ 254.010.550 | 3,4 |
 
 
 ## O relógio do squeeze
@@ -116,26 +116,26 @@ Quantos pregões os vendidos levariam para recomprar tudo, se fossem os únicos 
 
 | # | Papel | Dias p/ recomprar | Saldo | Volume diário | Custo ao ano | Classe mais líquida |
 |---|---|---|---|---|---|---|
-| 1 | **ITUB3** | **28,2** | R\$ 2.644.974.579 | R\$ 92.517.043 | 2,23% | ⚠ ITUB4 · 14× o volume |
-| 2 | **TAEE11** | **25,3** | R\$ 2.108.445.050 | R\$ 83.468.060 | 0,64% | — |
-| 3 | **CMIG3** | **25,0** | R\$ 55.080.062 | R\$ 2.182.749 | 0,41% | ⚠ CMIG4 · 69× o volume |
-| 4 | **ISAE4** | **21,7** | R\$ 1.689.392.127 | R\$ 84.954.816 | 0,18% | — |
-| 5 | **UNIP6** | **20,6** | R\$ 303.449.805 | R\$ 15.356.754 | 0,09% | — |
-| 6 | **MBRF3** | **19,1** | R\$ 1.851.769.200 | R\$ 99.779.012 | 16,18% | — |
-| 7 | **BBSE3** | **17,1** | R\$ 4.873.438.008 | R\$ 310.700.384 | 0,13% | — |
-| 8 | **LEVE3** | **16,8** | R\$ 284.384.444 | R\$ 17.088.232 | 0,06% | — |
-| 9 | **CXSE3** | **16,5** | R\$ 2.438.094.458 | R\$ 149.119.807 | 0,17% | — |
-| 10 | **FRAS3** | **15,9** | R\$ 115.553.328 | R\$ 7.375.258 | 20,11% | — |
-| 11 | **CMIN3** | **15,2** | R\$ 574.988.292 | R\$ 39.032.506 | 48,70% | — |
-| 12 | **AGRO3** | **14,4** | R\$ 59.847.721 | R\$ 4.293.467 | 0,09% | — |
-| 13 | **BMGB4** | **12,6** | R\$ 129.827.726 | R\$ 10.064.079 | 0,10% | — |
-| 14 | **SLCE3** | **12,4** | R\$ 521.525.520 | R\$ 43.710.816 | 0,13% | — |
-| 15 | **ABCB4** | **12,3** | R\$ 212.014.165 | R\$ 17.357.741 | 0,02% | — |
-| 16 | **KEPL3** | **11,6** | R\$ 144.141.542 | R\$ 12.963.995 | 0,08% | — |
-| 17 | **PETR3** | **10,6** | R\$ 6.794.550.194 | R\$ 654.738.253 | 3,84% | ⚠ PETR4 · 4× o volume |
-| 18 | **TTEN3** | **10,6** | R\$ 288.127.529 | R\$ 26.788.618 | 0,47% | — |
-| 19 | **SOJA3** | **10,4** | R\$ 57.873.801 | R\$ 5.091.640 | 0,59% | — |
-| 20 | **AURE3** | **10,3** | R\$ 597.466.715 | R\$ 66.299.222 | 0,06% | — |
+| 1 | **ITUB3** | **28,3** | R\$ 2.657.821.460 | R\$ 92.517.043 | 2,25% | ⚠ ITUB4 · 13× o volume |
+| 2 | **TAEE11** | **25,0** | R\$ 2.114.895.494 | R\$ 83.468.060 | 0,63% | — |
+| 3 | **CMIG3** | **24,9** | R\$ 55.088.546 | R\$ 2.182.749 | 0,39% | ⚠ CMIG4 · 69× o volume |
+| 4 | **UNIP6** | **19,3** | R\$ 303.635.853 | R\$ 15.015.837 | 0,09% | — |
+| 5 | **MBRF3** | **18,9** | R\$ 1.831.935.635 | R\$ 99.779.012 | 20,21% | — |
+| 6 | **LEVE3** | **18,4** | R\$ 317.474.837 | R\$ 17.452.978 | 0,05% | — |
+| 7 | **CXSE3** | **17,9** | R\$ 2.435.436.929 | R\$ 135.433.621 | 0,10% | — |
+| 8 | **ISAE4** | **17,7** | R\$ 1.545.723.706 | R\$ 86.186.161 | 0,13% | — |
+| 9 | **BBSE3** | **17,4** | R\$ 4.938.754.181 | R\$ 310.700.384 | 0,13% | — |
+| 10 | **FRAS3** | **16,7** | R\$ 118.356.633 | R\$ 7.197.587 | 19,60% | — |
+| 11 | **CMIN3** | **15,1** | R\$ 570.699.997 | R\$ 39.032.506 | 47,98% | — |
+| 12 | **ABCB4** | **13,1** | R\$ 226.083.199 | R\$ 19.597.132 | 0,11% | — |
+| 13 | **AGRO3** | **13,0** | R\$ 60.038.227 | R\$ 4.353.678 | 0,13% | — |
+| 14 | **BMGB4** | **12,6** | R\$ 129.877.007 | R\$ 10.064.079 | 0,09% | — |
+| 15 | **SLCE3** | **12,4** | R\$ 523.507.153 | R\$ 43.710.816 | 0,12% | — |
+| 16 | **KEPL3** | **12,1** | R\$ 145.210.386 | R\$ 12.557.064 | 0,08% | — |
+| 17 | **RECV3** | **11,4** | R\$ 261.726.335 | R\$ 27.563.479 | 1,49% | — |
+| 18 | **PETR3** | **11,3** | R\$ 7.118.024.468 | R\$ 654.738.253 | 3,79% | ⚠ PETR4 · 4× o volume |
+| 19 | **SOJA3** | **10,7** | R\$ 59.045.402 | R\$ 5.004.537 | 0,57% | — |
+| 20 | **TTEN3** | **10,4** | R\$ 284.472.868 | R\$ 29.396.322 | 0,46% | — |
 
 
 > [!warning] Atenção à coluna da direita
@@ -159,55 +159,55 @@ Variação do saldo em aberto no último pregão. **Aumento** é gente nova apos
 
 | Papel | No dia | Na semana | Saldo | Custo ao ano |
 |---|---|---|---|---|
-| **PNVL3** | +145,3% | +116,6% | R\$ 27.758.925 | 0,04% |
-| **CPLE3** | +66,4% | +80,8% | R\$ 2.280.247.957 | 0,09% |
-| **HBRE3** | +44,9% | +29,4% | R\$ 8.583.453 | 32,56% |
-| **VTRU3** | +29,4% | +45,3% | R\$ 20.466.256 | 0,12% |
-| **LOGG3** | +22,8% | +28,7% | R\$ 143.218.300 | 0,14% |
-| **HYPE3** | +16,7% | +17,3% | R\$ 137.628.783 | 0,06% |
-| **WIZC3** | +11,7% | +3,2% | R\$ 6.790.210 | 0,05% |
-| **OPCT3** | +10,4% | +131,8% | R\$ 9.823.470 | 37,07% |
-| **RIAA3** | +9,8% | -4,4% | R\$ 65.268.720 | 0,15% |
-| **ASAI3** | +9,6% | +5,9% | R\$ 593.612.779 | 0,18% |
-| **WEGE3** | +9,6% | +6,6% | R\$ 4.153.156.619 | 0,15% |
-| **PINE4** | +9,3% | +15,3% | R\$ 75.117.159 | 0,84% |
+| **PGMN3** | +38,1% | +58,9% | R\$ 25.262.109 | 4,92% |
+| **ITSA4** | +18,6% | +20,0% | R\$ 973.248.982 | 0,03% |
+| **HAPV3** | +17,2% | +10,5% | R\$ 170.087.008 | 5,34% |
+| **OPCT3** | +16,4% | +78,7% | R\$ 11.364.922 | 35,96% |
+| **BRKM5** | +16,3% | +25,0% | R\$ 101.512.891 | 23,76% |
+| **RENT3** | +16,2% | +29,5% | R\$ 1.390.746.550 | 0,10% |
+| **KLBN4** | +16,0% | +2,8% | R\$ 30.107.243 | 0,01% |
+| **ROMI3** | +12,7% | +3,7% | R\$ 5.679.435 | 0,02% |
+| **LEVE3** | +12,1% | +2,3% | R\$ 317.474.837 | 0,05% |
+| **SMFT3** | +11,8% | -4,5% | R\$ 1.245.707.087 | 0,58% |
+| **CAML3** | +11,8% | +11,3% | R\$ 26.303.029 | 0,15% |
+| **ANIM3** | +11,0% | +19,1% | R\$ 64.547.542 | 1,44% |
 
 
 ### Diminuiu
 
 | Papel | No dia | Na semana | Saldo | Custo ao ano |
 |---|---|---|---|---|
-| **TAEE4** | -19,3% | -18,0% | R\$ 5.409.903 | 0,12% |
-| **SAPR4** | -14,2% | -8,1% | R\$ 17.269.630 | 0,07% |
-| **ITSA3** | -12,8% | +2,7% | R\$ 11.431.619 | 0,04% |
-| **DESK3** | -11,8% | -17,0% | R\$ 14.326.943 | 0,05% |
-| **MLAS3** | -9,5% | -7,5% | R\$ 10.206.513 | 0,27% |
-| **SANB3** | -8,4% | +222,5% | R\$ 7.089.689 | 0,12% |
-| **PASS3** | -8,2% | +51,9% | R\$ 396.337.693 | 0,81% |
-| **TAEE3** | -8,1% | -1,9% | R\$ 6.407.174 | 0,10% |
-| **CBAV3** | -7,4% | -13,7% | R\$ 219.652.605 | 0,06% |
-| **SLCE3** | -6,7% | -5,2% | R\$ 521.525.520 | 0,13% |
-| **MILS3** | -5,9% | -25,2% | R\$ 46.848.280 | 0,04% |
-| **ORVR3** | -5,4% | -11,6% | R\$ 375.257.196 | 18,58% |
+| **HBRE3** | -35,8% | -15,6% | R\$ 5.132.412 | 32,01% |
+| **VTRU3** | -20,4% | +2,6% | R\$ 16.779.935 | 0,11% |
+| **SBFG3** | -13,6% | +2,5% | R\$ 69.320.516 | 3,53% |
+| **YDUQ3** | -11,6% | -20,4% | R\$ 207.778.905 | 20,11% |
+| **TEND3** | -9,8% | -3,3% | R\$ 286.899.159 | 0,26% |
+| **ALPA4** | -8,8% | -7,4% | R\$ 97.838.358 | 0,91% |
+| **ISAE4** | -8,6% | -9,3% | R\$ 1.545.723.706 | 0,13% |
+| **AZZA3** | -8,2% | -8,3% | R\$ 311.493.254 | 9,07% |
+| **UGPA3** | -7,4% | -8,5% | R\$ 1.446.300.922 | 0,36% |
+| **SAPR4** | -7,2% | -17,6% | R\$ 16.037.772 | 0,07% |
+| **AXIA3** | -6,4% | -14,2% | R\$ 2.860.045.557 | 0,05% |
+| **MLAS3** | -6,2% | -16,8% | R\$ 9.615.510 | 0,27% |
 
 
 ## O custo está subindo
-Variação da taxa do tomador ao longo dos 25 pregões guardados. Custo subindo com saldo alto é o sinal mais interessante da página: significa que apostar contra está ficando caro, e caro costuma ser sinônimo de escasso.
+Variação da taxa do tomador ao longo dos 26 pregões guardados. Custo subindo com saldo alto é o sinal mais interessante da página: significa que apostar contra está ficando caro, e caro costuma ser sinônimo de escasso.
 
 | Papel | Custo agora | Variação no período | Saldo | Dias p/ recomprar |
 |---|---|---|---|---|
-| **INTB3** | 30,99% | +30890,0% | R\$ 186.880.274 | 8,8 |
-| **HBRE3** | 32,56% | +23157,1% | R\$ 8.583.453 | 2,3 |
-| **CEAB3** | 6,72% | +13340,0% | R\$ 200.731.592 | 1,8 |
-| **EZTC3** | 3,88% | +7660,0% | R\$ 258.842.377 | 4,8 |
-| **SUZB3** | 3,82% | +7540,0% | R\$ 3.294.614.374 | 6,7 |
-| **PETR3** | 3,84% | +6300,0% | R\$ 6.794.550.194 | 10,6 |
-| **TOTS3** | 10,13% | +5231,6% | R\$ 945.862.994 | 5,2 |
-| **SBFG3** | 3,54% | +4957,1% | R\$ 81.448.326 | 2,9 |
-| **BBAS3** | 0,70% | +2233,3% | R\$ 8.717.546.306 | 8,8 |
-| **PLPL3** | 7,85% | +1570,2% | R\$ 68.218.402 | 3,0 |
-| **BRAP4** | 0,92% | +1433,3% | R\$ 573.646.310 | 5,3 |
-| **CYRE4** | 0,42% | +1300,0% | R\$ 62.784.087 | 7,5 |
+| **INTB3** | 30,45% | +30350,0% | R\$ 186.268.533 | 8,8 |
+| **HBRE3** | 32,01% | +22764,3% | R\$ 5.132.412 | 1,5 |
+| **CEAB3** | 6,70% | +13300,0% | R\$ 208.916.349 | 1,8 |
+| **EZTC3** | 3,87% | +7640,0% | R\$ 276.364.015 | 5,1 |
+| **SUZB3** | 3,73% | +7360,0% | R\$ 3.461.311.903 | 6,9 |
+| **PETR3** | 3,79% | +6216,7% | R\$ 7.118.024.468 | 11,3 |
+| **TOTS3** | 9,99% | +5157,9% | R\$ 954.106.799 | 5,3 |
+| **SBFG3** | 3,53% | +4942,9% | R\$ 69.320.516 | 2,4 |
+| **BBAS3** | 0,70% | +2233,3% | R\$ 8.814.933.625 | 9,0 |
+| **PLPL3** | 7,79% | +1557,4% | R\$ 68.796.786 | 3,0 |
+| **BRAP4** | 0,92% | +1433,3% | R\$ 616.535.486 | 5,7 |
+| **CYRE4** | 0,40% | +1233,3% | R\$ 62.815.500 | 7,5 |
 
 
 ## Como usar esta página
@@ -247,8 +247,8 @@ certo para quem a montou. Taxa alta não é sinal de alta nem de baixa — é pr
 É o **relógio do carrego**. Quem está vendido paga a taxa todo dia que a posição fica aberta, e
 isso é conta fechada, não opinião.
 
-Hoje o papel mais caro de alugar é a **CMIN3**, a 48,70% ao ano.
-Quem está vendido nela perde cerca de **3,36% ao mês** só
+Hoje o papel mais caro de alugar é a **CSNA3**, a 48,17% ao ano.
+Quem está vendido nela perde cerca de **3,33% ao mês** só
 carregando a posição, antes de o preço andar um centavo. Para empatar, o papel precisa cair
 mais do que isso no mesmo prazo — e esse é um piso que a tabela entrega pronto, sem precisar
 de modelo. A conta é a taxa anual capitalizada em 21 dias úteis sobre base 252, que é como a
@@ -259,7 +259,7 @@ está do outro lado não pode esperar indefinidamente, e a pressa de quem paga c
 informação sobre o comportamento futuro dele, não sobre o preço justo do papel.
 
 O segundo número que não precisa de teste é a **largura da saída**. A
-**ITUB3** tem 28,2 pregões de volume em posição
+**ITUB3** tem 28,3 pregões de volume em posição
 vendida: se os vendidos precisarem recomprar ao mesmo tempo, é esse o tamanho da fila. Não diz
 que vão precisar — diz quanto custa se precisarem, e isso é o que se usa para dimensionar.
 
@@ -269,7 +269,7 @@ A combinação que parece promissora é **saldo grande + custo subindo + saída 
 juntos descrevem gente presa pagando caro num papel difícil de recomprar. É a condição que
 precede squeeze nos livros — e livro não é evidência.
 
-**Não vou fingir que sei.** São 25 pregões de histórico. Para responder se essa
+**Não vou fingir que sei.** São 26 pregões de histórico. Para responder se essa
 combinação antecipa alta, é preciso medir o retorno depois dela contra o retorno de um dia
 qualquer, com casos suficientes para a diferença significar algo. O arquivo cresce todo dia
 útil; em alguns meses a pergunta fica respondível. Até lá, é hipótese, e está escrito que é.
@@ -296,9 +296,9 @@ no ADR: o spread inteiro, cobrado na hora de sair.
 > é de quem opera, e o risco também.
 
 > [!abstract] Confira a conta você mesmo
-> <a href="aluguel.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar aluguel.xlsx</a> — os 1.031 papéis com todas as medidas, mais a série histórica de saldo e taxa.
+> <a href="aluguel.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar aluguel.xlsx</a> — os 1.018 papéis com todas as medidas, mais a série histórica de saldo e taxa.
 > 
 > Fonte: Boletim Diário do Mercado da B3, tabelas de empréstimo de ativos e de negócios consolidados.
 > 
-> **Duas janelas, de propósito.** Saldo e taxa usam os **25 pregões** guardados, que é o histórico que a planilha entrega. A mediana de volume usa os **21 últimos**, porque mais do que isso não melhora a mediana e o arquivo de negócios é o mais pesado do acervo. A B3 só mantém os últimos 21 pregões no ar; o que passa disso é o que já foi arquivado aqui.
+> **Duas janelas, de propósito.** Saldo e taxa usam os **26 pregões** guardados, que é o histórico que a planilha entrega. A mediana de volume usa os **21 últimos**, porque mais do que isso não melhora a mediana e o arquivo de negócios é o mais pesado do acervo. A B3 só mantém os últimos 21 pregões no ar; o que passa disso é o que já foi arquivado aqui.
 

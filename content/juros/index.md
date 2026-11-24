@@ -1,10 +1,10 @@
 ---
 title: "📉 Juros: o que o mercado paga × o que os economistas esperam"
-date: 2026-11-23
-pregao: 2026-11-19
+date: 2026-11-24
+pregao: 2026-11-23
 ---
 
-*Curva da B3 de 19/11/2026 · Focus de 19/11/2026 · atualizado em 23/11/2026 19:04*
+*Curva da B3 de 23/11/2026 · Focus de 19/11/2026 · atualizado em 24/11/2026 06:26*
 
 
 <!-- NOTAS-INICIO -->
@@ -45,80 +45,80 @@ diferença e mostra onde ela está maior.
 
 | Ano | Mercado (DI a termo) | Focus mediana 30d | Focus média 30d | Focus mediana 5du | Focus média 5du | Mercado − mediana | Reuniões |
 |---|---|---|---|---|---|---|---|
-| **2027** | 14,96% | 13,47% | 13,36% | 13,56% | 13,48% | +1,49 p.p. | 8 |
-| **2028** | 15,84% | 12,09% | 12,08% | 12,21% | 12,20% | +3,75 p.p. | 7 |
-| **2029** | 15,77% | — | — | — | — | — | 0 |
-| **2030** | 15,57% | — | — | — | — | — | 0 |
-| **2031** | 15,64% | — | — | — | — | — | 0 |
-| **2032** | 15,60% | — | — | — | — | — | 0 |
-| **2033** | 15,47% | — | — | — | — | — | 0 |
-| **2034** | 15,36% | — | — | — | — | — | 0 |
-| **2035** | 15,03% | — | — | — | — | — | 0 |
-| **2036** | 15,35% | — | — | — | — | — | 0 |
-| **2037** | 15,05% | — | — | — | — | — | 0 |
-| **2038** | 15,04% | — | — | — | — | — | 0 |
-| **2039** | 15,14% | — | — | — | — | — | 0 |
-| **2040** | 15,23% | — | — | — | — | — | 0 |
+| **2027** | 14,74% | 13,47% | 13,36% | 13,56% | 13,48% | +1,27 p.p. | 8 |
+| **2028** | 15,57% | 12,09% | 12,08% | 12,21% | 12,20% | +3,48 p.p. | 7 |
+| **2029** | 15,55% | — | — | — | — | — | 0 |
+| **2030** | 15,47% | — | — | — | — | — | 0 |
+| **2031** | 15,56% | — | — | — | — | — | 0 |
+| **2032** | 15,52% | — | — | — | — | — | 0 |
+| **2033** | 15,35% | — | — | — | — | — | 0 |
+| **2034** | 15,19% | — | — | — | — | — | 0 |
+| **2035** | 14,93% | — | — | — | — | — | 0 |
+| **2036** | 15,26% | — | — | — | — | — | 0 |
+| **2037** | 14,99% | — | — | — | — | — | 0 |
+| **2038** | 14,91% | — | — | — | — | — | 0 |
+| **2039** | 15,00% | — | — | — | — | — | 0 |
+| **2040** | 15,09% | — | — | — | — | — | 0 |
 
 *O Focus projeta Selic por reunião só até 2028 — nos anos seguintes (2029, 2030, 2031, 2032, 2033, 2034, 2035, 2036, 2037, 2038, 2039, 2040) resta o que o mercado paga, sem consenso para comparar. A taxa a termo deles continua informando: é a média de CDI que o mercado aceita para aquele ano.*
 *As duas bases do Focus: a de **30 dias** é a que a imprensa divulga; a de **5 dias úteis** usa só as respostas mais recentes e vira antes. Quando as duas se afastam, o consenso está mudando de ideia — e a de 5 dias é a que conta primeiro.*
 
-**2027**: mercado em **14,96%** contra 13,47% do consenso, **1,49 p.p. acima** — prêmio modesto, dentro do que costuma aparecer em ano próximo, onde sobra pouco a descobrir.
+**2027**: mercado em **14,74%** contra 13,47% do consenso, **1,27 p.p. acima** — prêmio modesto, dentro do que costuma aparecer em ano próximo, onde sobra pouco a descobrir.
 
-**2028**: mercado em **15,84%** contra 12,09% do consenso, **3,75 p.p. acima** — prêmio grande. O mercado precifica 131% do juro que os economistas projetam, e isso é outro cenário, não outro número. Diferença desse tamanho costuma falar mais de risco fiscal e cambial do que de política monetária.
+**2028**: mercado em **15,57%** contra 12,09% do consenso, **3,48 p.p. acima** — prêmio grande. O mercado precifica 129% do juro que os economistas projetam, e isso é outro cenário, não outro número. Diferença desse tamanho costuma falar mais de risco fiscal e cambial do que de política monetária.
 
 ## A curva de DI de hoje
 Cada linha é um vencimento. A taxa é a média de CDI que o mercado aceita de hoje até aquela data — não é a Selic prevista para aquele dia.
 
 | Vencimento | Contrato | Dias úteis | Taxa (% a.a.) | PU (ajuste) | PU no dia (p.b.) | Em aberto |
 |---|---|---|---|---|---|---|
-| 01/12/2026 | DI1Z26 | 7 | 13,646% | 99.645,30 | +0,0 | 2.103.460 |
-| 04/01/2027 | DI1F27 | 29 | 13,724% | 98.530,93 | -0,3 | 8.224.310 |
-| 01/02/2027 | DI1G27 | 49 | 13,775% | 97.521,87 | -0,7 | 563.442 |
-| 01/03/2027 | DI1H27 | 67 | 13,897% | 96.599,51 | -2,2 | 560.123 |
-| 01/04/2027 | DI1J27 | 89 | 14,018% | 95.472,53 | -4,6 | 2.642.971 |
-| 03/05/2027 | DI1K27 | 110 | 14,126% | 94.395,47 | -6,9 | 381.785 |
-| 01/06/2027 | DI1M27 | 130 | 14,252% | 93.357,59 | -9,8 | 206.069 |
-| 01/07/2027 | DI1N27 | 152 | 14,378% | 92.216,64 | -13,1 | 3.103.131 |
-| 02/08/2027 | DI1Q27 | 174 | 14,470% | 91.090,86 | -16,0 | 132.726 |
-| 01/09/2027 | DI1U27 | 196 | 14,555% | 89.970,51 | -19,0 | 120.883 |
-| 01/10/2027 | DI1V27 | 217 | 14,644% | 88.897,98 | -22,2 | 1.324.479 |
-| 01/11/2027 | DI1X27 | 237 | 14,689% | 87.906,54 | -23,4 | 141.750 |
-| 01/12/2027 | DI1Z27 | 257 | 14,760% | 86.900,67 | -27,4 | 136.968 |
-| 03/01/2028 | DI1F28 | 280 | 14,828% | 85.759,10 | -30,4 | 5.200.264 |
-| 03/04/2028 | DI1J28 | 343 | 14,983% | 82.693,41 | -38,0 | 636.276 |
-| 03/07/2028 | DI1N28 | 404 | 15,124% | 79.788,52 | -48,6 | 972.834 |
-| 02/10/2028 | DI1V28 | 468 | 15,223% | 76.862,23 | -58,5 | 683.138 |
-| 01/11/2028 | DI1X28 | 489 | 15,237% | 75.942,05 | -59,6 | 45.676 |
-| 01/12/2028 | DI1Z28 | 508 | 15,263% | 75.100,18 | -62,1 | 46.065 |
-| 02/01/2029 | DI1F29 | 528 | 15,300% | 74.208,37 | -66,7 | 3.814.830 |
-| 02/04/2029 | DI1J29 | 589 | 15,366% | 71.598,74 | -73,1 | 226.561 |
-| 02/07/2029 | DI1N29 | 652 | 15,415% | 69.009,48 | -80,2 | 2.420.096 |
-| 01/10/2029 | DI1V29 | 716 | 15,434% | 66.510,93 | -86,1 | 158.534 |
-| 01/11/2029 | DI1X29 | 738 | 15,433% | 65.684,39 | -88,3 | 16.382 ⚠️ |
-| 03/12/2029 | DI1Z29 | 757 | 15,440% | 64.965,62 | -90,0 | 16.419 ⚠️ |
-| 02/01/2030 | DI1F30 | 777 | 15,452% | 64.208,94 | -91,9 | 1.876.081 |
-| 01/04/2030 | DI1J30 | 838 | 15,452% | 62.014,09 | -96,5 | 101.283 |
-| 01/07/2030 | DI1N30 | 900 | 15,465% | 59.836,06 | -100,9 | 152.138 |
-| 01/10/2030 | DI1V30 | 966 | 15,470% | 57.614,91 | -107,3 | 68.933 |
-| 02/01/2031 | DI1F31 | 1.029 | 15,481% | 55.558,26 | -112,8 | 2.906.299 |
-| 01/04/2031 | DI1J31 | 1.090 | 15,490% | 53.637,77 | -118,8 | 91.799 |
-| 01/07/2031 | DI1N31 | 1.151 | 15,493% | 51.794,00 | -120,3 | 73.521 |
-| 01/10/2031 | DI1V31 | 1.217 | 15,489% | 49.884,83 | -121,8 | 40.039 ⚠️ |
-| 02/01/2032 | DI1F32 | 1.281 | 15,513% | 48.042,59 | -126,0 | 1.349.496 |
-| 03/01/2033 | DI1F33 | 1.533 | 15,527% | 41.559,99 | -140,8 | 782.917 |
-| 02/01/2034 | DI1F34 | 1.784 | 15,519% | 36.012,52 | -157,7 | 347.423 |
-| 02/01/2035 | DI1F35 | 2.032 | 15,500% | 31.287,49 | -172,7 | 789.815 |
-| 02/01/2036 | DI1F36 | 2.281 | 15,449% | 27.243,94 | -190,7 | 117.984 |
-| 02/01/2037 | DI1F37 | 2.534 | 15,439% | 23.605,35 | -213,4 | 352.111 |
-| 04/01/2038 | DI1F38 | 2.783 | 15,404% | 20.552,02 | -224,0 | 55.082 |
-| 03/01/2039 | DI1F39 | 3.034 | 15,374% | 17.874,75 | -244,0 | 45.800 |
-| 02/01/2040 | DI1F40 | 3.285 | 15,356% | 15.533,23 | -264,0 | 48.734 |
-| 02/01/2041 | DI1F41 | 3.535 | 15,347% | 13.495,51 | -283,9 | 24.622 ⚠️ |
+| 01/12/2026 | DI1Z26 | 6 | 13,647% | 99.695,88 | -0,0 | 2.085.946 |
+| 04/01/2027 | DI1F27 | 28 | 13,702% | 98.583,34 | +0,2 | 7.954.370 |
+| 01/02/2027 | DI1G27 | 48 | 13,734% | 97.578,52 | +0,7 | 531.217 |
+| 01/03/2027 | DI1H27 | 66 | 13,843% | 96.661,41 | +1,3 | 576.380 |
+| 01/04/2027 | DI1J27 | 88 | 13,942% | 95.544,49 | +2,5 | 2.629.771 |
+| 03/05/2027 | DI1K27 | 109 | 14,035% | 94.477,57 | +3,6 | 384.275 |
+| 01/06/2027 | DI1M27 | 129 | 14,136% | 93.455,54 | +5,4 | 208.922 |
+| 01/07/2027 | DI1N27 | 151 | 14,246% | 92.329,67 | +7,2 | 3.098.595 |
+| 02/08/2027 | DI1Q27 | 173 | 14,325% | 91.219,06 | +9,0 | 134.806 |
+| 01/09/2027 | DI1U27 | 195 | 14,399% | 90.114,01 | +10,9 | 126.668 |
+| 01/10/2027 | DI1V27 | 216 | 14,473% | 89.060,08 | +13,1 | 1.325.682 |
+| 01/11/2027 | DI1X27 | 236 | 14,528% | 88.070,15 | +13,5 | 138.856 |
+| 01/12/2027 | DI1Z27 | 256 | 14,575% | 87.090,78 | +16,8 | 133.669 |
+| 03/01/2028 | DI1F28 | 279 | 14,637% | 85.964,46 | +18,9 | 5.181.561 |
+| 03/04/2028 | DI1J28 | 342 | 14,787% | 82.931,03 | +23,6 | 633.961 |
+| 03/07/2028 | DI1N28 | 403 | 14,912% | 80.068,80 | +30,0 | 986.147 |
+| 02/10/2028 | DI1V28 | 467 | 15,004% | 77.177,07 | +35,9 | 678.295 |
+| 01/11/2028 | DI1X28 | 488 | 15,022% | 76.260,08 | +36,8 | 47.016 |
+| 01/12/2028 | DI1Z28 | 507 | 15,044% | 75.430,59 | +38,9 | 46.160 |
+| 02/01/2029 | DI1F29 | 527 | 15,077% | 74.551,52 | +41,1 | 3.856.331 |
+| 02/04/2029 | DI1J29 | 588 | 15,136% | 71.973,73 | +47,3 | 226.706 |
+| 02/07/2029 | DI1N29 | 651 | 15,192% | 69.394,60 | +50,7 | 2.417.857 |
+| 01/10/2029 | DI1V29 | 715 | 15,208% | 66.919,89 | +56,4 | 158.405 |
+| 01/11/2029 | DI1X29 | 737 | 15,208% | 66.097,90 | +57,8 | 16.655 ⚠️ |
+| 03/12/2029 | DI1Z29 | 756 | 15,217% | 65.380,81 | +58,8 | 16.415 ⚠️ |
+| 02/01/2030 | DI1F30 | 776 | 15,230% | 64.627,47 | +60,1 | 1.878.963 |
+| 01/04/2030 | DI1J30 | 837 | 15,236% | 62.436,60 | +63,0 | 101.552 |
+| 01/07/2030 | DI1N30 | 899 | 15,260% | 60.250,96 | +64,2 | 151.719 |
+| 01/10/2030 | DI1V30 | 965 | 15,268% | 58.035,62 | +67,9 | 68.906 |
+| 02/01/2031 | DI1F31 | 1.028 | 15,289% | 55.968,63 | +68,8 | 2.928.715 |
+| 01/04/2031 | DI1J31 | 1.089 | 15,284% | 54.084,09 | +78,1 | 91.939 |
+| 01/07/2031 | DI1N31 | 1.150 | 15,306% | 52.208,27 | +74,9 | 73.890 |
+| 01/10/2031 | DI1V31 | 1.216 | 15,314% | 50.279,92 | +74,1 | 40.093 ⚠️ |
+| 02/01/2032 | DI1F32 | 1.280 | 15,342% | 48.433,18 | +76,2 | 1.321.161 |
+| 03/01/2033 | DI1F33 | 1.532 | 15,371% | 41.926,80 | +83,1 | 775.052 |
+| 02/01/2034 | DI1F34 | 1.783 | 15,368% | 36.368,17 | +93,6 | 349.239 |
+| 02/01/2035 | DI1F35 | 2.031 | 15,346% | 31.643,83 | +108,8 | 774.665 |
+| 02/01/2036 | DI1F36 | 2.280 | 15,300% | 27.579,86 | +118,2 | 116.424 |
+| 02/01/2037 | DI1F37 | 2.533 | 15,296% | 23.914,91 | +126,0 | 353.237 |
+| 04/01/2038 | DI1F38 | 2.782 | 15,269% | 20.831,15 | +130,7 | 55.082 |
+| 03/01/2039 | DI1F39 | 3.033 | 15,239% | 18.138,70 | +142,5 | 45.800 |
+| 02/01/2040 | DI1F40 | 3.284 | 15,221% | 15.781,03 | +154,4 | 48.734 |
+| 02/01/2041 | DI1F41 | 3.534 | 15,212% | 13.726,75 | +166,2 | 24.622 ⚠️ |
 
 
 **Onde o mercado está, de fato.** A coluna *Em aberto* é o número de contratos em posição no fim do pregão. Ela importa porque os vencimentos da tabela não têm o mesmo peso: preço de contrato com posição pequena é preço que quase ninguém sustentou com dinheiro.
-**Medido hoje.** A posição se concentra em DI1F27 (8.224.310), DI1F28 (5.200.264), DI1F29 (3.814.830), que juntos somam **40,0%** dos 43.103.249 contratos em aberto na curva. Os 4 vencimento(s) com posição abaixo de 45.312 contratos (20% da mediana da curva) estão marcados com ⚠️ na coluna *Em aberto*: **DI1X29**, **DI1Z29**, **DI1V31**, **DI1F41**.
+**Medido hoje.** A posição se concentra em DI1F27 (7.954.370), DI1F28 (5.181.561), DI1F29 (3.856.331), que juntos somam **39,7%** dos 42.794.459 contratos em aberto na curva. Os 4 vencimento(s) com posição abaixo de 45.341 contratos (20% da mediana da curva) estão marcados com ⚠️ na coluna *Em aberto*: **DI1X29**, **DI1Z29**, **DI1V31**, **DI1F41**.
 **Leitura.** Concentração assim é normal no DI: a liquidez se junta em poucos vértices, e os demais vencimentos existem mais para fechar a curva do que para negociar. Na prática, um movimento de taxa num vencimento magro diz menos sobre expectativa do que o mesmo movimento num vértice cheio, e interpolar entre dois pontos magros é interpolar entre dois preços frouxos. Isto é leitura de risco, não recomendação: o risco é de quem opera.
 *⚠️ na coluna **Em aberto** marca vencimento com posição muito abaixo da mediana da curva: a taxa dele existe e está medida, mas foi formada por pouca gente com dinheiro em risco. O corte é relativo ao próprio dia, e não a um número fixo, porque a liquidez do DI muda de lugar conforme o vencimento se aproxima. Travessão quer dizer que a B3 ainda não publicou a posição daquele dia — ela sai só na manhã seguinte ao pregão —, e não que a posição seja zero.*
 
@@ -143,8 +143,8 @@ dizer que o mercado está pagando bem para quem aceitar o risco de ela não subi
 diferentes, e confundi-las é a forma mais rápida de perder dinheiro em juro.
 
 **Onde olhar primeiro:** **2028** é o ano com a maior diferença — o mercado
-precifica 15,84% contra 12,09% da mediana do Focus,
-3,75 p.p. de distância. É ali que o prêmio está mais gordo, e também onde o erro dói
+precifica 15,57% contra 12,09% da mediana do Focus,
+3,48 p.p. de distância. É ali que o prêmio está mais gordo, e também onde o erro dói
 mais se o consenso estiver certo e você estiver do lado contrário.
 
 **O que acompanhar, semana a semana.** Esta diferença muda toda segunda, quando sai o Focus,
@@ -177,7 +177,7 @@ inflação e o dólar têm a mesma estrutura, e os três números se movem junto
 ---
 
 *Fontes: curva de DI do **Boletim Diário do Mercado da B3** (43 vencimentos no pregão
-de 19/11/2026) e **API de Expectativas do Banco Central**
+de 23/11/2026) e **API de Expectativas do Banco Central**
 (olinda.bcb.gov.br, licença ODbL), pesquisa de 19/11/2026.
 Os dias úteis de cada vencimento são extraídos do próprio PU publicado pela B3
 (`du = 252·ln(100000/PU)/ln(1+taxa)`), e não de um calendário externo — o calendário local

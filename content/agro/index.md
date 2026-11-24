@@ -1,10 +1,10 @@
 ---
 title: "🌾 Agro: o que a curva está dizendo"
-date: 2026-11-23
-pregao: 2026-11-19
+date: 2026-11-24
+pregao: 2026-11-23
 ---
 
-*Dados da B3 de 19/11/2026 · atualizado em 23/11/2026 19:04*
+*Dados da B3 de 23/11/2026 · atualizado em 24/11/2026 06:26*
 
 
 <!-- NOTAS-INICIO -->
@@ -34,126 +34,108 @@ vencimento ao lado — porque vencimento sem posição tem preço publicado e n�
 > [!abstract] O agro na B3 hoje
 > **5 commodities** com mercado ativo, somando **36 vencimentos** com posição acima de 100 contratos.
 > 
-> Histórico guardado: 25 pregões.
+> Histórico guardado: 26 pregões.
 
 
 ## Boi Gordo · BGI
-**R\$ 399,05** no vencimento mais próximo
-(30/11/2026, 11 dias), -0,29% no pregão.
-Posição em aberto somando todos os vencimentos: **54.856 contratos**
-(+0,5% no dia).
+**R\$ 399,00** no vencimento mais próximo
+(30/11/2026, 7 dias), -0,01% no pregão.
+Posição em aberto somando todos os vencimentos: **55.611 contratos**
+(+1,4% no dia).
 
 Cada contrato equivale a **330 unidades**, então um contrato vale hoje
-**R\$ 131.686**. É esse número que dimensiona risco, não
+**R\$ 131.670**. É esse número que dimensiona risco, não
 o ajuste.
 
 | Vencimento | Código | Dias | Ajuste | No dia | Em aberto | Valor do contrato |
 |---|---|---|---|---|---|---|
-| 30/11/2026 | BGIX26 | 11 | **R\$ 399,05** | -0,29% | 20.679 | R\$ 131.686 |
-| 30/12/2026 | BGIZ26 | 41 | **R\$ 409,75** | +0,10% | 19.535 | R\$ 135.218 |
-| 29/01/2027 | BGIF27 | 71 | **R\$ 408,50** | +0,06% | 8.062 | R\$ 134.805 |
-| 26/02/2027 | BGIG27 | 99 | **R\$ 408,05** | +0,05% | 3.397 | R\$ 134.656 |
-| 31/03/2027 | BGIH27 | 132 | **R\$ 408,00** | -0,15% | 2.344 | R\$ 134.640 |
-| 30/04/2027 | BGIJ27 | 162 | **R\$ 403,70** | -0,17% | 251 | R\$ 133.221 |
-| 31/05/2027 | BGIK27 | 193 | **R\$ 403,10** | -0,05% | 451 | R\$ 133.023 |
-| 29/10/2027 | BGIV27 | 344 | **R\$ 410,35** | +0,06% | 137 | R\$ 135.416 |
+| 30/11/2026 | BGIX26 | 7 | **R\$ 399,00** | -0,01% | 20.161 | R\$ 131.670 |
+| 30/12/2026 | BGIZ26 | 37 | **R\$ 414,00** | +1,04% | 20.114 | R\$ 136.620 |
+| 29/01/2027 | BGIF27 | 67 | **R\$ 413,05** | +1,11% | 8.359 | R\$ 136.306 |
+| 26/02/2027 | BGIG27 | 95 | **R\$ 411,85** | +0,93% | 3.623 | R\$ 135.910 |
+| 31/03/2027 | BGIH27 | 128 | **R\$ 410,75** | +0,67% | 2.475 | R\$ 135.548 |
+| 30/04/2027 | BGIJ27 | 158 | **R\$ 406,70** | +0,74% | 271 | R\$ 134.211 |
+| 31/05/2027 | BGIK27 | 189 | **R\$ 404,40** | +0,32% | 470 | R\$ 133.452 |
+| 29/10/2027 | BGIV27 | 340 | **R\$ 414,90** | +1,11% | 138 | R\$ 136.917 |
 
 
-A curva do boi Gordo **sobe 2,8%** ao longo de 11 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
+A curva do boi Gordo **sobe 4,0%** ao longo de 11 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
 
-**Base: R\$ 2,61 (+0,7%)** — o vencimento mais curto está acima do físico (R\$ 396,44, *Cotação de Boi Gordo - Preço de  fechamento*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** boi gordo, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 395,73 (*BOI GORDO - Média das últimas cinco cotações R\$/@*), e é contra ele que o contrato é fechado no vencimento.
+**Base: R\$ 3,67 (+0,9%)** — o vencimento mais curto está acima do físico (R\$ 395,33, *Cotação de Boi Gordo - Preço de  fechamento*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** boi gordo, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 395,78 (*BOI GORDO - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
 
 ## Milho · CCM
-**R\$ 71,48** no vencimento mais próximo
-(15/01/2027, 57 dias), +0,38% no pregão.
-Posição em aberto somando todos os vencimentos: **152.508 contratos**
-(+1,0% no dia).
+**R\$ 72,15** no vencimento mais próximo
+(15/01/2027, 53 dias), +0,94% no pregão.
+Posição em aberto somando todos os vencimentos: **155.227 contratos**
+(+1,8% no dia).
 
 Cada contrato equivale a **450 unidades**, então um contrato vale hoje
-**R\$ 32.166**. É esse número que dimensiona risco, não
+**R\$ 32.468**. É esse número que dimensiona risco, não
 o ajuste.
 
 | Vencimento | Código | Dias | Ajuste | No dia | Em aberto | Valor do contrato |
 |---|---|---|---|---|---|---|
-| 15/01/2027 | CCMF27 | 57 | **R\$ 71,48** | +0,38% | 53.173 | R\$ 32.166 |
-| 15/03/2027 | CCMH27 | 116 | **R\$ 76,93** | +1,29% | 29.054 | R\$ 34.618 |
-| 17/05/2027 | CCMK27 | 179 | **R\$ 76,01** | +1,32% | 6.502 | R\$ 34.204 |
-| 15/07/2027 | CCMN27 | 238 | **R\$ 75,23** | +1,40% | 13.642 | R\$ 33.854 |
-| 15/09/2027 | CCMU27 | 300 | **R\$ 75,39** | +0,92% | 43.220 | R\$ 33.926 |
-| 16/11/2027 | CCMX27 | 362 | **R\$ 77,78** | +0,95% | 6.917 | R\$ 35.001 |
+| 15/01/2027 | CCMF27 | 53 | **R\$ 72,15** | +0,94% | 53.249 | R\$ 32.468 |
+| 15/03/2027 | CCMH27 | 112 | **R\$ 77,90** | +1,26% | 29.131 | R\$ 35.055 |
+| 17/05/2027 | CCMK27 | 175 | **R\$ 76,96** | +1,25% | 6.671 | R\$ 34.632 |
+| 15/07/2027 | CCMN27 | 234 | **R\$ 75,94** | +0,94% | 13.703 | R\$ 34.173 |
+| 15/09/2027 | CCMU27 | 296 | **R\$ 76,35** | +1,27% | 44.921 | R\$ 34.358 |
+| 16/11/2027 | CCMX27 | 358 | **R\$ 78,74** | +1,23% | 7.552 | R\$ 35.433 |
 
 
-A curva do milho **sobe 8,8%** ao longo de 10 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
+A curva do milho **sobe 9,1%** ao longo de 10 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
 
-**Base: R\$ 3,80 (+5,6%)** — o vencimento mais curto está acima do físico (R\$ 67,68, *Cotação de Milho - Preço a vista R\$/60kg*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** milho, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 67,46 (*MILHO - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
+**Base: R\$ 4,33 (+6,4%)** — o vencimento mais curto está acima do físico (R\$ 67,82, *Cotação de Milho - Preço a vista R\$/60kg*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** milho, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 67,67 (*MILHO - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
 
-O milho também é publicado em duas formas de pagamento: R\$ 67,68 à vista e R\$ 68,52 a prazo, com prazo médio de **24,2 dias**. A diferença é **+1,24% no período**, o que equivale a **+20,5% ao ano**. Esse é o juro que o mercado físico cobra embutido no preço, e quem vende a prazo está financiando o comprador a essa taxa. Comparar com o custo do próprio dinheiro — CDI, capital de giro, crédito rural — diz de que lado do balcão está a vantagem: quem consegue pagar à vista compra mais barato do que o dinheiro lhe custa, e quem vende a prazo só ganha se esse juro for maior que o que paga para se financiar.
+O milho também é publicado em duas formas de pagamento: R\$ 67,82 à vista e R\$ 68,62 a prazo, com prazo médio de **23,1 dias**. A diferença é **+1,18% no período**, o que equivale a **+20,4% ao ano**. Esse é o juro que o mercado físico cobra embutido no preço, e quem vende a prazo está financiando o comprador a essa taxa. Comparar com o custo do próprio dinheiro — CDI, capital de giro, crédito rural — diz de que lado do balcão está a vantagem: quem consegue pagar à vista compra mais barato do que o dinheiro lhe custa, e quem vende a prazo só ganha se esse juro for maior que o que paga para se financiar.
 
 ## Café Arábica 4/5 · ICF
-**US\$ 334,95** no vencimento mais próximo
-(18/12/2026, 29 dias), -0,58% no pregão.
-Posição em aberto somando todos os vencimentos: **7.669 contratos**
-(+0,2% no dia).
+**US\$ 327,40** no vencimento mais próximo
+(18/12/2026, 25 dias), -2,25% no pregão.
+Posição em aberto somando todos os vencimentos: **7.662 contratos**
+(-0,1% no dia).
 
 Cada contrato equivale a **100 unidades**, então um contrato vale hoje
-**US\$ 33.495**. É esse número que dimensiona risco, não
+**US\$ 32.740**. É esse número que dimensiona risco, não
 o ajuste.
 
 | Vencimento | Código | Dias | Ajuste | No dia | Em aberto | Valor do contrato |
 |---|---|---|---|---|---|---|
-| 18/12/2026 | ICFZ26 | 29 | **US\$ 334,95** | -0,58% | 726 | US\$ 33.495 |
-| 22/03/2027 | ICFH27 | 123 | **US\$ 340,70** | -0,73% | 4.510 | US\$ 34.070 |
-| 20/05/2027 | ICFK27 | 182 | **US\$ 337,60** | -0,22% | 839 | US\$ 33.760 |
-| 22/09/2027 | ICFU27 | 307 | **US\$ 312,40** | -1,61% | 1.594 | US\$ 31.240 |
+| 18/12/2026 | ICFZ26 | 25 | **US\$ 327,40** | -2,25% | 456 | US\$ 32.740 |
+| 22/03/2027 | ICFH27 | 119 | **US\$ 333,15** | -2,22% | 4.254 | US\$ 33.315 |
+| 20/05/2027 | ICFK27 | 178 | **US\$ 330,05** | -2,24% | 1.358 | US\$ 33.005 |
+| 22/09/2027 | ICFU27 | 303 | **US\$ 304,85** | -2,42% | 1.594 | US\$ 30.485 |
 
 
-A curva do café Arábica 4/5 **desce 6,7%** ao longo de 9 meses: o vencimento curto vale mais que o longo. Mercado paga prêmio por ter a mercadoria agora, o que costuma significar oferta apertada no presente. Para quem produz, é o desenho que favorece vender à vista em vez de travar preço lá na frente; para quem especula, é o que torna caro ficar comprado em vencimento longo esperando convergência.
-
-**Contra ICE (Nova York).** A B3 publica, para cada vencimento do café arábica 4/5, o preço do contrato de café arábica tipo C em ICE — cotado em centavos de dólar por libra-peso. Convertendo para a mesma unidade do contrato daqui:
-
-
-| Vencimento | Dias | KC lá fora | Convertido | Ajuste na B3 | Diferença |
-|---|---|---|---|---|---|
-| 18/12/2026 | 29 | 282,05 | US\$ 373,09 | US\$ 334,95 | -10,22% |
-| 22/03/2027 | 123 | 276,00 | US\$ 365,09 | US\$ 340,70 | -6,68% |
-| 20/05/2027 | 182 | 268,20 | US\$ 354,77 | US\$ 337,60 | -4,84% |
-| 22/09/2027 | 307 | 257,10 | US\$ 340,09 | US\$ 312,40 | -8,14% |
-
-
-
-O contrato daqui negocia com **desconto médio de 7,5%** contra a referência externa, e ele **não é uniforme**: o mais largo está em 18/12/2026 (10,2%) e o mais estreito em 20/05/2027 (4,8%).
-
-**É aqui que mora a informação.** Esse desconto é o preço que o mercado atribui à diferença entre o produto brasileiro e o padrão negociado lá fora: tipo, qualidade, local de entrega e custo de levar a mercadoria até o comprador internacional. Ele muda devagar, e é justamente por isso que serve de referência: quando se afasta do normal, ou mudou alguma coisa na oferta brasileira, ou alguém está pagando caro demais por um dos dois lados. Quem acompanha esse número ao longo do tempo tem uma régua; quem olha só o preço absoluto não tem.
-
-**Onde olhar primeiro:** 18/12/2026, o vencimento em que o produto daqui está mais barato contra o de fora (10,2% de desconto). Isso não é sinal de compra — o desconto pode ser justo, e normalmente é. Mas é ali que vale perguntar o que o mercado está precificando de diferente naquele mês, porque é a pergunta que o preço absoluto não faz.
+A curva do café Arábica 4/5 **desce 6,9%** ao longo de 9 meses: o vencimento curto vale mais que o longo. Mercado paga prêmio por ter a mercadoria agora, o que costuma significar oferta apertada no presente. Para quem produz, é o desenho que favorece vender à vista em vez de travar preço lá na frente; para quem especula, é o que torna caro ficar comprado em vencimento longo esperando convergência.
 
 ## Minicontrato de Soja do CME Group · SJC
-**US\$ 26,62** no vencimento mais próximo
-(29/12/2026, 40 dias), -0,76% no pregão.
-Posição em aberto somando todos os vencimentos: **4.165 contratos**
-(+3,6% no dia).
+**US\$ 27,09** no vencimento mais próximo
+(29/12/2026, 36 dias), +1,76% no pregão.
+Posição em aberto somando todos os vencimentos: **3.922 contratos**
+(-5,8% no dia).
 
 Cada contrato equivale a **450 unidades**, então um contrato vale hoje
-**US\$ 11.979**. É esse número que dimensiona risco, não
+**US\$ 12.190**. É esse número que dimensiona risco, não
 o ajuste.
 
 | Vencimento | Código | Dias | Ajuste | No dia | Em aberto | Valor do contrato |
 |---|---|---|---|---|---|---|
-| 29/12/2026 | SJCF27 | 40 | **US\$ 26,62** | -0,76% | 1.769 | US\$ 11.979 |
-| 25/02/2027 | SJCH27 | 98 | **US\$ 26,74** | -0,61% | 711 | US\$ 12.031 |
-| 29/04/2027 | SJCK27 | 161 | **US\$ 26,89** | -0,57% | 1.685 | US\$ 12.101 |
+| 29/12/2026 | SJCF27 | 36 | **US\$ 27,09** | +1,76% | 1.671 | US\$ 12.190 |
+| 25/02/2027 | SJCH27 | 94 | **US\$ 27,17** | +1,63% | 466 | US\$ 12.227 |
+| 29/04/2027 | SJCK27 | 157 | **US\$ 27,31** | +1,56% | 1.785 | US\$ 12.289 |
 
 
-A curva do minicontrato de Soja do CME Group **sobe 1,0%** ao longo de 4 meses: a entrega futura vale mais que a imediata. É o desenho de mercado abastecido, em que o preço a termo carrega armazenagem e juros. Para quem tem a mercadoria e consegue estocar, o mercado está pagando pela espera; para quem está comprado em vencimento longo, parte da valorização aparente é só esse carrego, e ele some conforme o contrato se aproxima.
+A curva do minicontrato de Soja do CME Group está **plana** (+0,8% entre a ponta e o fim). Sem aperto nem folga precificados: o mercado não está pagando para ter agora nem para esperar.
 
 **Contra CME Group (Chicago).** A B3 publica, para cada vencimento do minicontrato de soja do cme group, o preço do contrato de soja em CME Group — cotado em centavos de dólar por bushel. Convertendo para a mesma unidade do contrato daqui:
 
 
 | Vencimento | Dias | YK lá fora | Convertido | Ajuste na B3 | Diferença |
 |---|---|---|---|---|---|
-| 29/12/2026 | 40 | 1.207,50 | US\$ 26,62 | US\$ 26,62 | 0,00% |
-| 25/02/2027 | 98 | 1.212,75 | US\$ 26,74 | US\$ 26,74 | 0,00% |
-| 29/04/2027 | 161 | 1.219,75 | US\$ 26,89 | US\$ 26,89 | 0,00% |
+| 29/12/2026 | 36 | 1.228,75 | US\$ 27,09 | US\$ 27,09 | 0,00% |
+| 25/02/2027 | 94 | 1.232,50 | US\$ 27,17 | US\$ 27,17 | 0,00% |
+| 29/04/2027 | 157 | 1.238,75 | US\$ 27,31 | US\$ 27,31 | 0,00% |
 
 
 
@@ -162,37 +144,37 @@ Os dois são **o mesmo preço** (diferença média de 0,00% entre todos os venci
 **A vantagem, aqui, não é de preço — é de acesso e de moeda.** Quem opera este contrato está comprando ou vendendo o mercado externo com liquidação em reais, sem conta lá fora e sem remessa. Quem procurar descolamento entre os dois para arbitrar vai achar só o custo da operação. O risco real é o cambial: o resultado vem em reais, e o dólar entra na conta inteiro.
 
 ## Etanol Hidratado · ETH
-**R\$ 3.104,00** no vencimento mais próximo
-(30/11/2026, 11 dias), -0,53% no pregão.
-Posição em aberto somando todos os vencimentos: **20.440 contratos**
-(+0,1% no dia).
+**R\$ 3.110,00** no vencimento mais próximo
+(30/11/2026, 7 dias), +0,19% no pregão.
+Posição em aberto somando todos os vencimentos: **20.763 contratos**
+(+1,6% no dia).
 
 Cada contrato equivale a **30 unidades**, então um contrato vale hoje
-**R\$ 93.120**. É esse número que dimensiona risco, não
+**R\$ 93.300**. É esse número que dimensiona risco, não
 o ajuste.
 
 | Vencimento | Código | Dias | Ajuste | No dia | Em aberto | Valor do contrato |
 |---|---|---|---|---|---|---|
-| 30/11/2026 | ETHX26 | 11 | **R\$ 3.104,00** | -0,53% | 2.647 | R\$ 93.120 |
-| 30/12/2026 | ETHZ26 | 41 | **R\$ 3.185,00** | -0,47% | 4.461 | R\$ 95.550 |
-| 29/01/2027 | ETHF27 | 71 | **R\$ 3.200,00** | -0,59% | 5.875 | R\$ 96.000 |
-| 26/02/2027 | ETHG27 | 99 | **R\$ 3.200,00** | -0,56% | 4.690 | R\$ 96.000 |
-| 31/03/2027 | ETHH27 | 132 | **R\$ 3.100,00** | -1,40% | 1.537 | R\$ 93.000 |
-| 30/06/2027 | ETHM27 | 223 | **R\$ 2.582,50** | -0,54% | 150 | R\$ 77.475 |
-| 30/07/2027 | ETHN27 | 253 | **R\$ 2.582,50** | -0,54% | 150 | R\$ 77.475 |
-| 31/08/2027 | ETHQ27 | 285 | **R\$ 2.582,50** | -0,54% | 150 | R\$ 77.475 |
-| 30/09/2027 | ETHU27 | 315 | **R\$ 2.630,00** | -0,53% | 150 | R\$ 78.900 |
-| 29/10/2027 | ETHV27 | 344 | **R\$ 2.670,50** | -0,54% | 105 | R\$ 80.115 |
-| 30/11/2027 | ETHX27 | 376 | **R\$ 2.724,50** | -0,53% | 105 | R\$ 81.735 |
-| 30/12/2027 | ETHZ27 | 406 | **R\$ 2.777,50** | -0,54% | 105 | R\$ 83.325 |
-| 31/01/2028 | ETHF28 | 438 | **R\$ 2.807,50** | -0,53% | 105 | R\$ 84.225 |
-| 25/02/2028 | ETHG28 | 463 | **R\$ 2.807,50** | -0,53% | 105 | R\$ 84.225 |
-| 31/03/2028 | ETHH28 | 498 | **R\$ 2.761,00** | -0,54% | 105 | R\$ 82.830 |
+| 30/11/2026 | ETHX26 | 7 | **R\$ 3.110,00** | +0,19% | 2.647 | R\$ 93.300 |
+| 30/12/2026 | ETHZ26 | 37 | **R\$ 3.210,50** | +0,80% | 4.504 | R\$ 96.315 |
+| 29/01/2027 | ETHF27 | 67 | **R\$ 3.216,00** | +0,50% | 5.955 | R\$ 96.480 |
+| 26/02/2027 | ETHG27 | 95 | **R\$ 3.216,00** | +0,50% | 4.690 | R\$ 96.480 |
+| 31/03/2027 | ETHH27 | 128 | **R\$ 3.100,00** | 0,00% | 1.537 | R\$ 93.000 |
+| 30/06/2027 | ETHM27 | 219 | **R\$ 2.595,50** | +0,50% | 200 | R\$ 77.865 |
+| 30/07/2027 | ETHN27 | 249 | **R\$ 2.595,50** | +0,50% | 200 | R\$ 77.865 |
+| 31/08/2027 | ETHQ27 | 281 | **R\$ 2.595,50** | +0,50% | 200 | R\$ 77.865 |
+| 30/09/2027 | ETHU27 | 311 | **R\$ 2.643,00** | +0,49% | 200 | R\$ 79.290 |
+| 29/10/2027 | ETHV27 | 340 | **R\$ 2.684,00** | +0,51% | 105 | R\$ 80.520 |
+| 30/11/2027 | ETHX27 | 372 | **R\$ 2.738,00** | +0,50% | 105 | R\$ 82.140 |
+| 30/12/2027 | ETHZ27 | 402 | **R\$ 2.791,50** | +0,50% | 105 | R\$ 83.745 |
+| 31/01/2028 | ETHF28 | 434 | **R\$ 2.821,50** | +0,50% | 105 | R\$ 84.645 |
+| 25/02/2028 | ETHG28 | 459 | **R\$ 2.821,50** | +0,50% | 105 | R\$ 84.645 |
+| 31/03/2028 | ETHH28 | 494 | **R\$ 2.774,50** | +0,49% | 105 | R\$ 83.235 |
 
 
 A curva do etanol Hidratado **vira em 29/01/2027**: sobe até ali e muda de direção depois. Forma assim quase sempre é calendário de safra — aperto numa janela do ano e folga na seguinte. O ponto de virada é a informação: é onde o mercado está dizendo que a oferta muda.
 
-**Base: R\$ 21,00 (+0,7%)** — o vencimento mais curto está acima do físico (R\$ 3.083,00, *Cotação de Etanol - Preço a vista R\$/m3*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** etanol hidratado, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 3.063,00 (*ETANOL - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
+**Base: R\$ 22,50 (+0,7%)** — o vencimento mais curto está acima do físico (R\$ 3.087,50, *Cotação de Etanol - Preço a vista R\$/m3*). A bolsa está pagando mais que o balcão. Para quem **tem a mercadoria**, esse prêmio é o que remunera travar preço no futuro em vez de vender agora — vale a pena enquanto cobrir armazenagem e frete até a entrega. Para quem **compra** etanol hidratado, é o aviso de que o futuro embute um custo que o físico ainda não cobra. O valor usado na liquidação é outro: R\$ 3.072,00 (*ETANOL - Liquidação*), e é contra ele que o contrato é fechado no vencimento.
 
 ## O preço físico, e de onde ele vem
 O futuro de cada uma dessas mercadorias é liquidado contra um **indicador de
@@ -204,7 +186,7 @@ A diferença entre os dois chama-se **base**, e é a medida que o produtor usa p
 trava preço na bolsa ou vende no mercado local, e que o especulador usa para saber se o futuro
 está esticado em relação ao que a mercadoria vale de fato.
 
-Os indicadores publicados acima vêm do **próprio boletim diário da B3** (25
+Os indicadores publicados acima vêm do **próprio boletim diário da B3** (26
 pregões fechados no arquivo), na tabela de Indicadores Econômicos e Agropecuários. Não há
 raspagem de site nenhum aqui: é a bolsa divulgando a referência que ela mesma usa para
 liquidar. E a descrição de cada indicador aparece como a B3 a publica, em vez de atribuída por
@@ -235,7 +217,7 @@ tabela entrega esse número pronto.
 
 Se a inclinação da curva antecipa o preço à vista — se backwardation forte hoje prevê queda do
 curto adiante — é plausível pela teoria do estoque e **não está medido aqui**. São
-25 pregões de histórico. O arquivo cresce todo dia útil; com alguns anos de
+26 pregões de histórico. O arquivo cresce todo dia útil; com alguns anos de
 curva guardada a pergunta fica respondível, e aí o número substitui a teoria.
 
 ### Quanto custa estar errado
@@ -261,5 +243,5 @@ safra. Quando a curva vira num mês específico, o mercado está dizendo onde a 
 > [!abstract] Confira a conta você mesmo
 > <a href="agro.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar agro.xlsx</a> — os 36 vencimentos com ajuste, posição e valor do contrato, mais a série pregão a pregão.
 > 
-> Fonte: Boletim Diário do Mercado da B3 — *Negócios consolidados*, *Posições em aberto* e *Cadastro de instrumentos*, este último para multiplicador, moeda e data de vencimento. Histórico de 25 pregões arquivados. Os indicadores de preço físico vêm da tabela *Indicadores Econômicos e Agropecuários* do mesmo boletim (25 pregões fechados; 0 arquivo(s) de pregão em andamento descartados).
+> Fonte: Boletim Diário do Mercado da B3 — *Negócios consolidados*, *Posições em aberto* e *Cadastro de instrumentos*, este último para multiplicador, moeda e data de vencimento. Histórico de 26 pregões arquivados. Os indicadores de preço físico vêm da tabela *Indicadores Econômicos e Agropecuários* do mesmo boletim (26 pregões fechados; 0 arquivo(s) de pregão em andamento descartados).
 
