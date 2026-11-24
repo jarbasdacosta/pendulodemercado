@@ -5,7 +5,7 @@ tags: [historico]
 
 # 📜 Histórico de leituras (v5)
 
-**2.562 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
+**2.563 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
 
 [**Baixar o histórico completo**](historico-completo.csv) (112 KB · abre no Excel e no LibreOffice)
 
@@ -16,6 +16,7 @@ tags: [historico]
 
 | Data | Modo | Zona | Risco | IMA | LPPL |
 |---|---|---|---|---|---|
+| 2026-11-24 13:30 | intraday | 🟢 VERDE | 21% | 21% | 0% |
 | 2026-11-24 13:15 | intraday | 🟢 VERDE | 29% | 29% | 0% |
 | 2026-11-24 13:00 | intraday | 🟢 VERDE | 41% | 41% | 0% |
 | 2026-11-24 12:45 | intraday | 🟡 AMARELO | 49% | 49% | 0% |
