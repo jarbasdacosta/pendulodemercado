@@ -5,7 +5,7 @@ tags: [historico]
 
 # 📜 Histórico de leituras (v5)
 
-**2.575 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
+**2.576 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
 
 [**Baixar o histórico completo**](historico-completo.csv) (113 KB · abre no Excel e no LibreOffice)
 
@@ -16,6 +16,7 @@ tags: [historico]
 
 | Data | Modo | Zona | Risco | IMA | LPPL |
 |---|---|---|---|---|---|
+| 2026-11-24 16:45 | intraday | 🟢 VERDE | 0% | 0% | 0% |
 | 2026-11-24 16:30 | intraday | 🟢 VERDE | 0% | 0% | 0% |
 | 2026-11-24 16:15 | intraday | 🟢 VERDE | 0% | 0% | 0% |
 | 2026-11-24 16:00 | intraday | 🟢 VERDE | 0% | 0% | 0% |
@@ -210,4 +211,4 @@ O risco mostrado é o **máximo do dia** — é o que importa para saber se a zo
 | 2026-07-06 | 2 | 🟢 VERDE | 39% | 39% | 0% |
 | 2026-07-03 | 1 | 🟢 VERDE | 10% | 14% | 0% |
 
-<small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
+<small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Dist. média**: percentil da distância do preço à média das 252 barras anteriores — a mesma janela do ζ. 100% = mais longe acima do que em qualquer momento das últimas 500 barras; 0% = mais longe abaixo; 50% = distância típica. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>

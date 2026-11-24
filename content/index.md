@@ -7,13 +7,12 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 24/11/2026 16:45 BRT · Intraday 15min · preço da corretora, tempo real*
+*Última atualização: 24/11/2026 17:00 BRT · Intraday 15min · preço da corretora, tempo real*
 
-> [!success] Onde o mercado está agora (24/11 16:30, candles de 15 min): **🟢 Calmo**
-> `Pânico ◀──────────●──────────▶ Euforia`
+> [!success] Onde o mercado está agora (24/11 16:45, candles de 15 min): **🟢 Calmo**
+> `Pânico ◀──────────●──────────▶ Euforia` · ζ Topo **0%** · ζ Fundo **0%**
 >
-> **O Ibovespa cai 0,85% agora, aos 164.958 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
-> No gráfico diário: 🌱 Fundo se desfazendo.
+> **O Ibovespa cai 1,01% agora, aos 164.695 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
@@ -39,24 +38,19 @@ tags: [home]
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
-> [!note] 🧭 IMA Diário · viés (23/11): 🌱 **Fundo se desfazendo**
-> 📚 só contexto: o pânico passou; sem vantagem estatística confirmada para comprar só por isso
->
-> *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
-
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (24/11 16:30): 🟢 **VERDE** — Risco 0% · ＝ +0 p.p. vs leitura anterior
-> > `░░░░░░░░░░░░░░░░░░░░`
+> > [!success] IMA Intraday · 15 min (24/11 16:45): 🟢 **VERDE** — ζ Topo **0%** · ＝ +0 p.p. vs leitura anterior
+> > `░░░░░░░░░░░░░░░░░░░░` **0%**
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (24/11 16:30) | Valor |
+> | Indicador — IMA Intraday · 15 min (24/11 16:45) | Valor |
 > |---|---|
 > | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 164.958 pts |
+> | 📊 Ibovespa | 164.695 pts |
 >
 > **Multi-ativo:** 4% em tensão (0🔴 3🟡 de 27 ativos)
 >
@@ -67,7 +61,7 @@ tags: [home]
 > | [24/11/2026](intraday/2026-11-24) | 🟢 VERDE | **0%** | 0% | 0% | 0% |
 > | [23/11/2026](intraday/2026-11-23) | 🟢 VERDE | **3%** | 3% | 0% | 0% |
 >
-> <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
+> <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Dist. média**: percentil da distância do preço à média das 252 barras anteriores — a mesma janela do ζ. 100% = mais longe acima do que em qualquer momento das últimas 500 barras; 0% = mais longe abaixo; 50% = distância típica. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
 >
 > Os momentos úteis são as **mudanças** do ζ: 🚀 ζ Topo subindo para 30–60% (69% subiu no mês) e 🔪 ζ Fundo disparando (só 42% subiu em 3 meses). 📉 ζ Topo desinflando do 🔴 teve queda de 5% em 45% das vezes (31% num dia qualquer), mas com poucos casos. O 📉 do 🟡 e o 🌱 ficaram como contexto: não se confirmaram em 2014–2026 (revisão de 23/10/2026). [Metodologia da Sinal IMA](metodologia/crise).
 
