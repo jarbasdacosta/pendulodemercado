@@ -7,12 +7,12 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 24/11/2026 13:01 BRT · Intraday 15min*
+*Última atualização: 24/11/2026 13:15 BRT · Intraday 15min*
 
-> [!success] Onde o mercado está agora (24/11 12:45, candles de 15 min): **🟢 Calmo**
-> `Pânico ◀───────────────●─────▶ Euforia`
+> [!success] Onde o mercado está agora (24/11 13:00, candles de 15 min): **🟢 Calmo**
+> `Pânico ◀─────────────●───────▶ Euforia`
 >
-> **O Ibovespa cai 0,58% agora, aos 165.403 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
+> **O Ibovespa cai 0,72% agora, aos 165.170 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
 > No gráfico diário: 🌱 Fundo se desfazendo.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
@@ -21,7 +21,7 @@ tags: [home]
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🟡 AMARELO · 🟢 calmo · ζ Topo 49% | [relatório](intraday/2026-11-24) |
+| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 41% | [relatório](intraday/2026-11-24) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | — nenhuma regra com setup ativo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
@@ -31,11 +31,11 @@ tags: [home]
 
 | Data e hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
+| **24/11/2026 13:15** | IMA · 15 min | 🟢 Zona mudou: AMARELO → VERDE | Risco 41% · ζ Topo 41% · ζ Fundo 6% · LPPL 0% | — |
 | **24/11/2026 11:45** | IMA · 15 min | 🟡 Zona mudou: VERDE → AMARELO | Risco 62% · ζ Topo 62% · ζ Fundo 0% · LPPL 0% | — |
 | **24/11/2026 11:45** | IMA · 15 min | 🟡 ζ Topo entrou em nível alto | Risco 62% · ζ Topo 62% · ζ Fundo 0% · LPPL 0% | ✅ |
 | **19/11/2026 19:10** | IMA · diário | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 61% · LPPL 0% | — |
 | **16/11/2026 16:16** | IMA · 15 min | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 91% · LPPL 0% | ✅ |
-| **16/11/2026 13:31** | IMA · 15 min | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 62% · LPPL 0% | ✅ |
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
@@ -45,26 +45,26 @@ tags: [home]
 > *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!warning] IMA Intraday · 15 min (24/11 12:45): 🟡 **AMARELO** — Risco 49% · ▼ -8 p.p. vs leitura anterior
-> > `██████████░░░░░░░░░░`
-> > Atenção — preço esticado acima da tendência.
+> > [!success] IMA Intraday · 15 min (24/11 13:00): 🟢 **VERDE** — Risco 41% · ▼ -9 p.p. vs leitura anterior
+> > `████████░░░░░░░░░░░░`
+> > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (24/11 12:45) | Valor |
+> | Indicador — IMA Intraday · 15 min (24/11 13:00) | Valor |
 > |---|---|
-> | 🔴 ζ Topo — preço esticado acima da tendência | **49%** |
-> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 4% |
+> | 🔴 ζ Topo — preço esticado acima da tendência | **41%** |
+> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 6% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 165.403 pts |
+> | 📊 Ibovespa | 165.170 pts |
 >
-> **Multi-ativo:** 22% em tensão (3🔴 5🟡 de 27 ativos)
+> **Multi-ativo:** 19% em tensão (4🔴 4🟡 de 27 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Zona | Risco | ζ Topo | ζ Fundo | LPPL |
 > |---|---|---|---|---|---|
-> | [24/11/2026](intraday/2026-11-24) | 🟡 AMARELO | **49%** | 49% | 4% | 0% |
+> | [24/11/2026](intraday/2026-11-24) | 🟢 VERDE | **41%** | 41% | 6% | 0% |
 > | [23/11/2026](intraday/2026-11-23) | 🟢 VERDE | **3%** | 3% | 0% | 0% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (Risco e ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo) · 🫧 ≥ 30% · 🫧🔴 ≥ 50% (LPPL)</small>
