@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 55 tabelas no acervo · página gerada em 24/11/2026 17:15*
+*Pregão conferido: **19/11/2026**, com 55 tabelas no acervo · página gerada em 24/11/2026 17:30*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -21,9 +21,9 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | nenhuma |
-| Páginas publicadas | 367 |
+| Páginas publicadas | 368 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 24/11 17:15 |
+| Página escrita mais recentemente | 24/11 17:30 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -136,13 +136,14 @@ Medida diferente da tabela acima: ali o problema é mtime velho, aqui é data de
 
 ### Página sem data de dado declarada
 
-**3** páginas na fila: declaram `date:`, que é quando a página foi gerada, mas não `pregao:`, que é a data do dado.
+**4** páginas na fila: declaram `date:`, que é quando a página foi gerada, mas não `pregao:`, que é a data do dado.
 
 Quem não declara `pregao:` fica fora da conta do pregão mais recente declarado: o `date:` é o relógio da máquina na maioria dos geradores, e nenhum leitor distingue relógio de dado olhando o mesmo campo. Esta lista é a fila de migração, publicada em vez de ficar na cabeça de alguém.
 
 - `espectro/diario-x-intraday.md`
 - `espectro/grandes-tombos.md`
 - `espectro/zeta-no-teto.md`
+- `lppl.md`
 
 Outras **6** estão **dispensadas** de declarar `pregao:` por não se referirem a pregão nenhum — texto de método, e dado de fonte que não é a B3. O motivo de cada uma está no `SEM_PREGAO` do `integridade.py`, escrito à mão de propósito: adivinhar isso por heurística já tirou desta conferência duas páginas que eram geradas todo dia.
 

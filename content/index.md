@@ -7,12 +7,12 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 24/11/2026 17:29 BRT · Intraday 15min · preço da corretora, tempo real*
+*Última atualização: 24/11/2026 17:30 BRT · Intraday 15min · preço da corretora, tempo real*
 
-> [!success] Onde o mercado está agora (24/11 17:00, candles de 15 min): **🟢 Calmo**
+> [!success] Onde o mercado está agora (24/11 17:15, candles de 15 min): **🟢 Calmo**
 > `Pânico ◀──────────●──────────▶ Euforia` · ζ Topo **0%** · ζ Fundo **0%**
 >
-> **O Ibovespa cai 0,92% agora, aos 164.843 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
+> **O Ibovespa cai 1,04% agora, aos 164.641 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
@@ -39,18 +39,18 @@ tags: [home]
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (24/11 17:00): 🟢 **VERDE** — ζ Topo **0%** · ＝ +0 p.p. vs leitura anterior
+> > [!success] IMA Intraday · 15 min (24/11 17:15): 🟢 **VERDE** — ζ Topo **0%** · ＝ +0 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░` **0%**
 > > Preço na faixa normal em torno da tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (24/11 17:00) | Valor |
+> | Indicador — IMA Intraday · 15 min (24/11 17:15) | Valor |
 > |---|---|
 > | 🔴 ζ Topo — preço esticado acima da tendência | **0%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 0% |
 > | 🫧 LPPL bolha — alta super-exponencial (risco de crash) | 0% |
 > | 🫧 LPPL antibolha — queda super-exponencial (risco de repique) | 0% |
-> | 📊 Ibovespa | 164.843 pts |
+> | 📊 Ibovespa | 164.641 pts |
 >
 > **Multi-ativo:** 0% em tensão (0🔴 3🟡 de 27 ativos)
 >
@@ -58,8 +58,7 @@ tags: [home]
 >
 > | Data | Zona | ζ Topo | ζ Fundo | Dist. média |
 > |---|---|---|---|---|
-> | [24/11/2026](intraday/2026-11-24) | 🟢 VERDE | **0%** | **0%** | 35% |
-> | [23/11/2026](intraday/2026-11-23) | 🟢 VERDE | **3%** | **0%** | 31% |
+> | [24/11/2026](intraday/2026-11-24) | 🟢 VERDE | **0%** | **0%** | 31% |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Dist. média**: percentil da distância do preço à média das 252 barras anteriores — a mesma janela do ζ. 100% = mais longe acima do que em qualquer momento das últimas 500 barras; 0% = mais longe abaixo; 50% = distância típica. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
 >

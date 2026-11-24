@@ -7,7 +7,7 @@ date: 2026-11-24
 
 **Leitura de 23/11/2026:** 🫧 bolha **0%** · 🫧 antibolha **0%**
 
-*Pagina gerada em 24/11/2026 17:29 BRT.*
+*Pagina gerada em 24/11/2026 17:30 BRT.*
 
 > [!warning] Este indicador NAO entra no semaforo
 > A calibracao do site da a ele **peso 0,00** (`peso_ima: 1.00, peso_lppl: 0.00`). O semaforo VERDE/AMARELO/VERMELHO e decidido **so pelo ζ Topo**. O LPPL aparece aqui como leitura paralela: informa, nao decide.
