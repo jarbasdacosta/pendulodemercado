@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 54 tabelas no acervo · página gerada em 24/11/2026 06:27*
+*Pregão conferido: **19/11/2026**, com 55 tabelas no acervo · página gerada em 24/11/2026 10:15*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -16,14 +16,14 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 
 | o que | situação |
 |---|---|
-| Tabelas do boletim conferidas | **49** de 54 guardadas |
+| Tabelas do boletim conferidas | **49** de 55 guardadas |
 | Tabelas **incompletas** | **2** — veja abaixo |
-| Tabelas sem alvo publicado pela B3 | 5 — não há como conferir |
+| Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | nenhuma |
-| Páginas publicadas | 366 |
+| Páginas publicadas | 367 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 24/11 06:27 |
+| Página escrita mais recentemente | 24/11 10:15 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -120,11 +120,11 @@ Pregão mais recente declarado por alguma página: **23/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `diario/index.md` | 16/11 14:43 | 7.7 |
-| `intraday/index.md` | 16/11 14:43 | 7.7 |
-| `por-onde-comecar.md` | 16/11 15:20 | 7.6 |
-| `autopsias/index.md` | 19/11 14:39 | 4.7 |
-| `ofertas.md` | 21/11 07:15 | 3.0 |
+| `diario/index.md` | 16/11 14:43 | 7.8 |
+| `intraday/index.md` | 16/11 14:43 | 7.8 |
+| `por-onde-comecar.md` | 16/11 15:20 | 7.8 |
+| `autopsias/index.md` | 19/11 14:39 | 4.8 |
+| `ofertas.md` | 21/11 07:15 | 3.1 |
 
 ### Página declarando data sem pregão
 
@@ -158,13 +158,14 @@ Nenhuma divergência entre páginas nesta rodada.
 
 A seção mais importante da página. Sem ela, "nenhum problema encontrado" se confunde com "nada foi olhado".
 
-**Tabelas fora da conferência** (5), com o motivo de cada uma. Nenhuma delas é falha de coleta: parte são agrupadores do catálogo, que não têm dados próprios, e parte são séries ou valores únicos, que não têm ticker a conferir. O motivo vai escrito porque "sem alvo" sozinho insinuaria falta da B3 e esconderia que três delas nem são tabelas de dados.
+**Tabelas fora da conferência** (6), com o motivo de cada uma. Nenhuma delas é falha de coleta: parte são agrupadores do catálogo, que não têm dados próprios, e parte são séries ou valores únicos, que não têm ticker a conferir. O motivo vai escrito porque "sem alvo" sozinho insinuaria falta da B3 e esconderia que três delas nem são tabelas de dados.
 
 | tabela | linhas | por quê |
 |---|---:|---|
 | `AverageChart` | 12 | não achei a coluna do ticker |
 | `DIover` | 1 | não achei a coluna do ticker |
 | `INDEXES` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
+| `IndicesB3` | 33 | sem lista de tickers — é série ou valor único, não tem ticker a conferir |
 | `Previa` | 0 | agrupador do catálogo (3 item(ns)), não tem dados próprios |
 | `PreviaQuadrimestral` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
 
@@ -196,8 +197,8 @@ Barras de 1 minuto dos contratos de índice, montadas dos negócios individuais 
 
 | o que | situação |
 |---|---|
-| Pregões arquivados | **22**, de 19/10/2026 a 19/11/2026 |
-| Tamanho | 449 KB |
+| Pregões arquivados | **23**, de 19/10/2026 a 23/11/2026 |
+| Tamanho | 471 KB |
 | Pregões parciais | **3** |
 | Dias úteis sem arquivo na faixa | **1** |
 
