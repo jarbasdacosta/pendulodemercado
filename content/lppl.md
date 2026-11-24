@@ -3,14 +3,50 @@ title: "LPPL — bolha e antibolha"
 date: 2026-11-24
 ---
 
-# LPPL · bolha e antibolha
+<p style="margin:.4rem 0 0"><span style="display:inline-block;text-align:center;margin:0 1.6rem 0 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:inherit">0%</span><br><span style="font-size:.95rem;opacity:.75">bolha</span></span><span style="display:inline-block;text-align:center;margin:0 1.6rem 0 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:inherit">0%</span><br><span style="font-size:.95rem;opacity:.75">antibolha</span></span></p>
 
-**Leitura de 23/11/2026:** 🫧 bolha **0%** · 🫧 antibolha **0%**
+**Leitura de 23/11/2026** · pagina gerada em 24/11/2026 17:39 BRT
 
-*Pagina gerada em 24/11/2026 17:30 BRT.*
+Acima de 30% o sinal deixa de ser ruido. O LPPL **nao** decide o semaforo do site — veja a nota no fim.
 
-> [!warning] Este indicador NAO entra no semaforo
-> A calibracao do site da a ele **peso 0,00** (`peso_ima: 1.00, peso_lppl: 0.00`). O semaforo VERDE/AMARELO/VERMELHO e decidido **so pelo ζ Topo**. O LPPL aparece aqui como leitura paralela: informa, nao decide.
+## Dia a dia
+
+As 30 leituras mais recentes. O registro completo tem **272 datas** e esta no arquivo para baixar.
+
+| Data | 🫧 bolha | 🫧 antibolha |
+|---|---|---|
+| 23/11/2026 | 0% | 0% |
+| 19/11/2026 | 0% | 0% |
+| 18/11/2026 | 0% | 0% |
+| 17/11/2026 | 0% | 0% |
+| 16/11/2026 | 0% | 0% |
+| 13/11/2026 | 0% | 0% |
+| 12/11/2026 | 0% | 0% |
+| 11/11/2026 | 0% | 0% |
+| 10/11/2026 | 0% | 0% |
+| 09/11/2026 | 0% | 0% |
+| 06/11/2026 | 0% | 0% |
+| 05/11/2026 | 0% | 0% |
+| 04/11/2026 | 0% | 0% |
+| 03/11/2026 | 0% | 0% |
+| 30/10/2026 | 0% | 0% |
+| 29/10/2026 | 0% | 0% |
+| 28/10/2026 | 0% | 0% |
+| 27/10/2026 | 0% | 0% |
+| 26/10/2026 | 0% | 0% |
+| 23/10/2026 | 0% | 0% |
+| 22/10/2026 | 0% | 0% |
+| 21/10/2026 | 0% | 0% |
+| 20/10/2026 | 0% | 0% |
+| 19/10/2026 | 0% | 0% |
+| 16/10/2026 | 0% | 0% |
+| 15/10/2026 | 0% | 0% |
+| 14/10/2026 | 0% | 0% |
+| 13/10/2026 | 0% | 0% |
+| 09/10/2026 | 0% | 0% |
+| 08/10/2026 | 0% | 0% |
+
+[**Baixar o historico completo**](lppl-completo.csv) (272 datas · abre no Excel e no LibreOffice)
 
 ## O que ele mede
 
@@ -18,8 +54,6 @@ O LPPL (*Log-Periodic Power Law*, de Didier Sornette) procura **alta super-expon
 
 - **bolha**: alta acelerando (risco de queda brusca)
 - **antibolha**: queda acelerando (risco de repique)
-
-Entre 0% e 30% o sinal e considerado ruido.
 
 ## O que ele ja disse
 
@@ -53,7 +87,7 @@ O LPPL marcou bolha em 24 pregoes, entre **25/02 e 11/03 de 2026**, com pico de 
 
 **O que esta medido:** o LPPL falou uma vez desde que ha registro, e naquela vez o mercado caiu mais do que cairia num periodo qualquer. Desde julho ele nao fala.
 
-**O que e interpretacao:** um acerto em um episodio e indicio, nao evidencia. Com peso 0,00, ele hoje nao muda nenhuma decisao do site — e nao deveria mudar a sua sozinho.
+**O que e interpretacao:** um acerto em um episodio e indicio, nao evidencia.
 
 **O que NAO fazer:** montar posicao vendida porque o LPPL subiu, ou ignorar o ζ Topo porque o LPPL esta em zero. Os dois medem coisas diferentes, e so o ζ Topo tem historico suficiente para sustentar decisao.
 
@@ -65,8 +99,10 @@ O LPPL marcou bolha em 24 pregoes, entre **25/02 e 11/03 de 2026**, com pico de 
 
 A antibolha detecta **queda** super-exponencial. Em **272 datas de cache** ela nunca saiu de zero — nem em **26/10/2026**, dia do circuit breaker, com o Ibovespa caindo 10% no pregao.
 
-Deteccao de queda que nao dispara num circuit breaker tem duas explicacoes possiveis, e nenhuma delas e "nao houve sinal": ou o criterio de validade e inalcancavel na pratica, ou o ramo da antibolha esta com defeito. Fica registrado aqui como **pendencia a investigar**, nao como ausencia de bolha.
+Deteccao de queda que nao dispara num circuit breaker tem duas explicacoes possiveis, e nenhuma delas e "nao houve sinal": ou o criterio de validade e inalcancavel na pratica, ou o ramo da antibolha esta com defeito. Fica registrado como **pendencia a investigar**.
 
 ---
 
-Metodo: Prof. Didier Sornette (ETH-Zurich), LPPL DS-Confidence. A medicao acima foi feita em 24/11/2026 com `medir_lppl.py`, `medir_lppl_cache.py` e `medir_lppl_desfecho.py`.
+**Nota sobre o peso no semaforo.** A calibracao do site da ao LPPL **peso 0,00** (`peso_ima: 1.00, peso_lppl: 0.00`): o semaforo VERDE/AMARELO/VERMELHO e decidido **so pelo ζ Topo**. O LPPL e leitura paralela — informa, nao decide.
+
+Metodo: Prof. Didier Sornette (ETH-Zurich), LPPL DS-Confidence. Medicao de 24/11/2026 com `medir_lppl.py`, `medir_lppl_cache.py` e `medir_lppl_desfecho.py`.
