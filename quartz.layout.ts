@@ -84,7 +84,7 @@ const grupos = [
     (node) => {
       const dentro = ["por-onde-comecar", "avisos", "diario", "intraday", "amplitude",
                       "larry-williams", "tecnico", "calendario", "mercados", "juros",
-                      "inflacao-e-cambio", "espectro"]
+                      "inflacao-e-cambio", "espectro", "lppl"]
       const s = node.slug ?? ""
       return dentro.some((d) => s === d || s.startsWith(d + "/"))
     },
