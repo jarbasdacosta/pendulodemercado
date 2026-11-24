@@ -7,7 +7,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 23/11/2026 20:17 BRT · Diário D1*
+*Última atualização: 23/11/2026 21:06 BRT · Diário D1*
 
 > [!info] Onde o mercado está no fechamento de 23/11: **🔵 Esticado para baixo**
 > `Pânico ◀────●────────────────▶ Euforia`
@@ -25,14 +25,9 @@ tags: [home]
 |---|---|---|
 | 🌊 **Sinal IMA** | 🟢 VERDE · 🔵 esticado para baixo · ζ Topo 0% | [relatório](diario/2026-11-23) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
-| 🎯 **Entradas do método** | ⏳ aguardando: Diário · Semáforo N3 após ζ Fundo | [abrir](operacoes/entradas) |
+| 🎯 **Entradas do método** | — nenhuma regra com setup ativo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
 | 🧪 **Placar ao vivo** | 1 operação(ões), 0 com lucro, soma -0,8% | [abrir](operacoes/) |
-
-> [!tip] 🎯 Operações — último candle
-> - ⚪ Entradas Diário · Semáforo N3 após ζ Fundo: **saída** (-1,2%)
->
-> [Ver operações](operacoes/)
 
 ## 🔔 Últimos eventos
 
