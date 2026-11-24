@@ -1,7 +1,7 @@
 ---
 title: "🎯 Entradas do método"
 date: 2026-11-24
-pregao: 2026-11-23
+pregao: 2026-11-24
 tags: [operacoes]
 description: "Compra depois de um sinal de fundo: Nadaraya no diário, semáforo no semanal e H4"
 ---
@@ -58,7 +58,7 @@ description: "Compra depois de um sinal de fundo: Nadaraya no diário, semáforo
 
 > [!tip] 🎯 Entradas do método — 🧪 em teste ao vivo desde 23/10/2026 (só compra)
 >
-> 🌊 **Contexto do IMA para compras:** 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 63% em 23/11 · *informa, não filtra*
+> 🌊 **Contexto do IMA para compras:** 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 64% em 24/11 · *informa, não filtra*
 >
 > **Placar ao vivo** (só as regras que avisam no Telegram): 1 operação(ões), 0 com lucro, média -0,8%, soma -0,8%
 >
@@ -81,7 +81,7 @@ description: "Compra depois de um sinal de fundo: Nadaraya no diário, semáforo
 > | H4 · Semáforo N2 | 05/05/26 10h a 186.583 | 07/05/26 10h a 186.583 | **+0,0%** | stop no preço de entrada |
 > | Semanal · Semáforo N2 | semana de 17/02/25 a 127.128 | semana de 13/04/26 a 195.734 | **+54,0%** | limite de 60 candles |
 >
-> <small>Atualizado 23/11 19:00 · checado no pregão às 18:15. Nota: ✅ passou no teste fora da amostra (walk-forward 2008–2026) · 🧪 em teste (H4, com aviso no Telegram) ou em observação (ζ, sem aviso) · 🧪 na tabela = operação do teste ao vivo.</small>
+> <small>Atualizado 24/11 19:00. Nota: ✅ passou no teste fora da amostra (walk-forward 2008–2026) · 🧪 em teste (H4, com aviso no Telegram) ou em observação (ζ, sem aviso) · 🧪 na tabela = operação do teste ao vivo.</small>
 >
 > *Regras: depois de um sinal de fundo, o Diário entra quando o Nadaraya vira para cima; o Semanal e o H4 entram quando um fundo do semáforo fica fixo. Stop e saída de cada regra na [metodologia](metodologia/regras-de-operacao#entradas-do-método). Nenhuma regra de venda passou no teste. Os números do histórico têm viés de escolha (overfitting); o placar ao vivo é o que vale. Leitura educacional do método, não recomendação.*
 

@@ -1,7 +1,7 @@
 ---
 title: "📋 Últimas operações"
 date: 2026-11-24
-pregao: 2026-11-23
+pregao: 2026-11-24
 tags: [operacoes]
 description: "Operações recentes de todas as regras de compra"
 ---

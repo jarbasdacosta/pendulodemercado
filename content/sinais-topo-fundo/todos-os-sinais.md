@@ -1,9 +1,9 @@
 ---
 title: Todos os sinais
-date: 2026-11-23
+date: 2026-11-24
 tags: [sinais]
 description: Histórico dos sinais de topo e fundo por tempo gráfico
-pregao: 2026-11-23
+pregao: 2026-11-24
 ---
 
 Histórico de cada tempo gráfico, do mais recente para o mais antigo. Linhas com 🔥 = sinal **forte**. [← Voltar aos sinais de hoje](sinais-topo-fundo/)
@@ -94,4 +94,4 @@ Histórico de cada tempo gráfico, do mais recente para o mais antigo. Linhas co
 
 *⚠ **não validado**: o sinal não passou no teste de robustez — exige lift ≥ 1,3 em cada metade da história e percentil ≥ 90 contra 300 deslocamentos aleatórios do próprio sinal. Continua publicado por transparência, com a ressalva.*
 
-*Atualizado em 23/11/2026 19:00 BRT.*
+*Atualizado em 24/11/2026 19:00 BRT.*

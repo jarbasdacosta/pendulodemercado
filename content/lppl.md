@@ -5,16 +5,17 @@ date: 2026-11-24
 
 <p style="margin:.4rem 0 0"><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:inherit">0%</span><br><span style="font-size:.95rem;opacity:.75">bolha</span></span><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:inherit">0%</span><br><span style="font-size:.95rem;opacity:.75">antibolha</span></span></p>
 
-**Leitura de 23/11/2026** · pagina gerada em 24/11/2026 18:31 BRT
+**Leitura de 24/11/2026** · pagina gerada em 24/11/2026 19:02 BRT
 
 Acima de 30% o sinal deixa de ser ruido. O LPPL **nao** decide o semaforo do site — veja a nota no fim.
 
 ## Dia a dia
 
-As 30 leituras mais recentes. O registro completo tem **272 datas** e esta no arquivo para baixar.
+As 30 leituras mais recentes. O registro completo tem **273 datas** e esta no arquivo para baixar.
 
 | Data | 🫧 bolha | 🫧 antibolha |
 |---|---|---|
+| 24/11/2026 | 0% | 0% |
 | 23/11/2026 | 0% | 0% |
 | 19/11/2026 | 0% | 0% |
 | 18/11/2026 | 0% | 0% |
@@ -44,9 +45,8 @@ As 30 leituras mais recentes. O registro completo tem **272 datas** e esta no ar
 | 14/10/2026 | 0% | 0% |
 | 13/10/2026 | 0% | 0% |
 | 09/10/2026 | 0% | 0% |
-| 08/10/2026 | 0% | 0% |
 
-[**Baixar o historico completo**](lppl-completo.csv) (272 datas · abre no Excel e no LibreOffice)
+[**Baixar o historico completo**](lppl-completo.csv) (273 datas · abre no Excel e no LibreOffice)
 
 ## O que ele mede
 
