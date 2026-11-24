@@ -7,12 +7,12 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 24/11/2026 19:48 BRT · Diário D1*
+*Última atualização: 24/11/2026 20:03 BRT · Diário D1*
 
 > [!info] Onde o mercado está no fechamento de 24/11: **🔵 Esticado para baixo**
 > `Pânico ◀────●────────────────▶ Euforia` · ζ Topo **0%** · ζ Fundo **64%** · régua = ζ Topo − ζ Fundo = **−64 p.p.**
 >
-> **O Ibovespa caiu 1,37% hoje, aos 164.090 pontos.** O preço caiu mais rápido que o normal e está abaixo da sua faixa habitual.
+> **O Ibovespa fechou praticamente de lado hoje, aos 164.090 pontos.** O preço caiu mais rápido que o normal e está abaixo da sua faixa habitual.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
