@@ -7,7 +7,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 23/11/2026 21:06 BRT · Diário D1*
+*Última atualização: 23/11/2026 21:16 BRT · Diário D1*
 
 > [!info] Onde o mercado está no fechamento de 23/11: **🔵 Esticado para baixo**
 > `Pânico ◀────●────────────────▶ Euforia`
@@ -33,11 +33,11 @@ tags: [home]
 
 | Data e hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
-| **23/11/2026 10:15** | Entradas · Diário · Semáforo N3 após ζ Fundo | 🔴 Stop atingido no pregão (até 10:15) ⚡ | stop 164.447 · -1,2% (compra de 19/11 a 166.376) | — |
 | **19/11/2026 19:10** | IMA · diário | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 61% · LPPL 0% | — |
-| **19/11/2026 19:01** | Entradas · Diário · Semáforo N3 após ζ Fundo | 🟢 Compra no fechamento ⏱️ | a 166.376 (19/11) · ⚡ stop 164.447 · setup ζ Fundo 61% | — |
 | **16/11/2026 16:16** | IMA · 15 min | 🔪 ζ Fundo entrou em nível EXTREMO | Risco 0% · ζ Topo 0% · ζ Fundo 91% · LPPL 0% | ✅ |
 | **16/11/2026 13:31** | IMA · 15 min | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 62% · LPPL 0% | ✅ |
+| **13/11/2026 19:00** | Tendência · Diário | 📌 Ordem de compra armada (candle fechou acima da MME9) ⚡ | compra se passar de 172.715 em até 3 pregões · stop se entrar 155.444 | ✅ |
+| **13/11/2026 10:31** | IMA · 15 min | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 62% · LPPL 0% | ✅ |
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 

@@ -5,7 +5,7 @@ description: "Todo sinal, ordem, stop e aviso do Pêndulo de Mercado, do mais re
 tags: [eventos]
 ---
 
-*Atualizada 23/11/2026 21:06 BRT · a cada 15 min no pregão e às 19h.*
+*Atualizada 23/11/2026 21:16 BRT · a cada 15 min no pregão e às 19h.*
 
 Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: sinais de topo e fundo, ordens de compra e de venda armadas, compras, vendas, stops, avisos de 🚨 preço perto do nível e mudanças do Sinal IMA. Os **últimos 7 dias** ficam abertos; o resto, por **ano → mês → dia**.
 
@@ -13,23 +13,20 @@ Tudo o que o sistema fez ou detectou, **do mais recente para o mais antigo**: si
 > - **Hora em negrito** = registrado ao vivo, na hora em que o sistema detectou (o pregão é conferido a cada 15 min, com candles de 15 min; a hora é a do candle em que aconteceu).
 > - Sem negrito = **histórico reconstruído** a partir das operações e sinais guardados (antes de 23/10/2026). Nas ordens stop a hora exata não foi guardada: aparece só "no pregão".
 > - **⚡** = vale durante o pregão (ordem stop) · **⏱️** = vale no fechamento do candle.
-> - **📲**: ✅ avisado no Telegram · — sem aviso (regra em observação, sinal moderado ou só registro) · 🧪 operação do teste ao vivo · 📜 histórico simulado (as regras não existiam ou não avisavam).
+> - **📲**: ✅ avisado no Telegram · — sem aviso (regra em observação, sinal moderado ou só registro) · 🧪 operação do teste ao vivo · 📜 histórico simulado (a regra ainda não existia).
 > - Sinais comuns de topo e fundo: só a janela que o site guarda (≈ 1 ano no diário, 2 no semanal, 3 no mensal, 2 meses no H4). Sinais raros e operações: desde 2000/2001.
 
 ## Últimos 7 dias
 
-### Hoje · seg, 23/11/2026 · 1 evento
+### Hoje · seg, 23/11/2026
 
-| Hora | Módulo | Evento | Detalhe | 📲 |
-|---|---|---|---|---|
-| **10:15** | Entradas · Diário · Semáforo N3 após ζ Fundo | 🔴 Stop atingido no pregão (até 10:15) ⚡ | stop 164.447 · -1,2% (compra de 19/11 a 166.376) | — |
+*Nenhum evento hoje até agora.*
 
-### qui, 19/11/2026 · 2 eventos
+### qui, 19/11/2026 · 1 evento
 
 | Hora | Módulo | Evento | Detalhe | 📲 |
 |---|---|---|---|---|
 | **19:10** | IMA · diário | 🔵 ζ Fundo entrou em nível alto | Risco 0% · ζ Topo 0% · ζ Fundo 61% · LPPL 0% | — |
-| **19:01** | Entradas · Diário · Semáforo N3 após ζ Fundo | 🟢 Compra no fechamento ⏱️ | a 166.376 (19/11) · ⚡ stop 164.447 · setup ζ Fundo 61% | — |
 
 ## Histórico por ano
 
@@ -37,9 +34,9 @@ Clique no ano; na página do ano, clique no mês e depois no dia.
 
 | Ano | Eventos | 🟢 Compras | ⚪🔴 Vendas e stops | 📌⚠️ Ordens armadas | Sinais |
 |---|---|---|---|---|---|
-| **[2026](linha-do-tempo/2026)** | 225 | 23 | 45 | 33 | 40 |
-| **[2025](linha-do-tempo/2025)** | 113 | 30 | 25 | 43 | 11 |
-| **[2024](linha-do-tempo/2024)** | 156 | 41 | 45 | 57 | 3 |
+| **[2026](linha-do-tempo/2026)** | 218 | 20 | 42 | 33 | 40 |
+| **[2025](linha-do-tempo/2025)** | 111 | 29 | 24 | 43 | 11 |
+| **[2024](linha-do-tempo/2024)** | 154 | 40 | 44 | 57 | 3 |
 | **[2023](linha-do-tempo/2023)** | 99 | 22 | 22 | 53 | 1 |
 | **[2022](linha-do-tempo/2022)** | 92 | 26 | 24 | 39 | 2 |
 | **[2021](linha-do-tempo/2021)** | 77 | 15 | 17 | 45 | 0 |

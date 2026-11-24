@@ -110,19 +110,16 @@ Ibovespa com **MME(9)**, **MMA(20)**, **MMA(50)**, **MMA(200)** e **Bollinger(20
 **Entradas do método neste gráfico** (▲ = compra · ✖ = saída · tracejado âmbar = stop da compra em andamento · linha verde-água/âmbar = Nadaraya 12 · ● = fundo/topo fixo do semáforo) — [regras](metodologia/regras-de-operacao#entradas-do-método)
 
 - **Nadaraya** (✅ passou fora da amostra): sem setup ativo
-- **Semáforo N3 após ζ Fundo** (🧪 em observação): ⏳ aguardando — setup ζ Fundo 63%; entra quando fundo candidato em 23/11 (164.129): vira entrada se não houver mínima menor em 12 pregões
 
 *Operações anteriores a 23/10/2026 são simuladas no histórico (as regras estão em teste ao vivo desde então).*
 
 | Regra | Entrada | Saída | Resultado | Motivo |
 |---|---|---|---|---|
-| Semáforo N3 após ζ Fundo | 19/11/26 a 166,376 | 23/11/26 a 164,447 | **-1,2%** | stop |
 | Nadaraya | 25/08/26 a 174,577 | 29/10/26 a 169,186 | **-3,1%** | saída do método (linha rápida cruzou para baixo) |
-| Semáforo N3 após ζ Fundo | 01/09/26 a 179,723 | 24/09/26 a 183,966 | **+2,4%** | saída do método (topo fixo do semáforo nível 3) |
-| Semáforo N3 após ζ Fundo | 07/07/26 a 172,021 | 10/08/26 a 172,021 | **+0,0%** | stop no preço de entrada |
 | Nadaraya | 20/10/25 a 144,509 | 19/01/26 a 164,849 | **+14,1%** | limite de 60 candles |
 | Nadaraya | 12/06/25 a 137,800 | 15/07/25 a 135,250 | **-1,9%** | saída do método (linha rápida cruzou para baixo) |
+| Nadaraya | 14/04/25 a 129,454 | 09/06/25 a 135,699 | **+4,8%** | saída do método (linha rápida cruzou para baixo) |
 
 <small>Direção = valor de hoje comparado com o do candle anterior (no semanal e no mensal, com o candle em formação). MACD-V: 🟩 verde subindo · 🟢 verde sem brilho · 🔴 vermelho sem brilho · 🟥 vermelho caindo. CCI: aqua subindo · magenta caindo · azul ≥ +200 · vermelho ≤ −200 · linha amarela = MME9 do CCI.</small>
 
-*Atualizado em 23/11/2026 19:05 BRT. Dados: Yahoo (^BVSP); semanal e mensal montados do diário.*
+*Atualizado em 23/11/2026 21:16 BRT. Dados: Yahoo (^BVSP); semanal e mensal montados do diário.*
