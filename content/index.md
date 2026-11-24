@@ -7,12 +7,12 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 24/11/2026 17:45 BRT · Intraday 15min · preço da corretora, tempo real*
+*Última atualização: 24/11/2026 17:58 BRT · Intraday 15min · preço da corretora, tempo real*
 
-> [!success] Onde o mercado está agora (24/11 17:30, candles de 15 min): **🟢 Calmo**
+> [!success] Onde o mercado está agora (24/11 17:30, candles de 15 min): **🟢 Sem esticamento**
 > `Pânico ◀──────────●──────────▶ Euforia` · ζ Topo **0%** · ζ Fundo **2%**
 >
-> **O Ibovespa cai 1,35% agora, aos 164.132 pontos.** O preço está dentro da sua faixa normal, sem excesso para cima nem para baixo.
+> **O Ibovespa cai 1,35% agora, aos 164.132 pontos.** O preço não fez movimento brusco em relação à sua tendência, nem para cima nem para baixo. Isso fala da velocidade do movimento, não do nível do preço.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
@@ -41,7 +41,7 @@ tags: [home]
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
 > > [!success] IMA Intraday · 15 min (24/11 17:30): 🟢 **VERDE** — ζ Topo **0%** · ＝ +0 p.p. vs leitura anterior
 > > `░░░░░░░░░░░░░░░░░░░░` **0%**
-> > Preço na faixa normal em torno da tendência.
+> > Sem esticamento brusco em relação à tendência.
 >
 >
 > | Indicador — IMA Intraday · 15 min (24/11 17:30) | Valor |
