@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 55 tabelas no acervo · página gerada em 24/11/2026 18:31*
+*Pregão conferido: **19/11/2026**, com 55 tabelas no acervo · página gerada em 24/11/2026 19:04*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -21,9 +21,9 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | nenhuma |
-| Páginas publicadas | 368 |
+| Páginas publicadas | 369 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 24/11 18:31 |
+| Página escrita mais recentemente | 24/11 19:04 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -116,16 +116,16 @@ Nenhuma tabela do pregão conferido ficou abaixo da metade do seu próprio norma
 
 Duas medidas diferentes, que antes eram confundidas numa só. O **mtime** diz quando o gerador escreveu o arquivo e pega gerador que parou de rodar. A **data declarada** diz a que pregão o conteúdo se refere e pega gerador que roda mas cujo dado não anda — que foi o defeito do agro em 16/11.
 
-Pregão mais recente declarado por alguma página: **23/11/2026**.
+Pregão mais recente declarado por alguma página: **24/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
 | `diario/index.md` | 16/11 14:43 | 8.2 |
 | `intraday/index.md` | 16/11 14:43 | 8.2 |
-| `por-onde-comecar.md` | 16/11 15:20 | 8.1 |
+| `por-onde-comecar.md` | 16/11 15:20 | 8.2 |
 | `autopsias/index.md` | 19/11 14:39 | 5.2 |
 | `ofertas.md` | 21/11 07:15 | 3.5 |
-| `espectro/grandes-tombos.md` | 22/11 17:30 | 2.0 |
+| `espectro/grandes-tombos.md` | 22/11 17:30 | 2.1 |
 
 ### Página declarando data sem pregão
 

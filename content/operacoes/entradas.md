@@ -58,7 +58,7 @@ description: "Compra depois de um sinal de fundo: Nadaraya no diário, semáforo
 
 > [!tip] 🎯 Entradas do método — 🧪 em teste ao vivo desde 23/10/2026 (só compra)
 >
-> 🌊 **Contexto do IMA para compras:** 🎯 **amplitude saiu da região de fundo** em 09/11 — ζ Topo 0% · ζ Fundo 64% em 24/11 · *informa, não filtra*
+> 🌊 **Contexto do IMA para compras:** 🎯 **amplitude saiu da região de fundo** em 11/11 — ζ Topo 0% · ζ Fundo 64% em 24/11 · *informa, não filtra*
 >
 > **Placar ao vivo** (só as regras que avisam no Telegram): 1 operação(ões), 0 com lucro, média -0,8%, soma -0,8%
 >
