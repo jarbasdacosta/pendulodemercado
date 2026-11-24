@@ -225,4 +225,4 @@ O risco mostrado é o **máximo do dia** — é o que importa para saber se a zo
 | 2026-07-06 | 2 | 🟢 VERDE | 39% | 39% | 0% |
 | 2026-07-03 | 1 | 🟢 VERDE | 10% | 14% | 0% |
 
-<small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Dist. média**: percentil da distância do preço à média das 252 barras anteriores — a mesma janela do ζ. 100% = mais longe acima do que em qualquer momento das últimas 500 barras; 0% = mais longe abaixo; 50% = distância típica. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
+<small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Dist. média**: a distância do preço à média das 252 barras anteriores (a mesma janela do ζ) e, entre parênteses, o percentil dessa distância nas últimas 500 barras. `−8,2% (p0)` = o preço está 8,2% **abaixo** da média e nunca esteve tão abaixo em toda a janela. 🔵 ≤ p10 · 🔴 ≥ p90. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
