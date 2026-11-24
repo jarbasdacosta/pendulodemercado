@@ -3,18 +3,18 @@ title: "🌍 Mercados"
 date: 2026-11-24
 tags: [mercados]
 description: "O que mandou no dia: internacional, Brasil, a sincronia entre Ibovespa, dólar e juro, os índices da B3 e onde está — ou não está — a vantagem"
-pregao: 2026-11-18
+pregao: 2026-11-19
 ---
 
 > [!warning] Divergência entre números desta página
 >
-> O fechamento do Ibovespa é de **2026-11-18**, mas as variações de dia, mês, ano e 360 dias são calculadas sobre a série que termina em **2026-11-19**. Os dois números são corretos, só não são do mesmo pregão — não os compare entre si.
+> O fechamento do Ibovespa é de **2026-11-19**, mas as variações de dia, mês, ano e 360 dias são calculadas sobre a série que termina em **2026-11-23**. Os dois números são corretos, só não são do mesmo pregão — não os compare entre si.
 >
 > Isto é um defeito, não uma característica — está dito aqui porque esconder seria pior.
 
 > [!note] A que pregão se refere cada bloco
 >
-> **Internacional**: 2026-11-24 · **Ibovespa (fechamento oficial)**: 2026-11-18 · **Ibovespa (série das variações)**: 2026-11-19 · **Dólar (PTAX)**: 2026-11-23 · **Curva de juros**: 2026-11-23 · **O lado (painel de vantagem)**: 2026-11-19
+> **Internacional**: 2026-11-24 · **Ibovespa (fechamento oficial)**: 2026-11-19 · **Ibovespa (série das variações)**: 2026-11-23 · **Dólar (PTAX)**: 2026-11-24 · **Curva de juros**: 2026-11-23 · **O lado (painel de vantagem)**: 2026-11-23
 >
 > Blocos com datas diferentes é o normal: as bolsas lá fora negociam enquanto a B3 ainda não publicou o boletim do dia, e a PTAX sai no meio da tarde. O que não vale é comparar número de um com número de outro.
 
@@ -22,7 +22,7 @@ pregao: 2026-11-18
 
 > [!example] ⚪ nenhum sinal passou da trava hoje — sem vantagem medível, ficar de fora é a posição
 >
-> Medido em 1021 pregões (2022-10-18 a 2026-11-19), 4 sinais testados.
+> Medido em 1022 pregões (2022-10-18 a 2026-11-23), 4 sinais testados.
 >
 > **Por que a régua é dura:** testando 4 sinais a 0.05, a chance de um passar por sorte seria ~19%. Por isso a exigência de cada sinal é p < 0.0125, e não os 5% de costume. Sem essa correção o site viraria uma máquina de achar padrão onde não tem.
 >
@@ -30,24 +30,24 @@ pregao: 2026-11-18
 
 | sinal | situação | lado | base medida | o que NÃO fazer |
 |---|---|---|---|---|
-| configuração do dia (bolsa, dólar, juro) | risco saindo · Ibovespa -0.69%, dólar +1.35%, juro +21 p.b. | FORA | 221 casos · subiu em 55,2% (± 3,4 p.p.) · p=0,122 | operar a configuração como se ela mandasse: o teste mede o dia seguinte, não a semana |
-| tendência (preço contra as médias de 21 e 63 dias) | abaixo da média de 21 dias · média de 21 abaixo da de 63 | FORA | 211 casos · subiu em 50,2% (± 3,4 p.p.) · p=0,945 | usar isso para o intradia: a medida é de 5 pregões |
-| o dólar ainda informa a bolsa? (últimos 126 pregões) | nos últimos 126 pregões, depois de o dólar subir o Ibovespa ficou em -0.09% no dia seguint | FORA | 126 casos · subiu em 44,4% (± 4,5 p.p.) · p=0,212 | tratar o dólar como termômetro da bolsa quando esta medida não passar — o elo clássico nem sempre está ligado |
-| o juro informa a bolsa? (últimos 126 pregões) | juro de hoje +21 p.b. | FORA | 126 casos · subiu em 42,9% (± 4,5 p.p.) · p=0,109 | inverter a leitura num dia de Copom ou de leilão do Tesouro: ali o juro reage a evento, não a risco |
-| tamanho do dia (volatilidade) | movimento de 0.69% contra 0.86% típicos de 21 dias — dentro do normal | NÃO DÁ LADO · DIMENSIONA | razão 0.80 contra a mediana de 21 dias | nada a ajustar por volatilidade |
+| configuração do dia (bolsa, dólar, juro) | bolsa cai e dolar sobe, juro em queda · Ibovespa -0.95%, dólar +1.39%, juro -15 p.b. | FORA | 87 casos · subiu em 50,6% (± 5,4 p.p.) · p=0,915 | operar a configuração como se ela mandasse: o teste mede o dia seguinte, não a semana |
+| tendência (preço contra as médias de 21 e 63 dias) | abaixo da média de 21 dias · média de 21 abaixo da de 63 | FORA | 212 casos · subiu em 50,0% (± 3,4 p.p.) · p=1,000 | usar isso para o intradia: a medida é de 5 pregões |
+| o dólar ainda informa a bolsa? (últimos 126 pregões) | nos últimos 126 pregões, depois de o dólar subir o Ibovespa ficou em -0.095% no dia seguin | FORA | 126 casos · subiu em 45,2% (± 4,5 p.p.) · p=0,285 | tratar o dólar como termômetro da bolsa quando esta medida não passar — o elo clássico nem sempre está ligado |
+| o juro informa a bolsa? (últimos 126 pregões) | juro de hoje -15 p.b. | FORA | 126 casos · subiu em 43,7% (± 4,5 p.p.) · p=0,154 | inverter a leitura num dia de Copom ou de leilão do Tesouro: ali o juro reage a evento, não a risco |
+| tamanho do dia (volatilidade) | movimento de 0.95% contra 0.95% típicos de 21 dias — dentro do normal | NÃO DÁ LADO · DIMENSIONA | razão 1.00 contra a mediana de 21 dias | nada a ajustar por volatilidade |
 
 ## Brasil
 
-**Ibovespa** · fechamento oficial da B3 em 2026-11-18: **167.537** pontos
+**Ibovespa** · fechamento oficial da B3 em 2026-11-19: **166.376** pontos
 
 | | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Ibovespa 🔴 | 166.376 pts | -0,69% | -0,92% | 3,26% | 7,50% |
-| Dólar (PTAX) 🟢 | R$ 5,9708 | 1,39% | 10,14% | 8,51% | 11,62% |
-| DI 2030 🟢 | 15,420% | 21 p.b. | 21 p.b. | 224 p.b. | 256 p.b. |
+| Ibovespa 🔴 | 164.796 pts | -0,95% | -1,86% | 2,28% | 4,06% |
+| Dólar (PTAX) 🔴 | R$ 5,8573 | -1,90% | 8,04% | 6,45% | 9,81% |
+| DI 2030 🔴 | 15,265% | -16 p.b. | 6 p.b. | 208 p.b. | 254 p.b. |
 | Dólar futuro (WDOZ26) | 5.938,50 | — | — | — | — |
 
-<small>Ibovespa e DI pela série do MT5 (fecha em 2026-11-19); dólar pela PTAX do Banco Central em 2026-11-23, que é a taxa oficial e não tem salto de rolagem como o futuro contínuo. Juro em pontos-base, não em porcentagem de si mesmo: de 14,00% para 15,00% são 100 p.b., não “+7%”.</small>
+<small>Ibovespa e DI pela série do MT5 (fecha em 2026-11-23); dólar pela PTAX do Banco Central em 2026-11-24, que é a taxa oficial e não tem salto de rolagem como o futuro contínuo. Juro em pontos-base, não em porcentagem de si mesmo: de 14,00% para 15,00% são 100 p.b., não “+7%”.</small>
 
 **Curva de juros** · 43 vencimentos negociados em 2026-11-23
 
@@ -65,20 +65,20 @@ pregao: 2026-11-18
 
 ## Sincronia: Ibovespa, dólar e juro andam juntos?
 
-> [!example] 🟢 **risco saindo** em 2026-11-19
+> [!example] 🟡 **bolsa cai e dolar sobe, juro em queda** em 2026-11-23
 >
-> Ibovespa -0,69% · dólar +1,35% · juro +21 p.b.
+> Ibovespa -0,95% · dólar +1,39% · juro -16 p.b.
 >
 > Nos últimos 21 pregões, **14 de 21** dias tiveram os três em configuração coerente.
 
 | par | correlação (postos) | percentil histórico | Pearson | sem o dia mais influente |
 |---|---|---|---|---|
-| Ibovespa × dólar | **-0.332** | 76 | -0.857 | -0.138 ⚠️ |
-| Ibovespa × juro | **-0.648** | 33 | -0.951 | -0.567 ⚠️ |
+| Ibovespa × dólar | **-0.379** | 68 | -0.856 | -0.162 ⚠️ |
+| Ibovespa × juro | **-0.598** | 44 | -0.948 | -0.542 ⚠️ |
 
 <small>⚠️ marca o par em que **um único dia carrega o número**: tirando aquele dia da janela, a correlação muda de patamar. Por isso o valor principal é o de postos (Spearman), que resiste a um ponto fora da curva, e o percentil é calculado contra ele. Vender “sincronia histórica” que na verdade é um pregão isolado seria estatística com cara de manchete.</small>
 
-> [!note] Desde 2026-10-26 (17 pregões): Ibovespa × dólar **-0.137** · Ibovespa × juro **-0.556**.
+> [!note] Desde 2026-10-26 (18 pregões): Ibovespa × dólar **-0.158** · Ibovespa × juro **-0.516**.
 > 
 > reeleicao: Ibovespa -13,88%, dolar +8,8%, curva de DI +~260 p.b. em um dia, com circuit breaker.
 > 
@@ -90,11 +90,11 @@ pregao: 2026-11-18
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Ouro 🔴 | 3.620,20 US$/oz | -0,85% | -7,15% | -16,61% | -14,92% |
-| Cobre 🔴 | 5,55 US$/lb | -1,45% | -14,14% | -1,50% | 6,94% |
-| Petróleo Brent 🔴 | 86,07 US$/bbl | -3,69% | -26,84% | 41,45% | 36,19% |
-| Dollar Index 🔴 | 104,25 pontos | -0,06% | 2,33% | 6,08% | 4,82% |
-| Juro EUA 10 anos 🟢 | 4,92 % a.a. | 1 p.b. | -1 p.b. | 76 p.b. | 90 p.b. |
+| Ouro 🔴 | 3.568,70 US$/oz | -2,26% | -8,47% | -17,79% | -16,13% |
+| Cobre 🔴 | 5,42 US$/lb | -3,68% | -16,08% | -3,73% | 4,52% |
+| Petróleo Brent 🔴 | 86,75 US$/bbl | -2,93% | -26,26% | 42,56% | 37,26% |
+| Dollar Index 🔴 | 103,83 pontos | -0,47% | 1,91% | 5,64% | 4,39% |
+| Juro EUA 10 anos 🔴 | 4,88 % a.a. | -3 p.b. | -5 p.b. | 72 p.b. | 87 p.b. |
 
 <small>Taxas de juro variam em **pontos-base**, não em porcentagem de si mesmas: um juro que vai de 4,16% a 5,10% subiu 94 p.b.; dizer “+22%” seria tecnicamente verdade e praticamente inútil.</small>
 
@@ -104,103 +104,103 @@ pregao: 2026-11-18
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Platina 🔴 | 1.279,00 US$/oz | -3,34% | -11,06% | -37,13% | -23,76% |
-| Prata 🔴 | 41,79 US$/oz | -3,13% | -14,87% | -40,41% | -25,96% |
-| Paládio 🔴 | 874,00 US$/oz | -2,37% | -11,23% | -46,35% | -40,49% |
-| Ouro 🔴 | 3.620,20 US$/oz | -0,85% | -7,15% | -16,61% | -14,92% |
+| Prata 🔴 | 40,58 US$/oz | -5,96% | -17,36% | -42,15% | -28,12% |
+| Platina 🔴 | 1.251,00 US$/oz | -5,46% | -13,00% | -38,51% | -25,43% |
+| Paládio 🔴 | 854,50 US$/oz | -4,55% | -13,21% | -47,55% | -41,82% |
+| Ouro 🔴 | 3.568,70 US$/oz | -2,26% | -8,47% | -17,79% | -16,13% |
 
 ### Metais industriais
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Alumínio 🔴 | 2.796,00 US$/t | -3,50% | -15,54% | -3,79% | -0,43% |
-| Cobre 🔴 | 5,55 US$/lb | -1,45% | -14,14% | -1,50% | 6,94% |
+| Aço laminado 🟢 | 1.430,00 US$/t | 5,77% | 6,16% | 52,94% | 57,49% |
+| Alumínio 🔴 | 2.739,50 US$/t | -5,45% | -17,25% | -5,74% | -2,44% |
+| Cobre 🔴 | 5,42 US$/lb | -3,68% | -16,08% | -3,73% | 4,52% |
 | Minério de ferro ⚪ | 90,67 US$/t | 0,00% | -0,04% | -15,36% | -13,52% |
-| Aço laminado ⚪ | 1.352,00 US$/t | 0,00% | 0,37% | 44,60% | 48,90% |
 
 ### Energia
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Gás natural 🟢 | 3,61 US$/MMBtu | 13,38% | 24,57% | -2,06% | -25,57% |
-| Petróleo Brent 🔴 | 86,07 US$/bbl | -3,69% | -26,84% | 41,45% | 36,19% |
-| Óleo de aquecimento 🔴 | 3,64 US$/gal | -1,67% | -24,10% | 71,45% | 55,84% |
-| Gasolina 🔴 | 2,38 US$/gal | -0,94% | -28,06% | 39,72% | 25,68% |
-| Petróleo WTI 🔴 | 79,46 US$/bbl | -0,89% | -23,68% | 38,38% | 35,71% |
+| Gás natural 🟢 | 3,70 US$/MMBtu | 16,08% | 27,54% | 0,27% | -23,79% |
+| Petróleo Brent 🔴 | 86,75 US$/bbl | -2,93% | -26,26% | 42,56% | 37,26% |
+| Óleo de aquecimento 🔴 | 3,63 US$/gal | -1,94% | -24,32% | 70,97% | 55,41% |
+| Gasolina 🔴 | 2,40 US$/gal | -0,36% | -27,64% | 40,54% | 26,41% |
+| Petróleo WTI 🔴 | 80,01 US$/bbl | -0,20% | -23,16% | 39,34% | 36,65% |
 
 ### Grãos
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Aveia 🟢 | 377,00 ¢/bu | 3,50% | 9,67% | 24,63% | 27,91% |
 | Milho 🟢 | 449,25 ¢/bu | 3,45% | 0,34% | 2,04% | 3,16% |
-| Trigo 🟢 | 593,50 ¢/bu | 2,86% | -1,66% | 17,06% | 11,77% |
-| Arroz 🟢 | 18,84 US$/cwt | 1,51% | 8,09% | 96,40% | 87,05% |
-| Óleo de soja 🔴 | 59,04 ¢/lb | -0,54% | -10,41% | 22,82% | 14,06% |
-| Farelo de soja 🔴 | 344,40 US$/t | -0,38% | 6,10% | 16,94% | 9,54% |
-| Soja 🟢 | 1.229,75 ¢/bu | 0,08% | 0,61% | 19,34% | 8,09% |
+| Aveia 🟢 | 376,00 ¢/bu | 3,23% | 9,38% | 24,30% | 27,57% |
+| Trigo 🟢 | 589,50 ¢/bu | 2,17% | -2,32% | 16,27% | 11,02% |
+| Farelo de soja 🟢 | 350,60 US$/t | 1,42% | 8,01% | 19,05% | 11,51% |
+| Soja 🟢 | 1.237,00 ¢/bu | 0,67% | 1,21% | 20,04% | 8,72% |
+| Arroz 🔴 | 18,82 US$/cwt | -0,16% | 7,92% | 96,09% | 86,75% |
+| Óleo de soja 🔴 | 59,35 ¢/lb | -0,02% | -9,94% | 23,47% | 14,66% |
 
 ### Softs
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Suco de laranja 🟢 | 134,30 ¢/lb | 5,25% | 16,43% | -34,55% | -13,94% |
-| Algodão 🟢 | 80,94 ¢/lb | 4,40% | 4,00% | 25,94% | 28,66% |
-| Cacau 🟢 | 5.186,00 US$/t | 1,19% | -4,90% | -14,49% | -4,03% |
-| Açúcar 🔴 | 17,52 ¢/lb | -0,51% | -9,50% | 16,72% | 15,19% |
-| Café arábica 🔴 | 274,35 ¢/lb | -0,18% | -4,47% | -21,33% | -33,57% |
+| Algodão 🟢 | 81,11 ¢/lb | 4,62% | 4,21% | 26,20% | 28,93% |
+| Cacau 🟢 | 5.400,00 US$/t | 4,13% | -0,97% | -10,96% | -0,07% |
+| Café arábica 🔴 | 263,30 ¢/lb | -4,03% | -8,32% | -24,50% | -36,25% |
+| Suco de laranja 🔴 | 133,30 ¢/lb | -0,74% | 15,56% | -35,04% | -14,58% |
+| Açúcar 🟢 | 17,70 ¢/lb | 0,51% | -8,57% | 17,92% | 16,37% |
 
 ### Proteína
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Boi gordo (EUA) 🟢 | 224,55 ¢/lb | 0,70% | 0,25% | -3,21% | 4,16% |
-| Bezerro (EUA) 🔴 | 334,33 ¢/lb | -0,33% | -1,02% | -4,55% | 3,19% |
-| Suíno (EUA) 🔴 | 52,45 ¢/lb | -0,29% | -10,91% | -38,37% | -34,93% |
+| Bezerro (EUA) 🔴 | 331,40 ¢/lb | -0,87% | -1,89% | -5,38% | 2,29% |
+| Suíno (EUA) 🔴 | 52,38 ¢/lb | -0,14% | -11,04% | -38,45% | -35,02% |
+| Boi gordo (EUA) 🟢 | 224,80 ¢/lb | 0,11% | 0,36% | -3,10% | 4,28% |
 
 > As agrícolas negociadas **na B3**, com a curva e o que ela diz, estão na página [🌾 Agro](/agro). Aqui é o preço lá fora, que é o que chega antes.
 
 ## Índices da B3
 
-Os índices publicados pela B3 no pregão de **18/11/2026**, na ordem do que mais subiu ao que mais caiu no dia. Boletim coletado no acervo em **19/11/2026 06:26** · 33 índices.
+Os índices publicados pela B3 no pregão de **19/11/2026**, na ordem do que mais subiu ao que mais caiu no dia. Boletim coletado no acervo em **24/11/2026 06:31** · 33 índices.
 
 | índice | fechamento | no dia | intradiário | mínimo | máximo |
 |---|---|---|---|---|---|
-| BDRX 🟢 | 29.429 | 1,92% | 1,44% | 28.979 | 29.622 |
-| IMATBASICOS 🟢 | 6.243 | 0,66% | 0,66% | 6.196 | 6.297 |
-| INDX 🟢 | 31.288 | 0,43% | 0,44% | 31.130 | 31.622 |
-| ICONSUMO 🔴 | 2.660 | -0,15% | -0,15% | 2.653 | 2.695 |
-| IVBX2 🔴 | 17.683 | -0,67% | -0,62% | 17.619 | 17.891 |
-| IBHB 🔴 | 1.607 | -0,74% | -0,62% | 1.603 | 1.644 |
-| IBLV 🔴 | 1.315 | -0,75% | -0,83% | 1.309 | 1.331 |
-| IFIL 🔴 | 1.552 | -0,77% | -0,77% | 1.548 | 1.565 |
-| SMALL CAP 🔴 | 2.004 | -0,79% | -0,79% | 2.000 | 2.034 |
-| IFIX 🔴 | 3.513 | -0,82% | -0,82% | 3.506 | 3.543 |
-| IBEW 🔴 | 1.411 | -0,84% | -0,84% | 1.406 | 1.430 |
-| AGFS 🔴 | 1.391 | -0,86% | -0,86% | 1.386 | 1.412 |
-| GPTW 🔴 | 1.249 | -0,95% | -0,95% | 1.247 | 1.268 |
-| IBOV SD TR 🔴 | 1.915 | -1,03% | -0,98% | 1.915 | 1.942 |
-| ISE 🔴 | 4.017 | -1,11% | -1,11% | 4.011 | 4.078 |
-| IDIVERSA B3 🔴 | 1.408 | -1,12% | -1,05% | 1.404 | 1.429 |
-| IEE 🔴 | 121.934 | -1,18% | -1,18% | 121.425 | 123.384 |
-| ICO2 🔴 | 2.943 | -1,18% | -1,18% | 2.929 | 2.992 |
-| IBEP 🔴 | 1.652 | -1,20% | -1,20% | 1.650 | 1.676 |
-| I DIVIDENDOS 🔴 | 11.778 | -1,21% | -1,20% | 11.759 | 11.958 |
-| UTILITIES 🔴 | 17.614 | -1,29% | -1,29% | 17.582 | 17.844 |
-| IBOVESPA 🔴 | 167.537 | -1,34% | -1,32% | 167.099 | 170.259 |
-| IBRASIL 🔴 | 6.559 | -1,37% | -1,35% | 6.542 | 6.665 |
-| IBRX100 🔴 | 70.601 | -1,37% | -1,37% | 70.411 | 71.749 |
-| IGNM 🔴 | 4.361 | -1,38% | -1,38% | 4.350 | 4.428 |
-| IBRX50 🔴 | 28.321 | -1,39% | -1,38% | 28.232 | 28.785 |
-| MIDLARGE CAP 🔴 | 3.486 | -1,41% | -1,41% | 3.475 | 3.543 |
-| IGC TRADE 🔴 | 7.440 | -1,42% | -1,42% | 7.419 | 7.565 |
-| IGC 🔴 | 25.826 | -1,43% | -1,43% | 25.750 | 26.253 |
-| ITAG 🔴 | 36.069 | -1,44% | -1,44% | 35.970 | 36.679 |
-| IBEE 🔴 | 4.701 | -1,61% | -1,57% | 4.680 | 4.788 |
-| IMOBILIARIO 🔴 | 1.102 | -1,87% | -1,87% | 1.099 | 1.125 |
-| IFINANCEIRO 🔴 | 16.334 | -2,44% | -2,43% | 16.303 | 16.763 |
+| IBEE 🟢 | 4.716 | 0,32% | 0,32% | 4.679 | 4.742 |
+| IMATBASICOS 🔴 | 6.230 | -0,21% | -0,21% | 6.176 | 6.262 |
+| INDX 🔴 | 31.185 | -0,33% | -0,33% | 30.958 | 31.505 |
+| IFINANCEIRO 🔴 | 16.268 | -0,40% | -0,40% | 16.182 | 16.481 |
+| UTILITIES 🔴 | 17.528 | -0,49% | -0,54% | 17.462 | 17.734 |
+| I DIVIDENDOS 🔴 | 11.715 | -0,53% | -0,53% | 11.658 | 11.830 |
+| IEE 🔴 | 121.154 | -0,64% | -0,71% | 120.793 | 122.417 |
+| IBOV SD TR 🔴 | 1.902 | -0,68% | -0,73% | 1.890 | 1.923 |
+| MIDLARGE CAP 🔴 | 3.462 | -0,69% | -0,69% | 3.451 | 3.504 |
+| IBOVESPA 🔴 | 166.376 | -0,69% | -0,71% | 165.833 | 168.498 |
+| IBRX50 🔴 | 28.122 | -0,70% | -0,72% | 28.035 | 28.486 |
+| IBRX100 🔴 | 70.093 | -0,72% | -0,73% | 69.857 | 70.997 |
+| BDRX 🔴 | 29.217 | -0,72% | -0,64% | 29.150 | 30.183 |
+| IBEP 🔴 | 1.640 | -0,73% | -0,73% | 1.634 | 1.662 |
+| IVBX2 🔴 | 17.554 | -0,73% | -0,76% | 17.478 | 17.768 |
+| IBRASIL 🔴 | 6.511 | -0,73% | -0,75% | 6.489 | 6.596 |
+| IGNM 🔴 | 4.329 | -0,73% | -0,78% | 4.312 | 4.388 |
+| IGC TRADE 🔴 | 7.385 | -0,74% | -0,75% | 7.360 | 7.484 |
+| ITAG 🔴 | 35.793 | -0,77% | -0,78% | 35.680 | 36.284 |
+| IGC 🔴 | 25.627 | -0,77% | -0,79% | 25.544 | 25.979 |
+| IDIVERSA B3 🔴 | 1.397 | -0,78% | -0,78% | 1.390 | 1.414 |
+| ICO2 🔴 | 2.920 | -0,78% | -0,78% | 2.907 | 2.959 |
+| AGFS 🔴 | 1.380 | -0,79% | -0,86% | 1.368 | 1.399 |
+| ISE 🔴 | 3.985 | -0,80% | -0,82% | 3.965 | 4.039 |
+| IFIX 🔴 | 3.485 | -0,80% | -0,80% | 3.474 | 3.517 |
+| IFIL 🔴 | 1.538 | -0,90% | -0,90% | 1.534 | 1.554 |
+| IBEW 🔴 | 1.397 | -0,99% | -0,99% | 1.392 | 1.417 |
+| ICONSUMO 🔴 | 2.627 | -1,24% | -1,24% | 2.610 | 2.677 |
+| SMALL CAP 🔴 | 1.979 | -1,25% | -1,25% | 1.968 | 2.023 |
+| IBLV 🔴 | 1.298 | -1,29% | -1,37% | 1.295 | 1.322 |
+| GPTW 🔴 | 1.232 | -1,36% | -1,36% | 1.227 | 1.256 |
+| IMOBILIARIO 🔴 | 1.086 | -1,45% | -1,63% | 1.078 | 1.118 |
+| IBHB 🔴 | 1.576 | -1,93% | -1,99% | 1.573 | 1.626 |
 
-<small><b>no dia</b> é o fechamento contra o fechamento do pregão anterior (17/11/2026) — a convenção de mercado, e a conta com que qualquer outra fonte vai ser comparada. <b>intradiário</b> é o fechamento contra a abertura do próprio pregão, que é a conta que o boletim da B3 permite direto e que <b>descarta o gap de abertura</b>. As duas aparecem porque a diferença entre elas é o gap, e gap é informação.</small>
+<small><b>no dia</b> é o fechamento contra o fechamento do pregão anterior (18/11/2026) — a convenção de mercado, e a conta com que qualquer outra fonte vai ser comparada. <b>intradiário</b> é o fechamento contra a abertura do próprio pregão, que é a conta que o boletim da B3 permite direto e que <b>descarta o gap de abertura</b>. As duas aparecem porque a diferença entre elas é o gap, e gap é informação.</small>
 
 ## Fluxo: quem subiu, quem caiu e quanto custa ficar vendido
 
@@ -332,12 +332,8 @@ A série inteira mostra a distorção se diluindo conforme o prazo cresce: **-22
 
 ### Por que a diferença entre o futuro e a PTAX engana
 
-| ajuste do `WDOZ26` contra a PTAX | **-0,581%** |
-|---|---|
-| carrego de verdade, nos 6 dias úteis que faltam para o vencimento | +0,153% |
-| **sobra, que não é carrego** | **-0,735%** |
-
-A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volta das 13h; o ajuste do futuro sai no fechamento. São cinco horas de pregão entre uma medida e outra, e tudo que o dólar andou nesse intervalo aparece como se fosse prêmio.
+> [!note] Hoje não dá para medir esse pedaço
+> PTAX é de 2026-11-24 e o boletim é de 2026-11-23. Comparar o ajuste de um dia com a PTAX de outro é exatamente o erro que esta seção existe para explicar, então o número não sai.
 
 ### Onde pode estar a vantagem, e o que não fazer
 
@@ -352,16 +348,17 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 
 | ativo | movimento | desvio | onde |
 |---|---|---|---|
+| **Alumínio** | -5,45% | z -3,0 | internacional |
+| **Aço laminado** | 5,77% | z 6,4 | internacional |
+| **Gás natural** | 16,08% | z 2,8 | internacional |
 | **Milho** | 3,45% | z 2,5 | internacional |
-| **Algodão** | 4,40% | z 2,8 | internacional |
-| **S&P 500** | 4,73% | z 4,9 | internacional |
-| **Nasdaq** | 6,51% | z 4,8 | internacional |
-| **Dow Jones** | 3,01% | z 3,3 | internacional |
+| **Algodão** | 4,62% | z 2,9 | internacional |
+| **Nikkei 225** | -5,06% | z -2,7 | internacional |
 | **SOYB (Soja)** | volume 6,71× a mediana | acima do normal | fluxo de ETF |
 | **WEAT (Trigo)** | volume 0,44× a mediana | abaixo do normal | fluxo de ETF |
 | **QQQ (Nasdaq)** | volume 1,89× a mediana | acima do normal | fluxo de ETF |
 | **IEF (Treasury 7-10a)** | volume 3,09× a mediana | acima do normal | fluxo de ETF |
-| **Dólar (PTAX)** | 1,39% | z 2.24 (mediana/MAD) | Brasil |
+| **Dólar (PTAX)** | -1,90% | z -3.3 (mediana/MAD) | Brasil |
 
 <small>O desvio é medido contra a mediana e o MAD dos últimos 252 pregões, não contra o desvio-padrão: um único dia extremo — como 26/10/2026 — infla o desvio-padrão a ponto de nenhum dia normal mais parecer anômalo, e o alerta ficaria cego justamente depois de um susto.</small>
 
@@ -371,13 +368,13 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 
 | bloco | fonte | coletado |
 |---|---|---|
-| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 24/11 às 06:27 |
-| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 24/11 às 06:27 |
-| Dólar | Banco Central · PTAX de venda (série SGS 1) | 24/11 às 06:27 |
-| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 24/11 às 06:27 |
-| Índices da B3 | B3 · acervo diário de índices | 19/11/2026 06:26 |
+| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 24/11 às 13:20 |
+| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 24/11 às 13:20 |
+| Dólar | Banco Central · PTAX de venda (série SGS 1) | 24/11 às 13:20 |
+| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 24/11 às 13:20 |
+| Índices da B3 | B3 · acervo diário de índices | 24/11/2026 06:31 |
 | Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 24/11 às 06:27 |
-| O lado | medido sobre o painel do próprio site | 24/11 às 06:27 |
+| O lado | medido sobre o painel do próprio site | 24/11 às 13:20 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
 
