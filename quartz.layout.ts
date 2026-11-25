@@ -1,5 +1,8 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+// v1 (25/11/2026): import direto, sem passar pelo components/index.ts —
+// um arquivo a menos no caminho do risco de um build que nao compila.
+import AtualizaIntraday from "./quartz/components/AtualizaIntraday"
 import { FileTrieNode } from "./quartz/util/fileTrie"
 
 // ══════════════════════════════════════════════════════════════════════════════════════
@@ -248,7 +251,18 @@ const grupos = [
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    // v1 (25/11/2026): a pagina do intraday se atualiza sozinha durante o
+    // pregao. SO ela: o diario muda uma vez por dia e ninguem fica com ele
+    // aberto esperando. O literal fica dentro da funcao por disciplina deste
+    // arquivo — a regra 1 do topo vale para o Explorer, que serializa as
+    // funcoes com .toString(), e nao para o ConditionalRender, que decide no
+    // build; mas nao custa nada seguir a mesma forma.
+    Component.ConditionalRender({
+      component: AtualizaIntraday(),
+      condition: (page) => (page.fileData.slug ?? "").startsWith("intraday/"),
+    }),
+  ],
   footer: Component.Footer({
     links: {
       "Repositório": "https://github.com/jarbasdacosta/pendulodemercado",
