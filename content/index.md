@@ -7,12 +7,12 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 25/11/2026 14:00 BRT · Intraday 15min · preço da corretora, tempo real*
+*Última atualização: 25/11/2026 14:15 BRT · Intraday 15min · preço da corretora, tempo real*
 
-> [!success] Onde o mercado está agora (25/11 13:45, candles de 15 min): **🟢 Sem esticamento**
-> `Pânico ····················· Euforia` · **sem leitura** — os dois ζ abaixo de 20% (Topo 17%, Fundo 2%). A régua mede ζ Topo − ζ Fundo, hoje +16 p.p.; ponteiro no centro seria lido como equilíbrio, e não há esticamento medido de nenhum dos dois lados.
+> [!success] Onde o mercado está agora (25/11 14:00, candles de 15 min): **🟢 Sem esticamento**
+> `Pânico ◀────────────●────────▶ Euforia` · ζ Topo **23%** · ζ Fundo **2%** · régua = ζ Topo − ζ Fundo = **+21 p.p.**
 >
-> **O Ibovespa sobe 0,96% agora, aos 165.661 pontos.** O preço não fez movimento brusco em relação à sua tendência, nem para cima nem para baixo. Isso fala da velocidade do movimento, não do nível do preço.
+> **O Ibovespa sobe 1,10% agora, aos 165.901 pontos.** O preço não fez movimento brusco em relação à sua tendência, nem para cima nem para baixo. Isso fala da velocidade do movimento, não do nível do preço.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
@@ -20,7 +20,7 @@ tags: [home]
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 17% | [relatório](intraday/2026-11-25) |
+| 🌊 **Sinal IMA** | 🟢 VERDE · 🟢 calmo · ζ Topo 23% | [relatório](intraday/2026-11-25) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | — nenhuma regra com setup ativo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
@@ -39,27 +39,27 @@ tags: [home]
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!success] IMA Intraday · 15 min (25/11 13:45): 🟢 **VERDE** — ζ Topo **17%** · ▲ +4 p.p. vs leitura anterior
-> > `███░░░░░░░░░░░░░░░░░` **17%**
+> > [!success] IMA Intraday · 15 min (25/11 14:00): 🟢 **VERDE** — ζ Topo **23%** · ▲ +5 p.p. vs leitura anterior
+> > `█████░░░░░░░░░░░░░░░` **23%**
 > > Sem esticamento brusco em relação à tendência.
 >
 >
-> | Indicador — IMA Intraday · 15 min (25/11 13:45) | Valor |
+> | Indicador — IMA Intraday · 15 min (25/11 14:00) | Valor |
 > |---|---|
-> | ζ Topo — preço esticado acima da tendência | **17%** |
+> | ζ Topo — preço esticado acima da tendência | **23%** |
 > | ζ Fundo — preço esticado abaixo da tendência | 2% |
 > | 🟢 Zona | VERDE |
-> | 📊 Ibovespa | 165.661 pts <span style="color:#3fb950" title="subiu">▲</span> (+0,51%) |
-> | 📏 Distância da média | −1,4% (p46) |
+> | 📊 Ibovespa | 165.901 pts <span style="color:#3fb950" title="subiu">▲</span> (+0,14%) |
+> | 📏 Distância da média | −1,3% (p46) |
 > | 🛰️ Fonte do preço | preço da corretora, tempo real |
 >
-> **Multi-ativo:** 19% em tensão (3🔴 2🟡 de 27 ativos)
+> **Multi-ativo:** 19% em tensão (4🔴 1🟡 de 27 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Fechamento | Zona | ζ Topo | ζ Fundo | Dist. média |
 > |---|---|---|---|---|---|
-> | [25/11/2026](intraday/2026-11-25) | 165.661 <span style="color:#3fb950" title="subiu">▲</span> | 🟢 | **17%** | **2%** | −1,4% (p46) |
+> | [25/11/2026](intraday/2026-11-25) | 165.901 <span style="color:#3fb950" title="subiu">▲</span> | 🟢 | **23%** | **2%** | −1,3% (p46) |
 > | [24/11/2026](intraday/2026-11-24) | 164.090 <span style="opacity:.45" title="estável">▬</span> | 🟢 | **1%** | **8%** | −2,6% (p27) |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Zona**: 🟢 calmo, 🟡 atenção e 🔴 extremo vêm do ζ Topo; 🔵 FUNDO (ζ Fundo ≥ 60%) e 🔪 FACA (≥ 90%) vêm do ζ Fundo e têm precedência, porque queda em andamento é fato medido, não previsão.<br>**Dist. média**: a distância do preço à média dos 252 pregões — **≈ 1 ano** — e, entre parênteses, o percentil dessa distância nos 500 pregões anteriores (**≈ 2 anos**). `−8,2% (p0)` = o preço está 8,2% **abaixo** da média e nunca esteve tão abaixo em toda a janela. 🔵 ≤ p10 · 🔴 ≥ p90. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
