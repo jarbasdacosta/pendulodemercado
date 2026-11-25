@@ -5,7 +5,7 @@ tags: [historico]
 
 # 📜 Histórico de leituras (v5)
 
-**2.606 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
+**2.607 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
 
 [**Baixar o histórico completo**](historico-completo.csv) (114 KB · abre no Excel e no LibreOffice)
 
@@ -18,6 +18,7 @@ tags: [historico]
 
 | Data | Zona | ζ Topo |
 |---|---|---|
+| 2026-11-25 16:00 | 🔴 | 🔴 **99%** |
 | 2026-11-25 15:45 | 🔴 | 🔴 **98%** |
 | 2026-11-25 15:30 | 🔴 | 🔴 **98%** |
 | 2026-11-25 15:15 | 🔴 | 🔴 **98%** |
