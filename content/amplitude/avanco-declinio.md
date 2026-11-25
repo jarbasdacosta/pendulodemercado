@@ -6,7 +6,7 @@ description: "Linha de avanço e declínio do Ibovespa: ações que subiram meno
 tags: [amplitude]
 ---
 
-*Atualizado 24/11/2026 19:03 · fechamento de 24/11/2026.*
+*Atualizado 24/11/2026 23:10 · fechamento de 24/11/2026.*
 
 Em cada pregão, conta quantas ações da carteira do Ibovespa **subiram** e quantas **caíram**. O saldo do dia (subiram − caíram) é somado dia após dia: essa é a **linha de avanço e declínio**. Ela mostra se a alta do índice é de muitas ações ou só de algumas grandes. **Divergência:** o Ibovespa faz um **topo maior** que o topo anterior e a linha, nesse topo, fica **abaixo** do pico que tinha no topo anterior — a alta está ficando estreita.
 

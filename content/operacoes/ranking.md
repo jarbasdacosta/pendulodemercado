@@ -1,7 +1,7 @@
 ---
 title: "🏆 Ranking das operações"
 date: 2026-11-24
-pregao: 2026-11-24
+pregao: 2026-11-23
 tags: [operacoes]
 description: "As regras de compra do site ordenadas pelo resultado, com treino, teste e placar ao vivo"
 ---
@@ -56,7 +56,7 @@ description: "As regras de compra do site ordenadas pelo resultado, com treino, 
 > 
 > Operação **com 🧪** começou depois de **23/10/2026**, com as regras congeladas. É o único resultado sem nenhum ajuste ao passado, e é por ele que cada regra está sendo julgada.
 
-*Atualizado 24/11/2026 21:36 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
+*Atualizado 24/11/2026 23:11 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
 
 As regras de compra do site, **da que mais rendeu para a que menos rendeu**. O resultado é por operação, no índice à vista, sem custos e sem juros compostos (a soma é só a soma das operações). **Treino** = entradas de 2001 a 2013 e **teste** = 2014 em diante: uma regra só é confiável se ganhou nos dois. O único resultado sem nenhum ajuste ao histórico é o **placar ao vivo**.
 
@@ -84,7 +84,7 @@ As regras de compra do site, **da que mais rendeu para a que menos rendeu**. O r
 
 ## Como carteira (Tendência)
 
-- **📈 Tendência MME9 · Diário**: +13,0% ao ano, maior queda 35% (comprar e segurar +8,6% e 60%)
+- **📈 Tendência MME9 · Diário**: +13,1% ao ano, maior queda 35% (comprar e segurar +8,7% e 60%)
 - **📈 Tendência MME9 · Semanal**: +8,4% ao ano, maior queda 29% (comprar e segurar +8,7% e 57%)
 
 ## Contexto do IMA

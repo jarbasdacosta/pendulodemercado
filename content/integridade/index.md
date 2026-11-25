@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 55 tabelas no acervo · página gerada em 24/11/2026 19:04*
+*Pregão conferido: **19/11/2026**, com 55 tabelas no acervo · página gerada em 24/11/2026 23:11*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -23,7 +23,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 369 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 24/11 19:04 |
+| Página escrita mais recentemente | 24/11 23:11 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -120,12 +120,12 @@ Pregão mais recente declarado por alguma página: **24/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `diario/index.md` | 16/11 14:43 | 8.2 |
-| `intraday/index.md` | 16/11 14:43 | 8.2 |
-| `por-onde-comecar.md` | 16/11 15:20 | 8.2 |
-| `autopsias/index.md` | 19/11 14:39 | 5.2 |
-| `ofertas.md` | 21/11 07:15 | 3.5 |
-| `espectro/grandes-tombos.md` | 22/11 17:30 | 2.1 |
+| `diario/index.md` | 16/11 14:43 | 8.4 |
+| `intraday/index.md` | 16/11 14:43 | 8.4 |
+| `por-onde-comecar.md` | 16/11 15:20 | 8.3 |
+| `autopsias/index.md` | 19/11 14:39 | 5.4 |
+| `ofertas.md` | 21/11 07:15 | 3.7 |
+| `espectro/grandes-tombos.md` | 22/11 17:30 | 2.2 |
 
 ### Página declarando data sem pregão
 
@@ -152,7 +152,7 @@ Outras **6** estão **dispensadas** de declarar `pregao:` por não se referirem 
 
 Cada página do safecluster é conferida contra as operações do motor. Isso não basta: em 17/11/2026 a página de operações mostrava o pregão do dia e o extrato da carteira parava no dia anterior — **as duas corretas em relação à própria fonte, e contraditórias entre si**. A auditoria passou com "68 certas, 0 erradas" porque ninguém comparava as duas versões do mesmo fato. Desde 18/11/2026 ela também compara.
 
-*Última auditoria: 2026-11-23 às 19:50:06 · 71 conferências, 0 divergência(s).*
+*Última auditoria: 2026-11-24 às 19:50:34 · 71 conferências, 0 divergência(s).*
 
 Nenhuma divergência entre páginas nesta rodada.
 

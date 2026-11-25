@@ -3,18 +3,12 @@ title: "🌍 Mercados"
 date: 2026-11-24
 tags: [mercados]
 description: "O que mandou no dia: internacional, Brasil, a sincronia entre Ibovespa, dólar e juro, os índices da B3 e onde está — ou não está — a vantagem"
-pregao: 2026-11-19
+pregao: 2026-11-23
 ---
-
-> [!warning] Divergência entre números desta página
->
-> O fechamento do Ibovespa é de **2026-11-19**, mas as variações de dia, mês, ano e 360 dias são calculadas sobre a série que termina em **2026-11-23**. Os dois números são corretos, só não são do mesmo pregão — não os compare entre si.
->
-> Isto é um defeito, não uma característica — está dito aqui porque esconder seria pior.
 
 > [!note] A que pregão se refere cada bloco
 >
-> **Internacional**: 2026-11-24 · **Ibovespa (fechamento oficial)**: 2026-11-19 · **Ibovespa (série das variações)**: 2026-11-23 · **Dólar (PTAX)**: 2026-11-24 · **Curva de juros**: 2026-11-23 · **O lado (painel de vantagem)**: 2026-11-23
+> **Internacional**: 2026-11-25 · **Ibovespa (fechamento oficial)**: 2026-11-23 · **Dólar (PTAX)**: 2026-11-24 · **Curva de juros**: 2026-11-23 · **O lado (painel de vantagem)**: 2026-11-23
 >
 > Blocos com datas diferentes é o normal: as bolsas lá fora negociam enquanto a B3 ainda não publicou o boletim do dia, e a PTAX sai no meio da tarde. O que não vale é comparar número de um com número de outro.
 
@@ -38,7 +32,7 @@ pregao: 2026-11-19
 
 ## Brasil
 
-**Ibovespa** · fechamento oficial da B3 em 2026-11-19: **166.376** pontos
+**Ibovespa** · fechamento oficial da B3 em 2026-11-23: **164.796** pontos
 
 | | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
@@ -90,10 +84,10 @@ pregao: 2026-11-19
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Ouro 🔴 | 3.554,10 US$/oz | -2,66% | -8,84% | -18,13% | -16,47% |
-| Cobre 🔴 | 5,49 US$/lb | -2,49% | -15,04% | -2,54% | 5,81% |
-| Petróleo Brent 🔴 | 88,47 US$/bbl | -1,01% | -24,80% | 45,39% | 39,98% |
-| Dollar Index 🔴 | 103,83 pontos | -0,47% | 1,91% | 5,65% | 4,39% |
+| Ouro 🔴 | 3.547,80 US$/oz | -2,84% | -9,01% | -18,27% | -16,62% |
+| Cobre 🔴 | 5,50 US$/lb | -2,30% | -14,88% | -2,35% | 6,02% |
+| Petróleo Brent 🔴 | 88,05 US$/bbl | -1,48% | -25,15% | 44,70% | 39,32% |
+| Dollar Index 🔴 | 103,87 pontos | -0,43% | 1,96% | 5,69% | 4,44% |
 | Juro EUA 10 anos 🔴 | 4,90 % a.a. | -1 p.b. | -2 p.b. | 74 p.b. | 89 p.b. |
 
 <small>Taxas de juro variam em **pontos-base**, não em porcentagem de si mesmas: um juro que vai de 4,16% a 5,10% subiu 94 p.b.; dizer “+22%” seria tecnicamente verdade e praticamente inútil.</small>
@@ -104,41 +98,41 @@ pregao: 2026-11-19
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Prata 🔴 | 40,70 US$/oz | -5,67% | -17,10% | -41,97% | -27,90% |
-| Platina 🔴 | 1.258,10 US$/oz | -4,92% | -12,51% | -38,16% | -25,01% |
-| Paládio 🔴 | 858,50 US$/oz | -4,10% | -12,81% | -47,31% | -41,54% |
-| Ouro 🔴 | 3.554,10 US$/oz | -2,66% | -8,84% | -18,13% | -16,47% |
+| Prata 🔴 | 40,99 US$/oz | -5,01% | -16,52% | -41,56% | -27,39% |
+| Platina 🔴 | 1.258,50 US$/oz | -4,89% | -12,48% | -38,14% | -24,99% |
+| Paládio 🔴 | 863,50 US$/oz | -3,54% | -12,30% | -47,00% | -41,20% |
+| Ouro 🔴 | 3.547,80 US$/oz | -2,84% | -9,01% | -18,27% | -16,62% |
 
 ### Metais industriais
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Alumínio 🔴 | 2.752,50 US$/t | -5,00% | -16,86% | -5,29% | -1,98% |
+| Alumínio 🔴 | 2.748,50 US$/t | -5,14% | -16,98% | -5,43% | -2,12% |
 | Aço laminado 🟢 | 1.404,00 US$/t | 3,85% | 4,23% | 50,16% | 54,63% |
-| Cobre 🔴 | 5,49 US$/lb | -2,49% | -15,04% | -2,54% | 5,81% |
+| Cobre 🔴 | 5,50 US$/lb | -2,30% | -14,88% | -2,35% | 6,02% |
 | Minério de ferro ⚪ | 90,67 US$/t | 0,00% | -0,04% | -15,36% | -13,52% |
 
 ### Energia
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Gás natural 🟢 | 3,68 US$/MMBtu | 15,55% | 26,95% | -0,19% | -24,14% |
-| Petróleo WTI 🟢 | 81,69 US$/bbl | 1,90% | -21,54% | 42,27% | 39,52% |
-| Óleo de aquecimento 🔴 | 3,65 US$/gal | -1,22% | -23,76% | 72,23% | 56,55% |
-| Gasolina 🟢 | 2,43 US$/gal | 1,16% | -26,53% | 42,68% | 28,34% |
-| Petróleo Brent 🔴 | 88,47 US$/bbl | -1,01% | -24,80% | 45,39% | 39,98% |
+| Gás natural 🟢 | 3,67 US$/MMBtu | 15,14% | 26,50% | -0,54% | -24,41% |
+| Óleo de aquecimento 🔴 | 3,63 US$/gal | -1,70% | -24,13% | 71,39% | 55,79% |
+| Petróleo Brent 🔴 | 88,05 US$/bbl | -1,48% | -25,15% | 44,70% | 39,32% |
+| Petróleo WTI 🟢 | 81,26 US$/bbl | 1,36% | -21,96% | 41,52% | 38,79% |
+| Gasolina 🟢 | 2,42 US$/gal | 0,74% | -26,83% | 42,10% | 27,82% |
 
 ### Grãos
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
 | Milho 🟢 | 450,25 ¢/bu | 3,68% | 0,56% | 2,27% | 3,39% |
-| Aveia 🟢 | 376,00 ¢/bu | 3,23% | 9,38% | 24,30% | 27,57% |
-| Óleo de soja 🔴 | 58,11 ¢/lb | -2,11% | -11,82% | 20,89% | 12,27% |
-| Trigo 🟢 | 588,75 ¢/bu | 2,04% | -2,44% | 16,12% | 10,88% |
-| Farelo de soja 🟢 | 350,60 US$/t | 1,42% | 8,01% | 19,05% | 11,51% |
-| Arroz 🔴 | 18,79 US$/cwt | -0,29% | 7,77% | 95,83% | 86,50% |
-| Soja 🟢 | 1.232,25 ¢/bu | 0,28% | 0,82% | 19,58% | 8,31% |
+| Aveia 🟢 | 376,75 ¢/bu | 3,43% | 9,60% | 24,55% | 27,82% |
+| Óleo de soja 🔴 | 58,05 ¢/lb | -2,21% | -11,91% | 20,76% | 12,15% |
+| Trigo 🟢 | 587,75 ¢/bu | 1,86% | -2,61% | 15,93% | 10,69% |
+| Farelo de soja 🟢 | 348,60 US$/t | 0,84% | 7,39% | 18,37% | 10,88% |
+| Soja 🔴 | 1.226,50 ¢/bu | -0,18% | 0,35% | 19,02% | 7,80% |
+| Arroz 🔴 | 18,83 US$/cwt | -0,05% | 8,03% | 96,30% | 86,95% |
 
 ### Softs
 
@@ -162,45 +156,45 @@ pregao: 2026-11-19
 
 ## Índices da B3
 
-Os índices publicados pela B3 no pregão de **19/11/2026**, na ordem do que mais subiu ao que mais caiu no dia. Boletim coletado no acervo em **24/11/2026 06:31** · 33 índices.
+Os índices publicados pela B3 no pregão de **23/11/2026**, na ordem do que mais subiu ao que mais caiu no dia. Boletim coletado no acervo em **24/11/2026 19:53** · 33 índices.
 
 | índice | fechamento | no dia | intradiário | mínimo | máximo |
 |---|---|---|---|---|---|
-| IBEE 🟢 | 4.716 | 0,32% | 0,32% | 4.679 | 4.742 |
-| IMATBASICOS 🔴 | 6.230 | -0,21% | -0,21% | 6.176 | 6.262 |
-| INDX 🔴 | 31.185 | -0,33% | -0,33% | 30.958 | 31.505 |
-| IFINANCEIRO 🔴 | 16.268 | -0,40% | -0,40% | 16.182 | 16.481 |
-| UTILITIES 🔴 | 17.528 | -0,49% | -0,54% | 17.462 | 17.734 |
-| I DIVIDENDOS 🔴 | 11.715 | -0,53% | -0,53% | 11.658 | 11.830 |
-| IEE 🔴 | 121.154 | -0,64% | -0,71% | 120.793 | 122.417 |
-| IBOV SD TR 🔴 | 1.902 | -0,68% | -0,73% | 1.890 | 1.923 |
-| MIDLARGE CAP 🔴 | 3.462 | -0,69% | -0,69% | 3.451 | 3.504 |
-| IBOVESPA 🔴 | 166.376 | -0,69% | -0,71% | 165.833 | 168.498 |
-| IBRX50 🔴 | 28.122 | -0,70% | -0,72% | 28.035 | 28.486 |
-| IBRX100 🔴 | 70.093 | -0,72% | -0,73% | 69.857 | 70.997 |
-| BDRX 🔴 | 29.217 | -0,72% | -0,64% | 29.150 | 30.183 |
-| IBEP 🔴 | 1.640 | -0,73% | -0,73% | 1.634 | 1.662 |
-| IVBX2 🔴 | 17.554 | -0,73% | -0,76% | 17.478 | 17.768 |
-| IBRASIL 🔴 | 6.511 | -0,73% | -0,75% | 6.489 | 6.596 |
-| IGNM 🔴 | 4.329 | -0,73% | -0,78% | 4.312 | 4.388 |
-| IGC TRADE 🔴 | 7.385 | -0,74% | -0,75% | 7.360 | 7.484 |
-| ITAG 🔴 | 35.793 | -0,77% | -0,78% | 35.680 | 36.284 |
-| IGC 🔴 | 25.627 | -0,77% | -0,79% | 25.544 | 25.979 |
-| IDIVERSA B3 🔴 | 1.397 | -0,78% | -0,78% | 1.390 | 1.414 |
-| ICO2 🔴 | 2.920 | -0,78% | -0,78% | 2.907 | 2.959 |
-| AGFS 🔴 | 1.380 | -0,79% | -0,86% | 1.368 | 1.399 |
-| ISE 🔴 | 3.985 | -0,80% | -0,82% | 3.965 | 4.039 |
-| IFIX 🔴 | 3.485 | -0,80% | -0,80% | 3.474 | 3.517 |
-| IFIL 🔴 | 1.538 | -0,90% | -0,90% | 1.534 | 1.554 |
-| IBEW 🔴 | 1.397 | -0,99% | -0,99% | 1.392 | 1.417 |
-| ICONSUMO 🔴 | 2.627 | -1,24% | -1,24% | 2.610 | 2.677 |
-| SMALL CAP 🔴 | 1.979 | -1,25% | -1,25% | 1.968 | 2.023 |
-| IBLV 🔴 | 1.298 | -1,29% | -1,37% | 1.295 | 1.322 |
-| GPTW 🔴 | 1.232 | -1,36% | -1,36% | 1.227 | 1.256 |
-| IMOBILIARIO 🔴 | 1.086 | -1,45% | -1,63% | 1.078 | 1.118 |
-| IBHB 🔴 | 1.576 | -1,93% | -1,99% | 1.573 | 1.626 |
+| IBHB 🟢 | 1.593 | 1,08% | 1,14% | 1.551 | 1.597 |
+| BDRX 🟢 | 29.392 | 0,60% | 1,44% | 28.677 | 29.840 |
+| ICONSUMO 🟢 | 2.636 | 0,34% | 0,34% | 2.591 | 2.649 |
+| IVBX2 🟢 | 17.572 | 0,10% | 0,11% | 17.345 | 17.617 |
+| IMOBILIARIO ⚪ | 1.086 | 0,00% | 0,00% | 1.068 | 1.094 |
+| SMALL CAP ⚪ | 1.979 | 0,00% | 0,00% | 1.952 | 1.990 |
+| GPTW ⚪ | 1.232 | 0,00% | 0,08% | 1.216 | 1.239 |
+| ISE 🔴 | 3.977 | -0,20% | -0,20% | 3.937 | 3.997 |
+| ICO2 🔴 | 2.914 | -0,21% | -0,21% | 2.881 | 2.929 |
+| UTILITIES 🔴 | 17.482 | -0,26% | -0,24% | 17.284 | 17.530 |
+| IDIVERSA B3 🔴 | 1.393 | -0,29% | -0,29% | 1.381 | 1.400 |
+| IBLV 🔴 | 1.294 | -0,31% | -0,31% | 1.289 | 1.305 |
+| IGNM 🔴 | 4.311 | -0,42% | -0,42% | 4.278 | 4.332 |
+| IBEW 🔴 | 1.389 | -0,57% | -0,57% | 1.383 | 1.399 |
+| IBEP 🔴 | 1.630 | -0,61% | -0,61% | 1.620 | 1.640 |
+| AGFS 🔴 | 1.371 | -0,65% | -0,58% | 1.363 | 1.383 |
+| IFINANCEIRO 🔴 | 16.149 | -0,73% | -0,73% | 16.043 | 16.274 |
+| IEE 🔴 | 120.151 | -0,83% | -0,82% | 119.081 | 121.147 |
+| IBOV SD TR 🔴 | 1.886 | -0,84% | -0,79% | 1.870 | 1.901 |
+| IGC 🔴 | 25.407 | -0,86% | -0,86% | 25.287 | 25.627 |
+| ITAG 🔴 | 35.457 | -0,94% | -0,94% | 35.309 | 35.793 |
+| I DIVIDENDOS 🔴 | 11.605 | -0,94% | -0,94% | 11.545 | 11.715 |
+| IBOVESPA 🔴 | 164.796 | -0,95% | -0,95% | 164.129 | 166.373 |
+| IBRASIL 🔴 | 6.448 | -0,97% | -0,97% | 6.424 | 6.511 |
+| IBRX100 🔴 | 69.406 | -0,98% | -0,98% | 69.142 | 70.093 |
+| IBRX50 🔴 | 27.845 | -0,98% | -0,98% | 27.736 | 28.121 |
+| IGC TRADE 🔴 | 7.312 | -0,99% | -0,99% | 7.283 | 7.385 |
+| IMATBASICOS 🔴 | 6.167 | -1,01% | -1,00% | 6.134 | 6.247 |
+| MIDLARGE CAP 🔴 | 3.425 | -1,07% | -1,07% | 3.415 | 3.462 |
+| IBEE 🔴 | 4.661 | -1,17% | -1,04% | 4.637 | 4.710 |
+| IFIL 🔴 | 1.520 | -1,17% | -1,17% | 1.512 | 1.539 |
+| IFIX 🔴 | 3.440 | -1,29% | -1,29% | 3.425 | 3.486 |
+| INDX 🔴 | 30.686 | -1,60% | -1,59% | 30.572 | 31.184 |
 
-<small><b>no dia</b> é o fechamento contra o fechamento do pregão anterior (18/11/2026) — a convenção de mercado, e a conta com que qualquer outra fonte vai ser comparada. <b>intradiário</b> é o fechamento contra a abertura do próprio pregão, que é a conta que o boletim da B3 permite direto e que <b>descarta o gap de abertura</b>. As duas aparecem porque a diferença entre elas é o gap, e gap é informação.</small>
+<small><b>no dia</b> é o fechamento contra o fechamento do pregão anterior (19/11/2026) — a convenção de mercado, e a conta com que qualquer outra fonte vai ser comparada. <b>intradiário</b> é o fechamento contra a abertura do próprio pregão, que é a conta que o boletim da B3 permite direto e que <b>descarta o gap de abertura</b>. As duas aparecem porque a diferença entre elas é o gap, e gap é informação.</small>
 
 ## Fluxo: quem subiu, quem caiu e quanto custa ficar vendido
 
@@ -348,13 +342,12 @@ A série inteira mostra a distorção se diluindo conforme o prazo cresce: **-22
 
 | ativo | movimento | desvio | onde |
 |---|---|---|---|
-| **Alumínio** | -5,00% | z -2,8 | internacional |
+| **Alumínio** | -5,14% | z -2,9 | internacional |
 | **Aço laminado** | 3,85% | z 4,4 | internacional |
-| **Gás natural** | 15,55% | z 2,7 | internacional |
+| **Gás natural** | 15,14% | z 2,6 | internacional |
 | **Milho** | 3,68% | z 2,7 | internacional |
 | **Algodão** | 6,20% | z 3,9 | internacional |
 | **Suíno (EUA)** | 7,29% | z 3,9 | internacional |
-| **Nikkei 225** | -5,06% | z -2,7 | internacional |
 | **DBB (Metais industriais)** | volume 2,69× a mediana | acima do normal | fluxo de ETF |
 | **WEAT (Trigo)** | volume 0,42× a mediana | abaixo do normal | fluxo de ETF |
 | **EWZS (Small caps Brasil)** | volume 0,33× a mediana | abaixo do normal | fluxo de ETF |
@@ -368,13 +361,13 @@ A série inteira mostra a distorção se diluindo conforme o prazo cresce: **-22
 
 | bloco | fonte | coletado |
 |---|---|---|
-| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 24/11 às 19:04 |
-| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 24/11 às 19:04 |
-| Dólar | Banco Central · PTAX de venda (série SGS 1) | 24/11 às 19:04 |
-| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 24/11 às 19:04 |
-| Índices da B3 | B3 · acervo diário de índices | 24/11/2026 06:31 |
-| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 24/11 às 19:05 |
-| O lado | medido sobre o painel do próprio site | 24/11 às 19:04 |
+| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 24/11 às 23:12 |
+| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 24/11 às 23:12 |
+| Dólar | Banco Central · PTAX de venda (série SGS 1) | 24/11 às 23:12 |
+| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 24/11 às 23:12 |
+| Índices da B3 | B3 · acervo diário de índices | 24/11/2026 19:53 |
+| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 24/11 às 23:12 |
+| O lado | medido sobre o painel do próprio site | 24/11 às 23:12 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
 
