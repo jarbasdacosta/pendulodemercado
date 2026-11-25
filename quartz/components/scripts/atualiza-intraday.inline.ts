@@ -46,7 +46,14 @@ document.addEventListener("nav", () => {
 
   const slug = String(getFullSlug(window))
   if (!slug.startsWith("intraday/")) return
-  const diaDaPagina = slug.slice("intraday/".length)
+  // os slugs antigos trazem a hora junto (intraday/2026-04-20-1351) e ainda
+  // existe intraday/index. Os dez primeiros caracteres sao a data em todos os
+  // casos que importam; o que nao casar com AAAA-MM-DD nao e pagina de pregao.
+  const diaDaPagina = slug.slice("intraday/".length).slice(0, 10)
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(diaDaPagina)) {
+    caixa.textContent = "atualizacao automatica so vale na pagina do pregao do dia"
+    return
+  }
 
   const carimboNaTela = (document.body.textContent ?? "").match(RE_CARIMBO)?.[1]
   if (!carimboNaTela) {
@@ -98,9 +105,13 @@ document.addEventListener("nav", () => {
     }
   }
 
-  void olhar()
+  // o timer nasce ANTES da primeira olhada: olhar() pode decidir parar, e
+  // parar() so tem efeito se o timer ja existir. Na v1 a ordem era inversa e a
+  // primeira parada nao pegava — custava um minuto de trabalho inutil.
   timer = setInterval(() => void olhar(), INTERVALO_MS)
 
   // o site navega por SPA: sem isto cada navegacao deixaria um timer vivo
   window.addCleanup(parar)
+
+  void olhar()
 })
