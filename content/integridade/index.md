@@ -1,12 +1,12 @@
 ---
 title: "🔎 Integridade dos dados"
-date: 2026-11-24
-pregao: 2026-11-19
+date: 2026-11-25
+pregao: 2026-11-24
 description: "O que foi conferido, contra qual fonte e quando — medido na hora, tabela por tabela e página por página"
 tags: [integridade]
 ---
 
-*Pregão conferido: **19/11/2026**, com 55 tabelas no acervo · página gerada em 24/11/2026 23:11*
+*Pregão conferido: **24/11/2026**, com 59 tabelas no acervo · página gerada em 25/11/2026 06:26*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -16,14 +16,14 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 
 | o que | situação |
 |---|---|
-| Tabelas do boletim conferidas | **49** de 55 guardadas |
-| Tabelas **incompletas** | **2** — veja abaixo |
+| Tabelas do boletim conferidas | **53** de 59 guardadas |
+| Tabelas incompletas | **nenhuma** |
 | Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
-| Tabelas com conteúdo fora da curva | nenhuma |
+| Tabelas com conteúdo fora da curva | **1** — veja a seção 1 |
 | Páginas publicadas | 369 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 24/11 23:11 |
+| Página escrita mais recentemente | 25/11 06:26 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -32,39 +32,37 @@ A B3 publica, no próprio boletim, a lista de tickers de cada tabela. Essa lista
 
 A conferência é por **conjunto**, não por contagem de linhas: várias tabelas trazem muitas linhas para o mesmo ticker. Ticker faltando é fatia da tabela que nunca chegou — foi assim que a tabela de negócios de ações ficou semanas com 22 mil tickers ausentes sem ninguém notar. O que isto **não** prova é que todas as linhas de cada ticker vieram: com o que a B3 publica, cobertura de conjunto é o teto do que dá para afirmar.
 
-### Incompletas
-
-| tabela | declarado pela B3 | obtido | completude |
-|---|---:|---:|---:|
-| `Renewals` | 494 | 350 | **70,9%** |
-| `ConsolidatedTradesEquities` | 79.186 | 79.138 | **99,9%** |
-
-**O que isso significa para quem opera.** Número calculado sobre tabela incompleta é número sobre amostra, não sobre o mercado. Onde a completude estiver abaixo de 100%, trate o que vier dessa tabela como indicativo e confira na fonte antes de decidir. A avaliação é leitura de risco; o risco é de quem opera.
-
-### Completas (47)
+### Completas (53)
 
 Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repetem aqui.
 
 | tabela | linhas | tickers obtidos | declarados pela B3 |
 |---|---:|---:|---:|
-| `AnalyticalFramework2` | 68 | 68 | 68 |
-| `BTBLendingOpenPosition` | 2.910 | 1.031 | 1.031 |
+| `BTBLendingOpenPosition` | 2.910 | 1.030 | 1.030 |
 | `BTBLoanBalance` | 4.743 | 1.655 | 1.655 |
-| `BTBTrade` | 58.333 | 548 | 548 |
+| `BTBTrade` | 100.445 | 584 | 584 |
+| `CNLDistrionCoffeLocation` | 1 | 1 | 1 |
+| `CNLHarvestCoffeApprov` | 1 | 1 | 1 |
+| `CNLValidLotsSettle` | 1 | 1 | 1 |
 | `COEInventory` | 1 | 1 | 1 |
 | `COERegistration` | 1 | 1 | 1 |
-| `ConsolidatedRecords` | 352.141 | 352.141 | 352.141 |
-| `ConsolidatedTradesDerivatives` | 7.546 | 7.546 | 7.546 |
+| `ConsolidatedTradesDerivatives` | 7.723 | 7.723 | 7.723 |
 | `ConsolidatedTradesDerivativesAfter` | 52 | 52 | 52 |
-| `ConsolidatedTradesRVAfter` | 451 | 451 | 451 |
+| `ConsolidatedTradesEquities` | 62.724 | 62.724 | 62.724 |
+| `ConsolidatedTradesRVAfter` | 27 | 27 | 27 |
 | `Custody` | 57 | 57 | 57 |
 | `DailyAverageDerivatives2` | 9 | 9 | 9 |
-| `DeadlineDepositSecurities` | 18 | 18 | 18 |
+| `DailyAverageStocks` | 9 | 9 | 9 |
+| `DeadlineDepositSecurities` | 26 | 26 | 26 |
+| `DebenturesBusiness` | 78 | 78 | 78 |
 | `DerivativesMtM` | 4 | 4 | 4 |
-| `DerivativesOperation2` | 82 | 82 | 82 |
-| `DistrionCoffeLocation` | 18 | 18 | 18 |
-| `EconomicIndicators` | 457 | 64 | 64 |
+| `DerivativesOperation2` | 91 | 91 | 91 |
+| `DistrionCoffeLocation` | 17 | 17 | 17 |
+| `EconomicIndicators` | 443 | 64 | 64 |
+| `EletronicTerm` | 1 | 1 | 1 |
+| `FlexibleOptions` | 1.072 | 131 | 131 |
 | `Forward` | 5 | 5 | 5 |
+| `ForwardMarket` | 123 | 67 | 67 |
 | `FugibleCustody` | 6 | 6 | 6 |
 | `HarvestCoffeApprov` | 2 | 2 | 2 |
 | `HistoricalExchange` | 1 | 1 | 1 |
@@ -74,25 +72,24 @@ Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repet
 | `InCash` | 5 | 5 | 5 |
 | `InCashMarketBiggestHighs` | 10 | 10 | 10 |
 | `InCashMarketBiggestLow` | 10 | 10 | 10 |
-| `InstrumentRegistration` | 271.667 | 271.667 | 271.667 |
-| `InstrumentsDerivatives` | 9.494 | 9.494 | 9.494 |
-| `InstrumentsEquities` | 89.241 | 89.241 | 89.241 |
-| `MarginScenarios` | 135.921 | 7.038 | 7.038 |
-| `NegotiStrategi` | 63 | 9 | 9 |
+| `InstrumentsDerivatives` | 9.677 | 9.677 | 9.677 |
+| `MarginScenarios` | 120.980 | 6.729 | 6.729 |
+| `NegotiStrategi` | 175 | 12 | 12 |
 | `OTCInventoryCCP` | 3 | 3 | 3 |
 | `OTCInventoryWCCP` | 4 | 4 | 4 |
 | `OTCRegistrationCCP` | 3 | 3 | 3 |
 | `OTCRegistrationWCCP` | 4 | 4 | 4 |
-| `OpenPositionsEquities` | 35.380 | 35.380 | 35.380 |
+| `OpenPositionsEquities` | 36.782 | 36.782 | 36.782 |
 | `OptionsPurshase` | 5 | 5 | 5 |
 | `OptionsSelling` | 5 | 5 | 5 |
-| `ProventionCreditVariable` | 30 | 30 | 30 |
+| `ProventionCreditVariable` | 28 | 28 | 28 |
 | `Register` | 18 | 18 | 18 |
-| `Repodebenture` | 3.344 | 1.049 | 1.049 |
+| `Renewals` | 6.826 | 64 | 64 |
 | `SaleOff` | 12 | 12 | 12 |
 | `SharesInvesVolum` | 5 | 5 | 5 |
 | `Stock` | 43 | 43 | 43 |
-| `Trade` | 32.564 | 2.190 | 2.190 |
+| `StocksOperationSummary` | 56 | 56 | 56 |
+| `SwapFlex` | 1 | 1 | 1 |
 | `ValidLotsSettle` | 1 | 1 | 1 |
 
 ### O pregão realmente aconteceu?
@@ -101,8 +98,8 @@ A conferência acima compara o arquivo com a lista de tickers que o próprio arq
 
 | tabela | linhas no dia | referência | linhas | piso (70%) | |
 |---|---:|---|---:|---:|---|
-| `OpenPositionsEquities` | 35.380 | 18/11/2026 | 46.564 | 32.594 | ok |
-| `ConsolidatedTradesDerivatives` | 801 | 18/11/2026 | 783 | 548 | ok |
+| `OpenPositionsEquities` | 36.782 | 23/11/2026 | 36.154 | 25.307 | ok |
+| `ConsolidatedTradesDerivatives` | 750 | 23/11/2026 | 753 | 527 | ok |
 
 ### Alguma tabela veio magra demais?
 
@@ -110,7 +107,9 @@ As duas conferências acima têm pontos cegos: a primeira compara o arquivo com 
 
 Esta terceira pergunta não precisa saber nada sobre cada tabela: compara o volume do dia com a **mediana dos últimos dez dias dela mesma**, e acusa quem ficou abaixo de metade. Vale para todas, inclusive as que ainda não deram problema.
 
-Nenhuma tabela do pregão conferido ficou abaixo da metade do seu próprio normal.
+| tabela | linhas no dia | linhas no pregão anterior | do normal |
+|---|---:|---:|---:|
+| `Renewals` | 6.826 | 6.614 | 14% |
 
 ## 2 · Páginas publicadas
 
@@ -120,12 +119,12 @@ Pregão mais recente declarado por alguma página: **24/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `diario/index.md` | 16/11 14:43 | 8.4 |
-| `intraday/index.md` | 16/11 14:43 | 8.4 |
-| `por-onde-comecar.md` | 16/11 15:20 | 8.3 |
-| `autopsias/index.md` | 19/11 14:39 | 5.4 |
-| `ofertas.md` | 21/11 07:15 | 3.7 |
-| `espectro/grandes-tombos.md` | 22/11 17:30 | 2.2 |
+| `diario/index.md` | 16/11 14:43 | 8.7 |
+| `intraday/index.md` | 16/11 14:43 | 8.7 |
+| `por-onde-comecar.md` | 16/11 15:20 | 8.6 |
+| `autopsias/index.md` | 19/11 14:39 | 5.7 |
+| `ofertas.md` | 21/11 07:15 | 4.0 |
+| `espectro/grandes-tombos.md` | 22/11 17:30 | 2.5 |
 
 ### Página declarando data sem pregão
 
@@ -164,7 +163,7 @@ A seção mais importante da página. Sem ela, "nenhum problema encontrado" se c
 
 | tabela | linhas | por quê |
 |---|---:|---|
-| `AverageChart` | 12 | não achei a coluna do ticker |
+| `AverageChart` | 13 | não achei a coluna do ticker |
 | `DIover` | 1 | não achei a coluna do ticker |
 | `INDEXES` | 0 | agrupador do catálogo (34 item(ns)), não tem dados próprios |
 | `IndicesB3` | 33 | sem lista de tickers — é série ou valor único, não tem ticker a conferir |
