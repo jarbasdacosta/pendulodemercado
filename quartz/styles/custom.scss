@@ -136,3 +136,45 @@ body[data-slug^="setups/"] {
     }
   }
 }
+
+
+/* sinal-b3 v21: um registro por linha nas tabelas do IMA
+   (24/11/2026) Medido na pagina publicada: o nome do ativo se separava do
+   ticker (ULTRAPAR / UGPA3), o cabecalho "Dist. média" quebrava em duas
+   linhas e os valores com bolinha partiam depois dela. Sete colunas sem
+   nenhuma regra de largura no desktop — as que existiam estavam todas
+   dentro de @media (max-width: 800px/700px).
+
+   A receita e a mesma ja escrita acima para body[data-slug^="setups/"], que
+   e o outro site, mais o white-space: nowrap, que e o que de fato impede a
+   quebra. O overflow-x e rede: se um dia nao couber, a tabela rola de lado
+   em vez de voltar a quebrar.
+
+   Slugs medidos no HTML gerado: "index", "intraday/...", "diario/...". */
+body[data-slug="index"],
+body[data-slug^="intraday/"],
+body[data-slug^="diario/"] {
+  article table {
+    font-size: 0.84rem;
+    line-height: 1.3;
+    font-variant-numeric: tabular-nums;
+    display: block;
+    overflow-x: auto;
+    max-width: 100%;
+    -webkit-overflow-scrolling: touch;
+  }
+  article th,
+  article td {
+    padding: 0.28rem 0.45rem;
+    white-space: nowrap;
+  }
+  article th {
+    vertical-align: bottom;
+  }
+  /* o ticker em <code> nao pode esticar a celula nem cair para baixo */
+  article td code {
+    font-size: 0.78rem;
+    padding: 0.05rem 0.25rem;
+    white-space: nowrap;
+  }
+}

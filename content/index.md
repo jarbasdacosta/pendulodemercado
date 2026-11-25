@@ -7,7 +7,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 24/11/2026 23:11 BRT · Diário D1 · fonte do preço: Yahoo, fechamento ajustado*
+*Última atualização: 24/11/2026 23:21 BRT · Diário D1 · fonte do preço: Yahoo, fechamento ajustado*
 
 > [!info] Onde o mercado está no fechamento de 24/11: **🔵 Esticado para baixo**
 > `Pânico ◀────●────────────────▶ Euforia` · ζ Topo **0%** · ζ Fundo **64%** · régua = ζ Topo − ζ Fundo = **−64 p.p.**
@@ -58,7 +58,10 @@ tags: [home]
 > |---|---|
 > | ζ Topo — preço esticado acima da tendência | **0%** |
 > | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔵 **64%** |
-> | 📊 Ibovespa | 164.090 pts |
+> | 🔵 Zona | ESTICADO P/ BAIXO |
+> | 📊 Ibovespa | 164.090 pts <span style="color:#f85149" title="caiu">▼</span> (−0,43%) |
+> | 📏 Distância da média | 🔵 −7,5% (p0) |
+> | 🛰️ Fonte do preço | Yahoo, fechamento ajustado |
 >
 > **Multi-ativo:** 11% em tensão (1🔴 2🟡 de 27 ativos)
 >
