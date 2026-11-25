@@ -51,13 +51,13 @@ document.addEventListener("nav", () => {
   // casos que importam; o que nao casar com AAAA-MM-DD nao e pagina de pregao.
   const diaDaPagina = slug.slice("intraday/".length).slice(0, 10)
   if (!/^\d{4}-\d{2}-\d{2}$/.test(diaDaPagina)) {
-    caixa.textContent = "atualizacao automatica so vale na pagina do pregao do dia"
+    caixa.textContent = "atualização automática só vale na página do pregão do dia"
     return
   }
 
   const carimboNaTela = (document.body.textContent ?? "").match(RE_CARIMBO)?.[1]
   if (!carimboNaTela) {
-    caixa.textContent = "atualizacao automatica desligada: nao achei o carimbo nesta pagina"
+    caixa.textContent = "atualização automática desligada: não achei o carimbo nesta página"
     return
   }
 
@@ -76,12 +76,12 @@ document.addEventListener("nav", () => {
     const t = agoraBRT()
 
     if (t.dia !== diaDaPagina) {
-      caixa.textContent = `pregao encerrado — esta e a pagina de ${diaDaPagina}, nao muda mais`
+      caixa.textContent = `pregão encerrado — esta é a página de ${diaDaPagina}, não muda mais`
       parar()
       return
     }
     if (t.semana === 0 || t.semana === 6 || t.minutos < ABRE_MIN || t.minutos > FECHA_MIN) {
-      caixa.textContent = `fora do pregao (10:00-18:30) · verificado ${t.hhmm}`
+      caixa.textContent = `fora do pregão (10:00–18:30) · verificado ${t.hhmm}`
       return
     }
 
@@ -91,7 +91,7 @@ document.addEventListener("nav", () => {
       if (r.ok) {
         const novo = (await r.text()).match(RE_CARIMBO)?.[1]
         if (novo && novo !== carimboNaTela) {
-          caixa.textContent = `publicacao nova (${novo}) — recarregando`
+          caixa.textContent = `publicação nova (${novo}) — recarregando`
           location.replace(`${location.pathname}?t=${Date.now()}`)
           return
         }

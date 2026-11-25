@@ -14,7 +14,7 @@ const AtualizaIntraday: QuartzComponent = ({ displayClass }: QuartzComponentProp
       data-atualiza-intraday=""
       style="margin:1.2rem 0 0;font-size:.85rem;opacity:.7"
     >
-      atualizacao automatica: iniciando...
+      atualização automática: iniciando…
     </div>
   )
 }
