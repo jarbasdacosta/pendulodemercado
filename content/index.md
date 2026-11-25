@@ -7,7 +7,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 24/11/2026 21:16 BRT · Diário D1*
+*Última atualização: 24/11/2026 21:28 BRT · Diário D1*
 
 > [!info] Onde o mercado está no fechamento de 24/11: **🔵 Esticado para baixo**
 > `Pânico ◀────●────────────────▶ Euforia` · ζ Topo **0%** · ζ Fundo **64%** · régua = ζ Topo − ζ Fundo = **−64 p.p.**
