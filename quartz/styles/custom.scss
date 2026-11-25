@@ -155,7 +155,11 @@ body[data-slug="index"],
 body[data-slug^="intraday/"],
 body[data-slug^="diario/"] {
   article table {
-    font-size: 0.84rem;
+    /* v21b: o font-size saiu daqui para a regra do multi-ativo, no fim do
+       arquivo. Reduzir todas as tabelas era efeito colateral: o quadro de
+       indicadores e a tabela de 30 leituras tem conteudo curto e cabiam no
+       tamanho normal. O nowrap FICA geral: ele nao encolhe nada, so impede
+       que a celula se parta no meio. */
     line-height: 1.3;
     font-variant-numeric: tabular-nums;
     display: block;
@@ -171,10 +175,37 @@ body[data-slug^="diario/"] {
   article th {
     vertical-align: bottom;
   }
-  /* o ticker em <code> nao pode esticar a celula nem cair para baixo */
+  /* o ticker em <code> nao pode esticar a celula nem cair para baixo.
+     O tamanho dele tambem foi para a regra do multi-ativo. */
   article td code {
-    font-size: 0.78rem;
     padding: 0.05rem 0.25rem;
     white-space: nowrap;
+  }
+}
+
+
+/* sinal-b3 v21b: a fonte menor vale SO na tabela do Monitor Multi-Ativo
+   (24/11/2026) A v21 encolheu todas as tabelas das tres paginas para resolver
+   a quebra de linha de uma. O pedido foi: menor so nesse quadro.
+
+   Medido no HTML gerado, nao suposto:
+       <h2 id="monitor-multi-ativo">     o id que o Quartz carimba
+       tabelas depois desse titulo: 1    entao ~ table alcanca exatamente uma
+
+   DEPENDE DISSO: se um dia entrar outra tabela depois do Monitor Multi-Ativo
+   na pagina, esta regra passara a valer para as duas. Os valores sao os
+   mesmos que a captura das 23h27 ja aprovou — nao e para diminuir mais. */
+body[data-slug="index"] h2#monitor-multi-ativo ~ table,
+body[data-slug^="intraday/"] h2#monitor-multi-ativo ~ table,
+body[data-slug^="diario/"] h2#monitor-multi-ativo ~ table {
+  font-size: 0.84rem;
+
+  th,
+  td {
+    padding: 0.26rem 0.4rem;
+  }
+
+  td code {
+    font-size: 0.78rem;
   }
 }
