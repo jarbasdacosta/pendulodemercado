@@ -7,7 +7,7 @@ tags: [home]
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 24/11/2026 21:28 BRT · Diário D1*
+*Última atualização: 24/11/2026 21:36 BRT · Diário D1*
 
 > [!info] Onde o mercado está no fechamento de 24/11: **🔵 Esticado para baixo**
 > `Pânico ◀────●────────────────▶ Euforia` · ζ Topo **0%** · ζ Fundo **64%** · régua = ζ Topo − ζ Fundo = **−64 p.p.**
@@ -74,7 +74,7 @@ tags: [home]
 > | [16/11/2026](diario/2026-11-16) | 169.295 <span style="color:#f85149" title="caiu">▼</span> | 🟢 | **0%** | **49%** | 🔵 −4,5% (p5) |
 > | [13/11/2026](diario/2026-11-13) | 172.458 <span style="color:#3fb950" title="subiu">▲</span> | 🟢 | **1%** | **52%** | 🔵 −2,7% (p9) |
 >
-> <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Zona**: 🟢 calmo, 🟡 atenção e 🔴 extremo vêm do ζ Topo; 🔵 FUNDO (ζ Fundo ≥ 60%) e 🔪 FACA (≥ 90%) vêm do ζ Fundo e têm precedência, porque queda em andamento é fato medido, não previsão.<br>**Dist. média**: a distância do preço à média das 252 barras anteriores (a mesma janela do ζ) e, entre parênteses, o percentil dessa distância nas últimas 500 barras. `−8,2% (p0)` = o preço está 8,2% **abaixo** da média e nunca esteve tão abaixo em toda a janela. 🔵 ≤ p10 · 🔴 ≥ p90. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
+> <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Zona**: 🟢 calmo, 🟡 atenção e 🔴 extremo vêm do ζ Topo; 🔵 FUNDO (ζ Fundo ≥ 60%) e 🔪 FACA (≥ 90%) vêm do ζ Fundo e têm precedência, porque queda em andamento é fato medido, não previsão.<br>**Dist. média**: a distância do preço à média dos 252 pregões — **≈ 1 ano** — e, entre parênteses, o percentil dessa distância nos 500 pregões anteriores (**≈ 2 anos**). `−8,2% (p0)` = o preço está 8,2% **abaixo** da média e nunca esteve tão abaixo em toda a janela. 🔵 ≤ p10 · 🔴 ≥ p90. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
 >
 > Os momentos úteis são as **mudanças** do ζ: 🚀 ζ Topo subindo para 30–60% (69% subiu no mês) e 🔪 ζ Fundo disparando (só 42% subiu em 3 meses). 📉 ζ Topo desinflando do 🔴 teve queda de 5% em 45% das vezes (31% num dia qualquer), mas com poucos casos. O 📉 do 🟡 e o 🌱 ficaram como contexto: não se confirmaram em 2014–2026 (revisão de 23/10/2026). [Metodologia da Sinal IMA](metodologia/crise).
 
