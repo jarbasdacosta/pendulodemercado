@@ -1,11 +1,11 @@
 ---
 title: "🔀 O ζ diário e o ζ intraday concordam — e daí?"
-date: 2026-11-24
+date: 2026-11-25
 description: "As 13 vezes em 5 anos em que os dois IMAs apontaram topo ao mesmo tempo, o que veio depois, e por que no lado do fundo não há nada"
 tags: [espectro]
 ---
 
-*Página refeita em 24/11/2026 18:45 · medição de 24/11/2026 às 18:45 · **dados do ζ até 24/11/2026 13:15**.*
+*Página refeita em 25/11/2026 18:45 · medição de 25/11/2026 às 18:45 · **dados do ζ até 24/11/2026 17:30**.*
 
 > [!info] O dado não vai até hoje
 > 
@@ -15,7 +15,7 @@ tags: [espectro]
 
 O sistema calcula o ζ em duas frequências: no **diário**, com janela de 252 pregões, e no **intraday**, em velas de 15 minutos. Os dois nunca tinham sido cruzados. A pergunta é direta: *houve momentos em que os dois apontaram topo ao mesmo tempo? E fundo? O que veio depois?*
 
-Resposta: sim, e é raro. No período de **12/11/2021 a 24/11/2026** (1.255 pregões, 18.370 leituras de 30 em 30 minutos), os dois concordaram em **13 episódios de topo** e **8 de fundo** — menos de 1% do tempo.
+Resposta: sim, e é raro. No período de **12/11/2021 a 24/11/2026** (1.255 pregões, 18.379 leituras de 30 em 30 minutos), os dois concordaram em **13 episódios de topo** e **8 de fundo** — menos de 1% do tempo.
 
 > [!warning] O que esta página NÃO diz
 > 
@@ -29,7 +29,7 @@ Resposta: sim, e é raro. No período de **12/11/2021 a 24/11/2026** (1.255 preg
 
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
-| 1 pregão | **9 de 13** (69%) | 49% | -0,80% | +0,03% | 0,121 |
+| 1 pregão | **9 de 13** (69%) | 49% | -0,80% | +0,03% | 0,122 |
 | 5 pregões | **11 de 13** (85%) | 48% | -1,04% | +0,12% | 0,007 |
 | 20 pregões | **9 de 13** (69%) | 44% | -1,64% | +0,97% | 0,065 |
 | 60 pregões | **9 de 13** (69%) | 42% | -3,23% | +2,17% | 0,044 |
@@ -44,7 +44,7 @@ O corte que define "ζ alto" saiu do quantil 0,90 medido **só na primeira metad
 
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
-| 1 pregão | **3 de 6** (50%) | 49% | -0,16% | +0,03% | 0,641 |
+| 1 pregão | **3 de 6** (50%) | 49% | -0,16% | +0,03% | 0,643 |
 | 5 pregões | **5 de 6** (83%) | 48% | -1,02% | +0,12% | 0,091 |
 | 20 pregões | **3 de 6** (50%) | 44% | -0,88% | +0,97% | 0,549 |
 | 60 pregões | **4 de 6** (67%) | 42% | -1,74% | +2,17% | 0,207 |
@@ -53,7 +53,7 @@ O corte que define "ζ alto" saiu do quantil 0,90 medido **só na primeira metad
 
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
-| 1 pregão | **6 de 7** (86%) | 49% | -1,00% | +0,03% | 0,057 |
+| 1 pregão | **6 de 7** (86%) | 49% | -1,00% | +0,03% | 0,058 |
 | 5 pregões | **6 de 7** (86%) | 48% | -1,05% | +0,12% | 0,050 |
 | 20 pregões | **6 de 7** (86%) | 44% | -1,64% | +0,97% | 0,034 |
 | 60 pregões | **5 de 7** (71%) | 42% | -3,45% | +2,17% | 0,116 |
@@ -111,7 +111,7 @@ No cruzamento das duas listas: **6 coincidem**, **7 só a concordância enxerga*
 | 26/11/2025 a 04/12/2025 | 3 | -4,23% | -3,03% | -1,40% | +8,86% |
 | 03/02/2026 a 11/02/2026 | 2 | -1,00% | +0,27% | -6,61% | -6,80% |
 | 04/03/2026 a 05/03/2026 | 2 | -0,86% | -0,67% | +4,05% | -3,45% |
-| 27/10/2026 | 1 | -2,71% | -4,66% | -5,98% | -5,98% |
+| 27/10/2026 | 1 | -2,71% | -4,66% | -6,59% | -6,59% |
 
 ## Lado do fundo: não serve
 
@@ -119,7 +119,7 @@ No cruzamento das duas listas: **6 coincidem**, **7 só a concordância enxerga*
 
 | horizonte | episódios negativos | o normal seria | mediana | mediana de um pregão qualquer | chance de ser sorte |
 |---|---|---|---|---|---|
-| 1 pregão | **3 de 8** (38%) | 49% | +0,17% | +0,03% | 0,845 |
+| 1 pregão | **3 de 8** (38%) | 49% | +0,17% | +0,03% | 0,846 |
 | 5 pregões | **4 de 8** (50%) | 48% | -0,24% | +0,12% | 0,590 |
 | 20 pregões | **3 de 8** (38%) | 44% | +1,50% | +0,97% | 0,772 |
 | 60 pregões | **4 de 8** (50%) | 42% | +0,67% | +2,17% | 0,451 |

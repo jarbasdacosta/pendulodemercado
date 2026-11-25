@@ -1,7 +1,7 @@
 ---
 title: "🎯 Operações"
 date: 2026-11-25
-pregao: 2026-11-23
+pregao: 2026-11-25
 tags: [operacoes]
 description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23/10/2026"
 ---
@@ -63,7 +63,7 @@ Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/20
 _Nenhuma posição aberta agora._
 
 > [!info] 🌊 Contexto do IMA para compras
-> 🎯 **amplitude saiu da região de fundo** em 11/11 — ζ Topo 0% · ζ Fundo 64% em 24/11
+> 🎯 **amplitude saiu da região de fundo** em 11/11 — ζ Topo 0% · ζ Fundo 66% em 25/11
 > Informa, não filtra: veja como as compras se saíram em cada contexto no [🏆 Ranking](operacoes/ranking#contexto-do-ima).
 
 ## Agora

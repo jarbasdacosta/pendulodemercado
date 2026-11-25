@@ -4,7 +4,7 @@ date: 2026-11-25
 pregao: 2026-11-24
 ---
 
-*Dados da B3 de 24/11/2026 · atualizado em 25/11/2026 06:26*
+*Dados da B3 de 24/11/2026 · atualizado em 25/11/2026 19:09*
 
 
 <!-- NOTAS-INICIO -->

@@ -8,7 +8,7 @@ pregao: 2026-11-24
 
 > [!note] A que pregão se refere cada bloco
 >
-> **Internacional**: 2026-11-25 · **Ibovespa (fechamento oficial)**: 2026-11-24 · **Dólar (PTAX)**: 2026-11-24 · **Curva de juros**: 2026-11-24 · **O lado (painel de vantagem)**: 2026-11-24
+> **Internacional**: 2026-11-25 · **Ibovespa (fechamento oficial)**: 2026-11-24 · **Dólar (PTAX)**: 2026-11-25 · **Curva de juros**: 2026-11-24 · **O lado (painel de vantagem)**: 2026-11-24
 >
 > Blocos com datas diferentes é o normal: as bolsas lá fora negociam enquanto a B3 ainda não publicou o boletim do dia, e a PTAX sai no meio da tarde. O que não vale é comparar número de um com número de outro.
 
@@ -37,11 +37,11 @@ pregao: 2026-11-24
 | | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
 | Ibovespa 🔴 | 164.090 pts | -0,43% | -2,28% | 1,84% | 3,15% |
-| Dólar (PTAX) 🔴 | R$ 5,8573 | -1,90% | 8,04% | 6,45% | 9,81% |
+| Dólar (PTAX) 🟢 | R$ 5,8825 | 0,43% | 8,51% | 6,91% | 10,29% |
 | DI 2030 🔴 | 15,155% | -11 p.b. | -6 p.b. | 198 p.b. | 242 p.b. |
 | Dólar futuro (WDOZ26) | 5.910,00 | — | — | — | — |
 
-<small>Ibovespa e DI pela série do MT5 (fecha em 2026-11-24); dólar pela PTAX do Banco Central em 2026-11-24, que é a taxa oficial e não tem salto de rolagem como o futuro contínuo. Juro em pontos-base, não em porcentagem de si mesmo: de 14,00% para 15,00% são 100 p.b., não “+7%”.</small>
+<small>Ibovespa e DI pela série do MT5 (fecha em 2026-11-24); dólar pela PTAX do Banco Central em 2026-11-25, que é a taxa oficial e não tem salto de rolagem como o futuro contínuo. Juro em pontos-base, não em porcentagem de si mesmo: de 14,00% para 15,00% são 100 p.b., não “+7%”.</small>
 
 **Curva de juros** · 43 vencimentos negociados em 2026-11-24
 
@@ -84,11 +84,11 @@ pregao: 2026-11-24
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Ouro 🔴 | 3.476,40 US$/oz | -2,40% | -10,84% | -19,92% | -18,30% |
-| Cobre 🔴 | 5,34 US$/lb | -0,41% | -17,31% | -5,14% | 2,99% |
-| Petróleo Brent 🔴 | 89,85 US$/bbl | -1,70% | -23,62% | 47,66% | 42,17% |
-| Dollar Index 🟢 | 103,93 pontos | 0,12% | 2,02% | 5,75% | 4,50% |
-| Juro EUA 10 anos 🔴 | 4,80 % a.a. | -10 p.b. | -12 p.b. | 64 p.b. | 79 p.b. |
+| Ouro 🟢 | 3.617,80 US$/oz | 1,57% | -7,21% | -16,66% | -14,97% |
+| Cobre 🟢 | 5,48 US$/lb | 2,22% | -15,13% | -2,64% | 5,71% |
+| Petróleo Brent 🔴 | 90,82 US$/bbl | -0,63% | -22,80% | 49,25% | 43,70% |
+| Dollar Index 🔴 | 103,71 pontos | -0,10% | 1,80% | 5,53% | 4,27% |
+| Juro EUA 10 anos 🔴 | 4,85 % a.a. | -6 p.b. | -8 p.b. | 68 p.b. | 83 p.b. |
 
 <small>Taxas de juro variam em **pontos-base**, não em porcentagem de si mesmas: um juro que vai de 4,16% a 5,10% subiu 94 p.b.; dizer “+22%” seria tecnicamente verdade e praticamente inútil.</small>
 
@@ -98,18 +98,18 @@ pregao: 2026-11-24
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Prata 🔴 | 38,96 US$/oz | -4,43% | -20,66% | -44,46% | -30,99% |
-| Platina 🔴 | 1.208,50 US$/oz | -3,99% | -15,96% | -40,60% | -27,97% |
-| Paládio 🔴 | 827,00 US$/oz | -3,61% | -16,01% | -49,24% | -43,69% |
-| Ouro 🔴 | 3.476,40 US$/oz | -2,40% | -10,84% | -19,92% | -18,30% |
+| Prata 🟢 | 41,67 US$/oz | 2,23% | -15,13% | -40,59% | -26,18% |
+| Ouro 🟢 | 3.617,80 US$/oz | 1,57% | -7,21% | -16,66% | -14,97% |
+| Platina 🟢 | 1.266,30 US$/oz | 0,60% | -11,94% | -37,76% | -24,52% |
+| Paládio 🟢 | 861,00 US$/oz | 0,35% | -12,55% | -47,15% | -41,37% |
 
 ### Metais industriais
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
 | Aço laminado 🟢 | 1.431,00 US$/t | 5,84% | 6,24% | 53,05% | 57,60% |
-| Alumínio 🔴 | 2.745,50 US$/t | -4,42% | -17,07% | -5,53% | -2,23% |
-| Cobre 🔴 | 5,34 US$/lb | -0,41% | -17,31% | -5,14% | 2,99% |
+| Alumínio 🔴 | 2.787,00 US$/t | -2,98% | -15,81% | -4,10% | -0,75% |
+| Cobre 🟢 | 5,48 US$/lb | 2,22% | -15,13% | -2,64% | 5,71% |
 | Minério de ferro ⚪ | 90,67 US$/t | 0,00% | -0,04% | -15,36% | -13,52% |
 
 ### Energia
@@ -117,40 +117,40 @@ pregao: 2026-11-24
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
 | Gás natural 🟢 | 3,67 US$/MMBtu | 10,59% | 26,81% | -0,30% | -24,23% |
-| Petróleo Brent 🔴 | 89,85 US$/bbl | -1,70% | -23,62% | 47,66% | 42,17% |
-| Petróleo WTI 🟢 | 83,34 US$/bbl | 1,57% | -19,96% | 45,14% | 42,34% |
-| Gasolina 🔴 | 2,43 US$/gal | -0,92% | -26,58% | 42,59% | 28,27% |
-| Óleo de aquecimento 🔴 | 3,69 US$/gal | -0,45% | -23,05% | 73,84% | 58,02% |
+| Petróleo WTI 🟢 | 84,15 US$/bbl | 2,56% | -19,18% | 46,55% | 43,72% |
+| Óleo de aquecimento 🔴 | 3,64 US$/gal | -1,67% | -23,99% | 71,71% | 56,07% |
+| Gasolina 🔴 | 2,42 US$/gal | -1,41% | -26,94% | 41,89% | 27,63% |
+| Petróleo Brent 🔴 | 90,82 US$/bbl | -0,63% | -22,80% | 49,25% | 43,70% |
 
 ### Grãos
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Milho 🟢 | 452,75 ¢/bu | 4,32% | 1,12% | 2,84% | 3,96% |
-| Trigo 🟢 | 582,75 ¢/bu | 2,28% | -3,44% | 14,94% | 9,75% |
-| Aveia 🟢 | 367,50 ¢/bu | 1,52% | 6,91% | 21,49% | 24,68% |
-| Arroz 🔴 | 18,70 US$/cwt | -0,72% | 7,26% | 94,89% | 85,61% |
-| Farelo de soja 🟢 | 354,10 US$/t | 0,31% | 9,09% | 20,24% | 12,63% |
-| Óleo de soja 🔴 | 57,94 ¢/lb | -0,29% | -12,08% | 20,53% | 11,94% |
-| Soja 🟢 | 1.236,50 ¢/bu | 0,20% | 1,17% | 19,99% | 8,68% |
+| Milho 🟢 | 456,25 ¢/bu | 5,13% | 1,90% | 3,63% | 4,76% |
+| Trigo 🟢 | 586,50 ¢/bu | 2,94% | -2,82% | 15,68% | 10,45% |
+| Aveia 🟢 | 369,50 ¢/bu | 2,07% | 7,49% | 22,15% | 25,36% |
+| Farelo de soja 🟢 | 358,10 US$/t | 1,44% | 10,32% | 21,60% | 13,90% |
+| Soja 🟢 | 1.243,25 ¢/bu | 0,75% | 1,72% | 20,65% | 9,27% |
+| Arroz 🔴 | 18,75 US$/cwt | -0,45% | 7,54% | 95,41% | 86,10% |
+| Óleo de soja 🟢 | 58,26 ¢/lb | 0,26% | -11,59% | 21,20% | 12,56% |
 
 ### Softs
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Suco de laranja 🔴 | 122,00 ¢/lb | -7,15% | 5,77% | -40,55% | -21,82% |
-| Açúcar 🟢 | 18,24 ¢/lb | 3,28% | -5,79% | 21,52% | 19,92% |
-| Algodão 🟢 | 81,57 ¢/lb | 3,10% | 4,81% | 26,92% | 29,66% |
-| Cacau 🟢 | 5.406,00 US$/t | 2,37% | -0,86% | -10,87% | 0,04% |
-| Café arábica 🟢 | 270,95 ¢/lb | 0,89% | -5,66% | -22,31% | -34,39% |
+| Suco de laranja 🔴 | 125,40 ¢/lb | -4,57% | 8,71% | -38,89% | -19,64% |
+| Açúcar 🟢 | 18,42 ¢/lb | 4,30% | -4,86% | 22,72% | 21,10% |
+| Algodão 🟢 | 81,97 ¢/lb | 3,60% | 5,32% | 27,54% | 30,30% |
+| Cacau 🟢 | 5.421,00 US$/t | 2,65% | -0,59% | -10,62% | 0,31% |
+| Café arábica ⚪ | 268,55 ¢/lb | 0,00% | -6,49% | -23,00% | -34,98% |
 
 ### Proteína
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Suíno (EUA) 🔴 | 50,72 ¢/lb | -2,08% | -13,84% | -40,39% | -37,07% |
-| Bezerro (EUA) 🔴 | 328,45 ¢/lb | -1,34% | -2,76% | -6,22% | 1,38% |
-| Boi gordo (EUA) 🔴 | 224,07 ¢/lb | -0,81% | 0,03% | -3,42% | 3,94% |
+| Suíno (EUA) 🟢 | 55,50 ¢/lb | 7,14% | -5,73% | -34,78% | -31,14% |
+| Bezerro (EUA) 🔴 | 327,42 ¢/lb | -1,64% | -3,06% | -6,52% | 1,06% |
+| Boi gordo (EUA) 🟢 | 227,10 ¢/lb | 0,53% | 1,38% | -2,11% | 5,35% |
 
 > As agrícolas negociadas **na B3**, com a curva e o que ela diz, estão na página [🌾 Agro](/agro). Aqui é o preço lá fora, que é o que chega antes.
 
@@ -322,12 +322,8 @@ A B3 publica o cupom cambial dela nos vencimentos longos: `DDIX27` +7,93% · `DD
 
 ### Por que a diferença entre o futuro e a PTAX engana
 
-| ajuste do `WDOZ26` contra a PTAX | **+0,818%** |
-|---|---|
-| carrego de verdade, nos 5 dias úteis que faltam para o vencimento | +0,127% |
-| **sobra, que não é carrego** | **+0,691%** |
-
-A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volta das 13h; o ajuste do futuro sai no fechamento. São cinco horas de pregão entre uma medida e outra, e tudo que o dólar andou nesse intervalo aparece como se fosse prêmio.
+> [!note] Hoje não dá para medir esse pedaço
+> PTAX é de 2026-11-25 e o boletim é de 2026-11-24. Comparar o ajuste de um dia com a PTAX de outro é exatamente o erro que esta seção existe para explicar, então o número não sai.
 
 ### Onde pode estar a vantagem, e o que não fazer
 
@@ -343,14 +339,16 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 | ativo | movimento | desvio | onde |
 |---|---|---|---|
 | **Aço laminado** | 5,84% | z 6,4 | internacional |
-| **Milho** | 4,32% | z 3,1 | internacional |
-| **VIX** | 6,99% | z 3,6 | internacional |
-| **S&P 500** | -2,88% | z -3,0 | internacional |
-| **Nasdaq** | -4,25% | z -3,1 | internacional |
-| **DBB (Metais industriais)** | volume 2,69× a mediana | acima do normal | fluxo de ETF |
-| **WEAT (Trigo)** | volume 0,42× a mediana | abaixo do normal | fluxo de ETF |
-| **EWZS (Small caps Brasil)** | volume 0,33× a mediana | abaixo do normal | fluxo de ETF |
-| **Dólar (PTAX)** | -1,90% | z -3.3 (mediana/MAD) | Brasil |
+| **Milho** | 5,13% | z 3,7 | internacional |
+| **Suíno (EUA)** | 7,14% | z 3,8 | internacional |
+| **IPC México** | 2,99% | z 2,7 | internacional |
+| **SLV (Prata)** | volume 2,51× a mediana | acima do normal | fluxo de ETF |
+| **PPLT (Platina)** | volume 2,34× a mediana | acima do normal | fluxo de ETF |
+| **PALL (Paládio)** | volume 1,87× a mediana | acima do normal | fluxo de ETF |
+| **DBB (Metais industriais)** | volume 1,94× a mediana | acima do normal | fluxo de ETF |
+| **USO (Petróleo WTI)** | volume 0,48× a mediana | abaixo do normal | fluxo de ETF |
+| **WEAT (Trigo)** | volume 1,85× a mediana | acima do normal | fluxo de ETF |
+| **EWZS (Small caps Brasil)** | volume 0,38× a mediana | abaixo do normal | fluxo de ETF |
 
 <small>O desvio é medido contra a mediana e o MAD dos últimos 252 pregões, não contra o desvio-padrão: um único dia extremo — como 26/10/2026 — infla o desvio-padrão a ponto de nenhum dia normal mais parecer anômalo, e o alerta ficaria cego justamente depois de um susto.</small>
 
@@ -360,13 +358,13 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 
 | bloco | fonte | coletado |
 |---|---|---|
-| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 25/11 às 13:20 |
-| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 25/11 às 13:20 |
-| Dólar | Banco Central · PTAX de venda (série SGS 1) | 25/11 às 13:20 |
-| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 25/11 às 13:20 |
+| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 25/11 às 19:10 |
+| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 25/11 às 19:10 |
+| Dólar | Banco Central · PTAX de venda (série SGS 1) | 25/11 às 19:10 |
+| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 25/11 às 19:10 |
 | Índices da B3 | B3 · acervo diário de índices | 25/11/2026 06:26 |
-| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 25/11 às 06:27 |
-| O lado | medido sobre o painel do próprio site | 25/11 às 13:20 |
+| Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 25/11 às 19:11 |
+| O lado | medido sobre o painel do próprio site | 25/11 às 19:10 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
 
