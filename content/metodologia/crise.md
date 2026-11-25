@@ -1,6 +1,6 @@
 ---
 title: "🌊 Metodologia Sinal IMA"
-date: 2026-11-24
+date: 2026-11-25
 tags: [metodologia]
 description: "IMA Wavelet (Caetano) e LPPL (Sornette) no Ibovespa"
 ---

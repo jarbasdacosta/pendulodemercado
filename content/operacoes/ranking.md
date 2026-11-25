@@ -1,6 +1,6 @@
 ---
 title: "🏆 Ranking das operações"
-date: 2026-11-24
+date: 2026-11-25
 pregao: 2026-11-23
 tags: [operacoes]
 description: "As regras de compra do site ordenadas pelo resultado, com treino, teste e placar ao vivo"
@@ -56,7 +56,7 @@ description: "As regras de compra do site ordenadas pelo resultado, com treino, 
 > 
 > Operação **com 🧪** começou depois de **23/10/2026**, com as regras congeladas. É o único resultado sem nenhum ajuste ao passado, e é por ele que cada regra está sendo julgada.
 
-*Atualizado 24/11/2026 23:48 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
+*Atualizado 25/11/2026 10:15 · histórico simulado com as regras congeladas em 23/10/2026 + placar ao vivo.*
 
 As regras de compra do site, **da que mais rendeu para a que menos rendeu**. O resultado é por operação, no índice à vista, sem custos e sem juros compostos (a soma é só a soma das operações). **Treino** = entradas de 2001 a 2013 e **teste** = 2014 em diante: uma regra só é confiável se ganhou nos dois. O único resultado sem nenhum ajuste ao histórico é o **placar ao vivo**.
 
@@ -68,7 +68,7 @@ As regras de compra do site, **da que mais rendeu para a que menos rendeu**. O r
 | 🥈 | [📈 Tendência MME9 · Diário](operacoes/tendencia) | 2000 | 380 (14,3/ano) | +1,0% | 40% | +391,2% | **+14,7%** | +1,2% × +0,8% ✅ | +22,4% · -10,0% | — |
 | 🥉 | [📈 Tendência MME9 · Semanal](operacoes/tendencia) | 2000 | 90 (3,4/ano) | +3,0% | 48% | +265,7% | **+10,0%** | +4,1% × +1,9% ✅ | +60,2% · -10,0% | — |
 | 4 | [🎯 Diário · Nadaraya](operacoes/entradas) | 2000 | 81 (3,1/ano) | +3,2% | 46% | +259,9% | **+9,8%** | +3,9% × +2,6% ✅ | +36,6% · -11,2% | — |
-| · | [🎯 H4 · Semáforo N2](operacoes/entradas) *(poucos anos)* | 2024 | 24 (8,5/ano) | +2,7% | 38% | +65,6% | **+23,2%** | — × +2,7% | +14,9% · -1,9% | 1 op · -0,8% |
+| · | [🎯 H4 · Semáforo N2](operacoes/entradas) *(poucos anos)* | 2024 | 24 (8,5/ano) | +2,7% | 38% | +65,6% | **+23,1%** | — × +2,7% | +14,9% · -1,9% | 1 op · -0,8% |
 
 *✅ = média positiva no treino e no teste, com pelo menos 5 operações em cada. **Por ano** = soma ÷ anos desde a primeira operação. Regras com menos de 10 anos de dados ficam no fim, sem posição: com poucos anos o resultado pode parecer melhor do que é.*
 
