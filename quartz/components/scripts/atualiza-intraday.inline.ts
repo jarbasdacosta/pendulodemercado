@@ -46,11 +46,23 @@ document.addEventListener("nav", () => {
 
   const slug = String(getFullSlug(window))
   if (!slug.startsWith("intraday/")) return
-  // os slugs antigos trazem a hora junto (intraday/2026-04-20-1351) e ainda
-  // existe intraday/index. Os dez primeiros caracteres sao a data em todos os
-  // casos que importam; o que nao casar com AAAA-MM-DD nao e pagina de pregao.
-  const diaDaPagina = slug.slice("intraday/".length).slice(0, 10)
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(diaDaPagina)) {
+  // MARCA_INDICE_V2 (26/11/2026) — duas familias de pagina caem aqui:
+  //
+  //   intraday/index              o espelho do pregao CORRENTE, reescrito a
+  //                               cada 15 min. E a pagina do menu e a que
+  //                               fica aberta durante o pregao.
+  //   intraday/2026-11-26         o arquivo daquele dia; os slugs antigos
+  //   intraday/2026-04-20-1351    trazem a hora junto, entao o dia sao os dez
+  //                               primeiros caracteres.
+  //
+  // A v1 exigia AAAA-MM-DD na cauda do slug e tratava o resto como "nao e
+  // pagina de pregao" — ou seja, desligava o componente exatamente no indice,
+  // o unico caso que importa com o mercado aberto. Medido em 26/11/2026 com a
+  // aba parada em 13:30 enquanto o site publicava 14:30.
+  const cauda = slug.slice("intraday/".length)
+  const ehIndice = cauda === "index" || cauda === ""
+  const diaDaPagina = cauda.slice(0, 10)
+  if (!ehIndice && !/^\d{4}-\d{2}-\d{2}$/.test(diaDaPagina)) {
     caixa.textContent = "atualização automática só vale na página do pregão do dia"
     return
   }
@@ -63,8 +75,7 @@ document.addEventListener("nav", () => {
   const elCarimbo = document.querySelector("[data-carimbo]")
   const attrCarimbo = elCarimbo?.getAttribute("data-carimbo")?.trim() ?? ""
   const carimboNaTela =
-    attrCarimbo.match(RE_CARIMBO)?.[1] ??
-    (document.body.textContent ?? "").match(RE_CARIMBO)?.[1]
+    attrCarimbo.match(RE_CARIMBO)?.[1] ?? (document.body.textContent ?? "").match(RE_CARIMBO)?.[1]
   if (!carimboNaTela) {
     caixa.textContent = "atualização automática desligada: não achei o carimbo nesta página"
     return
@@ -84,7 +95,9 @@ document.addEventListener("nav", () => {
     if (ocupado || document.hidden) return
     const t = agoraBRT()
 
-    if (t.dia !== diaDaPagina) {
+    // o indice recebe o pregao novo, entao nao encerra na virada do dia:
+    // encerrar ali deixaria parada uma aba aberta de um dia para o outro.
+    if (!ehIndice && t.dia !== diaDaPagina) {
       caixa.textContent = `pregão encerrado — esta é a página de ${diaDaPagina}, não muda mais`
       parar()
       return
@@ -105,8 +118,7 @@ document.addEventListener("nav", () => {
           return
         }
       }
-      caixa.textContent =
-        `atualiza sozinha a cada minuto · na tela ${carimboNaTela} · verificado ${t.hhmm}`
+      caixa.textContent = `atualiza sozinha a cada minuto · na tela ${carimboNaTela} · verificado ${t.hhmm}`
     } catch {
       caixa.textContent = `sem resposta do servidor · verificado ${t.hhmm}`
     } finally {
