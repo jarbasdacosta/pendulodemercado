@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 25/11/2026 19:10.*
+*Lido do agendamento do próprio servidor em 25/11/2026 22:08.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o
@@ -34,8 +34,9 @@ O que acontece em todo dia útil, sempre no mesmo horário. É daqui que vem o n
 | dias úteis, 18h45 | **Cálculo do ζ** — Calcula o ζ dos pregões que faltam, no diário e em velas de 15 minutos, e refaz as duas páginas de estudo do sinal. Roda entre o fechamento e a publicação, para o número do dia entrar na rodada das 19h. |
 | dias úteis, 19h00 | **Rodada diária** — Refaz todas as páginas do dia e dispara o aviso diário. Roda às 19h, antes de a B3 publicar o boletim — por isso existe o vigia abaixo. |
 | dias úteis, 19h30 | **Resumo do dia** — Fecha o resumo e envia. |
-| dias úteis, 19h40 | **Setups** — Testa e republica as páginas dos setups. |
+| dias úteis, 19h45 | **git_push.sh** |
 | dias úteis, 19h50 | **Série do Ibovespa** — Estende a série diária do Ibovespa com o pregão que acabou de fechar, vindo da corretora. É a série que os estudos leem. Confere antes se as duas fontes ainda batem e não grava nada se divergirem: série contaminada não se percebe, série atrasada sim. |
+| dias úteis, 20h15 | **Setups** — Testa e republica as páginas dos setups. |
 | dias úteis, 21h15 | **derivar_h1.py** |
 
 
