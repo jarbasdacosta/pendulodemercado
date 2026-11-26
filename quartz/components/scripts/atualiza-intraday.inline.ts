@@ -55,7 +55,16 @@ document.addEventListener("nav", () => {
     return
   }
 
-  const carimboNaTela = (document.body.textContent ?? "").match(RE_CARIMBO)?.[1]
+  // MARCA_CARIMBO_ATTR_TS_V1 — o carimbo tem elemento proprio desde 26/11/2026.
+  // Ler o primeiro carimbo do corpo inteiro era sorte: bastava um bloco
+  // novo acima da manchete para este componente passar a enxergar outro
+  // momento, sem aviso. O corpo inteiro fica como reserva, porque as 151
+  // paginas ja publicadas nao tem o atributo.
+  const elCarimbo = document.querySelector("[data-carimbo]")
+  const attrCarimbo = elCarimbo?.getAttribute("data-carimbo")?.trim() ?? ""
+  const carimboNaTela =
+    attrCarimbo.match(RE_CARIMBO)?.[1] ??
+    (document.body.textContent ?? "").match(RE_CARIMBO)?.[1]
   if (!carimboNaTela) {
     caixa.textContent = "atualização automática desligada: não achei o carimbo nesta página"
     return
