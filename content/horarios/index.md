@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 25/11/2026 22:25.*
+*Lido do agendamento do próprio servidor em 26/11/2026 07:29.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o
@@ -83,7 +83,7 @@ Cálculos que se movem devagar: refazer todo dia mostraria a mesma figura. Três
 | horário | o que roda |
 |---|---|
 | domingos, 02h00 | **Arquivamento do Boletim Diário** — A B3 mantém só os últimos ~21 pregões no ar. O que não for guardado some. Esta rodada guarda o pregão anterior, já fechado. |
-| domingos, 06h30 | **Limpeza de arquivos antigos** |
+| domingos, 06h30 | **Limpeza de arquivos antigos** — Apaga da pasta de saída do sistema os arquivos `*.png` com mais de 30 dias. É rotina de espaço, não de dados: roda com o mercado fechado e não alcança o conteúdo publicado, que fica no repositório do site. |
 | domingos, 07h00 | **Índices da B3** — Guarda o comportamento do dia dos 34 índices — Ibovespa, IFIX, setoriais, small e mid cap. Eles não vêm prontos no boletim: cada um exige uma requisição própria e vira uma linha do dia. |
 | domingos, 07h13 | **Séries longas ajustadas** — Reconstrói o ajuste por proventos da série histórica da B3, na ordem obrigatória dos seis passos — trocar a ordem faz os ajustes contarem duas vezes. |
 | sábados, 07h15 | **Ofertas na CVM** — Atualiza a página de ofertas públicas com os registros da CVM e publica só quando algo mudou. |
