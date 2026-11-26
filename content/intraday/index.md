@@ -80,7 +80,7 @@ title: "🌊 IMA Intraday"
 
 ## Monitor Multi-Ativo
 
-**67% dos ativos em tensão** (18 de 27 · 11🔴 7🟡) · leitura de 26/11 18:25 BRT, candles de 15 min — quanto mais ativos disparam juntos, mais confiável o sinal. 🔪 e 🔵 vêm do ζ Fundo; 🔴 e 🟡, do ζ Topo.
+**67% dos ativos em tensão** (18 de 27 · 11🔴 7🟡) · leitura de 26/11 18:30 BRT, candles de 15 min — quanto mais ativos disparam juntos, mais confiável o sinal. 🔪 e 🔵 vêm do ζ Fundo; 🔴 e 🟡, do ζ Topo.
 
 *Origem do preço: 26 da corretora, em tempo real · 1 da reserva, com cerca de 45 min de atraso (USD/BRL).*
 
@@ -121,7 +121,7 @@ title: "🌊 IMA Intraday"
 
 ![Monitor multi-ativo](../graficos/multi_intraday.png)
 
-*Página atualizada em 26/11/2026 18:25 BRT (leitura da barra de 2026-11-26 18:00 BRT · preço da corretora, tempo real).*
+*Página atualizada em 26/11/2026 18:30 BRT (leitura da barra de 2026-11-26 18:00 BRT · preço da corretora, tempo real).*
 
 > [!warning] O que este indicador não faz
 > Medido em 5 anos de Ibovespa, o ζ **não antecipa** topos nem fundos: a capacidade de separar o que sobe do que cai ficou em 0,49–0,52, e 0,50 é moeda jogada ao ar. Ele descreve o estado de agora; não é aviso do que vem. As zonas verde/amarelo/vermelho continuam na página como descrição desse estado — **não as use como sinal de entrada ou saída**.
