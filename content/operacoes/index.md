@@ -1,7 +1,7 @@
 ---
 title: "🎯 Operações"
 date: 2026-11-26
-pregao: 2026-11-25
+pregao: 2026-11-26
 tags: [operacoes]
 description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23/10/2026"
 ---
@@ -58,19 +58,24 @@ description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23
 
 Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/2026**. Daqui para frente cada operação entra no **placar ao vivo**, o único resultado sem nenhum ajuste ao histórico. Nenhuma regra de venda passou nos testes ([por quê](metodologia/o-que-nao-passou)).
 
+> [!tip] 🎯 Operações — último candle
+> - 📌 Tendência Diário: preparar compra acima de 177.024
+>
+> [Ver operações](operacoes/)
+
 ## 🟢 Posições em aberto
 
 _Nenhuma posição aberta agora._
 
 > [!info] 🌊 Contexto do IMA para compras
-> 🎯 **amplitude saiu da região de fundo** em 11/11 — ζ Topo 0% · ζ Fundo 66% em 25/11
+> 🎯 **amplitude saiu da região de fundo** em 11/11 — ζ Topo 0% · ζ Fundo 66% em 26/11
 > Informa, não filtra: veja como as compras se saíram em cada contexto no [🏆 Ranking](operacoes/ranking#contexto-do-ima).
 
 ## Agora
 
 | Regra | Situação | Nota | Validação ao vivo |
 |---|---|---|---|
-| [📈 Tendência MME9 · Diário](operacoes/tendencia) | Diário — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
+| [📈 Tendência MME9 · Diário](operacoes/tendencia) | Diário 📌 compra acima de 177.024 | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [📈 Tendência MME9 · Semanal](operacoes/tendencia) | Semanal — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [🎯 Diário · Nadaraya](operacoes/entradas) | — sem setup | ✅ passou fora da amostra | 0 de 10 operações ao vivo |
 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | — sem setup | ✅ o ganho vem do setup | 0 de 10 operações ao vivo |
