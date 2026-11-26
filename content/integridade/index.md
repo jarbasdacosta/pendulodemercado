@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **25/11/2026**, com 57 tabelas no acervo · página gerada em 26/11/2026 06:44*
+*Pregão conferido: **25/11/2026**, com 57 tabelas no acervo · página gerada em 26/11/2026 10:15*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -21,9 +21,9 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | nenhuma |
-| Páginas publicadas | 371 |
+| Páginas publicadas | 372 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 26/11 06:44 |
+| Página escrita mais recentemente | 26/11 10:15 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -122,13 +122,11 @@ Pregão mais recente declarado por alguma página: **25/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `diario/index.md` | 16/11 14:43 | 9.7 |
-| `intraday/index.md` | 16/11 14:43 | 9.7 |
-| `por-onde-comecar.md` | 16/11 15:20 | 9.6 |
-| `autopsias/index.md` | 19/11 14:39 | 6.7 |
-| `ofertas.md` | 21/11 07:15 | 5.0 |
-| `espectro/grandes-tombos.md` | 22/11 17:30 | 3.6 |
-| `espectro/index.md` | 23/11 14:06 | 2.7 |
+| `por-onde-comecar.md` | 16/11 15:20 | 9.8 |
+| `autopsias/index.md` | 19/11 14:39 | 6.8 |
+| `ofertas.md` | 21/11 07:15 | 5.1 |
+| `espectro/grandes-tombos.md` | 22/11 17:30 | 3.7 |
+| `espectro/index.md` | 23/11 14:06 | 2.8 |
 
 ### Página declarando data sem pregão
 
@@ -202,9 +200,9 @@ Barras de 1 minuto dos contratos de índice, montadas dos negócios individuais 
 
 | o que | situação |
 |---|---|
-| Pregões arquivados | **24**, de 19/10/2026 a 24/11/2026 |
-| Tamanho | 495 KB |
-| Pregões parciais | **3** |
+| Pregões arquivados | **25**, de 19/10/2026 a 25/11/2026 |
+| Tamanho | 512 KB |
+| Pregões parciais | **4** |
 | Dias úteis sem arquivo na faixa | **1** |
 
 A B3 mantém esses arquivos por cerca de 21 pregões. O acervo só cresce para frente: o que não for guardado a tempo some, e por isso ele começa em 19/10/2026 e não antes.
@@ -216,6 +214,7 @@ A B3 mantém esses arquivos por cerca de 21 pregões. O acervo só cresce para f
 | 27/10/2026 | `WINZ26` | 12:36 | 18:31 |
 | 29/10/2026 | `WINZ26` | 12:04 | 18:31 |
 | 05/11/2026 | `WINZ26` | 10:24 | 18:31 |
+| 25/11/2026 | `WINZ26` | 09:47 | 18:31 |
 
 **Dia útil sem arquivo:** 28/10/2026. Houve pregão nesse dia — ele está no boletim diário —, mas o arquivo de negócios não existe no site da B3. Não é falha de coleta.
 

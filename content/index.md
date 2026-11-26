@@ -1,29 +1,29 @@
 ---
 title: Pêndulo de Mercado
-date: 2026-11-25
+date: 2026-11-26
 pregao: 2026-11-25
 tags: [home]
 ---
 
 **As ondas do mercado, explicadas.** Leitura do Ibovespa com estatística de 26 anos, baseada no trabalho de pesquisadores e traders reconhecidos e adaptada por Jarbas Daniel da Costa.
 
-*Última atualização: 25/11/2026 20:50 BRT · Diário D1 · fonte do preço: Yahoo, fechamento ajustado*
+*Última atualização: 26/11/2026 10:15 BRT · Intraday 15min · preço da corretora, tempo real*
 
-> [!info] Onde o mercado está no fechamento de 25/11: **🔵 Esticado para baixo**
-> `Pânico ◀───●─────────────────▶ Euforia` · ζ Topo **0%** · ζ Fundo **66%** · régua = ζ Topo − ζ Fundo = **−66 p.p.**
+> [!danger] Onde o mercado está agora (26/11 10:00, candles de 15 min): **🔴 Euforia extrema**
+> `Pânico ◀───────────────────●─▶ Euforia` · ζ Topo **96%** · ζ Fundo **2%** · régua = ζ Topo − ζ Fundo = **+94 p.p.**
 >
-> **O Ibovespa subiu 1,58% hoje, aos 166.685 pontos.** Mesmo assim, o preço segue abaixo da sua faixa habitual.
+> **O Ibovespa sobe 2,90% agora, aos 171.515 pontos.** O preço subiu muito acima da sua tendência. Historicamente, foi a fase com maior risco de correção.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
-> [!warning] ⚠️ Nível alto agora — IMA Diário (25/11)
-> - 🔵 **ζ Fundo 66%** — preço esticado abaixo da tendência
+> [!danger] 🚨 Nível EXTREMO agora — IMA Intraday · 15 min (26/11 10:00)
+> - 🔴 **ζ Topo 96%** — preço esticado acima da tendência (risco de reversão)
 
 ## Agora
 
 | Módulo | Agora | |
 |---|---|---|
-| 🌊 **Sinal IMA** | 🟢 VERDE · 🔵 esticado para baixo · ζ Topo 0% | [relatório](diario/2026-11-25) |
+| 🌊 **Sinal IMA** | 🔴 VERMELHO · 🔴 euforia extrema · ζ Topo 🔴 **96%** | [relatório](intraday/2026-11-26) |
 | 📈 **Tendência MME9** | Diário — fora<br>Semanal — fora | [abrir](operacoes/tendencia) |
 | 🎯 **Entradas do método** | — nenhuma regra com setup ativo | [abrir](operacoes/entradas) |
 | 📍 **Sinais** | hoje: nenhum sinal | [abrir](sinais-topo-fundo/) |
@@ -41,41 +41,29 @@ tags: [home]
 
 *[Linha do tempo completa](linha-do-tempo/) — todo sinal, ordem, stop e aviso, do mais recente para o mais antigo. ⚡ = vale durante o pregão · ⏱️ = no fechamento.*
 
-> [!note] 🧭 IMA Diário · situação: 🌱 **Fundo se desfazendo**
-> 📚 só contexto: o pânico passou; sem vantagem estatística confirmada para comprar só por isso
->
-> Eventos recentes: 🌱 10/11 Fundo se desfazendo · 🔪 03/11 Queda forte em curso · 📉 28/10 Esticamento desinflando · 📉 16/09 Esticamento desinflando
->
-> *Leitura educacional baseada em 26 anos de dados, não recomendação. [Como usar](metodologia/crise#3-como-usar-na-prática).*
-
 > [!info]- 🌊 Detalhes do Sinal IMA (indicadores e últimos 7 pregões)
-> > [!info] IMA Diário (25/11): 🔵 **ESTICADO P/ BAIXO** — ζ Fundo **66%** · ζ Topo 0% · ＝ +0 p.p. vs leitura anterior
-> > `█████████████░░░░░░░` **66%**
-> > Atenção — preço esticado abaixo da tendência. Medido por episódio, esta faixa não teve retorno melhor que um dia qualquer: +0,18% em 60 pregões contra +3,34% da base.
+> > [!danger] IMA Intraday · 15 min (26/11 10:00): 🔴 **VERMELHO** — ζ Topo **96%** · ▲ +1 p.p. vs leitura anterior
+> > `███████████████████░` **96%**
+> > ALERTA — esticamento extremo (ζ ≥ 0,90): risco de reversão.
 >
 >
-> | Indicador — IMA Diário (25/11) | Valor |
+> | Indicador — IMA Intraday · 15 min (26/11 10:00) | Valor |
 > |---|---|
-> | ζ Topo — preço esticado acima da tendência | **0%** |
-> | 🔵 ζ Fundo — preço esticado abaixo da tendência | 🔵 **66%** |
-> | 🔵 Zona | ESTICADO P/ BAIXO |
-> | 📊 Ibovespa | 166.685 pts <span style="color:#3fb950" title="subiu">▲</span> (+1,58%) |
-> | 📏 Distância da média | 🔵 −6,1% (p3) |
-> | 🛰️ Fonte do preço | Yahoo, fechamento ajustado |
+> | 🔴 ζ Topo — preço esticado acima da tendência | 🔴 **96%** |
+> | ζ Fundo — preço esticado abaixo da tendência | 2% |
+> | 🔴 Zona | VERMELHO |
+> | 📊 Ibovespa | 171.515 pts <span style="color:#3fb950" title="subiu">▲</span> (+2,90%) |
+> | 📏 Distância da média | 🔴 +2,4% (p100) |
+> | 🛰️ Fonte do preço | preço da corretora, tempo real |
 >
-> **Multi-ativo:** 10% em tensão (1🔴 1🟡 de 21 ativos)
+> **Multi-ativo:** 37% em tensão (6🔴 5🟡 de 27 ativos)
 >
 > **Últimos 7 pregões**
 >
 > | Data | Fechamento | Zona | ζ Topo | ζ Fundo | Dist. média |
 > |---|---|---|---|---|---|
-> | [25/11/2026](diario/2026-11-25) | 166.685 <span style="color:#3fb950" title="subiu">▲</span> | 🔵 | **0%** | 🔵 **66%** | 🔵 −6,1% (p3) |
-> | [24/11/2026](diario/2026-11-24) | 164.090 <span style="color:#f85149" title="caiu">▼</span> | 🔵 | **0%** | 🔵 **64%** | 🔵 −7,5% (p0) |
-> | [23/11/2026](diario/2026-11-23) | 164.796 <span style="color:#f85149" title="caiu">▼</span> | 🔵 | **0%** | 🔵 **63%** | 🔵 −7,1% (p0) |
-> | [19/11/2026](diario/2026-11-19) | 166.376 <span style="color:#f85149" title="caiu">▼</span> | 🔵 | **0%** | 🔵 **61%** | 🔵 −6,2% (p2) |
-> | [18/11/2026](diario/2026-11-18) | 167.538 <span style="color:#f85149" title="caiu">▼</span> | 🟢 | **0%** | **58%** | 🔵 −5,6% (p3) |
-> | [17/11/2026](diario/2026-11-17) | 169.817 <span style="color:#3fb950" title="subiu">▲</span> | 🟢 | **0%** | **55%** | 🔵 −4,3% (p5) |
-> | [16/11/2026](diario/2026-11-16) | 169.295 <span style="color:#f85149" title="caiu">▼</span> | 🟢 | **0%** | **49%** | 🔵 −4,5% (p5) |
+> | [26/11/2026](intraday/2026-11-26) | 171.515 <span style="color:#3fb950" title="subiu">▲</span> | 🔴 | 🔴 **96%** | **2%** | 🔴 +2,4% (p100) |
+> | [25/11/2026](intraday/2026-11-25) | 166.685 <span style="opacity:.45" title="estável">▬</span> | 🔴 | 🔴 **95%** | **0%** | −0,5% (p60) |
 >
 > <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Zona**: 🟢 calmo, 🟡 atenção e 🔴 extremo vêm do ζ Topo; 🔵 FUNDO (ζ Fundo ≥ 60%) e 🔪 FACA (≥ 90%) vêm do ζ Fundo e têm precedência, porque queda em andamento é fato medido, não previsão.<br>**Dist. média**: a distância do preço à média dos 252 pregões — **≈ 1 ano** — e, entre parênteses, o percentil dessa distância nos 500 pregões anteriores (**≈ 2 anos**). `−8,2% (p0)` = o preço está 8,2% **abaixo** da média e nunca esteve tão abaixo em toda a janela. 🔵 ≤ p10 · 🔴 ≥ p90. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
 >

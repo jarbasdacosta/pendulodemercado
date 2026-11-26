@@ -6,6 +6,18 @@ pregao: 2026-11-25
 
 *Dados da B3 de 25/11/2026 · atualizado em 26/11/2026 08:32*
 
+
+<!-- NOTAS-INICIO -->
+> [!danger]- 3 pontos de atenção nesta página
+> **⛔ Forma de curva não é sinal de compra** — Backwardation não quer dizer que o preço vai subir: quer dizer que está apertado agora. O aperto costuma se resolver por queda do vencimento curto, não por alta do longo.
+>
+> **⚠️ A base sai para boi, milho e etanol — não para café e soja** — Para esses três a B3 publica indicador de preço físico em reais, com a unidade na descrição. Para café e soja a referência publicada é a curva do mercado externo (ICE, Chicago, FOB Santos), em centavo de libra e centavo de bushel. Subtrair isso de um ajuste em reais daria um número grande e sem significado, então a conta é bloqueada.
+>
+> **ℹ️ O indicador do boi mudou de provedor em fevereiro de 2025** — Os contratos de boi gordo com vencimento a partir de fev/2025 são liquidados pelo Indicador do Boi DATAGRO, não mais pelo Cepea/B3. Milho e etanol seguem com o Cepea. Por isso esta página imprime a descrição que a própria B3 publica, em vez de atribuir o indicador a um provedor — texto escrito à mão envelhece sem avisar.
+>
+> *Todos os pontos de atenção do site estão juntos em [Avisos](/avisos/).*
+<!-- NOTAS-FIM -->
+
 Em commodity agrícola, o preço de hoje responde menos do que a **forma da curva**. Cada
 mercadoria é negociada em vários vencimentos ao mesmo tempo, e comparar o que o mercado paga
 pela entrega de daqui a um mês com o que paga pela de daqui a um ano responde a pergunta que

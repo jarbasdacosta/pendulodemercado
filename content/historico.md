@@ -5,9 +5,9 @@ tags: [historico]
 
 # 📜 Histórico de leituras (v5)
 
-**2.616 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
+**2.617 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
 
-[**Baixar o histórico completo**](historico-completo.csv) (114 KB · abre no Excel e no LibreOffice)
+[**Baixar o histórico completo**](historico-completo.csv) (115 KB · abre no Excel e no LibreOffice)
 
 > [!info] Antes de 03/07/2026
 > As leituras do método v3 ficam em [histórico anterior](historico-anterior) — a escala do risco era outra, por isso elas não entram na mesma tabela.
@@ -18,6 +18,7 @@ tags: [historico]
 
 | Data | Zona | ζ Topo |
 |---|---|---|
+| 2026-11-26 10:00 | 🔴 | 🔴 **96%** |
 | 2026-11-25 18:00 | 🔴 | 🔴 **95%** |
 | 2026-11-25 17:45 | 🔴 | 🔴 **98%** |
 | 2026-11-25 17:30 | 🔴 | 🔴 **98%** |
@@ -84,38 +85,6 @@ tags: [historico]
 | 2026-11-24 10:30 | 🟢 | **7%** |
 | 2026-11-24 10:15 | 🟢 | **10%** |
 | 2026-11-24 10:00 | 🟢 | **5%** |
-| 2026-11-23 18:00 | 🟢 | **3%** |
-| 2026-11-23 17:45 | 🟢 | **4%** |
-| 2026-11-23 17:30 | 🟢 | **3%** |
-| 2026-11-23 17:15 | 🟢 | **2%** |
-| 2026-11-23 17:00 | 🟢 | **2%** |
-| 2026-11-23 16:45 | 🟢 | **2%** |
-| 2026-11-23 16:30 | 🟢 | **4%** |
-| 2026-11-23 16:00 | 🟢 | **3%** |
-| 2026-11-23 15:45 | 🟢 | **3%** |
-| 2026-11-23 15:30 | 🟢 | **2%** |
-| 2026-11-23 15:15 | 🟢 | **1%** |
-| 2026-11-23 15:00 | 🟢 | **0%** |
-| 2026-11-23 14:45 | 🟢 | **1%** |
-| 2026-11-23 14:30 | 🟢 | **1%** |
-| 2026-11-23 14:15 | 🟢 | **0%** |
-| 2026-11-23 14:00 | 🟢 | **1%** |
-| 2026-11-23 13:45 | 🟢 | **1%** |
-| 2026-11-23 13:30 | 🟢 | **1%** |
-| 2026-11-23 13:15 | 🟢 | **0%** |
-| 2026-11-23 13:00 | 🟢 | **0%** |
-| 2026-11-23 12:45 | 🟢 | **0%** |
-| 2026-11-23 12:30 | 🟢 | **1%** |
-| 2026-11-23 12:15 | 🟢 | **2%** |
-| 2026-11-23 12:00 | 🟢 | **3%** |
-| 2026-11-23 11:45 | 🟢 | **2%** |
-| 2026-11-23 11:30 | 🟢 | **2%** |
-| 2026-11-23 11:15 | 🟢 | **0%** |
-| 2026-11-23 11:00 | 🟢 | **0%** |
-| 2026-11-23 10:45 | 🟢 | **0%** |
-| 2026-11-23 10:30 | 🟢 | **2%** |
-| 2026-11-23 10:15 | 🟢 | **2%** |
-| 2026-11-23 10:00 | 🟢 | **2%** |
 
 ### Diário — pregões
 
@@ -123,7 +92,6 @@ tags: [historico]
 |---|---|---|
 | 2026-11-25 | 🟢 | **0%** |
 | 2026-11-24 | 🟢 | **0%** |
-| 2026-11-23 | 🟢 | **0%** |
 
 
 ## Dias anteriores, um por linha
@@ -132,6 +100,7 @@ O risco mostrado é o **máximo do dia** — é o que importa para saber se a zo
 
 | Dia | Leituras | Zona na última | Risco máximo | IMA máximo | LPPL máximo |
 |---|---|---|---|---|---|
+| 2026-11-23 | 33 | 🟢 | 4% | 4% | 0% |
 | 2026-11-19 | 34 | 🟢 | 7% | 7% | 0% |
 | 2026-11-18 | 34 | 🟢 | 3% | 3% | 0% |
 | 2026-11-17 | 33 | 🟢 | 46% | 46% | 0% |
