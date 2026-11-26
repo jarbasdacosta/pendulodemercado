@@ -84,10 +84,10 @@ pregao: 2026-11-25
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Ouro 🟢 | 3.599,40 US$/oz | 1,80% | -7,68% | -17,09% | -15,80% |
-| Cobre 🟢 | 5,44 US$/lb | 2,07% | -15,72% | -3,32% | 4,29% |
-| Petróleo Brent 🔴 | 91,21 US$/bbl | -3,59% | -22,47% | 49,89% | 44,39% |
-| Dollar Index 🟢 | 103,79 pontos | 0,12% | 1,88% | 5,61% | 4,41% |
+| Ouro 🟢 | 3.598,40 US$/oz | 1,77% | -7,71% | -17,11% | -15,82% |
+| Cobre 🟢 | 5,44 US$/lb | 1,99% | -15,79% | -3,40% | 4,21% |
+| Petróleo Brent 🔴 | 91,23 US$/bbl | -3,57% | -22,45% | 49,93% | 44,42% |
+| Dollar Index 🟢 | 103,79 pontos | 0,11% | 1,87% | 5,60% | 4,40% |
 | Juro EUA 10 anos 🔴 | 4,85 % a.a. | -6 p.b. | -8 p.b. | 68 p.b. | 83 p.b. |
 
 <small>Taxas de juro variam em **pontos-base**, não em porcentagem de si mesmas: um juro que vai de 4,16% a 5,10% subiu 94 p.b.; dizer “+22%” seria tecnicamente verdade e praticamente inútil.</small>
@@ -98,16 +98,16 @@ pregao: 2026-11-25
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Paládio 🟢 | 879,00 US$/oz | 5,76% | -10,73% | -46,05% | -39,16% |
-| Prata 🟢 | 41,86 US$/oz | 4,51% | -14,74% | -40,31% | -28,34% |
+| Paládio 🟢 | 878,50 US$/oz | 5,70% | -10,78% | -46,08% | -39,20% |
+| Prata 🟢 | 41,81 US$/oz | 4,38% | -14,85% | -40,39% | -28,44% |
 | Platina 🟢 | 1.285,40 US$/oz | 3,54% | -10,61% | -36,82% | -23,03% |
-| Ouro 🟢 | 3.599,40 US$/oz | 1,80% | -7,68% | -17,09% | -15,80% |
+| Ouro 🟢 | 3.598,40 US$/oz | 1,77% | -7,71% | -17,11% | -15,82% |
 
 ### Metais industriais
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Cobre 🟢 | 5,44 US$/lb | 2,07% | -15,72% | -3,32% | 4,29% |
+| Cobre 🟢 | 5,44 US$/lb | 1,99% | -15,79% | -3,40% | 4,21% |
 | Aço laminado 🟢 | 1.429,00 US$/t | 1,85% | 6,09% | 52,83% | 58,25% |
 | Alumínio 🔴 | 2.771,75 US$/t | -1,81% | -16,27% | -4,63% | -2,51% |
 | Minério de ferro 🔴 | 90,64 US$/t | -0,03% | -0,08% | -15,39% | -13,54% |
@@ -116,11 +116,11 @@ pregao: 2026-11-25
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Gás natural 🟢 | 3,60 US$/MMBtu | 10,16% | 24,26% | -2,31% | -26,82% |
-| Petróleo Brent 🔴 | 91,21 US$/bbl | -3,59% | -22,47% | 49,89% | 44,39% |
-| Petróleo WTI 🟢 | 84,68 US$/bbl | 1,20% | -18,67% | 47,47% | 42,75% |
-| Óleo de aquecimento 🔴 | 3,68 US$/gal | -0,53% | -23,12% | 73,66% | 57,38% |
-| Gasolina 🔴 | 2,43 US$/gal | -0,37% | -26,53% | 42,68% | 30,19% |
+| Gás natural 🟢 | 3,60 US$/MMBtu | 10,13% | 24,22% | -2,33% | -26,84% |
+| Petróleo Brent 🔴 | 91,23 US$/bbl | -3,57% | -22,45% | 49,93% | 44,42% |
+| Petróleo WTI 🟢 | 84,61 US$/bbl | 1,11% | -18,74% | 47,35% | 42,63% |
+| Óleo de aquecimento 🔴 | 3,68 US$/gal | -0,52% | -23,11% | 73,69% | 57,40% |
+| Gasolina 🔴 | 2,43 US$/gal | -0,45% | -26,59% | 42,56% | 30,09% |
 
 ### Grãos
 
@@ -338,7 +338,7 @@ A B3 publica o cupom cambial dela nos vencimentos longos: `DDIX27` +7,24% · `DD
 
 | ativo | movimento | desvio | onde |
 |---|---|---|---|
-| **Dólar/Real** | -2,88% | z -3,0 | internacional |
+| **Dólar/Real** | -2,90% | z -3,0 | internacional |
 | **SLV (Prata)** | volume 2,52× a mediana | acima do normal | fluxo de ETF |
 | **PPLT (Platina)** | volume 2,35× a mediana | acima do normal | fluxo de ETF |
 | **PALL (Paládio)** | volume 1,87× a mediana | acima do normal | fluxo de ETF |
@@ -357,13 +357,13 @@ A B3 publica o cupom cambial dela nos vencimentos longos: `DDIX27` +7,24% · `DD
 
 | bloco | fonte | coletado |
 |---|---|---|
-| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 26/11 às 13:57 |
-| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 26/11 às 13:57 |
-| Dólar | Banco Central · PTAX de venda (série SGS 1) | 26/11 às 13:57 |
-| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 26/11 às 13:57 |
+| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 26/11 às 14:02 |
+| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 26/11 às 14:02 |
+| Dólar | Banco Central · PTAX de venda (série SGS 1) | 26/11 às 14:02 |
+| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 26/11 às 14:02 |
 | Índices da B3 | B3 · acervo diário de índices | 26/11/2026 06:30 |
 | Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 26/11 às 06:44 |
-| O lado | medido sobre o painel do próprio site | 26/11 às 13:20 |
+| O lado | medido sobre o painel do próprio site | 26/11 às 14:02 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
 
