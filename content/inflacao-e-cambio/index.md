@@ -1,9 +1,9 @@
 ---
 title: "🧮 Inflação e dólar: o que o mercado paga × o que os economistas esperam"
-date: 2026-11-25
-pregao: 2026-11-24
+date: 2026-11-26
+pregao: 2026-11-25
 ---
-*Curvas da B3 de 24/11/2026 · Focus de 19/11/2026 · PTAX de 24/11/2026 · atualizado em 25/11/2026 19:09*
+*Curvas da B3 de 25/11/2026 · Focus de 19/11/2026 · PTAX de 25/11/2026 · atualizado em 26/11/2026 06:43*
 
 
 <!-- NOTAS-INICIO -->
@@ -66,29 +66,29 @@ Esse número não é opinião de analista: é o preço em que as duas pontas fec
 
 | contrato | vencimento | dias úteis | real (DAP) | nominal (DI interpolado) | implícita | Focus no mesmo intervalo | diferença | contratos no dia | em aberto |
 |---|---|---|---|---|---|---|---|---|---|
-| DAPZ26 ⚠️ | 15/12/2026 | 15 | 6,375% | 13,678% | **6,865%** | 5,15% | +1,71 p.p. | 49 | 492 |
-| DAPF27 ⚠️ | 15/01/2027 | 36 | 4,900% | 13,698% | **8,387%** | 5,14% | +3,24 p.p. | 13 | 39.823 |
-| DAPG27 ⚠️ | 15/02/2027 | 55 | 3,675% | 13,743% | **9,711%** | 5,13% | +4,58 p.p. | 0 | 460 |
-| DAPH27 ⚠️ | 15/03/2027 | 75 | 2,680% | 13,809% | **10,838%** | 5,13% | +5,71 p.p. | 0 | 52 |
-| DAPJ27 ⚠️ | 15/04/2027 | 97 | 3,260% | 13,877% | **10,282%** | 5,13% | +5,15 p.p. | 0 | 65 |
-| DAPK27 ⚠️ | 17/05/2027 | 118 | 3,815% | 13,959% | **9,771%** | 5,13% | +4,64 p.p. | 4.647 | 474.894 |
-| DAPF28 | 17/01/2028 | 288 | 7,018% | 14,464% | **6,958%** | 5,08% | +1,88 p.p. | 0 | 3.985 |
-| DAPQ28 | 15/08/2028 | 433 | 7,290% | 14,738% | **6,942%** | 4,72% | +2,22 p.p. | 26.966 | 521.858 |
-| DAPK29 | 15/05/2029 | 617 | 7,465% | 14,947% | **6,962%** | 4,50% | +2,46 p.p. | 12.584 | 355.765 |
-| DAPQ30 | 15/08/2030 | 931 | 7,725% | 15,078% | **6,826%** | 4,32% | +2,50 p.p. | 32.445 | 446.448 |
-| DAPK31 | 15/05/2031 | 1.117 | 7,775% | 15,133% | **6,827%** | — | — | 48.616 | 162.458 |
-| DAPQ32 | 16/08/2032 | 1.435 | 7,860% | 15,221% | **6,824%** | — | — | 3.581 | 375.049 |
-| DAPK33 | 16/05/2033 | 1.622 | 7,830% | 15,234% | **6,867%** | — | — | 8.892 | 267.661 |
-| DAPK35 | 15/05/2035 | 2.121 | 7,795% | 15,215% | **6,883%** | — | — | 10.800 | 459.550 |
-| DAPK37 | 15/05/2037 | 2.622 | 7,655% | 15,183% | **6,993%** | — | — | 2.504 | 148.298 |
-| DAPQ40 | 15/08/2040 | 3.440 | 7,495% | 15,113% | **7,087%** | — | — | 1.663 | 175.926 |
+| DAPZ26 ⚠️ | 15/12/2026 | 14 | 6,235% | 13,679% | **7,007%** | 5,15% | +1,86 p.p. | 6.700 | 6.592 |
+| DAPF27 ⚠️ | 15/01/2027 | 35 | 4,910% | 13,693% | **8,372%** | 5,14% | +3,23 p.p. | 38 | 39.824 |
+| DAPG27 ⚠️ | 15/02/2027 | 54 | 3,655% | 13,725% | **9,715%** | 5,13% | +4,58 p.p. | 0 | 460 |
+| DAPH27 ⚠️ | 15/03/2027 | 74 | 2,470% | 13,769% | **11,027%** | 5,13% | +5,90 p.p. | 130 | 182 |
+| DAPJ27 ⚠️ | 15/04/2027 | 96 | 3,030% | 13,819% | **10,471%** | 5,13% | +5,34 p.p. | 0 | 65 |
+| DAPK27 ⚠️ | 17/05/2027 | 117 | 3,750% | 13,881% | **9,765%** | 5,13% | +4,64 p.p. | 2.030 | 476.290 |
+| DAPF28 | 17/01/2028 | 287 | 6,960% | 14,316% | **6,878%** | 5,08% | +1,80 p.p. | 2 | 3.985 |
+| DAPQ28 | 15/08/2028 | 432 | 7,255% | 14,588% | **6,837%** | 4,72% | +2,12 p.p. | 29.394 | 525.157 |
+| DAPK29 | 15/05/2029 | 616 | 7,450% | 14,792% | **6,833%** | 4,50% | +2,33 p.p. | 17.324 | 357.101 |
+| DAPQ30 | 15/08/2030 | 930 | 7,700% | 14,916% | **6,700%** | 4,32% | +2,38 p.p. | 12.859 | 448.492 |
+| DAPK31 | 15/05/2031 | 1.116 | 7,765% | 14,961% | **6,677%** | — | — | 35.407 | 158.534 |
+| DAPQ32 | 16/08/2032 | 1.434 | 7,855% | 15,056% | **6,677%** | — | — | 17.641 | 378.785 |
+| DAPK33 | 16/05/2033 | 1.621 | 7,805% | 15,075% | **6,743%** | — | — | 6.161 | 267.117 |
+| DAPK35 | 15/05/2035 | 2.120 | 7,790% | 15,069% | **6,753%** | — | — | 8.059 | 459.597 |
+| DAPK37 | 15/05/2037 | 2.621 | 7,590% | 15,040% | **6,925%** | — | — | 2.133 | 148.004 |
+| DAPQ40 | 15/08/2040 | 3.439 | 7,470% | 14,969% | **6,978%** | — | — | 5.317 | 173.906 |
 
 
 *As duas últimas colunas medem coisas diferentes e vale separá-las: **contratos no dia** é o que foi negociado hoje, **em aberto** é o que está posicionado. Linha com posição grande e volume zero tem preço de ajuste carregado, não preço formado hoje — é o caso mais traiçoeiro, porque parece cheia. Travessão em *em aberto* quer dizer que a B3 ainda não publicou a posição daquele pregão, e não que ela seja zero.*
 
 > [!warning] Vencimentos sem posição que sustente o preço
 > Estes continuam na tabela, com o número à vista, mas **não entram na média que aparece no topo da página**: **DAPF28** (3.985 em aberto).
-> O corte é relativo ao próprio dia: menos de 10% da mediana de posição em aberto, que hoje é 169.192 contratos. Preço de contrato sem posição é ajuste carregado de pregões anteriores, não preço formado agora — e entrava na conta com o mesmo peso de um vértice com meio milhão de contratos.
+> O corte é relativo ao próprio dia: menos de 10% da mediana de posição em aberto, que hoje é 166.220 contratos. Preço de contrato sem posição é ajuste carregado de pregões anteriores, não preço formado agora — e entrava na conta com o mesmo peso de um vértice com meio milhão de contratos.
 > Eles ficam visíveis de propósito: quem comparar esta tabela com a curva da B3 precisa achar todos os vencimentos aqui, e entender por que alguns não contam, em vez de estranhar uma ausência.
 
 
@@ -97,10 +97,10 @@ Esse número não é opinião de analista: é o preço em que as duas pontas fec
 >
 > É por isso que a implícita curta oscila de 5% para 9% entre vencimentos vizinhos sem que nada tenha mudado no mundo. Eles estão na tabela para mostrar o formato da curva, e ficam **fora de qualquer conclusão** desta página.
 
-- *DAPK45 ficou sem par: fora das pontas da curva de DI (5 a 3533 dias úteis).*
-- *DAPQ50 ficou sem par: fora das pontas da curva de DI (5 a 3533 dias úteis).*
-- *DAPK55 ficou sem par: fora das pontas da curva de DI (5 a 3533 dias úteis).*
-- *DAPQ60 ficou sem par: fora das pontas da curva de DI (5 a 3533 dias úteis).*
+- *DAPK45 ficou sem par: fora das pontas da curva de DI (4 a 3532 dias úteis).*
+- *DAPQ50 ficou sem par: fora das pontas da curva de DI (4 a 3532 dias úteis).*
+- *DAPK55 ficou sem par: fora das pontas da curva de DI (4 a 3532 dias úteis).*
+- *DAPQ60 ficou sem par: fora das pontas da curva de DI (4 a 3532 dias úteis).*
 
 *O Focus projeta IPCA até 2030. Vencimentos além disso aparecem com a implícita medida e sem comparação — porque não existe consenso publicado para aquele prazo, e inventar um seria pior que deixar em branco.*
 
@@ -108,7 +108,7 @@ Esse número não é opinião de analista: é o preço em que as duas pontas fec
 ### O que fazer com isso
 
 **Medido:** nos vencimentos não contaminados, a diferença entre a implícita e o caminho do
-Focus vai de 2,22 p.p. a 2,50 p.p., e a maior está em **DAPQ30** (15/08/2030), com 2,50 p.p..
+Focus vai de 2,12 p.p. a 2,38 p.p., e a maior está em **DAPQ30** (15/08/2030), com 2,38 p.p..
 
 **Interpretação, e aqui é leitura de risco e não previsão:** uma diferença dessa ordem não
 se explica só por prêmio. Ela diz que o mercado está disposto a pagar caro por proteção
@@ -144,7 +144,7 @@ não é opinião de ninguém sobre o futuro — é uma conta de arbitragem:
 dólar futuro = dólar à vista × (1 + juro em real) / (1 + juro em dólar)
 ```
 
-A razão é simples. Quem tem reais aplica hoje a 13,650% ao ano no vértice curto do DI. Quem tem
+A razão é simples. Quem tem reais aplica hoje a 13,651% ao ano no vértice curto do DI. Quem tem
 dólares aplica a muito menos no exterior. Se o dólar futuro **não** subisse pela diferença
 entre as duas taxas, daria para pegar reais emprestados, comprar dólar à vista, vender no
 futuro e travar lucro sem risco. Como esse lucro não existe por muito tempo, o futuro sobe
@@ -153,29 +153,29 @@ pelo diferencial — **por construção, não por previsão**.
 É daí que vem o nome **carrego** (ou *carry*): o futuro já traz embutido o custo de
 carregar a posição até o vencimento.
 
-*Dólar de venda do Banco Central (PTAX) em 24/11/2026: **R\$ 5,8573** — aqui só como referência. As contas da tabela **não** usam a PTAX: ela é fixada por volta do meio-dia e o ajuste dos futuros é do fechamento, e misturar os dois horários produz carrego absurdo nos dias em que o dólar anda forte à tarde.*
+*Dólar de venda do Banco Central (PTAX) em 25/11/2026: **R\$ 5,8825** — aqui só como referência. As contas da tabela **não** usam a PTAX: ela é fixada por volta do meio-dia e o ajuste dos futuros é do fechamento, e misturar os dois horários produz carrego absurdo nos dias em que o dólar anda forte à tarde.*
 
-*Todas as contas da tabela partem do vencimento mais curto, o **DOLZ26** (01/12/2026), a R\$ 5,9052: é ajuste contra ajuste, do mesmo instante. Por isso a linha dele sai sem número — ele é a régua.*
+*Todas as contas da tabela partem do vencimento mais curto, o **DOLZ26** (01/12/2026), a R\$ 5,8205: é ajuste contra ajuste, do mesmo instante. Por isso a linha dele sai sem número — ele é a régua.*
 
 
 | contrato | vencimento | ajuste (R\$/US\$) | depreciação ao ano desde a âncora | DI do mesmo prazo | juro em dólar a termo | contratos no dia |
 |---|---|---|---|---|---|---|
-| DOLZ26 | 01/12/2026 | R\$ 5,9052 | — | 13,650% | — | 417.710 |
-| DOLF27 | 04/01/2027 | R\$ 5,9383 | 6,17% | 13,684% | 5,97% | 515 |
-| DOLG27 | 01/02/2027 | R\$ 5,9714 | 6,78% | 13,707% | 6,00% | 0 |
-| DOLH27 | 01/03/2027 | R\$ 5,9990 | 6,60% | 13,776% | 6,04% | 0 |
-| DOLJ27 | 01/04/2027 | R\$ 6,0360 | 6,83% | 13,838% | 6,10% | 0 |
-| DOLK27 | 03/05/2027 | R\$ 6,0687 | 6,73% | 13,911% | 6,19% | 0 |
-| DOLM27 | 01/06/2027 | R\$ 6,1019 | 6,79% | 14,000% | 6,28% | 0 |
-| DOLN27 | 01/07/2027 | R\$ 6,1428 | 7,03% | 14,092% | 6,31% | 0 |
-| DOLQ27 | 02/08/2027 | R\$ 6,1803 | 7,05% | 14,162% | 6,38% | 0 |
-| DOLU27 | 01/09/2027 | R\$ 6,2219 | 7,21% | 14,229% | 6,41% | 0 |
-| DOLV27 | 01/10/2027 | R\$ 6,2580 | 7,21% | 14,295% | 6,50% | 0 |
-| DOLX27 | 01/11/2027 | R\$ 6,2913 | 7,14% | 14,337% | 6,54% | 0 |
-| DOLF28 | 03/01/2028 | R\$ 6,3703 | 7,20% | 14,438% | 6,60% | 0 |
-| DOLJ28 | 03/04/2028 | R\$ 6,4946 | 7,36% | 14,579% | 6,65% | 0 |
-| DOLN28 | 03/07/2028 | R\$ 6,6151 | 7,41% | 14,694% | 6,71% | 0 |
-| DOLV28 | 02/10/2028 | R\$ 6,7442 | 7,49% | 14,778% | 6,81% | 0 |
+| DOLZ26 | 01/12/2026 | R\$ 5,8205 | — | 13,651% | — | 372.345 |
+| DOLF27 | 04/01/2027 | R\$ 5,8537 | 6,29% | 13,684% | 5,86% | 4.825 |
+| DOLG27 | 01/02/2027 | R\$ 5,8865 | 6,86% | 13,700% | 5,91% | 0 |
+| DOLH27 | 01/03/2027 | R\$ 5,9139 | 6,67% | 13,747% | 5,95% | 0 |
+| DOLJ27 | 01/04/2027 | R\$ 5,9505 | 6,89% | 13,789% | 6,00% | 0 |
+| DOLK27 | 03/05/2027 | R\$ 5,9821 | 6,75% | 13,845% | 6,11% | 0 |
+| DOLM27 | 01/06/2027 | R\$ 6,0143 | 6,79% | 13,912% | 6,20% | 0 |
+| DOLN27 | 01/07/2027 | R\$ 6,0548 | 7,03% | 13,989% | 6,21% | 0 |
+| DOLQ27 | 02/08/2027 | R\$ 6,0914 | 7,04% | 14,040% | 6,27% | 0 |
+| DOLU27 | 01/09/2027 | R\$ 6,1317 | 7,19% | 14,101% | 6,31% | 0 |
+| DOLV27 | 01/10/2027 | R\$ 6,1675 | 7,20% | 14,154% | 6,38% | 0 |
+| DOLX27 | 01/11/2027 | R\$ 6,1999 | 7,12% | 14,189% | 6,42% | 0 |
+| DOLF28 | 03/01/2028 | R\$ 6,2763 | 7,16% | 14,291% | 6,50% | 0 |
+| DOLJ28 | 03/04/2028 | R\$ 6,3976 | 7,31% | 14,426% | 6,55% | 0 |
+| DOLN28 | 03/07/2028 | R\$ 6,5165 | 7,37% | 14,541% | 6,60% | 0 |
+| DOLV28 | 02/10/2028 | R\$ 6,6424 | 7,45% | 14,631% | 6,71% | 0 |
 
 *… e 9 vencimentos mais longos, no arquivo para download.*
 
@@ -195,18 +195,18 @@ que erraria um mês inteiro de carrego.
 
 | ano | contrato | futuro | Focus (30 dias) | Focus (5 dias) | futuro − Focus | ganho no período se o Focus acertar | o mesmo ao ano |
 |---|---|---|---|---|---|---|---|
-| 2026 | DOLF27 | R\$ 5,9383 | R\$ 5,5500 | R\$ 5,6500 | +R\$ 0,3883 | +7,0% | +82,6% |
-| 2027 | DOLF28 | R\$ 6,3703 | R\$ 5,5000 | R\$ 5,5247 | +R\$ 0,8703 | +15,8% | +14,2% |
-| 2028 | DOLF29 | R\$ 6,8662 | R\$ 5,5000 | R\$ 5,6000 | +R\$ 1,3662 | +24,8% | +11,1% |
-| 2029 | DOLF30 | R\$ 7,4229 | R\$ 5,5469 | R\$ 5,6000 | +R\$ 1,8760 | +33,8% | +9,8% |
-| 2030 | DOLF31 | R\$ 8,0462 | R\$ 5,6000 | R\$ 5,6000 | +R\$ 2,4462 | +43,7% | +9,2% |
+| 2026 | DOLF27 | R\$ 5,8537 | R\$ 5,5500 | R\$ 5,6500 | +R\$ 0,3037 | +5,5% | +62,6% |
+| 2027 | DOLF28 | R\$ 6,2763 | R\$ 5,5000 | R\$ 5,5247 | +R\$ 0,7763 | +14,1% | +12,7% |
+| 2028 | DOLF29 | R\$ 6,7631 | R\$ 5,5000 | R\$ 5,6000 | +R\$ 1,2631 | +23,0% | +10,3% |
+| 2029 | DOLF30 | R\$ 7,3073 | R\$ 5,5469 | R\$ 5,6000 | +R\$ 1,7604 | +31,7% | +9,3% |
+| 2030 | DOLF31 | R\$ 7,8994 | R\$ 5,6000 | R\$ 5,6000 | +R\$ 2,2994 | +41,1% | +8,7% |
 
 
 ### O que fazer com isso
 
-**Medido:** a curva de dólar embute depreciação de **7,55% ao ano** nos vencimentos longos. O
+**Medido:** a curva de dólar embute depreciação de **7,50% ao ano** nos vencimentos longos. O
 Focus projeta o dólar saindo de R\$ 5,55 em 2026 para R\$ 5,60 em 2030, o que equivale a **0,22% ao ano**.
-As duas coisas discordam em torno de 7,33 p.p. ao ano.
+As duas coisas discordam em torno de 7,27 p.p. ao ano.
 
 **O que isso NÃO é:** não é o mercado discordando do Focus sobre o dólar. O futuro é
 aritmética do diferencial de juros — ele subiria do mesmo jeito se todo mundo no mercado
@@ -218,8 +218,8 @@ desvalorização" é ler carrego como previsão.
 *carry trade*, a operação mais clássica e mais lucrativa do Brasil em períodos calmos — e
 a que mais destrói capital nos outros.
 
-A conta é essa: vendendo o contrato **DOLF31** a R\$ 8,05, se o dólar terminar 2030 nos R\$ 5,60 que o Focus
-projeta, o ganho é de **43,7% no período** — cerca de 9,2% ao ano. Enquanto nada acontece,
+A conta é essa: vendendo o contrato **DOLF31** a R\$ 7,90, se o dólar terminar 2030 nos R\$ 5,60 que o Focus
+projeta, o ganho é de **41,1% no período** — cerca de 8,7% ao ano. Enquanto nada acontece,
 recebe-se o carrego todo mês. É dinheiro parecendo fácil, e é exatamente aí que está o
 problema.
 
@@ -278,7 +278,7 @@ que decidem se o estudo vai valer alguma coisa daqui a um ano:
 - **Um buraco não contamina o dia seguinte.** Como cada linha carrega o seu próprio
   "ontem", um pregão que falte no arquivo não vira um salto falso na série.
 
-Hoje há **27 pregões** na série — pouco para concluir qualquer coisa, e é exatamente por isso que a coleta começa antes da pergunta. O arquivo está aqui: [serie-macro.csv](serie-macro.csv).
+Hoje há **28 pregões** na série — pouco para concluir qualquer coisa, e é exatamente por isso que a coleta começa antes da pergunta. O arquivo está aqui: [serie-macro.csv](serie-macro.csv).
 
 > [!tip] As três páginas
 > - [Juros: o que o mercado paga × o que os economistas esperam](/juros/) — a curva de DI contra o Focus de Selic, ano a ano
