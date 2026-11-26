@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 25/11/2026 22:08.*
+*Lido do agendamento do próprio servidor em 25/11/2026 22:25.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o
@@ -28,16 +28,16 @@ O que acontece em todo dia útil, sempre no mesmo horário. É daqui que vem o n
 |---|---|
 | dias úteis, 06h10 | **Arquivamento do Boletim Diário** — A B3 mantém só os últimos ~21 pregões no ar. O que não for guardado some. Esta rodada guarda o pregão anterior, já fechado. |
 | dias úteis, 06h30 | **Índices da B3** — Guarda o comportamento do dia dos 34 índices — Ibovespa, IFIX, setoriais, small e mid cap. Eles não vêm prontos no boletim: cada um exige uma requisição própria e vira uma linha do dia. |
-| dias úteis, 07h05 | **ticks_b3.py** |
+| dias úteis, 07h05 | **Negócios tick a tick da B3** — Arquiva as barras de um minuto dos índices a partir dos negócios individuais que a B3 publica em arquivo fechado, com hora até o milissegundo. É fonte primária: não depende do feed da corretora e não desaparece quando o MetaTrader para. |
 | dias úteis, 13h20 | **PTAX de fechamento** — O Banco Central consulta o mercado em quatro janelas (10h, 11h, 12h e 13h) e divulga a PTAX de fechamento por volta das 13h10. Esta rodada publica o dólar do dia às 13h20, sem esperar a rodada das 19h. Atraso do BC acontece: se a taxa ainda não estiver publicada, o valor do dia entra na rodada diária. |
 | dias úteis, 18h25 | **Fechamento do intradiário** — A última barra do pregão só é entregue completa por volta das 18h20. Esta rodada fecha o dia e dispara o aviso. |
 | dias úteis, 18h45 | **Cálculo do ζ** — Calcula o ζ dos pregões que faltam, no diário e em velas de 15 minutos, e refaz as duas páginas de estudo do sinal. Roda entre o fechamento e a publicação, para o número do dia entrar na rodada das 19h. |
 | dias úteis, 19h00 | **Rodada diária** — Refaz todas as páginas do dia e dispara o aviso diário. Roda às 19h, antes de a B3 publicar o boletim — por isso existe o vigia abaixo. |
 | dias úteis, 19h30 | **Resumo do dia** — Fecha o resumo e envia. |
-| dias úteis, 19h45 | **git_push.sh** |
+| dias úteis, 19h45 | **Publicação do Pêndulo** — Envia ao GitHub as páginas que a rodada das 19h gerou. Tem horário próprio desde 25/11/2026: antes ela saía no fim da rodada dos setups, e o site do Pêndulo esperava meia hora sem precisar. |
 | dias úteis, 19h50 | **Série do Ibovespa** — Estende a série diária do Ibovespa com o pregão que acabou de fechar, vindo da corretora. É a série que os estudos leem. Confere antes se as duas fontes ainda batem e não grava nada se divergirem: série contaminada não se percebe, série atrasada sim. |
 | dias úteis, 20h15 | **Setups** — Testa e republica as páginas dos setups. |
-| dias úteis, 21h15 | **derivar_h1.py** |
+| dias úteis, 21h15 | **Velas de uma hora** — Monta as velas de uma hora a partir das de um minuto que a corretora entrega. A conferência ignora a última vela, que é parcial por construção — era isso que fazia esta rotina parecer parada. |
 
 
 ## Ao longo do pregão, de poucos em poucos minutos
