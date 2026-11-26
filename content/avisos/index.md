@@ -2,7 +2,7 @@
 title: "⚠️ Avisos: o que saber antes de usar os números"
 ---
 
-*Gerado em 26/11/2026 10:15*
+*Gerado em 26/11/2026 10:30*
 
 Este site publica muitos números, e cada um tem uma limitação que importa na hora de
 decidir. As limitações estão escritas nas próprias páginas, mas quem chega direto numa
@@ -103,7 +103,7 @@ O caminho do Focus é composto no intervalo exato de cada contrato, repartindo o
 **Cada leitura usa a última barra completa**  
 <small>em [🌊 IMA Intraday](/intraday/)</small>
 
-A barra em formação não entra. Por isso a leitura de um momento qualquer reflete o mercado de alguns minutos atrás, e as primeiras barras do dia são descartadas: ainda não existe barra completa.
+A barra em formação não entra: a leitura de um momento qualquer reflete o candle anterior, de até 15 minutos atrás. Nenhuma barra fechada é descartada — a primeira do dia fecha às 10h15 e é publicada como as demais. Por isso não há leitura às 10h00: nenhum candle fechou ainda.
 
 **O CDI roda um pouco abaixo da Selic meta**  
 <small>em [📉 Juros: o que o mercado paga × o que os economistas esperam](/juros/)</small>
