@@ -12,7 +12,6 @@ const config: QuartzConfig = {
     baseUrl: "jarbasdacosta.github.io/pendulodemercado",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
