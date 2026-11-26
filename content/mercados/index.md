@@ -84,10 +84,10 @@ pregao: 2026-11-25
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Ouro 🟢 | 3.602,00 US$/oz | 1,87% | -7,61% | -17,03% | -15,74% |
-| Cobre 🟢 | 5,47 US$/lb | 2,55% | -15,33% | -2,87% | 4,78% |
-| Petróleo Brent 🔴 | 90,01 US$/bbl | -4,86% | -23,49% | 47,92% | 42,49% |
-| Dollar Index 🟢 | 103,69 pontos | 0,02% | 1,78% | 5,51% | 4,31% |
+| Ouro 🟢 | 3.601,70 US$/oz | 1,86% | -7,62% | -17,03% | -15,75% |
+| Cobre 🟢 | 5,45 US$/lb | 2,15% | -15,66% | -3,25% | 4,37% |
+| Petróleo Brent 🔴 | 91,39 US$/bbl | -3,40% | -22,31% | 50,19% | 44,67% |
+| Dollar Index 🟢 | 103,78 pontos | 0,10% | 1,86% | 5,59% | 4,39% |
 | Juro EUA 10 anos 🔴 | 4,85 % a.a. | -6 p.b. | -8 p.b. | 68 p.b. | 83 p.b. |
 
 <small>Taxas de juro variam em **pontos-base**, não em porcentagem de si mesmas: um juro que vai de 4,16% a 5,10% subiu 94 p.b.; dizer “+22%” seria tecnicamente verdade e praticamente inútil.</small>
@@ -99,28 +99,28 @@ pregao: 2026-11-25
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
 | Paládio 🟢 | 879,50 US$/oz | 5,82% | -10,67% | -46,02% | -39,13% |
-| Prata 🟢 | 41,91 US$/oz | 4,64% | -14,64% | -40,24% | -28,26% |
-| Platina 🟢 | 1.293,80 US$/oz | 4,22% | -10,03% | -36,41% | -22,53% |
-| Ouro 🟢 | 3.602,00 US$/oz | 1,87% | -7,61% | -17,03% | -15,74% |
+| Prata 🟢 | 41,85 US$/oz | 4,49% | -14,76% | -40,33% | -28,36% |
+| Platina 🟢 | 1.285,80 US$/oz | 3,58% | -10,58% | -36,80% | -23,01% |
+| Ouro 🟢 | 3.601,70 US$/oz | 1,86% | -7,62% | -17,03% | -15,75% |
 
 ### Metais industriais
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Cobre 🟢 | 5,47 US$/lb | 2,55% | -15,33% | -2,87% | 4,78% |
-| Aço laminado 🟢 | 1.434,00 US$/t | 2,21% | 6,46% | 53,37% | 58,80% |
-| Alumínio 🔴 | 2.822,75 US$/t | -1,73% | -14,73% | -2,87% | 0,53% |
+| Cobre 🟢 | 5,45 US$/lb | 2,15% | -15,66% | -3,25% | 4,37% |
+| Alumínio 🔴 | 2.768,50 US$/t | -1,92% | -16,37% | -4,74% | -2,63% |
+| Aço laminado 🟢 | 1.429,00 US$/t | 1,85% | 6,09% | 52,83% | 58,25% |
 | Minério de ferro 🔴 | 90,64 US$/t | -0,03% | -0,08% | -15,39% | -13,54% |
 
 ### Energia
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Gás natural 🟢 | 3,63 US$/MMBtu | 10,95% | 25,16% | -1,60% | -26,30% |
-| Petróleo Brent 🔴 | 90,01 US$/bbl | -4,86% | -23,49% | 47,92% | 42,49% |
-| Óleo de aquecimento 🔴 | 3,66 US$/gal | -1,18% | -23,62% | 72,54% | 56,36% |
-| Gasolina 🔴 | 2,42 US$/gal | -0,90% | -26,92% | 41,92% | 29,50% |
-| Petróleo WTI 🔴 | 83,47 US$/bbl | -0,25% | -19,83% | 45,37% | 40,71% |
+| Gás natural 🟢 | 3,62 US$/MMBtu | 10,65% | 24,81% | -1,87% | -26,50% |
+| Petróleo Brent 🔴 | 91,39 US$/bbl | -3,40% | -22,31% | 50,19% | 44,67% |
+| Petróleo WTI 🟢 | 84,86 US$/bbl | 1,41% | -18,50% | 47,79% | 43,05% |
+| Óleo de aquecimento 🔴 | 3,69 US$/gal | -0,32% | -22,96% | 74,05% | 57,73% |
+| Gasolina 🟢 | 2,45 US$/gal | 0,18% | -26,13% | 43,46% | 30,91% |
 
 ### Grãos
 
@@ -342,7 +342,8 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 
 | ativo | movimento | desvio | onde |
 |---|---|---|---|
-| **IPC México** | 2,99% | z 2,7 | internacional |
+| **FTSE 100** | 1,97% | z 2,5 | internacional |
+| **Dólar/Real** | -2,82% | z -2,9 | internacional |
 | **SLV (Prata)** | volume 2,52× a mediana | acima do normal | fluxo de ETF |
 | **PPLT (Platina)** | volume 2,35× a mediana | acima do normal | fluxo de ETF |
 | **PALL (Paládio)** | volume 1,87× a mediana | acima do normal | fluxo de ETF |
@@ -360,13 +361,13 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 
 | bloco | fonte | coletado |
 |---|---|---|
-| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 26/11 às 06:44 |
-| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 26/11 às 06:44 |
-| Dólar | Banco Central · PTAX de venda (série SGS 1) | 26/11 às 06:44 |
-| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 26/11 às 06:44 |
+| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 26/11 às 13:20 |
+| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 26/11 às 13:20 |
+| Dólar | Banco Central · PTAX de venda (série SGS 1) | 26/11 às 13:20 |
+| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 26/11 às 13:20 |
 | Índices da B3 | B3 · acervo diário de índices | 26/11/2026 06:30 |
 | Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 26/11 às 06:44 |
-| O lado | medido sobre o painel do próprio site | 26/11 às 06:44 |
+| O lado | medido sobre o painel do próprio site | 26/11 às 13:20 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
 
