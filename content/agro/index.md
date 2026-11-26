@@ -4,19 +4,7 @@ date: 2026-11-26
 pregao: 2026-11-25
 ---
 
-*Dados da B3 de 25/11/2026 · atualizado em 26/11/2026 06:43*
-
-
-<!-- NOTAS-INICIO -->
-> [!danger]- 3 pontos de atenção nesta página
-> **⛔ Forma de curva não é sinal de compra** — Backwardation não quer dizer que o preço vai subir: quer dizer que está apertado agora. O aperto costuma se resolver por queda do vencimento curto, não por alta do longo.
->
-> **⚠️ A base sai para boi, milho e etanol — não para café e soja** — Para esses três a B3 publica indicador de preço físico em reais, com a unidade na descrição. Para café e soja a referência publicada é a curva do mercado externo (ICE, Chicago, FOB Santos), em centavo de libra e centavo de bushel. Subtrair isso de um ajuste em reais daria um número grande e sem significado, então a conta é bloqueada.
->
-> **ℹ️ O indicador do boi mudou de provedor em fevereiro de 2025** — Os contratos de boi gordo com vencimento a partir de fev/2025 são liquidados pelo Indicador do Boi DATAGRO, não mais pelo Cepea/B3. Milho e etanol seguem com o Cepea. Por isso esta página imprime a descrição que a própria B3 publica, em vez de atribuir o indicador a um provedor — texto escrito à mão envelhece sem avisar.
->
-> *Todos os pontos de atenção do site estão juntos em [Avisos](/avisos/).*
-<!-- NOTAS-FIM -->
+*Dados da B3 de 25/11/2026 · atualizado em 26/11/2026 08:32*
 
 Em commodity agrícola, o preço de hoje responde menos do que a **forma da curva**. Cada
 mercadoria é negociada em vários vencimentos ao mesmo tempo, e comparar o que o mercado paga
@@ -108,6 +96,12 @@ o ajuste.
 
 
 A curva do café Arábica 4/5 **desce 6,3%** ao longo de 9 meses: o vencimento curto vale mais que o longo. Mercado paga prêmio por ter a mercadoria agora, o que costuma significar oferta apertada no presente. Para quem produz, é o desenho que favorece vender à vista em vez de travar preço lá na frente; para quem especula, é o que torna caro ficar comprado em vencimento longo esperando convergência.
+
+**Referência do mercado externo: indisponível.** Para este contrato a B3 não divulga indicador de preço físico nacional — divulga a curva do mercado externo, um ponto por vencimento, dentro do boletim diário. No boletim mais recente essa curva não veio: nenhum vencimento trouxe o preço de referência.
+
+Enquanto isso durar, a curva acima é só o ajuste da B3, sem comparação com o preço lá fora. O que se perde é a régua: o prêmio ou desconto do produto brasileiro contra o padrão internacional, que é o número que diz se o mercado daqui está caro ou barato por motivo de qualidade, frete e local de entrega — e não por direção de preço. Quem precisa dessa comparação agora tem de buscar a cotação externa por conta própria e converter.
+
+*Esta linha aparece porque o dado faltou, não porque a página falhou. Ela sai sozinha quando a B3 voltar a publicar.*
 
 ## Etanol Hidratado · ETH
 **R\$ 3.083,00** no vencimento mais próximo
