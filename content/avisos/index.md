@@ -2,7 +2,7 @@
 title: "⚠️ Avisos: o que saber antes de usar os números"
 ---
 
-*Gerado em 27/11/2026 13:20*
+*Gerado em 27/11/2026 13:30*
 
 Este site publica muitos números, e cada um tem uma limitação que importa na hora de
 decidir. As limitações estão escritas nas próprias páginas, mas quem chega direto numa
