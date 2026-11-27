@@ -74,7 +74,7 @@ pregao: 2026-11-26
 
 > [!note] Desde 2026-10-26 (21 pregões): Ibovespa × dólar **-0.424** · Ibovespa × juro **-0.715**.
 > 
-> reeleicao: Ibovespa -13,88%, dolar +8,8%, curva de DI +~260 p.b. em um dia, com circuit breaker.
+> reeleição: Ibovespa -13,88%, dólar +8,8%, curva de DI +~260 p.b. em um dia, com circuit breaker.
 > 
 > **Para quem opera:** quando o elo com o dólar está fraco, usar o dólar como termômetro da bolsa é usar um termômetro desligado. O par com correlação mais forte é o que está mandando no período.
 
@@ -84,11 +84,11 @@ pregao: 2026-11-26
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Ouro 🟢 | 3.707,20 US$/oz | 4,85% | -4,92% | -14,60% | -12,17% |
-| Cobre 🟢 | 5,71 US$/lb | 7,02% | -11,64% | 1,37% | 10,58% |
-| Petróleo Brent 🔴 | 92,33 US$/bbl | -2,41% | -21,51% | 51,73% | 47,85% |
-| Dollar Index 🟢 | 103,82 pontos | 0,14% | 1,90% | 5,63% | 4,49% |
-| Juro EUA 10 anos 🔴 | 4,85 % a.a. | -6 p.b. | -8 p.b. | 68 p.b. | 83 p.b. |
+| Ouro 🟢 | 3.650,10 US$/oz | 3,23% | -6,38% | -15,92% | -13,52% |
+| Cobre 🟢 | 5,59 US$/lb | 4,86% | -13,42% | -0,68% | 8,34% |
+| Petróleo Brent 🔴 | 90,45 US$/bbl | -4,40% | -23,11% | 48,64% | 44,84% |
+| Dollar Index 🟢 | 104,02 pontos | 0,34% | 2,10% | 5,84% | 4,69% |
+| Juro EUA 10 anos 🟢 | 4,91 % a.a. | 7 p.b. | -1 p.b. | 75 p.b. | 83 p.b. |
 
 <small>Taxas de juro variam em **pontos-base**, não em porcentagem de si mesmas: um juro que vai de 4,16% a 5,10% subiu 94 p.b.; dizer “+22%” seria tecnicamente verdade e praticamente inútil.</small>
 
@@ -98,59 +98,59 @@ pregao: 2026-11-26
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Prata 🟢 | 44,74 US$/oz | 11,69% | -8,88% | -36,21% | -22,85% |
-| Paládio 🟢 | 919,50 US$/oz | 10,64% | -6,61% | -43,56% | -37,49% |
-| Platina 🟢 | 1.354,30 US$/oz | 9,09% | -5,82% | -33,43% | -17,62% |
-| Ouro 🟢 | 3.707,20 US$/oz | 4,85% | -4,92% | -14,60% | -12,17% |
+| Prata 🟢 | 43,53 US$/oz | 8,70% | -11,33% | -37,93% | -24,92% |
+| Paládio 🟢 | 890,00 US$/oz | 7,09% | -9,61% | -45,37% | -39,49% |
+| Platina 🟢 | 1.304,90 US$/oz | 5,12% | -9,26% | -35,86% | -20,63% |
+| Ouro 🟢 | 3.650,10 US$/oz | 3,23% | -6,38% | -15,92% | -13,52% |
 
 ### Metais industriais
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Cobre 🟢 | 5,71 US$/lb | 7,02% | -11,64% | 1,37% | 10,58% |
-| Aço laminado 🟢 | 1.433,00 US$/t | 2,14% | 6,38% | 53,26% | 59,05% |
-| Alumínio 🟢 | 2.860,00 US$/t | 1,32% | -13,61% | -1,59% | 0,36% |
+| Cobre 🟢 | 5,59 US$/lb | 4,86% | -13,42% | -0,68% | 8,34% |
+| Aço laminado 🟢 | 1.403,00 US$/t | 3,77% | 4,16% | 50,05% | 54,52% |
+| Alumínio 🔴 | 2.793,50 US$/t | -1,04% | -15,62% | -3,88% | -1,97% |
 | Minério de ferro 🔴 | 90,64 US$/t | -0,03% | -0,08% | -15,39% | -13,54% |
 
 ### Energia
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Gás natural 🟢 | 3,57 US$/MMBtu | 9,21% | 23,19% | -3,15% | -26,24% |
-| Petróleo WTI 🟢 | 85,85 US$/bbl | 2,59% | -17,55% | 49,51% | 46,40% |
-| Petróleo Brent 🔴 | 92,33 US$/bbl | -2,41% | -21,51% | 51,73% | 47,85% |
-| Gasolina 🟢 | 2,46 US$/gal | 0,83% | -25,65% | 44,39% | 34,54% |
-| Óleo de aquecimento 🔴 | 3,69 US$/gal | -0,32% | -22,96% | 74,03% | 59,58% |
+| Gás natural 🟢 | 3,52 US$/MMBtu | 7,53% | 21,29% | -4,64% | -27,38% |
+| Petróleo Brent 🔴 | 90,45 US$/bbl | -4,40% | -23,11% | 48,64% | 44,84% |
+| Petróleo WTI 🔴 | 83,40 US$/bbl | -0,33% | -19,90% | 45,25% | 42,22% |
+| Óleo de aquecimento 🔴 | 3,69 US$/gal | -0,28% | -22,92% | 74,12% | 59,65% |
+| Gasolina 🔴 | 2,44 US$/gal | -0,13% | -26,35% | 43,03% | 33,27% |
 
 ### Grãos
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Farelo de soja 🟢 | 361,60 US$/t | 2,44% | 11,40% | 22,78% | 15,01% |
-| Aveia 🔴 | 353,25 ¢/bu | -2,42% | 2,76% | 16,78% | 19,85% |
-| Milho 🟢 | 439,75 ¢/bu | 1,32% | -1,79% | -0,11% | 0,98% |
-| Soja 🟢 | 1.244,00 ¢/bu | 0,81% | 1,78% | 20,72% | 9,34% |
-| Trigo 🔴 | 565,50 ¢/bu | -0,75% | -6,30% | 11,54% | 6,50% |
-| Arroz 🔴 | 18,75 US$/cwt | -0,42% | 7,57% | 95,47% | 86,15% |
-| Óleo de soja 🔴 | 58,08 ¢/lb | -0,05% | -11,87% | 20,82% | 12,21% |
+| Aveia 🔴 | 334,75 ¢/bu | -5,24% | -2,62% | 10,66% | 14,44% |
+| Soja 🟢 | 1.269,25 ¢/bu | 2,03% | 3,85% | 23,17% | 12,85% |
+| Farelo de soja 🟢 | 368,90 US$/t | 2,02% | 13,65% | 25,26% | 19,54% |
+| Milho 🟢 | 448,50 ¢/bu | 1,99% | 0,17% | 1,87% | 2,40% |
+| Trigo 🟢 | 569,75 ¢/bu | 0,75% | -5,59% | 12,38% | 5,95% |
+| Óleo de soja 🟢 | 58,49 ¢/lb | 0,71% | -11,24% | 21,68% | 11,73% |
+| Arroz 🟢 | 18,83 US$/cwt | 0,37% | 7,97% | 96,20% | 86,11% |
 
 ### Softs
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Suco de laranja 🔴 | 125,25 ¢/lb | -4,68% | 8,58% | -38,96% | -19,74% |
-| Açúcar 🟢 | 18,85 ¢/lb | 2,78% | -2,63% | 25,58% | 25,83% |
-| Café arábica 🟢 | 275,65 ¢/lb | 2,64% | -4,02% | -20,96% | -33,26% |
-| Algodão 🟢 | 79,65 ¢/lb | 0,67% | 2,34% | 23,93% | 26,61% |
-| Cacau 🟢 | 5.302,00 US$/t | 0,40% | -2,77% | -12,58% | -1,89% |
+| Cacau 🟢 | 5.528,00 US$/t | 4,26% | 1,38% | -8,85% | 2,35% |
+| Algodão 🟢 | 81,97 ¢/lb | 3,60% | 5,32% | 27,54% | 30,30% |
+| Açúcar 🟢 | 18,88 ¢/lb | 2,94% | -2,48% | 25,78% | 26,03% |
+| Café arábica 🔴 | 275,15 ¢/lb | -0,18% | -4,20% | -21,10% | -32,15% |
+| Suco de laranja 🔴 | 125,05 ¢/lb | -0,16% | 8,41% | -39,06% | -17,16% |
 
 ### Proteína
 
 | ativo | último | dia | mês | ano | 360 dias |
 |---|---|---|---|---|---|
-| Suíno (EUA) 🔴 | 49,92 ¢/lb | -3,62% | -15,20% | -41,33% | -38,06% |
-| Bezerro (EUA) 🔴 | 327,52 ¢/lb | -1,61% | -3,03% | -6,49% | 1,10% |
-| Boi gordo (EUA) 🔴 | 223,32 ¢/lb | -1,14% | -0,30% | -3,74% | 3,60% |
+| Suíno (EUA) 🟢 | 50,92 ¢/lb | 2,00% | -13,50% | -40,16% | -36,74% |
+| Bezerro (EUA) 🟢 | 330,67 ¢/lb | 0,96% | -2,10% | -5,59% | 0,24% |
+| Boi gordo (EUA) 🟢 | 224,48 ¢/lb | 0,51% | 0,21% | -3,24% | 2,75% |
 
 > As agrícolas negociadas **na B3**, com a curva e o que ela diz, estão na página [🌾 Agro](/agro). Aqui é o preço lá fora, que é o que chega antes.
 
@@ -342,14 +342,10 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 
 | ativo | movimento | desvio | onde |
 |---|---|---|---|
-| **Ouro** | 4,85% | z 2,6 | internacional |
-| **Prata** | 11,69% | z 2,7 | internacional |
-| **Platina** | 9,09% | z 2,6 | internacional |
-| **Paládio** | 10,64% | z 3,0 | internacional |
-| **Cobre** | 7,02% | z 3,8 | internacional |
-| **Xangai** | 3,73% | z 4,0 | internacional |
-| **Ibovespa** | 6,07% | z 3,8 | internacional |
-| **Dólar/Real** | -2,91% | z -3,0 | internacional |
+| **Cobre** | 4,86% | z 2,6 | internacional |
+| **Aço laminado** | 3,77% | z 4,3 | internacional |
+| **Dólar/Real** | -4,54% | z -4,6 | internacional |
+| **EWZ (Brasil em NY)** | 9,81% | z 4,2 | internacional |
 | **SLV (Prata)** | volume 2,53× a mediana | acima do normal | fluxo de ETF |
 | **PPLT (Platina)** | volume 2,36× a mediana | acima do normal | fluxo de ETF |
 | **PALL (Paládio)** | volume 1,88× a mediana | acima do normal | fluxo de ETF |
@@ -369,13 +365,13 @@ A sobra não é o mercado apostando em alta do dólar. A PTAX é fixada por volt
 
 | bloco | fonte | coletado |
 |---|---|---|
-| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 27/11 às 06:45 |
-| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 27/11 às 06:45 |
-| Dólar | Banco Central · PTAX de venda (série SGS 1) | 27/11 às 06:45 |
-| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 27/11 às 06:45 |
+| Internacional e commodities | Yahoo Finance · atraso de ~15 min, cotação revisável | 27/11 às 13:20 |
+| Ibovespa (fechamento) | B3 · Boletim Diário do Mercado | 27/11 às 13:20 |
+| Dólar | Banco Central · PTAX de venda (série SGS 1) | 27/11 às 13:20 |
+| Curva de juros | B3 · boletim, 43 vencimentos de DI1 | 27/11 às 13:20 |
 | Índices da B3 | B3 · acervo diário de índices | 27/11/2026 06:31 |
 | Fluxo: rankings, aluguel e termo | B3 · Boletim Diário + nossa base COTAHIST ajustada | 27/11 às 06:45 |
-| O lado | medido sobre o painel do próprio site | 27/11 às 06:45 |
+| O lado | medido sobre o painel do próprio site | 27/11 às 13:20 |
 
 Os horários em que cada página do site atualiza estão em [🕐 Quando este site atualiza](/horarios).
 
