@@ -5,7 +5,7 @@ date: 2026-11-27
 
 <p style="margin:.4rem 0 0"><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:inherit">0%</span><br><span style="font-size:.95rem;opacity:.75">bolha</span></span><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:inherit">0%</span><br><span style="font-size:.95rem;opacity:.75">antibolha</span></span></p>
 
-**Leitura de 26/11/2026** · pagina gerada em 27/11/2026 17:45 BRT
+**Leitura de 26/11/2026** · pagina gerada em 27/11/2026 18:01 BRT
 
 O LPPL **não** decide o semáforo do site — veja a nota no fim. Sobre o que conta como sinal, leia a seção *O único episódio* antes de tratar qualquer numero daqui como alto: a referencia de 30% que esta página usava perdeu o lastro na remedição de 25/11/2026.
 
