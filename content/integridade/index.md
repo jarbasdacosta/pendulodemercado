@@ -6,7 +6,7 @@ description: "O que foi conferido, contra qual fonte e quando — medido na hora
 tags: [integridade]
 ---
 
-*Pregão conferido: **26/11/2026**, com 61 tabelas no acervo · página gerada em 27/11/2026 18:01*
+*Pregão conferido: **26/11/2026**, com 61 tabelas no acervo · página gerada em 27/11/2026 18:15*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -23,7 +23,7 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 374 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 27/11 18:01 |
+| Página escrita mais recentemente | 27/11 18:15 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -127,8 +127,8 @@ Pregão mais recente declarado por alguma página: **26/11/2026**.
 | página | escrita em | dias parada |
 |---|---|---:|
 | `por-onde-comecar.md` | 16/11 15:20 | 11.1 |
-| `autopsias/index.md` | 19/11 14:39 | 8.1 |
-| `ofertas.md` | 21/11 07:15 | 6.4 |
+| `autopsias/index.md` | 19/11 14:39 | 8.2 |
+| `ofertas.md` | 21/11 07:15 | 6.5 |
 | `espectro/grandes-tombos.md` | 22/11 17:30 | 5.0 |
 | `espectro/index.md` | 23/11 14:06 | 4.2 |
 
