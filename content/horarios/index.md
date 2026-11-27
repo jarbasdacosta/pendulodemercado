@@ -2,7 +2,7 @@
 title: "🕐 Quando este site atualiza"
 ---
 
-*Lido do agendamento do próprio servidor em 26/11/2026 19:07.*
+*Lido do agendamento do próprio servidor em 27/11/2026 19:07.*
 
 
 Esta página não é escrita à mão. Ela é **lida do agendamento do servidor** toda vez que o
@@ -48,8 +48,8 @@ Estas acompanham o mercado enquanto ele negocia. Repetem porque o **preço** mud
 | horário | o que roda |
 |---|---|
 | dias úteis, a cada 15 min, das 10h00 às 17h45 | **Sinal intradiário** — Recalcula o sinal com a última barra fechada e republica a página do dia. |
-| dias úteis, a cada 15 min, das 10h00 às 18h45 | **Vigia do feed de preços** — Confere se o feed está chegando. |
 | dias úteis, a cada 15 min, das 10h02 às 18h47 | **Monitor** — Acompanha o estado do sistema durante o pregão. |
+| dias úteis, a cada 5 min, das 13h00 às 14h55 | **vigia_ptax_v1.py** — O PROBLEMA, MEDIDO TRES VEZES. A rodada `run.sh ptax` roda as 13:20, uma vez, e desiste. |
 
 
 ## Todo pregão, tentando até a fonte responder
@@ -61,6 +61,7 @@ Estas não têm hora de entrega — têm hora de tentativa. Dependem de um dado 
 | dias úteis, a cada 30 min, das 05h10 às 08h40 | **Capital estrangeiro** — Busca o relatório de fluxo da B3, que sai com dois dias de atraso, e republica a página de capital estrangeiro quando há dado novo. Sem dado novo, não publica nada. |
 | dias úteis, a cada 20 min, das 06h25 às 06h45 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
 | dias úteis, 07h15 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
+| dias úteis, a cada 15 min, das 09h00 às 18h45 | **Vigia do feed de preços** — Confere se o feed está chegando. |
 | dias úteis, 12h10 | **Capital estrangeiro** — Busca o relatório de fluxo da B3, que sai com dois dias de atraso, e republica a página de capital estrangeiro quando há dado novo. Sem dado novo, não publica nada. |
 | dias úteis, 18h50 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
 | dias úteis, a cada 30 min, das 19h10 às 23h40 | **Vigia do Boletim Diário da B3** — Sonda a B3 depois do fechamento e, assim que o boletim do pregão sai, refaz as páginas que dependem dele (juros, inflação e câmbio, agro, posicionamento, aluguel e ADRs) e republica. Para no primeiro sucesso do dia. |
@@ -84,6 +85,7 @@ Cálculos que se movem devagar: refazer todo dia mostraria a mesma figura. Três
 | horário | o que roda |
 |---|---|
 | domingos, 02h00 | **Arquivamento do Boletim Diário** — A B3 mantém só os últimos ~21 pregões no ar. O que não for guardado some. Esta rodada guarda o pregão anterior, já fechado. |
+| domingos, 04h40 | **limpeza_semanal_v1.sh** — SO MEXE NO QUE VOLTA SOZINHO: cache de pacote (apt-get clean) e bytecode do Python (__pycache__). Nenhum dos dois e lido como conteudo por servico nenhum, e os dois se refazem na proxima vez que forem precisos. Medido em 27/11/2026: 146 MB de apt e. |
 | domingos, 06h30 | **Limpeza de arquivos antigos** — Apaga da pasta de saída do sistema os arquivos `*.png` com mais de 30 dias. É rotina de espaço, não de dados: roda com o mercado fechado e não alcança o conteúdo publicado, que fica no repositório do site. |
 | domingos, 07h00 | **Índices da B3** — Guarda o comportamento do dia dos 34 índices — Ibovespa, IFIX, setoriais, small e mid cap. Eles não vêm prontos no boletim: cada um exige uma requisição própria e vira uma linha do dia. |
 | domingos, 07h13 | **Séries longas ajustadas** — Reconstrói o ajuste por proventos da série histórica da B3, na ordem obrigatória dos seis passos — trocar a ordem faz os ajustes contarem duas vezes. |

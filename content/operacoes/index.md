@@ -1,7 +1,7 @@
 ---
 title: "🎯 Operações"
 date: 2026-11-27
-pregao: 2026-11-26
+pregao: 2026-11-27
 tags: [operacoes]
 description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23/10/2026"
 ---
@@ -59,23 +59,29 @@ description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23
 Regras de **compra** testadas no Ibovespa 2000–2026 e **congeladas em 23/10/2026**. Daqui para frente cada operação entra no **placar ao vivo**, o único resultado sem nenhum ajuste ao histórico. Nenhuma regra de venda passou nos testes ([por quê](metodologia/o-que-nao-passou)).
 
 > [!tip] 🎯 Operações — último candle
-> - 📌 Tendência Diário: preparar compra acima de 177.024
+> - 🟢 Tendência Diário: **compra** a 177.025
 >
 > [Ver operações](operacoes/)
 
 ## 🟢 Posições em aberto
 
-_Nenhuma posição aberta agora._
+| Regra | Entrada | Stop | Agora | Candles | Sai quando | |
+|---|---|---|---|---|---|---|
+| [Tendência MME9 · Diário](operacoes/tendencia) | 27/11/26 a 177.025 | ⚡ 159.322 | **-0,3%** | 0 | ⏱️ sinal no fechamento (candle fecha abaixo da MME9), depois ⚡ ordem stop na mínima dele | 🧪 ao vivo |
+
+> [!warning] ⚡ = vale **durante o pregão** (ordem stop: deixe a ordem na plataforma; o sistema confere a cada 15 min, avisa 🚨 a 0,5% do nível e avisa quando executar) · ⏱️ = só no **fechamento** do candle
+
+*Resultado até o último fechamento. Posições abertas antes de 23/10/2026 são simuladas no histórico e não entram no placar ao vivo.*
 
 > [!info] 🌊 Contexto do IMA para compras
-> 🎯 **amplitude saiu da região de fundo** em 11/11 — ζ Topo 0% · ζ Fundo 66% em 26/11
+> 🎯 **amplitude saiu da região de fundo** em 11/11 — ζ Topo 1% · ζ Fundo 62% em 27/11
 > Informa, não filtra: veja como as compras se saíram em cada contexto no [🏆 Ranking](operacoes/ranking#contexto-do-ima).
 
 ## Agora
 
 | Regra | Situação | Nota | Validação ao vivo |
 |---|---|---|---|
-| [📈 Tendência MME9 · Diário](operacoes/tendencia) | Diário ⚡ comprou hoje às 10:00 a 177.024 (confirma às 19h) | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
+| [📈 Tendência MME9 · Diário](operacoes/tendencia) | Diário 🟢 comprado desde 27/11 (-0,3%) | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [📈 Tendência MME9 · Semanal](operacoes/tendencia) | Semanal — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [🎯 Diário · Nadaraya](operacoes/entradas) | — sem setup | ✅ passou fora da amostra | 0 de 10 operações ao vivo |
 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | — sem setup | ✅ o ganho vem do setup | 0 de 10 operações ao vivo |

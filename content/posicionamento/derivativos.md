@@ -4,7 +4,7 @@ date: 2026-11-27
 pregao: 2026-11-26
 ---
 
-*Dados da B3 de 26/11/2026 · atualizado em 27/11/2026 06:44*
+*Dados da B3 de 26/11/2026 · atualizado em 27/11/2026 19:07*
 
 **Volume conta quem passou. Posição em aberto conta quem ficou.**
 

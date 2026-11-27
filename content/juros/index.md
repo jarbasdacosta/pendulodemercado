@@ -4,7 +4,7 @@ date: 2026-11-27
 pregao: 2026-11-26
 ---
 
-*Curva da B3 de 26/11/2026 · Focus de 19/11/2026 · atualizado em 27/11/2026 06:44*
+*Curva da B3 de 26/11/2026 · Focus de 19/11/2026 · atualizado em 27/11/2026 19:07*
 
 
 <!-- NOTAS-INICIO -->

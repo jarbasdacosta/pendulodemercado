@@ -1,19 +1,19 @@
 ---
 title: "📈 Avanço e declínio"
-date: 2026-11-26
-pregao: 2026-11-26
+date: 2026-11-27
+pregao: 2026-11-27
 description: "Linha de avanço e declínio do Ibovespa: ações que subiram menos as que caíram, acumulado"
 tags: [amplitude]
 ---
 
-*Atualizado 26/11/2026 19:06 · fechamento de 26/11/2026.*
+*Atualizado 27/11/2026 19:06 · fechamento de 27/11/2026 · Ibovespa: Yahoo (^BVSP).*
 
 Em cada pregão, conta quantas ações da carteira do Ibovespa **subiram** e quantas **caíram**. O saldo do dia (subiram − caíram) é somado dia após dia: essa é a **linha de avanço e declínio**. Ela mostra se a alta do índice é de muitas ações ou só de algumas grandes. **Divergência:** o Ibovespa faz um **topo maior** que o topo anterior e a linha, nesse topo, fica **abaixo** do pico que tinha no topo anterior — a alta está ficando estreita.
 
 > [!danger] ⚠ **Divergência confirmada em 26/10/2026** — topo de 209.067 (09/10) acima do topo de 14/04, com a linha 188 abaixo.
-> 26/11/2026: 75 subiram · 1 caíram · saldo **+74**
+> 27/11/2026: 45 subiram · 29 caíram · saldo **+16**
 
-![Linha de avanço e declínio](graficos/linha_ad_20261126.png)
+![Linha de avanço e declínio](graficos/linha_ad_20261127.png)
 
 ## Topos maiores e a linha
 
@@ -42,6 +42,7 @@ Desde 2001: **42** topos maiores confirmados · **15** com divergência.
 
 | Data | Subiram | Caíram | Saldo | Linha | Ibovespa |
 |---|---|---|---|---|---|
+| 27/11/2026 | 45 | 29 | **+16** | 1.102 | 176.573 |
 | 26/11/2026 | 75 | 1 | **+74** | 1.086 | 176.800 |
 | 25/11/2026 | 60 | 14 | **+46** | 1.012 | 166.685 |
 | 24/11/2026 | 42 | 34 | **+8** | 966 | 164.090 |
@@ -51,7 +52,6 @@ Desde 2001: **42** topos maiores confirmados · **15** com divergência.
 | 17/11/2026 | 47 | 28 | **+19** | 1.060 | 169.817 |
 | 16/11/2026 | 19 | 56 | **-37** | 1.041 | 169.295 |
 | 13/11/2026 | 51 | 24 | **+27** | 1.078 | 172.458 |
-| 12/11/2026 | 18 | 55 | **-37** | 1.051 | 171.324 |
 
 ## 📦 OBV — o volume (só informação)
 
@@ -60,7 +60,7 @@ O **OBV** (*On-Balance Volume*) soma o volume financeiro das ações da carteira
 > [!note] **OBV do índice:** sem topo maior em formação · **OBV agregado** (ação por ação): sem topo maior em formação
 > **No teste a divergência do OBV funcionou AO CONTRÁRIO da teoria** — não use como sinal (detalhes abaixo).
 
-![OBV do Ibovespa](graficos/linha_ad_obv_20261126.png)
+![OBV do Ibovespa](graficos/linha_ad_obv_20261127.png)
 
 | OBV no teste (23/10/2026, topo/fundo confirmado por 5%) | O que aconteceu depois | Leitura |
 |---|---|---|
