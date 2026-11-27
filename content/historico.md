@@ -5,9 +5,9 @@ tags: [historico]
 
 # 📜 Histórico de leituras (v5)
 
-**2.679 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
+**2.680 leituras** desde 2026-07-03. Na página ficam os últimos 3 dias leitura por leitura e o resumo de cada dia anterior; o registro inteiro está no arquivo para baixar.
 
-[**Baixar o histórico completo**](historico-completo.csv) (117 KB · abre no Excel e no LibreOffice)
+[**Baixar o histórico completo**](historico-completo.csv) (118 KB · abre no Excel e no LibreOffice)
 
 > [!info] Antes de 03/07/2026
 > As leituras do método v3 ficam em [histórico anterior](historico-anterior) — a escala do risco era outra, por isso elas não entram na mesma tabela.
@@ -18,6 +18,7 @@ tags: [historico]
 
 | Data | Zona | ζ Topo |
 |---|---|---|
+| 2026-11-27 17:15 | 🟢 | **1%** |
 | 2026-11-27 17:00 | 🟢 | **1%** |
 | 2026-11-27 16:45 | 🟢 | **0%** |
 | 2026-11-27 16:30 | 🟢 | **0%** |
