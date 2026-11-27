@@ -1,12 +1,12 @@
 ---
 title: "🔎 Integridade dos dados"
-date: 2026-11-26
-pregao: 2026-11-25
+date: 2026-11-27
+pregao: 2026-11-26
 description: "O que foi conferido, contra qual fonte e quando — medido na hora, tabela por tabela e página por página"
 tags: [integridade]
 ---
 
-*Pregão conferido: **25/11/2026**, com 57 tabelas no acervo · página gerada em 26/11/2026 19:07*
+*Pregão conferido: **26/11/2026**, com 61 tabelas no acervo · página gerada em 27/11/2026 06:45*
 
 O pregão conferido é o último **fechado e arquivado inteiro**, não o de hoje: enquanto o dia corre, só algumas tabelas estão gravadas, e conferir um dia pela metade produziria alarme falso.
 
@@ -16,14 +16,14 @@ Esta página não declara que o site está correto. Ela **mede** e escreve o res
 
 | o que | situação |
 |---|---|
-| Tabelas do boletim conferidas | **51** de 57 guardadas |
+| Tabelas do boletim conferidas | **55** de 61 guardadas |
 | Tabelas **incompletas** | **1** — veja abaixo |
 | Tabelas sem alvo publicado pela B3 | 6 — não há como conferir |
 | Pregão com sinal de que aconteceu | sim |
 | Tabelas com conteúdo fora da curva | nenhuma |
 | Páginas publicadas | 373 |
 | Conferências cruzadas das páginas | 71 certas, nenhuma divergência |
-| Página escrita mais recentemente | 26/11 19:07 |
+| Página escrita mais recentemente | 27/11 06:45 |
 | Páginas sem data no cabeçalho | 9 — cegas para a conferência de dado |
 
 ## 1 · Acervo do boletim diário
@@ -36,64 +36,68 @@ A conferência é por **conjunto**, não por contagem de linhas: várias tabelas
 
 | tabela | declarado pela B3 | obtido | completude |
 |---|---:|---:|---:|
-| `Renewals` | 727 | 492 | **67,7%** |
+| `Renewals` | 422 | 204 | **48,3%** |
 
 **O que isso significa para quem opera.** Número calculado sobre tabela incompleta é número sobre amostra, não sobre o mercado. Onde a completude estiver abaixo de 100%, trate o que vier dessa tabela como indicativo e confira na fonte antes de decidir. A avaliação é leitura de risco; o risco é de quem opera.
 
-### Completas (50)
+### Completas (54)
 
 Bateram exatamente com o alvo da B3. As incompletas estão acima e não se repetem aqui.
 
 | tabela | linhas | tickers obtidos | declarados pela B3 |
 |---|---:|---:|---:|
-| `BTBLendingOpenPosition` | 2.954 | 1.046 | 1.046 |
-| `BTBLoanBalance` | 4.749 | 1.657 | 1.657 |
-| `BTBTrade` | 44.809 | 574 | 574 |
+| `AnalyticalFramework2` | 458 | 458 | 458 |
+| `BTBLendingOpenPosition` | 2.912 | 1.026 | 1.026 |
+| `BTBLoanBalance` | 3.157 | 1.611 | 1.611 |
+| `BTBTrade` | 35.086 | 528 | 528 |
 | `CNLDistrionCoffeLocation` | 1 | 1 | 1 |
 | `CNLHarvestCoffeApprov` | 1 | 1 | 1 |
 | `CNLValidLotsSettle` | 1 | 1 | 1 |
 | `COEInventory` | 1 | 1 | 1 |
 | `COERegistration` | 1 | 1 | 1 |
-| `ConsolidatedTradesDerivatives` | 7.764 | 7.764 | 7.764 |
+| `ConsolidatedTradesDerivatives` | 7.763 | 7.763 | 7.763 |
 | `ConsolidatedTradesDerivativesAfter` | 52 | 52 | 52 |
-| `ConsolidatedTradesEquities` | 63.034 | 63.034 | 63.034 |
-| `ConsolidatedTradesRVAfter` | 22 | 22 | 22 |
+| `ConsolidatedTradesEquities` | 63.348 | 63.348 | 63.348 |
+| `ConsolidatedTradesRVAfter` | 31 | 31 | 31 |
 | `Custody` | 57 | 57 | 57 |
 | `DailyAverageDerivatives2` | 9 | 9 | 9 |
 | `DailyAverageStocks` | 9 | 9 | 9 |
-| `DeadlineDepositSecurities` | 2 | 2 | 2 |
-| `DebenturesBusiness` | 78 | 78 | 78 |
+| `DeadlineDepositSecurities` | 9 | 9 | 9 |
+| `DebenturesBusiness` | 79 | 79 | 79 |
 | `DerivativesMtM` | 4 | 4 | 4 |
-| `DerivativesOperation2` | 87 | 87 | 87 |
+| `DerivativesOperation2` | 85 | 85 | 85 |
 | `DistrionCoffeLocation` | 17 | 17 | 17 |
-| `EconomicIndicators` | 441 | 64 | 64 |
+| `EconomicIndicators` | 266 | 64 | 64 |
 | `EletronicTerm` | 1 | 1 | 1 |
-| `FlexibleOptions` | 1.043 | 113 | 113 |
+| `FlexibleOptions` | 1.063 | 126 | 126 |
 | `Forward` | 5 | 5 | 5 |
-| `ForwardMarket` | 149 | 91 | 91 |
-| `FugibleCustody` | 6 | 6 | 6 |
+| `ForwardMarket` | 203 | 114 | 114 |
+| `FugibleCustody` | 5 | 5 | 5 |
 | `HarvestCoffeApprov` | 2 | 2 | 2 |
 | `HistoricalExchange` | 1 | 1 | 1 |
 | `IOPV` | 72 | 72 | 72 |
 | `IbovespaStockBiggestHighs` | 10 | 10 | 10 |
-| `IbovespaStockBiggestLow` | 10 | 10 | 10 |
+| `IbovespaStockBiggestLow` | 1 | 1 | 1 |
 | `InCash` | 5 | 5 | 5 |
 | `InCashMarketBiggestHighs` | 10 | 10 | 10 |
 | `InCashMarketBiggestLow` | 10 | 10 | 10 |
-| `InstrumentsDerivatives` | 9.697 | 9.697 | 9.697 |
-| `MarginScenarios` | 130.899 | 7.044 | 7.044 |
+| `InstrumentsDerivatives` | 9.695 | 9.695 | 9.695 |
+| `MarginScenarios` | 131.064 | 7.046 | 7.046 |
+| `NegotiStrategi` | 269 | 30 | 30 |
 | `OTCInventoryCCP` | 3 | 3 | 3 |
 | `OTCInventoryWCCP` | 4 | 4 | 4 |
 | `OTCRegistrationCCP` | 3 | 3 | 3 |
 | `OTCRegistrationWCCP` | 4 | 4 | 4 |
-| `OpenPositionsEquities` | 37.286 | 37.286 | 37.286 |
-| `OptionsPurshase` | 6 | 6 | 6 |
+| `OpenPositionsEquities` | 37.906 | 37.906 | 37.906 |
+| `OptionsPurshase` | 5 | 5 | 5 |
 | `OptionsSelling` | 5 | 5 | 5 |
-| `ProventionCreditVariable` | 28 | 28 | 28 |
+| `ProventionCreditVariable` | 24 | 24 | 24 |
+| `Register` | 20 | 20 | 20 |
 | `SaleOff` | 12 | 12 | 12 |
 | `SharesInvesVolum` | 5 | 5 | 5 |
 | `SharesInvesVolumMonthly` | 5 | 5 | 5 |
-| `StocksOperationSummary` | 56 | 56 | 56 |
+| `Stock` | 43 | 43 | 43 |
+| `StocksOperationSummary` | 57 | 57 | 57 |
 | `SwapFlex` | 1 | 1 | 1 |
 | `ValidLotsSettle` | 1 | 1 | 1 |
 
@@ -103,8 +107,8 @@ A conferência acima compara o arquivo com a lista de tickers que o próprio arq
 
 | tabela | linhas no dia | referência | linhas | piso (70%) | |
 |---|---:|---|---:|---:|---|
-| `OpenPositionsEquities` | 37.286 | 24/11/2026 | 36.782 | 25.747 | ok |
-| `ConsolidatedTradesDerivatives` | 757 | 24/11/2026 | 750 | 525 | ok |
+| `OpenPositionsEquities` | 37.906 | 25/11/2026 | 37.286 | 26.100 | ok |
+| `ConsolidatedTradesDerivatives` | 756 | 25/11/2026 | 757 | 529 | ok |
 
 ### Alguma tabela veio magra demais?
 
@@ -122,11 +126,11 @@ Pregão mais recente declarado por alguma página: **26/11/2026**.
 
 | página | escrita em | dias parada |
 |---|---|---:|
-| `por-onde-comecar.md` | 16/11 15:20 | 10.2 |
-| `autopsias/index.md` | 19/11 14:39 | 7.2 |
-| `ofertas.md` | 21/11 07:15 | 5.5 |
-| `espectro/grandes-tombos.md` | 22/11 17:30 | 4.1 |
-| `espectro/index.md` | 23/11 14:06 | 3.2 |
+| `por-onde-comecar.md` | 16/11 15:20 | 10.6 |
+| `autopsias/index.md` | 19/11 14:39 | 7.7 |
+| `ofertas.md` | 21/11 07:15 | 6.0 |
+| `espectro/grandes-tombos.md` | 22/11 17:30 | 4.6 |
+| `espectro/index.md` | 23/11 14:06 | 3.7 |
 
 ### Página declarando data sem pregão
 
@@ -153,7 +157,7 @@ Outras **6** estão **dispensadas** de declarar `pregao:` por não se referirem 
 
 Cada página do safecluster é conferida contra as operações do motor. Isso não basta: em 17/11/2026 a página de operações mostrava o pregão do dia e o extrato da carteira parava no dia anterior — **as duas corretas em relação à própria fonte, e contraditórias entre si**. A auditoria passou com "68 certas, 0 erradas" porque ninguém comparava as duas versões do mesmo fato. Desde 18/11/2026 ela também compara.
 
-*Última auditoria: 2026-11-25 às 19:54:18 · 71 conferências, 0 divergência(s).*
+*Última auditoria: 2026-11-26 às 20:25:53 · 71 conferências, 0 divergência(s).*
 
 Nenhuma divergência entre páginas nesta rodada.
 

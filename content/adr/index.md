@@ -1,10 +1,10 @@
 ---
 title: "🗽 Ações que foram para Nova York"
-date: 2026-11-26
-pregao: 2026-11-25
+date: 2026-11-27
+pregao: 2026-11-26
 ---
 
-*Dados da B3 de 25/11/2026 · atualizado em 26/11/2026 19:07*
+*Dados da B3 de 26/11/2026 · atualizado em 27/11/2026 06:44*
 
 
 <!-- NOTAS-INICIO -->
@@ -31,9 +31,9 @@ Quando **cai**, o caminho é o inverso: recibos sendo cancelados e ações volta
 É contagem de ações.
 
 > [!abstract] O programa de ADR hoje
-> **84 linhas** de empresa e classe, somando **10.307 milhões de ações** depositadas.
+> **84 linhas** de empresa e classe, somando **11.335 milhões de ações** depositadas.
 > 
-> Nos 28 pregões guardados, **27 delas** se moveram mais de 2%. 34 aparecem em todos os dias.
+> Nos 29 pregões guardados, **26 delas** se moveram mais de 2%. 34 aparecem em todos os dias.
 
 
 ## Entrando: ação saindo daqui para virar ADR
@@ -42,27 +42,26 @@ Variação da quantidade depositada ao longo dos pregões guardados. **Só movim
 | # | Papel | Empresa | Classe | Ações em ADR (mi) | % da classe | No período | Na semana | Ações a mais |
 |---|---|---|---|---|---|---|---|---|
 | 1 | **MGLU3** | Magazine Luiza S.A. | ON       | 0,94 | 0,1% | **+184,7%** | +84,4% | 612.400 |
-| 2 | **BBAS3** | Banco Do Brasil S/A | ON       | 156,76 | 2,7% | **+14,8%** | +2,6% | 20.161.026 |
-| 3 | **TOTS3** | Totvs S.A. | ON       | 10,01 | 1,7% | **+13,1%** | -1,5% | 1.163.100 |
+| 2 | **BBAS3** | Banco Do Brasil S/A | ON       | 156,76 | 2,7% | **+14,8%** | +0,5% | 20.161.026 |
+| 3 | **TOTS3** | Totvs S.A. | ON       | 10,01 | 1,7% | **+13,1%** | -0,2% | 1.163.100 |
 | 4 | **EQTL3** | Equatorial S.A. | ON       | 0,52 | 0,0% | **+6,0%** | +0,7% | 29.703 |
-| 5 | **BBDC3** | Banco Bradesco S/A | ON       | 8,71 | 0,2% | **+5,8%** | 0,0% | 475.000 |
-| 6 | **RADL3** | Raia Drogasil S.A. | ON       | 1,19 | 0,1% | **+4,2%** | +0,2% | 47.907 |
-| 7 | **TIMS3** | Tim S.A. | ON       | 105,50 | 4,4% | **+4,0%** | 0,0% | 4.041.600 |
-| 8 | **EGIE3** | Engie Brasil Energia S.A | ON       | 12,57 | 0,9% | **+3,3%** | +0,3% | 406.359 |
-| 9 | **RENT3** | Localiza Rent A Car S/A | ON       | 4,36 | 0,4% | **+3,0%** | -1,6% | 127.560 |
-| 10 | **GGBR4** | Gerdau S.A. | PN       | 448,21 | 35,5% | **+2,9%** | — | 12.600.000 |
-| 11 | **CSNA3** | Cia Siderurgica Nacional | ON | 346,05 | 26,1% | **+2,6%** | -0,8% | 8.750.100 |
-| 12 | **CSAN3** | Cosan Sa | ON       | 204,81 | 5,2% | **+2,2%** | 0,0% | 4.443.692 |
+| 5 | **RADL3** | Raia Drogasil S.A. | ON       | 1,19 | 0,1% | **+4,2%** | +0,2% | 47.907 |
+| 6 | **TIMS3** | Tim S.A. | ON       | 105,50 | 4,4% | **+4,0%** | 0,0% | 4.041.600 |
+| 7 | **EGIE3** | Engie Brasil Energia S.A | ON       | 12,57 | 0,9% | **+3,3%** | 0,0% | 406.359 |
+| 8 | **RENT3** | Localiza Rent A Car S/A | ON       | 4,36 | 0,4% | **+3,0%** | -1,2% | 127.560 |
+| 9 | **GGBR4** | Gerdau S.A. | PN       | 448,21 | 35,5% | **+2,9%** | — | 12.600.000 |
+| 10 | **CSNA3** | Cia Siderurgica Nacional | ON | 346,05 | 26,1% | **+2,6%** | -0,8% | 8.750.100 |
+| 11 | **CSAN3** | Cosan Sa | ON       | 204,81 | 5,2% | **+2,2%** | 0,0% | 4.443.692 |
 
 
 ## Saindo: ADR cancelado, ação voltando para o mercado local
 
 | # | Papel | Empresa | Classe | Ações em ADR (mi) | % da classe | No período | Na semana | Ações a menos |
 |---|---|---|---|---|---|---|---|---|
-| 1 | **SLCE3** | Slc Agricola S.A. | ON       | 3,30 | 0,7% | **-4,8%** | -1,1% | -164.536 |
+| 1 | **SLCE3** | Slc Agricola S.A. | ON       | 3,27 | 0,7% | **-5,5%** | -1,9% | -189.536 |
 | 2 | **ASAI3** | Sendas Distribuidora Sa | ON       | 46,70 | 3,4% | **-4,0%** | 0,0% | -1.925.500 |
 | 3 | **SBSP3** | Companhia De Saneamento  | ON       | 342,02 | 9,7% | **-3,9%** | — | -13.989.474 |
-| 4 | **BRKM5** | Braskem S.A | PNA      | 105,81 | 30,6% | **-3,3%** | -1,8% | -3.605.904 |
+| 4 | **BRKM5** | Braskem S.A | PNA      | 105,81 | 30,6% | **-3,3%** | -1,5% | -3.605.904 |
 | 5 | **MBRF3** | Marfrig Global Foods S.A | ON       | 39,02 | 2,8% | **-2,8%** | -0,9% | -1.135.495 |
 
 
@@ -75,13 +74,13 @@ Em quantidade absoluta de ações dentro do programa. Empresa grande com ADR ant
 | 2 | **SANB11** | Banco Santander (Brasil) S | UNT | **1.290,78** | **89,2%** | 1.447 | 0,0% |
 | 3 | **ITUB4** | Itau Unibanco Holding S/A | PN       | **1.264,97** | **23,4%** | 5.409 | +0,2% |
 | 4 | **VALE3** | Vale S.A. | ON       | **1.261,79** | **28,4%** | 4.439 | 0,0% |
-| 5 | **ABEV3** | Ambev S.A. | ON | **902,89** | **5,8%** | 15.485 | -0,2% |
-| 6 | **GGBR4** | Gerdau S.A. | PN       | **448,21** | **35,5%** | 1.261 | +2,9% |
-| 7 | **AZUL3** | Azul S.A | ON       | **387,96** | **96,4%** | 402 | +8,9% |
-| 8 | **CSNA3** | Cia Siderurgica Nacional | ON | **346,05** | **26,1%** | 1.326 | +2,6% |
-| 9 | **SBSP3** | Companhia De Saneamento Ba | ON       | **342,02** | **9,7%** | 3.534 | -3,9% |
-| 10 | **EMBJ3** | Embraer S.A. | ON       | **337,90** | **45,6%** | 740 | -2,0% |
-| 11 | **CMIG4** | Cia. Energetica De Minas G | PN       | **205,44** | **10,8%** | 1.905 | -0,1% |
+| 5 | **BBDC4** | Banco Bradesco S/A | PN       | **1.197,68** | **21,4%** | 5.590 | -0,3% |
+| 6 | **ABEV3** | Ambev S.A. | ON | **902,89** | **5,8%** | 15.485 | -0,2% |
+| 7 | **GGBR4** | Gerdau S.A. | PN       | **448,21** | **35,5%** | 1.261 | +2,9% |
+| 8 | **AZUL3** | Azul S.A | ON       | **387,96** | **96,4%** | 402 | +8,9% |
+| 9 | **CSNA3** | Cia Siderurgica Nacional | ON | **346,05** | **26,1%** | 1.326 | +2,6% |
+| 10 | **SBSP3** | Companhia De Saneamento Ba | ON       | **342,02** | **9,7%** | 3.534 | -3,9% |
+| 11 | **EMBJ3** | Embraer S.A. | ON       | **337,90** | **45,6%** | 740 | -2,0% |
 | 12 | **CSAN3** | Cosan Sa | ON       | **204,81** | **5,2%** | 3.967 | +2,2% |
 | 13 | **BBAS3** | Banco Do Brasil S/A | ON       | **156,76** | **2,7%** | 5.731 | +14,8% |
 | 14 | **LIGT3** | Light S.A. | ON       | **130,59** | **8,1%** | 1.611 | +0,2% |
@@ -178,7 +177,7 @@ Semanas de conversão numa direção só são desequilíbrio que não se fechou 
 quantas vezes ele precisou agir para dar conta.
 
 No pregão de hoje, o caso mais persistente é **MGLU3**: +184,7% de custódia ao longo dos
-28 pregões guardados, sem salto — subindo aos poucos. Isso é demanda lá fora
+29 pregões guardados, sem salto — subindo aos poucos. Isso é demanda lá fora
 sendo atendida por conversão daqui, repetidamente.
 
 ### A vantagem que já existe, e não depende de estatística
@@ -202,7 +201,7 @@ o que o preço já fez. É plausível pelo mecanismo — demanda que não se esg
 —, e é igualmente plausível que não: o arbitrador reage ao prêmio, não o prevê, e o prêmio já
 está no preço quando ele age.
 
-**Não vou fingir que sei.** São 28 pregões de histórico. Qualquer número que
+**Não vou fingir que sei.** São 29 pregões de histórico. Qualquer número que
 esta página desse sobre isso seria inventado. O arquivo cresce todo dia útil; com alguns meses
 dá para responder com teste de verdade, comparando o retorno depois de entradas persistentes
 com o retorno de um dia qualquer. Até lá, é hipótese, e está escrito que é.
@@ -239,5 +238,5 @@ esse operador a direção do papel é irrelevante. O número é o mesmo; a inten
 > [!abstract] Confira a conta você mesmo
 > <a href="adr.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar adr.xlsx</a> — as 84 linhas com todas as medidas, mais a série pregão a pregão de cada uma.
 > 
-> Fonte: Boletim Diário do Mercado da B3, tabelas *Ações custodiadas — programa de ADR* e *Cadastro de instrumentos*, esta última para o capital social de cada classe. Esta página usa os **28 pregões** da janela; a B3 mantém só os últimos 21 no ar, e o que passa disso vem do que já foi arquivado aqui.
+> Fonte: Boletim Diário do Mercado da B3, tabelas *Ações custodiadas — programa de ADR* e *Cadastro de instrumentos*, esta última para o capital social de cada classe. Esta página usa os **29 pregões** da janela; a B3 mantém só os últimos 21 no ar, e o que passa disso vem do que já foi arquivado aqui.
 
