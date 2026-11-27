@@ -9,32 +9,32 @@ title: "🌊 IMA Intraday"
 > *Todos os pontos de atenção do site estão juntos em [Avisos](/avisos/).*
 <!-- NOTAS-FIM -->
 
-<p style="margin:.4rem 0 .2rem"><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:#e5534b">92%</span><br><span style="font-size:.95rem;opacity:.75">ζ Topo</span></span><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:inherit">3%</span><br><span style="font-size:.95rem;opacity:.75">ζ Fundo</span></span><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:#f78166">+5,3%</span><br><span style="font-size:.95rem;opacity:.75">Dist. da média · p98</span></span></p><p data-carimbo="27/11/2026 12:45 BRT" style="margin:0 0 .9rem;opacity:.7;font-size:.9rem">27/11/2026 12:45 BRT · início do candle de 15 min</p>
+<p style="margin:.4rem 0 .2rem"><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:#d29922">89%</span><br><span style="font-size:.95rem;opacity:.75">ζ Topo</span></span><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:inherit">4%</span><br><span style="font-size:.95rem;opacity:.75">ζ Fundo</span></span><span style="display:inline-block;text-align:center;margin:0 1.8rem .2rem 0"><span style="font-size:4rem;font-weight:800;line-height:1;color:#f78166">+5,1%</span><br><span style="font-size:.95rem;opacity:.75">Dist. da média · p97</span></span></p><p data-carimbo="27/11/2026 13:00 BRT" style="margin:0 0 .9rem;opacity:.7;font-size:.9rem">27/11/2026 13:00 BRT · início do candle de 15 min</p>
 
-> [!danger] Onde o mercado está agora (27/11 12:45, candles de 15 min): **🔴 Euforia extrema**
-> `Pânico ◀───────────────────●─▶ Euforia` · ζ Topo **92%** · ζ Fundo **3%** · régua = ζ Topo − ζ Fundo = **+89 p.p.**
+> [!warning] Onde o mercado está agora (27/11 13:00, candles de 15 min): **🟡 Esticado para cima**
+> `Pânico ◀───────────────────●─▶ Euforia` · ζ Topo **89%** · ζ Fundo **4%** · régua = ζ Topo − ζ Fundo = **+85 p.p.**
 >
-> **O Ibovespa está praticamente de lado agora, aos 177.475 pontos.** O preço subiu muito acima da sua tendência. Historicamente, foi a fase com maior risco de correção.
+> **O Ibovespa está praticamente de lado agora, aos 177.058 pontos.** O preço subiu mais rápido que o normal e está acima da sua faixa habitual.
 >
 > *Leitura educacional baseada em 26 anos de dados. Não é recomendação de investimento.*
 
-> [!danger] IMA Intraday · 15 min (27/11 12:45): 🔴 **VERMELHO** — ζ Topo **92%** · ▼ -2 p.p. vs leitura anterior
-> `██████████████████░░` **92%**
+> [!danger] IMA Intraday · 15 min (27/11 13:00): 🔴 **VERMELHO** — ζ Topo **89%** · ▼ -3 p.p. vs leitura anterior
+> `██████████████████░░` **89%**
 > ALERTA — esticamento extremo (ζ ≥ 0,90): risco de reversão.
 
 
-> [!danger] 🚨 Nível EXTREMO agora — IMA Intraday · 15 min (27/11 12:45)
-> - 🔴 **ζ Topo 92%** — preço esticado acima da tendência (risco de reversão)
+> [!warning] ⚠️ Nível alto agora — IMA Intraday · 15 min (27/11 13:00)
+> - 🟡 **ζ Topo 89%** — preço esticado acima da tendência (risco de reversão)
 
 
 
-| Indicador — IMA Intraday · 15 min (27/11 12:45) | Valor |
+| Indicador — IMA Intraday · 15 min (27/11 13:00) | Valor |
 |---|---|
-| 🔴 ζ Topo — preço esticado acima da tendência | 🔴 **92%** |
-| ζ Fundo — preço esticado abaixo da tendência | 3% |
+| 🟡 ζ Topo — preço esticado acima da tendência | 🟡 **89%** |
+| ζ Fundo — preço esticado abaixo da tendência | 4% |
 | 🔴 Zona | VERMELHO |
-| 📊 Ibovespa | 177.475 pts <span style="color:#f85149" title="caiu">▼</span> (−0,27%) |
-| 📏 Distância da média | 🔴 +5,3% (p98) |
+| 📊 Ibovespa | 177.058 pts <span style="color:#f85149" title="caiu">▼</span> (−0,24%) |
+| 📏 Distância da média | 🔴 +5,1% (p97) |
 | 🛰️ Fonte do preço | preço da corretora, tempo real |
 
 
@@ -45,6 +45,7 @@ title: "🌊 IMA Intraday"
 
 | Início do candle | Fechamento | Zona | Evento | ζ Topo | ζ Fundo | Dist. média |
 |---|---|---|---|---|---|---|
+| 2026-11-27 13:00 | 177.058 <span style="color:#f85149" title="caiu">▼</span> | 🔴 |  | 🟡 **89%** | **4%** | 🔴 +5,1% (p97) |
 | 2026-11-27 12:45 | 177.475 <span style="color:#f85149" title="caiu">▼</span> | 🔴 |  | 🔴 **92%** | **3%** | 🔴 +5,3% (p98) |
 | 2026-11-27 12:30 | 177.949 <span style="color:#f85149" title="caiu">▼</span> | 🔴 |  | 🔴 **94%** | **3%** | 🔴 +5,6% (p98) |
 | 2026-11-27 12:15 | 178.765 <span style="color:#3fb950" title="subiu">▲</span> | 🔴 |  | 🔴 **97%** | **2%** | 🔴 +6,1% (p99) |
@@ -74,54 +75,53 @@ title: "🌊 IMA Intraday"
 | 2026-11-26 14:30 | 172.612 <span style="color:#3fb950" title="subiu">▲</span> | 🔴 |  | 🔴 **95%** | **0%** | 🔴 +2,9% (p97) |
 | 2026-11-26 14:15 | 172.395 <span style="color:#f85149" title="caiu">▼</span> | 🔴 |  | 🔴 **97%** | **0%** | 🔴 +2,8% (p97) |
 | 2026-11-26 14:00 | 172.540 <span style="color:#f85149" title="caiu">▼</span> | 🔴 |  | 🔴 **98%** | **0%** | 🔴 +2,8% (p97) |
-| 2026-11-26 13:45 | 172.818 <span style="color:#f85149" title="caiu">▼</span> | 🔴 |  | 🔴 **99%** | **0%** | 🔴 +3,0% (p98) |
 
 <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Zona**: 🟢 calmo, 🟡 atenção e 🔴 extremo vêm do ζ Topo; 🔵 FUNDO (ζ Fundo ≥ 60%) e 🔪 FACA (≥ 90%) vêm do ζ Fundo e têm precedência, porque queda em andamento é fato medido, não previsão.<br>**Dist. média**: a distância do preço à média dos 252 candles de 15 min — **≈ 7,6 pregões**, medido em 33 barras por pregão — e, entre parênteses, o percentil dessa distância nos 500 candles anteriores (**≈ 15 pregões**). `−8,2% (p0)` = o preço está 8,2% **abaixo** da média e nunca esteve tão abaixo em toda a janela. 🔵 ≤ p10 · 🔴 ≥ p90. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
 
 ## Monitor Multi-Ativo
 
-**67% dos ativos em tensão** (18 de 27 · 1🔪 1🔵 14🔴 2🟡) · leitura de 27/11 13:00 BRT, candles de 15 min — quanto mais ativos disparam juntos, mais confiável o sinal. 🔪 e 🔵 vêm do ζ Fundo; 🔴 e 🟡, do ζ Topo.
+**70% dos ativos em tensão** (19 de 27 · 1🔪 1🔵 14🔴 3🟡) · leitura de 27/11 13:15 BRT, candles de 15 min — quanto mais ativos disparam juntos, mais confiável o sinal. 🔪 e 🔵 vêm do ζ Fundo; 🔴 e 🟡, do ζ Topo.
 
 *Origem do preço: 26 da corretora, em tempo real · 1 da reserva, com cerca de 45 min de atraso (USD/BRL).*
 
 > [!danger] Em destaque no multi-ativo
-> 🔴 **AXIA ENERGIA** `AXIA3` ζ Topo 99% · 🔴 **BTGP BANCO** `BPAC11` ζ Topo 99% · 🔪 **USD/BRL** `USDBRL=X` ζ Fundo 98% · 🔴 **ITAUSA** `ITSA4` ζ Topo 98% · 🔴 **B3** `B3SA3` ζ Topo 98% · 🔴 **COPEL** `CPLE3` ζ Topo 96% · 🔴 **BRASIL** `BBAS3` ζ Topo 95% · 🔴 **ITAUUNIBANCO** `ITUB4` ζ Topo 94% · 🔴 **BRADESCO** `BBDC4` ζ Topo 93% · 🔴 **ENEVA** `ENEV3` ζ Topo 93% · 🔴 **LOCALIZA** `RENT3` ζ Topo 93% · 🔴 **REDE D OR** `RDOR3` ζ Topo 92% · 🔴 **EQUATORIAL** `EQTL3` ζ Topo 91% · 🔵 **SUZANO S.A.** `SUZB3` ζ Fundo 88% · 🟡 **RUMO S.A.** `RAIL3` ζ Topo 88% · 🟡 **SABESP** `SBSP3` ζ Topo 84% · 🟡 **ULTRAPAR** `UGPA3` ζ Topo 63%
+> 🔪 **USD/BRL** `USDBRL=X` ζ Fundo 100% · 🔴 **AXIA ENERGIA** `AXIA3` ζ Topo 99% · 🔴 **BTGP BANCO** `BPAC11` ζ Topo 99% · 🔴 **B3** `B3SA3` ζ Topo 98% · 🔴 **ITAUSA** `ITSA4` ζ Topo 96% · 🔴 **COPEL** `CPLE3` ζ Topo 96% · 🔴 **BRASIL** `BBAS3` ζ Topo 95% · 🔴 **ITAUUNIBANCO** `ITUB4` ζ Topo 92% · 🔴 **BRADESCO** `BBDC4` ζ Topo 92% · 🟡 **ENEVA** `ENEV3` ζ Topo 90% · 🟡 **LOCALIZA** `RENT3` ζ Topo 90% · 🟡 **EQUATORIAL** `EQTL3` ζ Topo 87% · 🔵 **SUZANO S.A.** `SUZB3` ζ Fundo 87% · 🟡 **RUMO S.A.** `RAIL3` ζ Topo 86% · 🟡 **REDE D OR** `RDOR3` ζ Topo 84% · 🟡 **SABESP** `SBSP3` ζ Topo 80% · 🟡 **TELEF BRASIL** `VIVT3` ζ Topo 72%
 
 | Zona | Ativo | Setor | Fechamento | ζ Topo | ζ Fundo | Dist. média |
 |---|---|---|---|---|---|---|
-| 🔴 | **AXIA ENERGIA** `AXIA3` | Energia | 50,73 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **99.2%** | 0.0% | 🔴 +8,2% (p98) |
-| 🔴 | **BTGP BANCO** `BPAC11` | Financeiro | 61,53 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **99.2%** | 0.0% | 🔴 +17,6% (p98) |
-| 🔪 | **USD/BRL** `USDBRL=X` | Câmbio | 5,55 <span style="color:#3fb950" title="subiu">▲</span> | 0.8% | 🔪 **98.4%** | 🔵 −5,0% (p2) |
-| 🔴 | **ITAUSA** `ITSA4` | Financeiro | 14,24 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **97.7%** | 0.0% | 🔴 +7,3% (p98) |
-| 🔴 | **B3** `B3SA3` | Financeiro | 17,07 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **97.7%** | 0.8% | 🔴 +15,9% (p98) |
-| 🔴 | **COPEL** `CPLE3` | Energia | 16,25 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **96.1%** | 0.8% | 🔴 +6,2% (p98) |
-| 🔴 | **BRASIL** `BBAS3` | Financeiro | 16,95 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **95.3%** | 1.6% | 🔴 +14,8% (p98) |
-| 🔴 | **ITAUUNIBANCO** `ITUB4` | Financeiro | 42,99 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **93.8%** | 0.8% | 🔴 +5,9% (p97) |
-| 🔴 | **BRADESCO** `BBDC4` | Financeiro | 15,92 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **93.0%** | 3.1% | 🔴 +11,5% (p97) |
-| 🔴 | **ENEVA** `ENEV3` | Energia | 29,34 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **93.0%** | 0.8% | 🔴 +9,2% (p98) |
-| 🔴 | **LOCALIZA** `RENT3` | Aluguel | 34,79 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **93.0%** | 3.9% | 🔴 +16,1% (p98) |
-| 🔴 | **REDE D OR** `RDOR3` | Saúde | 39,52 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **92.2%** | 1.6% | 🔴 +7,4% (p98) |
-| 🔴 | **EQUATORIAL** `EQTL3` | Energia | 38,49 <span style="color:#3fb950" title="subiu">▲</span> | 🔴 **90.6%** | 3.1% | 🔴 +12,2% (p98) |
-| 🔵 | **SUZANO S.A.** `SUZB3` | Papel/Celulose | 53,67 <span style="color:#3fb950" title="subiu">▲</span> | 2.3% | 🔵 **88.3%** | 🔵 −2,9% (p2) |
-| 🔴 | **RUMO S.A.** `RAIL3` | Outros | 18,18 <span style="color:#f85149" title="caiu">▼</span> | 🟡 **88.3%** | 2.3% | +6,9% (p70) |
-| 🔴 | **SABESP** `SBSP3` | Saneamento | 30,47 <span style="color:#3fb950" title="subiu">▲</span> | 🟡 **83.6%** | 5.5% | +8,4% (p90) |
-| 🟡 | **ULTRAPAR** `UGPA3` | Outros | 32,05 <span style="color:#f85149" title="caiu">▼</span> | 🟡 **63.3%** | 18.0% | +3,7% (p76) |
-| 🟢 | **WEG** `WEGE3` | Industrial | 51,04 <span style="color:#f85149" title="caiu">▼</span> | 53.1% | 0.0% | +0,8% (p50) |
-| 🟡 | **AMBEV S/A** `ABEV3` | Consumo | 16,31 <span style="color:#3fb950" title="subiu">▲</span> | 50.0% | 9.4% | +1,6% (p50) |
-| 🟢 | **VIBRA** `VBBR3` | Energia | 33,90 <span style="color:#3fb950" title="subiu">▲</span> | 35.2% | 26.6% | 🔴 +7,9% (p91) |
-| 🟢 | **EMBRAER** `EMBJ3` | Outros | 104,98 <span style="color:#3fb950" title="subiu">▲</span> | 26.6% | 0.8% | −2,1% (p27) |
-| 🟢 | **PETROBRAS** `PETR3` | Petróleo | 47,05 <span style="color:#f85149" title="caiu">▼</span> | 5.5% | 25.0% | −2,8% (p62) |
-| 🟢 | **TELEF BRASIL** `VIVT3` | Outros | 36,03 <span style="color:#f85149" title="caiu">▼</span> | 21.1% | 0.8% | +1,9% (p36) |
-| 🟢 | **GERDAU** `GGBR4` | Siderurgia | 26,50 <span style="color:#3fb950" title="subiu">▲</span> | 0.8% | 20.3% | 🔴 +3,8% (p93) |
-| 🟢 | **PETROBRAS** `PETR4` | Petróleo | 41,84 <span style="color:#f85149" title="caiu">▼</span> | 0.0% | 19.5% | −1,6% (p78) |
-| 🟢 | **VALE** `VALE3` | Mineração | 57,66 <span style="color:#3fb950" title="subiu">▲</span> | 0.0% | 11.7% | −1,2% (p49) |
-| 🟢 | **PRIO** `PRIO3` | Petróleo | 61,06 <span style="color:#f85149" title="caiu">▼</span> | 0.0% | 8.6% | −0,2% (p62) |
+| 🔪 | **USD/BRL** `USDBRL=X` | Câmbio | 5,55 <span style="color:#f85149" title="caiu">▼</span> | 0.0% | 🔪 **100.0%** | 🔵 −4,8% (p2) |
+| 🔴 | **AXIA ENERGIA** `AXIA3` | Energia | 50,62 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **99.2%** | 0.0% | 🔴 +7,9% (p98) |
+| 🔴 | **BTGP BANCO** `BPAC11` | Financeiro | 61,31 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **99.2%** | 0.0% | 🔴 +17,1% (p98) |
+| 🔴 | **B3** `B3SA3` | Financeiro | 16,98 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **97.7%** | 0.0% | 🔴 +15,2% (p98) |
+| 🔴 | **ITAUSA** `ITSA4` | Financeiro | 14,19 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **96.1%** | 0.0% | 🔴 +6,9% (p98) |
+| 🔴 | **COPEL** `CPLE3` | Energia | 16,23 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **96.1%** | 0.0% | 🔴 +6,1% (p98) |
+| 🔴 | **BRASIL** `BBAS3` | Financeiro | 16,90 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **95.3%** | 1.6% | 🔴 +14,4% (p98) |
+| 🔴 | **ITAUUNIBANCO** `ITUB4` | Financeiro | 42,78 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **92.2%** | 1.6% | 🔴 +5,3% (p97) |
+| 🔴 | **BRADESCO** `BBDC4` | Financeiro | 15,78 <span style="color:#f85149" title="caiu">▼</span> | 🔴 **92.2%** | 1.6% | 🔴 +10,4% (p97) |
+| 🔴 | **ENEVA** `ENEV3` | Energia | 29,23 <span style="color:#f85149" title="caiu">▼</span> | 🟡 **89.8%** | 0.0% | 🔴 +8,7% (p98) |
+| 🔴 | **LOCALIZA** `RENT3` | Aluguel | 34,68 <span style="color:#f85149" title="caiu">▼</span> | 🟡 **89.8%** | 3.1% | 🔴 +15,6% (p98) |
+| 🔴 | **EQUATORIAL** `EQTL3` | Energia | 38,35 <span style="color:#f85149" title="caiu">▼</span> | 🟡 **86.7%** | 3.9% | 🔴 +11,8% (p98) |
+| 🔵 | **SUZANO S.A.** `SUZB3` | Papel/Celulose | 53,78 <span style="color:#3fb950" title="subiu">▲</span> | 2.3% | 🔵 **86.7%** | 🔵 −2,7% (p3) |
+| 🔴 | **RUMO S.A.** `RAIL3` | Outros | 18,13 <span style="color:#f85149" title="caiu">▼</span> | 🟡 **85.9%** | 1.6% | +6,5% (p68) |
+| 🔴 | **REDE D OR** `RDOR3` | Saúde | 39,34 <span style="color:#f85149" title="caiu">▼</span> | 🟡 **84.4%** | 2.3% | 🔴 +6,9% (p97) |
+| 🔴 | **SABESP** `SBSP3` | Saneamento | 30,31 <span style="color:#f85149" title="caiu">▼</span> | 🟡 **80.5%** | 8.6% | +7,8% (p85) |
+| 🟡 | **TELEF BRASIL** `VIVT3` | Outros | 35,97 <span style="color:#f85149" title="caiu">▼</span> | 🟡 **71.9%** | 0.0% | +1,7% (p32) |
+| 🟢 | **WEG** `WEGE3` | Industrial | 50,80 <span style="color:#f85149" title="caiu">▼</span> | 49.2% | 0.0% | +0,3% (p40) |
+| 🟡 | **ULTRAPAR** `UGPA3` | Outros | 31,96 <span style="color:#f85149" title="caiu">▼</span> | 49.2% | 21.9% | +3,4% (p74) |
+| 🟡 | **AMBEV S/A** `ABEV3` | Consumo | 16,29 <span style="color:#f85149" title="caiu">▼</span> | 46.1% | 11.7% | +1,5% (p43) |
+| 🟢 | **VIBRA** `VBBR3` | Energia | 33,83 <span style="color:#f85149" title="caiu">▼</span> | 27.3% | 30.5% | 🔴 +7,6% (p91) |
+| 🟢 | **PETROBRAS** `PETR3` | Petróleo | 47,03 <span style="color:#f85149" title="caiu">▼</span> | 0.0% | 28.1% | −2,8% (p61) |
+| 🟢 | **PETROBRAS** `PETR4` | Petróleo | 41,79 <span style="color:#f85149" title="caiu">▼</span> | 0.0% | 24.2% | −1,7% (p77) |
+| 🟢 | **EMBRAER** `EMBJ3` | Outros | 105,16 <span style="color:#3fb950" title="subiu">▲</span> | 24.2% | 0.0% | −1,9% (p29) |
+| 🟢 | **GERDAU** `GGBR4` | Siderurgia | 26,55 <span style="color:#3fb950" title="subiu">▲</span> | 0.8% | 17.2% | 🔴 +4,0% (p96) |
+| 🟢 | **VALE** `VALE3` | Mineração | 57,71 <span style="color:#3fb950" title="subiu">▲</span> | 0.8% | 13.3% | −1,1% (p50) |
+| 🟢 | **PRIO** `PRIO3` | Petróleo | 61,26 <span style="color:#3fb950" title="subiu">▲</span> | 0.0% | 12.5% | +0,1% (p66) |
 
 <small>Destaques: 🟡 ≥ 60% · 🔴 ≥ 90% (ζ Topo) · 🔵 ≥ 60% · 🔪 ≥ 90% (ζ Fundo)<br>**Zona**: 🟢 calmo, 🟡 atenção e 🔴 extremo vêm do ζ Topo; 🔵 FUNDO (ζ Fundo ≥ 60%) e 🔪 FACA (≥ 90%) vêm do ζ Fundo e têm precedência, porque queda em andamento é fato medido, não previsão.<br>**Dist. média**: a distância do preço à média dos 252 candles de 15 min — **≈ 7,6 pregões**, medido em 33 barras por pregão — e, entre parênteses, o percentil dessa distância nos 500 candles anteriores (**≈ 15 pregões**). `−8,2% (p0)` = o preço está 8,2% **abaixo** da média e nunca esteve tão abaixo em toda a janela. 🔵 ≤ p10 · 🔴 ≥ p90. É a régua simples contra a qual o ζ precisa provar que acrescenta algo.</small>
 
 ![Monitor multi-ativo](../graficos/multi_intraday.png)
 
-*Página atualizada em 27/11/2026 13:00 BRT (leitura da barra de 2026-11-27 12:45 BRT · preço da corretora, tempo real).*
+*Página atualizada em 27/11/2026 13:15 BRT (leitura da barra de 2026-11-27 13:00 BRT · preço da corretora, tempo real).*
 
 > [!warning] O que este indicador não faz
 > Medido em 5 anos de Ibovespa, o ζ **não antecipa** topos nem fundos: a capacidade de separar o que sobe do que cai ficou em 0,49–0,52, e 0,50 é moeda jogada ao ar. Ele descreve o estado de agora; não é aviso do que vem. As zonas verde/amarelo/vermelho continuam na página como descrição desse estado — **não as use como sinal de entrada ou saída**.
