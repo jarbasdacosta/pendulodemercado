@@ -1,6 +1,6 @@
 ---
 title: "🎯 Operações"
-date: 2026-11-26
+date: 2026-11-27
 pregao: 2026-11-26
 tags: [operacoes]
 description: "Regras de compra testadas no Ibovespa, com placar ao vivo desde 23/10/2026"
@@ -75,7 +75,7 @@ _Nenhuma posição aberta agora._
 
 | Regra | Situação | Nota | Validação ao vivo |
 |---|---|---|---|
-| [📈 Tendência MME9 · Diário](operacoes/tendencia) | Diário 📌 compra acima de 177.024 | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
+| [📈 Tendência MME9 · Diário](operacoes/tendencia) | Diário ⚡ comprou hoje às 10:00 a 177.024 (confirma às 19h) | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [📈 Tendência MME9 · Semanal](operacoes/tendencia) | Semanal — fora | 🧪 em teste ao vivo | 0 de 10 operações ao vivo |
 | [🎯 Diário · Nadaraya](operacoes/entradas) | — sem setup | ✅ passou fora da amostra | 0 de 10 operações ao vivo |
 | [🎯 Semanal · Semáforo N2](operacoes/entradas) | — sem setup | ✅ o ganho vem do setup | 0 de 10 operações ao vivo |

@@ -1,6 +1,6 @@
 ---
 title: "📈 Tendência MME9"
-date: 2026-11-26
+date: 2026-11-27
 pregao: 2026-11-26
 tags: [operacoes]
 description: "Só compra, diário e semanal: rompimento do candle que fecha acima da MME9"
@@ -66,7 +66,7 @@ description: "Só compra, diário e semanal: rompimento do candle que fecha acim
 >
 > | Tempo | Situação | Próximo passo | Histórico (ao ano · maior queda) |
 > |---|---|---|---|
-> | **Diário** | ⏳ **aguardando compra**<br><small>fechou acima da MME9 (176.800 × 169.440)</small> | 📌 ⚡ compra se passar de **177.024** *(ordem stop de compra, vale durante o pregão)* em até 3 pregões | +13,0% · 35% <small>(comprar e segurar: +8,9% · 60%)</small> |
+> | **Diário** | ⏳ **aguardando compra**<br><small>fechou acima da MME9 (176.800 × 169.440)</small> | ⚡ **comprou hoje às 10:00 a 177.024** (confirma às 19h) · 📌 ⚡ compra se passar de **177.024** *(ordem stop de compra, vale durante o pregão)* em até 3 pregões | +13,0% · 35% <small>(comprar e segurar: +8,9% · 60%)</small> |
 > | **Semanal** | — fora<br><small>fechou abaixo da MME9 (166.376 × 179.162)</small> | espera fechar acima da MME9 | +8,4% · 29% <small>(comprar e segurar: +8,7% · 57%)</small> |
 >
 > **Últimas operações** (antes do teste ao vivo = simuladas no histórico)
