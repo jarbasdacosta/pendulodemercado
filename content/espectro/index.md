@@ -6,10 +6,10 @@ description: "Em que frequências o Ibovespa está vibrando — escalograma de 5
 tags: [espectro]
 ---
 
-*Figura de **27/11/2026 às 21:10** · página refeita em 27/11/2026 21:10.*
+*Figura de **27/11/2026 às 21:10** · página refeita em 27/11/2026 21:22.*
 
 > [!info] Esta página é **semanal**, não diária
-> O espectro é recalculado **toda segunda-feira às 17h BRT** e só então esta página muda. As frequências do mercado se movem devagar: refazer isso todo dia gastaria máquina para mostrar a mesma figura. Todos os horários de atualização do site estão em [horários](../horarios/).
+> O espectro é recalculado **sextas, 21h10** e só então esta página muda. As frequências do mercado se movem devagar: refazer isso todo dia gastaria máquina para mostrar a mesma figura. Todos os horários de atualização do site estão em [horários](../horarios/).
 
 O **escalograma wavelet** decompõe o Ibovespa em frequências ao longo do tempo: em vez de uma linha de preço, mostra **quanta energia** o mercado tem em cada duração de ciclo, pregão por pregão. Ciclos longos embaixo, curtos em cima; quanto mais quente a cor, mais daquele movimento existe naquele momento.
 
